@@ -1,26 +1,38 @@
 {
-  "version": "4.0",
-  "description": "Football statistics and prediction data for AI agent analysis",
-  "last_updated": "2026-05-09T16:18:00Z",
+  "version": "4.1",
+  "description": "Complete football database for AI prediction analysis",
+  "last_updated": "2026-05-09T17:30:00Z",
   "base_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/",
+  "total_files": 49,
+  "total_matches": 11110,
+  "coverage": {
+    "leagues": ["LaLiga", "Segunda División", "Premier League", "Bundesliga", "Serie A", "Ligue 1", "Champions League"],
+    "seasons": ["2021-22", "2022-23", "2023-24", "2024-25", "2025-26"],
+    "match_data_per_match": ["date", "time", "home", "away", "ft/ht scores", "shots", "shots_on_target", "corners", "fouls", "yellow_cards", "red_cards", "referee", "b365_odds_1x2", "b365_odds_ou25"]
+  },
   "directories": {
-    "stats": "Team statistics (xG, shots, corners, cards, standings) by league",
-    "referees": "Referee card averages and designations",
-    "context": "Match context (motivation, form)",
-    "injuries": "Active injuries by league/matchday",
-    "lineups": "Confirmed lineups (~45min before kickoff)",
-    "fixtures": "Upcoming matches by date range",
-    "h2h": "Head-to-head records",
-    "predictions": "Generated predictions by matchday"
+    "matches": "Match-by-match data with full statistics (5 seasons x 6 domestic leagues + Champions League)",
+    "stats": "Season aggregates: standings, xG, cards by team, top scorers by league",
+    "fixtures": "Upcoming matches for next 72 hours",
+    "referees": "Referee card averages and designations (TODO)",
+    "injuries": "Active injuries by league/matchday (TODO)",
+    "lineups": "Confirmed lineups ~45min before kickoff (TODO)",
+    "h2h": "Head-to-head records (TODO)",
+    "predictions": "Generated predictions by matchday (TODO)"
   },
   "files": {
-    "stats/standings_all_leagues_2026-05-09.json": "Full standings for LaLiga, Premier League, Bundesliga, Serie A, Ligue 1",
-    "stats/xg_laliga_2025-26.json": "xG/xGA for all LaLiga teams",
-    "stats/xg_epl_2025-26.json": "xG/xGA for all Premier League teams",
-    "stats/xg_bundesliga_2025-26.json": "xG/xGA for all Bundesliga teams",
-    "stats/xg_seriea_2025-26.json": "xG/xGA for all Serie A teams",
-    "stats/xg_ligue1_2025-26.json": "xG/xGA for all Ligue 1 teams",
-    "stats/cards_laliga_2025-26.json": "Yellow card stats for all LaLiga teams",
-    "fixtures/next_72h_2026-05-09.json": "43 matches across 5 leagues (May 9-12)"
+    "matches/laliga/{season}.json": "LaLiga match-by-match (380/season, 5 seasons)",
+    "matches/segunda/{season}.json": "Segunda División match-by-match (462/season, 5 seasons)",
+    "matches/epl/{season}.json": "Premier League match-by-match (380/season, 5 seasons)",
+    "matches/bundesliga/{season}.json": "Bundesliga match-by-match (306/season, 5 seasons)",
+    "matches/seriea/{season}.json": "Serie A match-by-match (380/season, 5 seasons)",
+    "matches/ligue1/{season}.json": "Ligue 1 match-by-match (380/season, 5 seasons)",
+    "matches/champions/league_phase_2025-26.json": "Champions League 2025-26 (75 matches)",
+    "stats/standings_all_leagues_2026-05-09.json": "Current standings for 5 domestic leagues",
+    "stats/standings_champions_2025-26.json": "Champions League league phase table (36 teams)",
+    "stats/xg_{league}_2025-26.json": "xG/xGA for all teams (5 leagues)",
+    "stats/cards_{league}_2025-26.json": "Yellow/red card stats per team (5 leagues)",
+    "stats/players/scorers_{league}_2025-26.json": "Top scorers with goals+assists (5 leagues)",
+    "fixtures/next_72h_2026-05-09.json": "43 upcoming matches (May 9-12)"
   }
 }
