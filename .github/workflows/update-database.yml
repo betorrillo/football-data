@@ -1,0 +1,58 @@
+name: Update Football Database
+
+on:
+  # Manual trigger from GitHub app/website
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: 'What to update'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - matches
+          - stats
+          - fixtures
+
+  # Automatic: Tuesday and Friday at 10:00 AM CET
+  schedule:
+    - cron: '0 8 * * 2'   # Tuesday 10:00 CET (8:00 UTC)
+    - cron: '0 8 * * 5'   # Friday 10:00 CET (8:00 UTC)
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run update script
+        run: |
+          SCOPE="${{ github.event.inputs.scope || 'all' }}"
+          case "$SCOPE" in
+            matches)  python3 scripts/update_all.py --matches ;;
+            stats)    python3 scripts/update_all.py --stats ;;
+            fixtures) python3 scripts/update_all.py --fixtures ;;
+            *)        python3 scripts/update_all.py ;;
+          esac
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update database $(date +%Y-%m-%d)"
+            git push
+          fi
