@@ -1,0 +1,773 @@
+{
+  "generated": "2026-05-09",
+  "source": "ESPN API",
+  "league": "Premier League",
+  "season": "2025-26",
+  "total_matches": 16,
+  "matches": [
+    {
+      "event_id": "740935",
+      "home": "Fulham",
+      "away": "Aston Villa",
+      "goals": [
+        {
+          "team": "Fulham",
+          "minute": 43,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Fulham",
+          "minute": 46,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Fulham",
+          "minute": 91,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740927",
+      "home": "Liverpool",
+      "away": "Crystal Palace",
+      "goals": [
+        {
+          "team": "Liverpool",
+          "minute": 35,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 40,
+          "type": "Goal"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 71,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 96,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Crystal Palace",
+          "minute": 19,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 90,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 93,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740930",
+      "home": "West Ham United",
+      "away": "Everton",
+      "goals": [
+        {
+          "team": "West Ham United",
+          "minute": 51,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Everton",
+          "minute": 88,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 92,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Everton",
+          "minute": 38,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 70,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 95,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 99,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740934",
+      "home": "Wolverhampton Wanderers",
+      "away": "Tottenham Hotspur",
+      "goals": [
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 82,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 74,
+          "type": "yellow"
+        },
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 96,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 97,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740931",
+      "home": "Arsenal",
+      "away": "Newcastle United",
+      "goals": [
+        {
+          "team": "Arsenal",
+          "minute": 9,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Newcastle United",
+          "minute": 57,
+          "type": "yellow"
+        },
+        {
+          "team": "Arsenal",
+          "minute": 71,
+          "type": "yellow"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 74,
+          "type": "yellow"
+        },
+        {
+          "team": "Arsenal",
+          "minute": 86,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740932",
+      "home": "Manchester United",
+      "away": "Brentford",
+      "goals": [
+        {
+          "team": "Manchester United",
+          "minute": 11,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 43,
+          "type": "Goal"
+        },
+        {
+          "team": "Brentford",
+          "minute": 87,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Manchester United",
+          "minute": 6,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 40,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 71,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 76,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 92,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740942",
+      "home": "Leeds United",
+      "away": "Burnley",
+      "goals": [
+        {
+          "team": "Leeds United",
+          "minute": 8,
+          "type": "Goal"
+        },
+        {
+          "team": "Leeds United",
+          "minute": 52,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Leeds United",
+          "minute": 56,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Burnley",
+          "minute": 71,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Leeds United",
+          "minute": 27,
+          "type": "yellow"
+        },
+        {
+          "team": "Burnley",
+          "minute": 35,
+          "type": "yellow"
+        },
+        {
+          "team": "Burnley",
+          "minute": 37,
+          "type": "yellow"
+        },
+        {
+          "team": "Leeds United",
+          "minute": 40,
+          "type": "yellow"
+        },
+        {
+          "team": "Leeds United",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Leeds United",
+          "minute": 75,
+          "type": "yellow"
+        },
+        {
+          "team": "Burnley",
+          "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740939",
+      "home": "Brentford",
+      "away": "West Ham United",
+      "goals": [
+        {
+          "team": "Brentford",
+          "minute": 15,
+          "type": "Own Goal"
+        },
+        {
+          "team": "Brentford",
+          "minute": 82,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "West Ham United",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 73,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740944",
+      "home": "Newcastle United",
+      "away": "Brighton & Hove Albion",
+      "goals": [
+        {
+          "team": "Newcastle United",
+          "minute": 12,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 24,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Brighton & Hove Albion",
+          "minute": 61,
+          "type": "Goal"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 95,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Brighton & Hove Albion",
+          "minute": 22,
+          "type": "yellow"
+        },
+        {
+          "team": "Brighton & Hove Albion",
+          "minute": 39,
+          "type": "yellow"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 85,
+          "type": "yellow"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 87,
+          "type": "yellow"
+        },
+        {
+          "team": "Brighton & Hove Albion",
+          "minute": 92,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740945",
+      "home": "Wolverhampton Wanderers",
+      "away": "Sunderland",
+      "goals": [
+        {
+          "team": "Sunderland",
+          "minute": 17,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 54,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Sunderland",
+          "minute": 24,
+          "type": "red"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 56,
+          "type": "yellow"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 81,
+          "type": "yellow"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 92,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740936",
+      "home": "Arsenal",
+      "away": "Fulham",
+      "goals": [
+        {
+          "team": "Arsenal",
+          "minute": 9,
+          "type": "Goal"
+        },
+        {
+          "team": "Arsenal",
+          "minute": 40,
+          "type": "Goal"
+        },
+        {
+          "team": "Arsenal",
+          "minute": 49,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Fulham",
+          "minute": 23,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740938",
+      "home": "AFC Bournemouth",
+      "away": "Crystal Palace",
+      "goals": [
+        {
+          "team": "AFC Bournemouth",
+          "minute": 10,
+          "type": "Own Goal"
+        },
+        {
+          "team": "AFC Bournemouth",
+          "minute": 77,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Crystal Palace",
+          "minute": 6,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 38,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740943",
+      "home": "Manchester United",
+      "away": "Liverpool",
+      "goals": [
+        {
+          "team": "Manchester United",
+          "minute": 6,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 14,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 47,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 56,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 77,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Manchester United",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 75,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 81,
+          "type": "yellow"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 85,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740937",
+      "home": "Aston Villa",
+      "away": "Tottenham Hotspur",
+      "goals": [
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 12,
+          "type": "Goal"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 25,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 96,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 27,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 45,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 51,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 73,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 77,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 81,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740940",
+      "home": "Chelsea",
+      "away": "Nottingham Forest",
+      "goals": [
+        {
+          "team": "Nottingham Forest",
+          "minute": 2,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Nottingham Forest",
+          "minute": 52,
+          "type": "Goal"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 93,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Nottingham Forest",
+          "minute": 10,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 14,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 78,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 78,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740941",
+      "home": "Everton",
+      "away": "Manchester City",
+      "goals": [
+        {
+          "team": "Manchester City",
+          "minute": 43,
+          "type": "Goal"
+        },
+        {
+          "team": "Everton",
+          "minute": 68,
+          "type": "Goal"
+        },
+        {
+          "team": "Everton",
+          "minute": 73,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Everton",
+          "minute": 81,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 83,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 97,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Everton",
+          "minute": 45,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 73,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 86,
+          "type": "yellow"
+        }
+      ]
+    }
+  ]
+}

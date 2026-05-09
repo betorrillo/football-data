@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-05-02 to 2026-05-09",
-    "count": 14,
+    "count": 13,
     "matches": [
       {
         "id": 544549,
@@ -312,30 +312,6 @@
         "referees": [
           {
             "name": "Iosu Galech Apezteguía",
-            "nationality": "Spain"
-          }
-        ]
-      },
-      {
-        "id": 544557,
-        "matchday": 35,
-        "date": "2026-05-09",
-        "time": "19:00",
-        "status": "FINISHED",
-        "home_team": "Real Sociedad de Fútbol",
-        "home_short": "Real Sociedad",
-        "home_tla": "RSO",
-        "away_team": "Real Betis Balompié",
-        "away_short": "Real Betis",
-        "away_tla": "BET",
-        "ft_home": 2,
-        "ft_away": 2,
-        "ht_home": 0,
-        "ht_away": 1,
-        "winner": "DRAW",
-        "referees": [
-          {
-            "name": "Alejandro Muñiz Ruiz",
             "nationality": "Spain"
           }
         ]
@@ -1055,7 +1031,7 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-05-02 to 2026-05-09",
-    "count": 12,
+    "count": 13,
     "matches": [
       {
         "id": 537163,
@@ -1341,6 +1317,30 @@
         "referees": [
           {
             "name": "Rosario Abisso",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537174,
+        "matchday": 36,
+        "date": "2026-05-09",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "US Lecce",
+        "home_short": "Lecce",
+        "home_tla": "USL",
+        "away_team": "Juventus FC",
+        "away_short": "Juventus",
+        "away_tla": "JUV",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Andrea Colombo",
             "nationality": "Italy"
           }
         ]

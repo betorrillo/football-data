@@ -1,0 +1,786 @@
+{
+  "generated": "2026-05-09",
+  "source": "ESPN API",
+  "league": "Ligue 1",
+  "season": "2025-26",
+  "total_matches": 17,
+  "matches": [
+    {
+      "event_id": "746686",
+      "home": "Lyon",
+      "away": "AJ Auxerre",
+      "goals": [
+        {
+          "team": "Lyon",
+          "minute": 19,
+          "type": "Goal"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 35,
+          "type": "Goal"
+        },
+        {
+          "team": "Lyon",
+          "minute": 66,
+          "type": "Goal"
+        },
+        {
+          "team": "Lyon",
+          "minute": 71,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 88,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "AJ Auxerre",
+          "minute": 52,
+          "type": "yellow"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 84,
+          "type": "yellow"
+        },
+        {
+          "team": "Lyon",
+          "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746682",
+      "home": "Angers",
+      "away": "Paris Saint-Germain",
+      "goals": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 7,
+          "type": "Goal"
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 39,
+          "type": "Goal"
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 52,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 10,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 74,
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "event_id": "746690",
+      "home": "Toulouse",
+      "away": "AS Monaco",
+      "goals": [
+        {
+          "team": "AS Monaco",
+          "minute": 6,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 18,
+          "type": "Goal"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 61,
+          "type": "Goal"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 90,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Toulouse",
+          "minute": 31,
+          "type": "yellow"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 66,
+          "type": "yellow"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 75,
+          "type": "yellow"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 92,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746685",
+      "home": "Lorient",
+      "away": "Strasbourg",
+      "goals": [
+        {
+          "team": "Lorient",
+          "minute": 26,
+          "type": "Goal"
+        },
+        {
+          "team": "Strasbourg",
+          "minute": 62,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Strasbourg",
+          "minute": 92,
+          "type": "Own Goal"
+        },
+        {
+          "team": "Strasbourg",
+          "minute": 99,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Strasbourg",
+          "minute": 25,
+          "type": "yellow"
+        },
+        {
+          "team": "Lorient",
+          "minute": 71,
+          "type": "yellow"
+        },
+        {
+          "team": "Strasbourg",
+          "minute": 73,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746684",
+      "home": "Le Havre AC",
+      "away": "Metz",
+      "goals": [
+        {
+          "team": "Le Havre AC",
+          "minute": 5,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Metz",
+          "minute": 9,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 13,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Metz",
+          "minute": 54,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 61,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Metz",
+          "minute": 85,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Metz",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 80,
+          "type": "yellow"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 92,
+          "type": "yellow"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746688",
+      "home": "Paris FC",
+      "away": "Lille",
+      "goals": [],
+      "cards": [
+        {
+          "team": "Paris FC",
+          "minute": 10,
+          "type": "yellow"
+        },
+        {
+          "team": "Lille",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Lille",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 72,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 85,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 85,
+          "type": "red"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 90,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 94,
+          "type": "yellow"
+        },
+        {
+          "team": "Lille",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746689",
+      "home": "Stade Rennais",
+      "away": "Nantes",
+      "goals": [
+        {
+          "team": "Nantes",
+          "minute": 40,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 92,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Nantes",
+          "minute": 38,
+          "type": "yellow"
+        },
+        {
+          "team": "Nantes",
+          "minute": 50,
+          "type": "yellow"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 73,
+          "type": "yellow"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 88,
+          "type": "yellow"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746687",
+      "home": "Marseille",
+      "away": "Nice",
+      "goals": [
+        {
+          "team": "Marseille",
+          "minute": 66,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Marseille",
+          "minute": 29,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 44,
+          "type": "yellow"
+        },
+        {
+          "team": "Nice",
+          "minute": 44,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 86,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 87,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746694",
+      "home": "Nantes",
+      "away": "Marseille",
+      "goals": [
+        {
+          "team": "Nantes",
+          "minute": 50,
+          "type": "Goal"
+        },
+        {
+          "team": "Nantes",
+          "minute": 54,
+          "type": "Goal"
+        },
+        {
+          "team": "Nantes",
+          "minute": 58,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Nantes",
+          "minute": 17,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 31,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Marseille",
+          "minute": 81,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746695",
+      "home": "Paris Saint-Germain",
+      "away": "Lorient",
+      "goals": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 6,
+          "type": "Goal"
+        },
+        {
+          "team": "Lorient",
+          "minute": 12,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 62,
+          "type": "Goal"
+        },
+        {
+          "team": "Lorient",
+          "minute": 78,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Lorient",
+          "minute": 90,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746693",
+      "home": "Metz",
+      "away": "AS Monaco",
+      "goals": [
+        {
+          "team": "Metz",
+          "minute": 49,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 61,
+          "type": "Goal"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "AS Monaco",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "AS Monaco",
+          "minute": 81,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746697",
+      "home": "Nice",
+      "away": "Lens",
+      "goals": [
+        {
+          "team": "Lens",
+          "minute": 60,
+          "type": "Goal"
+        },
+        {
+          "team": "Nice",
+          "minute": 84,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Lens",
+          "minute": 27,
+          "type": "yellow"
+        },
+        {
+          "team": "Lens",
+          "minute": 44,
+          "type": "yellow"
+        },
+        {
+          "team": "Nice",
+          "minute": 45,
+          "type": "yellow"
+        },
+        {
+          "team": "Lens",
+          "minute": 81,
+          "type": "red"
+        },
+        {
+          "team": "Lens",
+          "minute": 82,
+          "type": "yellow"
+        },
+        {
+          "team": "Nice",
+          "minute": 90,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746691",
+      "home": "Lille",
+      "away": "Le Havre AC",
+      "goals": [
+        {
+          "team": "Lille",
+          "minute": 29,
+          "type": "Goal"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 33,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Le Havre AC",
+          "minute": 5,
+          "type": "yellow"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 35,
+          "type": "yellow"
+        },
+        {
+          "team": "Lille",
+          "minute": 43,
+          "type": "yellow"
+        },
+        {
+          "team": "Lille",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "Le Havre AC",
+          "minute": 73,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746699",
+      "home": "AJ Auxerre",
+      "away": "Angers",
+      "goals": [
+        {
+          "team": "AJ Auxerre",
+          "minute": 12,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 61,
+          "type": "Goal"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 67,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Angers",
+          "minute": 46,
+          "type": "yellow"
+        },
+        {
+          "team": "Angers",
+          "minute": 47,
+          "type": "red"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Angers",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "AJ Auxerre",
+          "minute": 68,
+          "type": "yellow"
+        },
+        {
+          "team": "Angers",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746698",
+      "home": "Paris FC",
+      "away": "Brest",
+      "goals": [
+        {
+          "team": "Paris FC",
+          "minute": 13,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 20,
+          "type": "Goal"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 67,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 89,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Paris FC",
+          "minute": 24,
+          "type": "yellow"
+        },
+        {
+          "team": "Brest",
+          "minute": 26,
+          "type": "yellow"
+        },
+        {
+          "team": "Paris FC",
+          "minute": 35,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746696",
+      "home": "Strasbourg",
+      "away": "Toulouse",
+      "goals": [
+        {
+          "team": "Strasbourg",
+          "minute": 27,
+          "type": "Goal"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 43,
+          "type": "Goal"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 84,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Strasbourg",
+          "minute": 20,
+          "type": "yellow"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 56,
+          "type": "yellow"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 75,
+          "type": "yellow"
+        },
+        {
+          "team": "Toulouse",
+          "minute": 97,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746692",
+      "home": "Lyon",
+      "away": "Stade Rennais",
+      "goals": [
+        {
+          "team": "Stade Rennais",
+          "minute": 6,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Lyon",
+          "minute": 37,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 48,
+          "type": "Goal"
+        },
+        {
+          "team": "Lyon",
+          "minute": 52,
+          "type": "Goal"
+        },
+        {
+          "team": "Lyon",
+          "minute": 75,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Stade Rennais",
+          "minute": 23,
+          "type": "yellow"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 40,
+          "type": "yellow"
+        },
+        {
+          "team": "Stade Rennais",
+          "minute": 82,
+          "type": "yellow"
+        }
+      ]
+    }
+  ]
+}
