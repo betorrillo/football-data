@@ -11,7 +11,9 @@ Usage:
 import json
 import os
 import re
+import time
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -34,8 +36,9 @@ LEAGUES = {
 }
 
 
-def fetch_url(url):
+def fetch_url(url, delay=0.5):
     try:
+        time.sleep(delay)  # Be polite to Transfermarkt
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=30) as resp:
             return resp.read().decode("utf-8", errors="replace")
@@ -157,6 +160,39 @@ def get_referee_career_stats(slug, ref_id, name):
     }
 
 
+def process_league(league_key, league_info):
+    """Process a single league — fetch referee list and stats. Thread-safe."""
+    print(f"\n{league_info['name']}...")
+    ref_list = get_league_referee_list(league_info["tm_comp"])
+    print(f"  [{league_key}] Found {len(ref_list)} referees, fetching stats...")
+
+    refs_with_stats = []
+    for ref in ref_list:
+        stats = get_referee_career_stats(ref["slug"], ref["id"], ref["name"])
+        if stats:
+            refs_with_stats.append(stats)
+            v = stats["verdict"]
+            print(f"    [{league_key}] {stats['name']}: {stats['career_matches']}mp, {stats['career_yc_per_match']} YC/m → {v}")
+
+    # Sort by cards per match descending
+    refs_with_stats.sort(key=lambda x: -x["career_total_cards_per_match"])
+
+    output = {
+        "generated": TODAY,
+        "source": "transfermarkt.com",
+        "league": league_info["name"],
+        "referees": refs_with_stats,
+        "total": len(refs_with_stats),
+    }
+
+    path = os.path.join(REFEREES_DIR, f"stats_{league_key}_{TODAY}.json")
+    with open(path, "w") as f:
+        json.dump(output, f, indent=2)
+    print(f"  [{league_key}] {len(refs_with_stats)} referees saved")
+
+    return league_key, refs_with_stats
+
+
 def main():
     print(f"Referee Scraper — {TODAY}")
     print("=" * 50)
@@ -164,36 +200,20 @@ def main():
 
     all_referees = {}
 
-    for league_key, league_info in LEAGUES.items():
-        print(f"\n{league_info['name']}...")
-        ref_list = get_league_referee_list(league_info["tm_comp"])
-        print(f"  Found {len(ref_list)} referees, fetching stats...")
-
-        refs_with_stats = []
-        for ref in ref_list:
-            stats = get_referee_career_stats(ref["slug"], ref["id"], ref["name"])
-            if stats:
-                refs_with_stats.append(stats)
-                v = stats["verdict"]
-                print(f"    {stats['name']}: {stats['career_matches']}mp, {stats['career_yc_per_match']} YC/m → {v}")
-
-        # Sort by cards per match descending
-        refs_with_stats.sort(key=lambda x: -x["career_total_cards_per_match"])
-
-        output = {
-            "generated": TODAY,
-            "source": "transfermarkt.com",
-            "league": league_info["name"],
-            "referees": refs_with_stats,
-            "total": len(refs_with_stats),
+    # Process 2 leagues in parallel (conservative to avoid Transfermarkt blocks)
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        futures = {
+            executor.submit(process_league, key, info): key
+            for key, info in LEAGUES.items()
         }
-
-        path = os.path.join(REFEREES_DIR, f"stats_{league_key}_{TODAY}.json")
-        with open(path, "w") as f:
-            json.dump(output, f, indent=2)
-        print(f"  {len(refs_with_stats)} referees saved")
-
-        all_referees[league_key] = refs_with_stats
+        for future in as_completed(futures):
+            try:
+                league_key, refs = future.result()
+                all_referees[league_key] = refs
+            except Exception as e:
+                league_key = futures[future]
+                print(f"  ERROR processing {league_key}: {e}")
+                all_referees[league_key] = []
 
     # Combined file
     combined = {

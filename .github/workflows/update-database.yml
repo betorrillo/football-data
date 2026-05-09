@@ -48,7 +48,7 @@ jobs:
         if: contains(fromJSON('["all","referees"]'), github.event.inputs.scope || 'all')
         run: |
           echo "--- Updating referees ---"
-          timeout 120 python3 scripts/scrape_referees.py || echo "⚠️ Referees failed/timeout (non-blocking)"
+          timeout 420 python3 scripts/scrape_referees.py || echo "⚠️ Referees failed/timeout (non-blocking)"
 
       - name: Update injuries
         if: contains(fromJSON('["all","injuries"]'), github.event.inputs.scope || 'all')
