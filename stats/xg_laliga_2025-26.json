@@ -1,0 +1,33 @@
+{
+  "generated": "2026-05-09",
+  "source": "xgscore.io",
+  "league": "LaLiga EA Sports",
+  "season": "2025-26",
+  "gameweek": 35,
+  "teams": [
+    {"team":"Barcelona","gf":89,"xg":86.2,"ga":31,"xga":42.5,"xg_diff":2.8,"xga_diff":-11.5},
+    {"team":"Real Madrid","gf":70,"xg":74.0,"ga":31,"xga":38.5,"xg_diff":-4.0,"xga_diff":-7.5},
+    {"team":"Villarreal","gf":64,"xg":56.8,"ga":39,"xga":44.5,"xg_diff":7.2,"xga_diff":-5.5},
+    {"team":"Atlético Madrid","gf":58,"xg":55.6,"ga":37,"xga":43.3,"xg_diff":2.4,"xga_diff":-6.3},
+    {"team":"Real Betis","gf":52,"xg":51.9,"ga":41,"xga":42.4,"xg_diff":0.1,"xga_diff":-1.4},
+    {"team":"Celta Vigo","gf":48,"xg":46.2,"ga":44,"xga":45.4,"xg_diff":1.8,"xga_diff":-1.4},
+    {"team":"Getafe","gf":28,"xg":29.2,"ga":36,"xga":43.1,"xg_diff":-1.2,"xga_diff":-7.1},
+    {"team":"Athletic Club","gf":40,"xg":47.9,"ga":50,"xga":40.5,"xg_diff":-7.9,"xga_diff":9.5},
+    {"team":"Real Sociedad","gf":52,"xg":51.3,"ga":53,"xga":50.5,"xg_diff":0.7,"xga_diff":2.5},
+    {"team":"Osasuna","gf":42,"xg":43.9,"ga":45,"xga":48.2,"xg_diff":-1.9,"xga_diff":-3.2},
+    {"team":"Rayo Vallecano","gf":35,"xg":50.2,"ga":41,"xga":48.0,"xg_diff":-15.2,"xga_diff":-7.0},
+    {"team":"Valencia","gf":37,"xg":45.2,"ga":50,"xga":46.6,"xg_diff":-8.2,"xga_diff":3.4},
+    {"team":"Espanyol","gf":37,"xg":46.2,"ga":51,"xga":53.2,"xg_diff":-9.2,"xga_diff":-2.2},
+    {"team":"Elche","gf":45,"xg":42.4,"ga":53,"xga":59.7,"xg_diff":2.6,"xga_diff":-6.7},
+    {"team":"Mallorca","gf":42,"xg":40.2,"ga":51,"xga":58.2,"xg_diff":1.8,"xga_diff":-7.2},
+    {"team":"Girona","gf":36,"xg":43.9,"ga":51,"xga":56.2,"xg_diff":-7.9,"xga_diff":-5.2},
+    {"team":"Sevilla","gf":41,"xg":36.5,"ga":55,"xga":53.7,"xg_diff":4.5,"xga_diff":1.3},
+    {"team":"Alavés","gf":40,"xg":44.0,"ga":53,"xga":46.5,"xg_diff":-4.0,"xga_diff":6.5},
+    {"team":"Levante","gf":41,"xg":48.9,"ga":57,"xga":59.2,"xg_diff":-7.9,"xga_diff":-2.2},
+    {"team":"Real Oviedo","gf":26,"xg":36.2,"ga":54,"xga":56.8,"xg_diff":-10.2,"xga_diff":-2.8}
+  ],
+  "notes": {
+    "xg_diff": "positive = overperforming (scoring more than expected), negative = underperforming",
+    "xga_diff": "positive = conceding more than expected (bad defense), negative = conceding less (good defense)"
+  }
+}

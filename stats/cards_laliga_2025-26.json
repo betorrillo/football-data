@@ -1,0 +1,29 @@
+{
+  "generated": "2026-05-09",
+  "sources": ["ESPN", "footiqo.com"],
+  "league": "LaLiga EA Sports",
+  "season": "2025-26",
+  "teams": [
+    {"team":"Getafe","mp":34,"yellow_cards":95,"yc_per_match":2.79},
+    {"team":"Sevilla","mp":34,"yellow_cards":94,"yc_per_match":2.76},
+    {"team":"Rayo Vallecano","mp":34,"yellow_cards":91,"yc_per_match":2.68},
+    {"team":"Osasuna","mp":35,"yellow_cards":82,"yc_per_match":2.34},
+    {"team":"Espanyol","mp":34,"yellow_cards":77,"yc_per_match":2.26},
+    {"team":"Villarreal","mp":34,"yellow_cards":76,"yc_per_match":2.24},
+    {"team":"Alavés","mp":34,"yellow_cards":75,"yc_per_match":2.21},
+    {"team":"Levante","mp":35,"yellow_cards":75,"yc_per_match":2.14},
+    {"team":"Atlético Madrid","mp":34,"yellow_cards":74,"yc_per_match":2.18},
+    {"team":"Real Sociedad","mp":34,"yellow_cards":71,"yc_per_match":2.09},
+    {"team":"Mallorca","mp":34,"yellow_cards":71,"yc_per_match":2.09},
+    {"team":"Athletic Club","mp":34,"yellow_cards":69,"yc_per_match":2.03},
+    {"team":"Girona","mp":34,"yellow_cards":69,"yc_per_match":2.03},
+    {"team":"Celta Vigo","mp":34,"yellow_cards":68,"yc_per_match":2.00},
+    {"team":"Real Betis","mp":34,"yellow_cards":67,"yc_per_match":1.97},
+    {"team":"Real Oviedo","mp":34,"yellow_cards":67,"yc_per_match":1.97},
+    {"team":"Valencia","mp":34,"yellow_cards":66,"yc_per_match":1.94},
+    {"team":"Real Madrid","mp":34,"yellow_cards":62,"yc_per_match":1.82},
+    {"team":"Elche","mp":34,"yellow_cards":58,"yc_per_match":1.71},
+    {"team":"Barcelona","mp":34,"yellow_cards":52,"yc_per_match":1.53}
+  ],
+  "notes": "yc_per_match = yellow cards RECEIVED by the team per match (not total in the match). For total match cards, combine both teams."
+}

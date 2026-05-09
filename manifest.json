@@ -1,0 +1,26 @@
+{
+  "version": "4.0",
+  "description": "Football statistics and prediction data for AI agent analysis",
+  "last_updated": "2026-05-09T16:18:00Z",
+  "base_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/",
+  "directories": {
+    "stats": "Team statistics (xG, shots, corners, cards, standings) by league",
+    "referees": "Referee card averages and designations",
+    "context": "Match context (motivation, form)",
+    "injuries": "Active injuries by league/matchday",
+    "lineups": "Confirmed lineups (~45min before kickoff)",
+    "fixtures": "Upcoming matches by date range",
+    "h2h": "Head-to-head records",
+    "predictions": "Generated predictions by matchday"
+  },
+  "files": {
+    "stats/standings_all_leagues_2026-05-09.json": "Full standings for LaLiga, Premier League, Bundesliga, Serie A, Ligue 1",
+    "stats/xg_laliga_2025-26.json": "xG/xGA for all LaLiga teams",
+    "stats/xg_epl_2025-26.json": "xG/xGA for all Premier League teams",
+    "stats/xg_bundesliga_2025-26.json": "xG/xGA for all Bundesliga teams",
+    "stats/xg_seriea_2025-26.json": "xG/xGA for all Serie A teams",
+    "stats/xg_ligue1_2025-26.json": "xG/xGA for all Ligue 1 teams",
+    "stats/cards_laliga_2025-26.json": "Yellow card stats for all LaLiga teams",
+    "fixtures/next_72h_2026-05-09.json": "43 matches across 5 leagues (May 9-12)"
+  }
+}

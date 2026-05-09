@@ -1,0 +1,82 @@
+{
+  "generated": "2026-05-09",
+  "period": "2026-05-09 to 2026-05-12",
+  "total_matches": 43,
+  "leagues": {
+    "laliga": {
+      "name": "LaLiga EA Sports",
+      "matchday": "Jornada 35",
+      "matches": [
+        {"home": "Elche", "away": "Alavés", "date": "2026-05-09", "time": "14:00 CET"},
+        {"home": "Sevilla", "away": "Espanyol", "date": "2026-05-09", "time": "16:15 CET"},
+        {"home": "Atlético Madrid", "away": "Celta Vigo", "date": "2026-05-09", "time": "18:30 CET"},
+        {"home": "Real Sociedad", "away": "Real Betis", "date": "2026-05-09", "time": "21:00 CET"},
+        {"home": "Mallorca", "away": "Villarreal", "date": "2026-05-10", "time": "14:00 CET"},
+        {"home": "Athletic Club", "away": "Valencia", "date": "2026-05-10", "time": "16:15 CET"},
+        {"home": "Real Oviedo", "away": "Getafe", "date": "2026-05-10", "time": "18:30 CET"},
+        {"home": "Barcelona", "away": "Real Madrid", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Rayo Vallecano", "away": "Girona", "date": "2026-05-11", "time": "21:00 CET"},
+        {"home": "Celta Vigo", "away": "Levante", "date": "2026-05-12", "time": "19:00 CET"},
+        {"home": "Real Betis", "away": "Elche", "date": "2026-05-12", "time": "20:00 CET"},
+        {"home": "Osasuna", "away": "Atlético Madrid", "date": "2026-05-12", "time": "21:30 CET"}
+      ]
+    },
+    "premier_league": {
+      "name": "Premier League",
+      "matchday": "Matchweek 36",
+      "matches": [
+        {"home": "Liverpool", "away": "Chelsea", "date": "2026-05-09", "time": "13:30 BST"},
+        {"home": "Brighton", "away": "Wolverhampton", "date": "2026-05-09", "time": "16:00 BST"},
+        {"home": "Fulham", "away": "AFC Bournemouth", "date": "2026-05-09", "time": "16:00 BST"},
+        {"home": "Sunderland", "away": "Manchester United", "date": "2026-05-09", "time": "16:00 BST"},
+        {"home": "Manchester City", "away": "Brentford", "date": "2026-05-09", "time": "18:30 BST"},
+        {"home": "Burnley", "away": "Aston Villa", "date": "2026-05-10", "time": "15:00 BST"},
+        {"home": "Crystal Palace", "away": "Everton", "date": "2026-05-10", "time": "15:00 BST"},
+        {"home": "Nottingham Forest", "away": "Newcastle", "date": "2026-05-10", "time": "15:00 BST"},
+        {"home": "West Ham", "away": "Arsenal", "date": "2026-05-10", "time": "17:30 BST"},
+        {"home": "Tottenham", "away": "Leeds United", "date": "2026-05-11", "time": "21:00 BST"}
+      ]
+    },
+    "bundesliga": {
+      "name": "Bundesliga",
+      "matchday": "Spieltag 33",
+      "matches": [
+        {"home": "RB Leipzig", "away": "St. Pauli", "date": "2026-05-09", "time": "20:30 CET"},
+        {"home": "VfB Stuttgart", "away": "Bayer Leverkusen", "date": "2026-05-10", "time": "15:30 CET"},
+        {"home": "FC Augsburg", "away": "B. Mönchengladbach", "date": "2026-05-10", "time": "15:30 CET"},
+        {"home": "TSG Hoffenheim", "away": "Werder Bremen", "date": "2026-05-10", "time": "15:30 CET"},
+        {"home": "VfL Wolfsburg", "away": "Bayern Munich", "date": "2026-05-10", "time": "18:30 CET"},
+        {"home": "Hamburg SV", "away": "SC Freiburg", "date": "2026-05-10", "time": "15:30 CET"}
+      ]
+    },
+    "serie_a": {
+      "name": "Serie A",
+      "matchday": "Giornata 36",
+      "matches": [
+        {"home": "Cagliari", "away": "Udinese", "date": "2026-05-09", "time": "20:45 CET"},
+        {"home": "Lazio", "away": "Internazionale", "date": "2026-05-10", "time": "18:00 CET"},
+        {"home": "Lecce", "away": "Juventus", "date": "2026-05-10", "time": "20:45 CET"},
+        {"home": "Hellas Verona", "away": "Como", "date": "2026-05-11", "time": "12:30 CET"},
+        {"home": "Cremonese", "away": "Pisa", "date": "2026-05-11", "time": "15:00 CET"},
+        {"home": "Fiorentina", "away": "Genoa", "date": "2026-05-11", "time": "15:00 CET"},
+        {"home": "Parma", "away": "AS Roma", "date": "2026-05-11", "time": "18:00 CET"},
+        {"home": "AC Milan", "away": "Atalanta", "date": "2026-05-11", "time": "20:45 CET"},
+        {"home": "Napoli", "away": "Bologna", "date": "2026-05-12", "time": "20:45 CET"}
+      ]
+    },
+    "ligue_1": {
+      "name": "Ligue 1",
+      "matchday": "Journée 33",
+      "matches": [
+        {"home": "AJ Auxerre", "away": "Nice", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Angers", "away": "Strasbourg", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "AS Monaco", "away": "Lille", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Le Havre", "away": "Marseille", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Metz", "away": "Lorient", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "PSG", "away": "Brest", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Stade Rennais", "away": "Paris FC", "date": "2026-05-10", "time": "21:00 CET"},
+        {"home": "Toulouse", "away": "Lyon", "date": "2026-05-10", "time": "21:00 CET"}
+      ]
+    }
+  }
+}
