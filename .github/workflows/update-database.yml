@@ -16,11 +16,11 @@ on:
           - referees
           - injuries
           - fixtures
+          - players
 
-  # Automatic: Tuesday and Friday at 10:00 AM CET
+  # Automatic: EVERY DAY at 10:00 AM CET (8:00 UTC)
   schedule:
-    - cron: '0 8 * * 2'   # Tuesday 10:00 CET (8:00 UTC)
-    - cron: '0 8 * * 5'   # Friday 10:00 CET (8:00 UTC)
+    - cron: '0 8 * * *'
 
 jobs:
   update:
@@ -67,9 +67,9 @@ jobs:
             python3 scripts/update_all.py --fixtures
           fi
 
-          # Player stats from FBref (weekly, slow due to rate limits)
-          if [ "$SCOPE" = "all" ]; then
-            echo "--- Updating player stats ---"
+          # Player stats from FotMob (all leagues, ~2 min)
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "players" ]; then
+            echo "--- Updating player stats (FotMob) ---"
             python3 scripts/scrape_player_stats.py || echo "Player stats failed (non-blocking)"
           fi
 
@@ -100,3 +100,17 @@ jobs:
             git commit -m "Auto-update database $(date +%Y-%m-%d)"
             git push
           fi
+
+      # ─── Google Drive sync ───
+      - name: Install Drive dependencies
+        if: env.GDRIVE_SERVICE_ACCOUNT_JSON != ''
+        env:
+          GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+        run: pip install google-api-python-client google-auth
+
+      - name: Upload key files to Google Drive
+        if: env.GDRIVE_SERVICE_ACCOUNT_JSON != ''
+        env:
+          GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+        run: python3 scripts/upload_to_drive.py
