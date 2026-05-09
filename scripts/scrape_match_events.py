@@ -13,7 +13,8 @@ import json
 import os
 import time
 import urllib.request
-from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timedelta
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EVENTS_DIR = os.path.join(BASE_DIR, "stats", "events")
@@ -50,7 +51,6 @@ def get_season_match_ids(espn_id):
     """Get all completed match IDs for current season from ESPN scoreboard API."""
     match_ids = []
     # ESPN scoreboard by date — scan from Aug 2025 to today
-    from datetime import timedelta
     start = datetime(2025, 8, 1)
     end = datetime.now()
     delta = end - start
@@ -350,8 +350,8 @@ def build_team_event_stats(matches):
     return result
 
 
-def scrape_league_events(league_key, league_info):
-    """Scrape all match events for a league."""
+def scrape_league_events(league_key, league_info, full_scan=False):
+    """Scrape match events for a league. By default only checks last 14 days."""
     espn_id = league_info["espn_id"]
     print(f"\n{'='*40}")
     print(f"{league_info['name']}")
@@ -393,8 +393,15 @@ def scrape_league_events(league_key, league_info):
         except (IndexError, ValueError):
             continue
 
-    dates_sorted = sorted(dates_seen)
-    print(f"  Unique match dates to check: {len(dates_sorted)}")
+    if full_scan:
+        dates_sorted = sorted(dates_seen)
+        print(f"  FULL SCAN: {len(dates_sorted)} match dates to check")
+    else:
+        # Only scan recent dates (last 14 days) — older matches are already cached
+        cutoff = (datetime.now() - timedelta(days=14)).strftime("%Y%m%d")
+        dates_sorted = sorted([d for d in dates_seen if d >= cutoff])
+        dates_skipped = len(dates_seen) - len(dates_sorted)
+        print(f"  Unique match dates: {len(dates_seen)} total, checking {len(dates_sorted)} recent (skipped {dates_skipped} cached)")
 
     batch_count = 0
     for date_str in dates_sorted:
@@ -474,9 +481,11 @@ def scrape_league_events(league_key, league_info):
 def main():
     parser = argparse.ArgumentParser(description="Scrape match events from ESPN")
     parser.add_argument("--league", type=str, help="Specific league to scrape")
+    parser.add_argument("--full", action="store_true", help="Full season scan (slow, ~20min). Default: last 14 days only")
     args = parser.parse_args()
 
     print(f"Match Events Scraper — {TODAY}")
+    print(f"Mode: {'FULL SCAN' if args.full else 'INCREMENTAL (last 14 days)'}")
     print("=" * 50)
     os.makedirs(EVENTS_DIR, exist_ok=True)
 
@@ -491,9 +500,20 @@ def main():
         leagues_to_scrape = LEAGUES
 
     total_events = 0
-    for league_key, league_info in leagues_to_scrape.items():
-        events = scrape_league_events(league_key, league_info)
-        total_events += len(events)
+
+    # Process 2 leagues in parallel
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        futures = {
+            executor.submit(scrape_league_events, key, info, args.full): key
+            for key, info in leagues_to_scrape.items()
+        }
+        for future in as_completed(futures):
+            league_key = futures[future]
+            try:
+                events = future.result()
+                total_events += len(events)
+            except Exception as e:
+                print(f"  ERROR processing {league_key}: {e}")
 
     print(f"\n{'='*50}")
     print(f"COMPLETE — {total_events} match events across {len(leagues_to_scrape)} leagues")

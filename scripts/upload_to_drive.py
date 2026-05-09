@@ -56,7 +56,10 @@ def get_drive_service():
 def find_file_in_folder(service, folder_id, filename):
     """Find a file by name in a specific folder. Returns file ID or None."""
     query = f"name='{filename}' and '{folder_id}' in parents and trashed=false"
-    results = service.files().list(q=query, fields="files(id, name)").execute()
+    results = service.files().list(
+        q=query, fields="files(id, name)",
+        supportsAllDrives=True, includeItemsFromAllDrives=True,
+    ).execute()
     files = results.get("files", [])
     return files[0]["id"] if files else None
 
@@ -70,7 +73,9 @@ def upload_or_update(service, folder_id, local_path, drive_filename=None):
     filename = drive_filename or os.path.basename(local_path)
     file_size = os.path.getsize(local_path)
 
-    media = MediaFileUpload(local_path, mimetype="application/json", resumable=True)
+    # Use non-resumable upload (Service Accounts on personal Gmail have no storage quota
+    # with resumable uploads, but non-resumable to a shared folder works)
+    media = MediaFileUpload(local_path, mimetype="application/json", resumable=False)
 
     # Check if file already exists in folder
     existing_id = find_file_in_folder(service, folder_id, filename)
@@ -80,6 +85,7 @@ def upload_or_update(service, folder_id, local_path, drive_filename=None):
         file = service.files().update(
             fileId=existing_id,
             media_body=media,
+            supportsAllDrives=True,
         ).execute()
         action = "UPDATED"
     else:
@@ -87,12 +93,12 @@ def upload_or_update(service, folder_id, local_path, drive_filename=None):
         file_metadata = {
             "name": filename,
             "parents": [folder_id],
-            "mimeType": "application/json",
         }
         file = service.files().create(
             body=file_metadata,
             media_body=media,
             fields="id",
+            supportsAllDrives=True,
         ).execute()
         action = "CREATED"
 
