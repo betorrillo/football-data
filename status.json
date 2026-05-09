@@ -1,16 +1,16 @@
 {
-  "server_time_utc": "2026-05-09T19:43:39Z",
+  "server_time_utc": "2026-05-09T19:53:09Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-05-09.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-05-09.json",
-  "total_data_files": 74,
+  "total_data_files": 82,
   "data_directories": {
     "matches": {
       "files": 31,
       "status": "complete"
     },
     "stats": {
-      "files": 23,
+      "files": 31,
       "status": "complete"
     },
     "stats/derived": {

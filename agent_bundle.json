@@ -2,11 +2,12 @@
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
   "generated": "2026-05-09",
-  "generated_at": "2026-05-09T18:58:42Z",
-  "version": "1.0",
+  "generated_at": "2026-05-09T19:53:10Z",
+  "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
-  "auto_updated": "Tue+Fri via GitHub Actions"
+  "auto_updated": "Tue+Fri via GitHub Actions",
+  "data_sections": "matches, referees, injuries, lineups, player_stats, event_timing"
  },
  "matches": [
   {
@@ -54,6 +55,22 @@
      "btts": 65.7,
      "clean_sheet": 28.6,
      "failed_to_score": 11.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.66,
+     "ga_1h": 0.43,
+     "gf_2h": 1.03,
+     "ga_2h": 0.91,
+     "total_1h": 1.09,
+     "total_2h": 1.94
+    },
+    "pct_ht": {
+     "over_05_1h": 65.7,
+     "over_15_1h": 31.4,
+     "over_05_2h": 91.4,
+     "over_15_2h": 57.1,
+     "btts_1h": 11.4,
+     "btts_2h": 48.6
     }
    },
    "away_season": {
@@ -92,6 +109,22 @@
      "btts": 60.0,
      "clean_sheet": 25.7,
      "failed_to_score": 20.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.69,
+     "ga_1h": 0.63,
+     "gf_2h": 0.86,
+     "ga_2h": 0.74,
+     "total_1h": 1.31,
+     "total_2h": 1.6
+    },
+    "pct_ht": {
+     "over_05_1h": 80.0,
+     "over_15_1h": 34.3,
+     "over_05_2h": 80.0,
+     "over_15_2h": 54.3,
+     "btts_1h": 14.3,
+     "btts_2h": 22.9
     }
    },
    "home_form_last5": [
@@ -389,6 +422,22 @@
      "btts": 70.6,
      "clean_sheet": 20.6,
      "failed_to_score": 14.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.5,
+     "ga_1h": 0.68,
+     "gf_2h": 0.82,
+     "ga_2h": 0.88,
+     "total_1h": 1.18,
+     "total_2h": 1.71
+    },
+    "pct_ht": {
+     "over_05_1h": 61.8,
+     "over_15_1h": 38.2,
+     "over_05_2h": 88.2,
+     "over_15_2h": 47.1,
+     "btts_1h": 26.5,
+     "btts_2h": 35.3
     }
    },
    "away_season": {
@@ -399,7 +448,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -552,6 +603,22 @@
      "btts": 60.0,
      "clean_sheet": 25.7,
      "failed_to_score": 20.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.51,
+     "ga_1h": 0.66,
+     "gf_2h": 0.89,
+     "ga_2h": 0.54,
+     "total_1h": 1.17,
+     "total_2h": 1.43
+    },
+    "pct_ht": {
+     "over_05_1h": 77.1,
+     "over_15_1h": 25.7,
+     "over_05_2h": 85.7,
+     "over_15_2h": 45.7,
+     "btts_1h": 17.1,
+     "btts_2h": 28.6
     }
    },
    "away_season": {
@@ -562,7 +629,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -715,6 +784,22 @@
      "btts": 54.3,
      "clean_sheet": 22.9,
      "failed_to_score": 28.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.46,
+     "ga_1h": 0.6,
+     "gf_2h": 0.8,
+     "ga_2h": 0.8,
+     "total_1h": 1.06,
+     "total_2h": 1.6
+    },
+    "pct_ht": {
+     "over_05_1h": 60.0,
+     "over_15_1h": 28.6,
+     "over_05_2h": 80.0,
+     "over_15_2h": 42.9,
+     "btts_1h": 14.3,
+     "btts_2h": 31.4
     }
    },
    "away_season": {
@@ -725,7 +810,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -878,6 +965,22 @@
      "btts": 45.7,
      "clean_sheet": 28.6,
      "failed_to_score": 34.3
+    },
+    "avg_ht": {
+     "gf_1h": 0.34,
+     "ga_1h": 0.63,
+     "gf_2h": 0.71,
+     "ga_2h": 0.69,
+     "total_1h": 0.97,
+     "total_2h": 1.4
+    },
+    "pct_ht": {
+     "over_05_1h": 57.1,
+     "over_15_1h": 25.7,
+     "over_05_2h": 85.7,
+     "over_15_2h": 34.3,
+     "btts_1h": 11.4,
+     "btts_2h": 17.1
     }
    },
    "away_season": {
@@ -888,7 +991,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -1041,6 +1146,22 @@
      "btts": 58.8,
      "clean_sheet": 17.6,
      "failed_to_score": 23.5
+    },
+    "avg_ht": {
+     "gf_1h": 0.5,
+     "ga_1h": 0.71,
+     "gf_2h": 0.71,
+     "ga_2h": 0.91,
+     "total_1h": 1.21,
+     "total_2h": 1.62
+    },
+    "pct_ht": {
+     "over_05_1h": 70.6,
+     "over_15_1h": 35.3,
+     "over_05_2h": 88.2,
+     "over_15_2h": 47.1,
+     "btts_1h": 23.5,
+     "btts_2h": 23.5
     }
    },
    "away_season": {
@@ -1051,7 +1172,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -1176,7 +1299,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 35,
@@ -1214,6 +1339,22 @@
      "btts": 51.4,
      "clean_sheet": 28.6,
      "failed_to_score": 31.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.66,
+     "ga_1h": 0.66,
+     "gf_2h": 0.83,
+     "ga_2h": 0.66,
+     "total_1h": 1.31,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 74.3,
+     "over_15_1h": 34.3,
+     "over_05_2h": 74.3,
+     "over_15_2h": 45.7,
+     "btts_1h": 20.0,
+     "btts_2h": 31.4
     }
    },
    "home_form_last5": [],
@@ -1339,7 +1480,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 0,
@@ -1349,7 +1492,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [],
    "away_form_last5": [],
@@ -1431,6 +1576,22 @@
      "btts": 59.4,
      "clean_sheet": 34.4,
      "failed_to_score": 9.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.94,
+     "ga_1h": 0.47,
+     "gf_2h": 1.03,
+     "ga_2h": 0.84,
+     "total_1h": 1.41,
+     "total_2h": 1.88
+    },
+    "pct_ht": {
+     "over_05_1h": 68.8,
+     "over_15_1h": 43.8,
+     "over_05_2h": 84.4,
+     "over_15_2h": 62.5,
+     "btts_1h": 21.9,
+     "btts_2h": 28.1
     }
    },
    "away_season": {
@@ -1441,7 +1602,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -1594,6 +1757,22 @@
      "btts": 48.6,
      "clean_sheet": 22.9,
      "failed_to_score": 37.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.37,
+     "ga_1h": 0.57,
+     "gf_2h": 0.66,
+     "ga_2h": 0.83,
+     "total_1h": 0.94,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 60.0,
+     "over_15_1h": 20.0,
+     "over_05_2h": 85.7,
+     "over_15_2h": 48.6,
+     "btts_1h": 14.3,
+     "btts_2h": 28.6
     }
    },
    "away_season": {
@@ -1632,6 +1811,22 @@
      "btts": 48.6,
      "clean_sheet": 28.6,
      "failed_to_score": 25.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.54,
+     "ga_1h": 0.51,
+     "gf_2h": 0.69,
+     "ga_2h": 0.8,
+     "total_1h": 1.06,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 71.4,
+     "over_15_1h": 25.7,
+     "over_05_2h": 80.0,
+     "over_15_2h": 45.7,
+     "btts_1h": 14.3,
+     "btts_2h": 25.7
     }
    },
    "home_form_last5": [
@@ -1885,7 +2080,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 0,
@@ -1895,7 +2092,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [],
    "away_form_last5": [],
@@ -1977,6 +2176,22 @@
      "btts": 64.7,
      "clean_sheet": 14.7,
      "failed_to_score": 23.5
+    },
+    "avg_ht": {
+     "gf_1h": 0.5,
+     "ga_1h": 0.79,
+     "gf_2h": 0.74,
+     "ga_2h": 0.71,
+     "total_1h": 1.29,
+     "total_2h": 1.44
+    },
+    "pct_ht": {
+     "over_05_1h": 79.4,
+     "over_15_1h": 32.4,
+     "over_05_2h": 76.5,
+     "over_15_2h": 50.0,
+     "btts_1h": 20.6,
+     "btts_2h": 26.5
     }
    },
    "away_season": {
@@ -2015,6 +2230,22 @@
      "btts": 61.8,
      "clean_sheet": 23.5,
      "failed_to_score": 14.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.94,
+     "ga_1h": 0.38,
+     "gf_2h": 0.94,
+     "ga_2h": 0.76,
+     "total_1h": 1.32,
+     "total_2h": 1.71
+    },
+    "pct_ht": {
+     "over_05_1h": 79.4,
+     "over_15_1h": 35.3,
+     "over_05_2h": 91.2,
+     "over_15_2h": 41.2,
+     "btts_1h": 11.8,
+     "btts_2h": 29.4
     }
    },
    "home_form_last5": [
@@ -2312,6 +2543,22 @@
      "btts": 57.1,
      "clean_sheet": 11.4,
      "failed_to_score": 37.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.43,
+     "ga_1h": 1.0,
+     "gf_2h": 0.57,
+     "ga_2h": 1.03,
+     "total_1h": 1.43,
+     "total_2h": 1.6
+    },
+    "pct_ht": {
+     "over_05_1h": 80.0,
+     "over_15_1h": 37.1,
+     "over_05_2h": 77.1,
+     "over_15_2h": 42.9,
+     "btts_1h": 25.7,
+     "btts_2h": 31.4
     }
    },
    "away_season": {
@@ -2350,6 +2597,22 @@
      "btts": 54.3,
      "clean_sheet": 25.7,
      "failed_to_score": 28.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.54,
+     "ga_1h": 0.6,
+     "gf_2h": 0.83,
+     "ga_2h": 0.66,
+     "total_1h": 1.14,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 71.4,
+     "over_15_1h": 28.6,
+     "over_05_2h": 77.1,
+     "over_15_2h": 45.7,
+     "btts_1h": 22.9,
+     "btts_2h": 22.9
     }
    },
    "home_form_last5": [
@@ -2615,6 +2878,22 @@
      "btts": 50.0,
      "clean_sheet": 35.3,
      "failed_to_score": 32.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.53,
+     "ga_1h": 0.59,
+     "gf_2h": 0.53,
+     "ga_2h": 0.65,
+     "total_1h": 1.12,
+     "total_2h": 1.18
+    },
+    "pct_ht": {
+     "over_05_1h": 70.6,
+     "over_15_1h": 26.5,
+     "over_05_2h": 64.7,
+     "over_15_2h": 41.2,
+     "btts_1h": 14.7,
+     "btts_2h": 17.6
     }
    },
    "away_season": {
@@ -2653,6 +2932,22 @@
      "btts": 48.6,
      "clean_sheet": 31.4,
      "failed_to_score": 25.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.49,
+     "ga_1h": 0.54,
+     "gf_2h": 0.77,
+     "ga_2h": 0.71,
+     "total_1h": 1.03,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 71.4,
+     "over_15_1h": 22.9,
+     "over_05_2h": 85.7,
+     "over_15_2h": 42.9,
+     "btts_1h": 8.6,
+     "btts_2h": 25.7
     }
    },
    "home_form_last5": [
@@ -2922,7 +3217,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 35,
@@ -2960,6 +3257,22 @@
      "btts": 65.7,
      "clean_sheet": 22.9,
      "failed_to_score": 22.9
+    },
+    "avg_ht": {
+     "gf_1h": 0.74,
+     "ga_1h": 0.57,
+     "gf_2h": 0.66,
+     "ga_2h": 0.89,
+     "total_1h": 1.31,
+     "total_2h": 1.54
+    },
+    "pct_ht": {
+     "over_05_1h": 74.3,
+     "over_15_1h": 34.3,
+     "over_05_2h": 74.3,
+     "over_15_2h": 57.1,
+     "btts_1h": 22.9,
+     "btts_2h": 34.3
     }
    },
    "home_form_last5": [],
@@ -3085,7 +3398,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 0,
@@ -3095,7 +3410,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [],
    "away_form_last5": [],
@@ -3149,7 +3466,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 0,
@@ -3159,7 +3478,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [],
    "away_form_last5": [],
@@ -3213,7 +3534,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 32,
@@ -3251,6 +3574,22 @@
      "btts": 50.0,
      "clean_sheet": 18.8,
      "failed_to_score": 34.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.34,
+     "ga_1h": 0.78,
+     "gf_2h": 0.81,
+     "ga_2h": 1.0,
+     "total_1h": 1.12,
+     "total_2h": 1.81
+    },
+    "pct_ht": {
+     "over_05_1h": 75.0,
+     "over_15_1h": 31.2,
+     "over_05_2h": 87.5,
+     "over_15_2h": 62.5,
+     "btts_1h": 12.5,
+     "btts_2h": 31.2
     }
    },
    "home_form_last5": [],
@@ -3376,7 +3715,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 0,
@@ -3386,7 +3727,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [],
    "away_form_last5": [],
@@ -3440,7 +3783,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 34,
@@ -3478,6 +3823,22 @@
      "btts": 52.9,
      "clean_sheet": 23.5,
      "failed_to_score": 26.5
+    },
+    "avg_ht": {
+     "gf_1h": 0.26,
+     "ga_1h": 0.47,
+     "gf_2h": 0.82,
+     "ga_2h": 1.0,
+     "total_1h": 0.74,
+     "total_2h": 1.82
+    },
+    "pct_ht": {
+     "over_05_1h": 55.9,
+     "over_15_1h": 11.8,
+     "over_05_2h": 85.3,
+     "over_15_2h": 58.8,
+     "btts_1h": 5.9,
+     "btts_2h": 38.2
     }
    },
    "home_form_last5": [],
@@ -3631,6 +3992,22 @@
      "btts": 54.3,
      "clean_sheet": 17.1,
      "failed_to_score": 34.3
+    },
+    "avg_ht": {
+     "gf_1h": 0.6,
+     "ga_1h": 0.69,
+     "gf_2h": 0.6,
+     "ga_2h": 1.06,
+     "total_1h": 1.29,
+     "total_2h": 1.66
+    },
+    "pct_ht": {
+     "over_05_1h": 65.7,
+     "over_15_1h": 40.0,
+     "over_05_2h": 85.7,
+     "over_15_2h": 54.3,
+     "btts_1h": 17.1,
+     "btts_2h": 22.9
     }
    },
    "away_season": {
@@ -3669,6 +4046,22 @@
      "btts": 48.6,
      "clean_sheet": 48.6,
      "failed_to_score": 8.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.8,
+     "ga_1h": 0.29,
+     "gf_2h": 1.11,
+     "ga_2h": 0.46,
+     "total_1h": 1.09,
+     "total_2h": 1.57
+    },
+    "pct_ht": {
+     "over_05_1h": 74.3,
+     "over_15_1h": 31.4,
+     "over_05_2h": 74.3,
+     "over_15_2h": 51.4,
+     "btts_1h": 17.1,
+     "btts_2h": 31.4
     }
    },
    "home_form_last5": [
@@ -3966,6 +4359,22 @@
      "btts": 28.6,
      "clean_sheet": 42.9,
      "failed_to_score": 42.9
+    },
+    "avg_ht": {
+     "gf_1h": 0.4,
+     "ga_1h": 0.43,
+     "gf_2h": 0.71,
+     "ga_2h": 0.54,
+     "total_1h": 0.83,
+     "total_2h": 1.26
+    },
+    "pct_ht": {
+     "over_05_1h": 57.1,
+     "over_15_1h": 20.0,
+     "over_05_2h": 68.6,
+     "over_15_2h": 28.6,
+     "btts_1h": 8.6,
+     "btts_2h": 17.1
     }
    },
    "away_season": {
@@ -3976,7 +4385,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -4101,7 +4512,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 34,
@@ -4139,6 +4552,22 @@
      "btts": 29.4,
      "clean_sheet": 29.4,
      "failed_to_score": 44.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.35,
+     "ga_1h": 0.41,
+     "gf_2h": 0.47,
+     "ga_2h": 0.65,
+     "total_1h": 0.76,
+     "total_2h": 1.12
+    },
+    "pct_ht": {
+     "over_05_1h": 58.8,
+     "over_15_1h": 17.6,
+     "over_05_2h": 79.4,
+     "over_15_2h": 26.5,
+     "btts_1h": 5.9,
+     "btts_2h": 14.7
     }
    },
    "home_form_last5": [],
@@ -4264,7 +4693,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 32,
@@ -4302,6 +4733,22 @@
      "btts": 65.6,
      "clean_sheet": 34.4,
      "failed_to_score": 0.0
+    },
+    "avg_ht": {
+     "gf_1h": 1.47,
+     "ga_1h": 0.56,
+     "gf_2h": 2.16,
+     "ga_2h": 0.53,
+     "total_1h": 2.03,
+     "total_2h": 2.69
+    },
+    "pct_ht": {
+     "over_05_1h": 93.8,
+     "over_15_1h": 68.8,
+     "over_05_2h": 96.9,
+     "over_15_2h": 84.4,
+     "btts_1h": 31.2,
+     "btts_2h": 37.5
     }
    },
    "home_form_last5": [],
@@ -4455,6 +4902,22 @@
      "btts": 37.1,
      "clean_sheet": 25.7,
      "failed_to_score": 51.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.37,
+     "ga_1h": 0.46,
+     "gf_2h": 0.31,
+     "ga_2h": 0.89,
+     "total_1h": 0.83,
+     "total_2h": 1.2
+    },
+    "pct_ht": {
+     "over_05_1h": 57.1,
+     "over_15_1h": 20.0,
+     "over_05_2h": 74.3,
+     "over_15_2h": 34.3,
+     "btts_1h": 11.4,
+     "btts_2h": 11.4
     }
    },
    "away_season": {
@@ -4493,6 +4956,22 @@
      "btts": 45.7,
      "clean_sheet": 42.9,
      "failed_to_score": 20.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.63,
+     "ga_1h": 0.4,
+     "gf_2h": 1.03,
+     "ga_2h": 0.46,
+     "total_1h": 1.03,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 71.4,
+     "over_15_1h": 22.9,
+     "over_05_2h": 77.1,
+     "over_15_2h": 42.9,
+     "btts_1h": 14.3,
+     "btts_2h": 22.9
     }
    },
    "home_form_last5": [
@@ -4774,6 +5253,22 @@
      "btts": 58.8,
      "clean_sheet": 41.2,
      "failed_to_score": 0.0
+    },
+    "avg_ht": {
+     "gf_1h": 1.21,
+     "ga_1h": 0.56,
+     "gf_2h": 1.41,
+     "ga_2h": 0.35,
+     "total_1h": 1.76,
+     "total_2h": 1.76
+    },
+    "pct_ht": {
+     "over_05_1h": 82.4,
+     "over_15_1h": 55.9,
+     "over_05_2h": 91.2,
+     "over_15_2h": 50.0,
+     "btts_1h": 35.3,
+     "btts_2h": 20.6
     }
    },
    "away_season": {
@@ -4812,6 +5307,22 @@
      "btts": 58.8,
      "clean_sheet": 35.3,
      "failed_to_score": 8.8
+    },
+    "avg_ht": {
+     "gf_1h": 0.85,
+     "ga_1h": 0.32,
+     "gf_2h": 1.21,
+     "ga_2h": 0.59,
+     "total_1h": 1.18,
+     "total_2h": 1.79
+    },
+    "pct_ht": {
+     "over_05_1h": 67.6,
+     "over_15_1h": 29.4,
+     "over_05_2h": 88.2,
+     "over_15_2h": 55.9,
+     "btts_1h": 14.7,
+     "btts_2h": 35.3
     }
    },
    "home_form_last5": [
@@ -5081,7 +5592,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 32,
@@ -5119,6 +5632,22 @@
      "btts": 59.4,
      "clean_sheet": 15.6,
      "failed_to_score": 31.2
+    },
+    "avg_ht": {
+     "gf_1h": 0.56,
+     "ga_1h": 0.88,
+     "gf_2h": 0.56,
+     "ga_2h": 0.94,
+     "total_1h": 1.44,
+     "total_2h": 1.5
+    },
+    "pct_ht": {
+     "over_05_1h": 75.0,
+     "over_15_1h": 40.6,
+     "over_05_2h": 87.5,
+     "over_15_2h": 40.6,
+     "btts_1h": 21.9,
+     "btts_2h": 21.9
     }
    },
    "home_form_last5": [],
@@ -5272,6 +5801,22 @@
      "btts": 37.5,
      "clean_sheet": 31.2,
      "failed_to_score": 37.5
+    },
+    "avg_ht": {
+     "gf_1h": 0.28,
+     "ga_1h": 0.72,
+     "gf_2h": 0.56,
+     "ga_2h": 0.72,
+     "total_1h": 1.0,
+     "total_2h": 1.28
+    },
+    "pct_ht": {
+     "over_05_1h": 68.8,
+     "over_15_1h": 18.8,
+     "over_05_2h": 68.8,
+     "over_15_2h": 37.5,
+     "btts_1h": 6.2,
+     "btts_2h": 25.0
     }
    },
    "away_season": {
@@ -5310,6 +5855,22 @@
      "btts": 61.3,
      "clean_sheet": 29.0,
      "failed_to_score": 19.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.68,
+     "ga_1h": 0.45,
+     "gf_2h": 0.94,
+     "ga_2h": 0.87,
+     "total_1h": 1.13,
+     "total_2h": 1.81
+    },
+    "pct_ht": {
+     "over_05_1h": 71.0,
+     "over_15_1h": 32.3,
+     "over_05_2h": 83.9,
+     "over_15_2h": 45.2,
+     "btts_1h": 22.6,
+     "btts_2h": 32.3
     }
    },
    "home_form_last5": [
@@ -5563,7 +6124,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 32,
@@ -5601,6 +6164,22 @@
      "btts": 40.6,
      "clean_sheet": 37.5,
      "failed_to_score": 28.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.47,
+     "ga_1h": 0.41,
+     "gf_2h": 1.12,
+     "ga_2h": 0.69,
+     "total_1h": 0.88,
+     "total_2h": 1.81
+    },
+    "pct_ht": {
+     "over_05_1h": 65.6,
+     "over_15_1h": 18.8,
+     "over_05_2h": 71.9,
+     "over_15_2h": 50.0,
+     "btts_1h": 9.4,
+     "btts_2h": 34.4
     }
    },
    "home_form_last5": [],
@@ -5754,6 +6333,22 @@
      "btts": 53.1,
      "clean_sheet": 21.9,
      "failed_to_score": 40.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.41,
+     "ga_1h": 0.72,
+     "gf_2h": 0.53,
+     "ga_2h": 0.62,
+     "total_1h": 1.12,
+     "total_2h": 1.16
+    },
+    "pct_ht": {
+     "over_05_1h": 65.6,
+     "over_15_1h": 34.4,
+     "over_05_2h": 62.5,
+     "over_15_2h": 25.0,
+     "btts_1h": 28.1,
+     "btts_2h": 21.9
     }
    },
    "away_season": {
@@ -5792,6 +6387,22 @@
      "btts": 50.0,
      "clean_sheet": 25.0,
      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.75,
+     "ga_1h": 0.44,
+     "gf_2h": 1.09,
+     "ga_2h": 0.94,
+     "total_1h": 1.19,
+     "total_2h": 2.03
+    },
+    "pct_ht": {
+     "over_05_1h": 71.9,
+     "over_15_1h": 31.2,
+     "over_05_2h": 84.4,
+     "over_15_2h": 56.2,
+     "btts_1h": 12.5,
+     "btts_2h": 43.8
     }
    },
    "home_form_last5": [
@@ -6057,6 +6668,22 @@
      "btts": 53.1,
      "clean_sheet": 18.8,
      "failed_to_score": 40.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.44,
+     "ga_1h": 1.03,
+     "gf_2h": 0.56,
+     "ga_2h": 1.22,
+     "total_1h": 1.47,
+     "total_2h": 1.78
+    },
+    "pct_ht": {
+     "over_05_1h": 68.8,
+     "over_15_1h": 43.8,
+     "over_05_2h": 78.1,
+     "over_15_2h": 56.2,
+     "btts_1h": 31.2,
+     "btts_2h": 34.4
     }
    },
    "away_season": {
@@ -6095,6 +6722,22 @@
      "btts": 56.2,
      "clean_sheet": 18.8,
      "failed_to_score": 28.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.59,
+     "ga_1h": 0.5,
+     "gf_2h": 0.78,
+     "ga_2h": 1.03,
+     "total_1h": 1.09,
+     "total_2h": 1.81
+    },
+    "pct_ht": {
+     "over_05_1h": 68.8,
+     "over_15_1h": 21.9,
+     "over_05_2h": 87.5,
+     "over_15_2h": 50.0,
+     "btts_1h": 15.6,
+     "btts_2h": 37.5
     }
    },
    "home_form_last5": [
@@ -6332,7 +6975,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 31,
@@ -6370,6 +7015,22 @@
      "btts": 45.2,
      "clean_sheet": 29.0,
      "failed_to_score": 32.3
+    },
+    "avg_ht": {
+     "gf_1h": 0.68,
+     "ga_1h": 0.81,
+     "gf_2h": 0.65,
+     "ga_2h": 0.84,
+     "total_1h": 1.48,
+     "total_2h": 1.48
+    },
+    "pct_ht": {
+     "over_05_1h": 77.4,
+     "over_15_1h": 51.6,
+     "over_05_2h": 80.6,
+     "over_15_2h": 45.2,
+     "btts_1h": 19.4,
+     "btts_2h": 16.1
     }
    },
    "home_form_last5": [],
@@ -6495,7 +7156,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 32,
@@ -6533,6 +7196,22 @@
      "btts": 59.4,
      "clean_sheet": 25.0,
      "failed_to_score": 28.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.66,
+     "ga_1h": 0.66,
+     "gf_2h": 0.72,
+     "ga_2h": 0.81,
+     "total_1h": 1.31,
+     "total_2h": 1.53
+    },
+    "pct_ht": {
+     "over_05_1h": 75.0,
+     "over_15_1h": 43.8,
+     "over_05_2h": 68.8,
+     "over_15_2h": 43.8,
+     "btts_1h": 25.0,
+     "btts_2h": 34.4
     }
    },
    "home_form_last5": [],
@@ -6686,6 +7365,22 @@
      "btts": 46.9,
      "clean_sheet": 28.1,
      "failed_to_score": 31.2
+    },
+    "avg_ht": {
+     "gf_1h": 0.59,
+     "ga_1h": 0.69,
+     "gf_2h": 0.81,
+     "ga_2h": 0.72,
+     "total_1h": 1.28,
+     "total_2h": 1.53
+    },
+    "pct_ht": {
+     "over_05_1h": 71.9,
+     "over_15_1h": 34.4,
+     "over_05_2h": 71.9,
+     "over_15_2h": 43.8,
+     "btts_1h": 15.6,
+     "btts_2h": 21.9
     }
    },
    "away_season": {
@@ -6724,6 +7419,22 @@
      "btts": 50.0,
      "clean_sheet": 46.9,
      "failed_to_score": 15.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.84,
+     "ga_1h": 0.34,
+     "gf_2h": 0.78,
+     "ga_2h": 0.72,
+     "total_1h": 1.19,
+     "total_2h": 1.5
+    },
+    "pct_ht": {
+     "over_05_1h": 68.8,
+     "over_15_1h": 31.2,
+     "over_05_2h": 71.9,
+     "over_15_2h": 46.9,
+     "btts_1h": 21.9,
+     "btts_2h": 28.1
     }
    },
    "home_form_last5": [
@@ -6977,7 +7688,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 35,
@@ -7015,6 +7728,22 @@
      "btts": 42.9,
      "clean_sheet": 48.6,
      "failed_to_score": 25.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.74,
+     "ga_1h": 0.34,
+     "gf_2h": 0.94,
+     "ga_2h": 0.46,
+     "total_1h": 1.09,
+     "total_2h": 1.4
+    },
+    "pct_ht": {
+     "over_05_1h": 68.6,
+     "over_15_1h": 28.6,
+     "over_05_2h": 71.4,
+     "over_15_2h": 42.9,
+     "btts_1h": 20.0,
+     "btts_2h": 11.4
     }
    },
    "home_form_last5": [],
@@ -7168,6 +7897,22 @@
      "btts": 42.9,
      "clean_sheet": 25.7,
      "failed_to_score": 48.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.29,
+     "ga_1h": 0.77,
+     "gf_2h": 0.49,
+     "ga_2h": 0.74,
+     "total_1h": 1.06,
+     "total_2h": 1.23
+    },
+    "pct_ht": {
+     "over_05_1h": 60.0,
+     "over_15_1h": 37.1,
+     "over_05_2h": 71.4,
+     "over_15_2h": 37.1,
+     "btts_1h": 5.7,
+     "btts_2h": 17.1
     }
    },
    "away_season": {
@@ -7206,6 +7951,22 @@
      "btts": 42.9,
      "clean_sheet": 14.3,
      "failed_to_score": 54.3
+    },
+    "avg_ht": {
+     "gf_1h": 0.31,
+     "ga_1h": 0.71,
+     "gf_2h": 0.4,
+     "ga_2h": 1.09,
+     "total_1h": 1.03,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 54.3,
+     "over_15_1h": 28.6,
+     "over_05_2h": 74.3,
+     "over_15_2h": 42.9,
+     "btts_1h": 17.1,
+     "btts_2h": 25.7
     }
    },
    "home_form_last5": [
@@ -7439,6 +8200,22 @@
      "btts": 60.0,
      "clean_sheet": 22.9,
      "failed_to_score": 28.6
+    },
+    "avg_ht": {
+     "gf_1h": 0.43,
+     "ga_1h": 0.57,
+     "gf_2h": 0.66,
+     "ga_2h": 0.83,
+     "total_1h": 1.0,
+     "total_2h": 1.49
+    },
+    "pct_ht": {
+     "over_05_1h": 65.7,
+     "over_15_1h": 22.9,
+     "over_05_2h": 77.1,
+     "over_15_2h": 48.6,
+     "btts_1h": 8.6,
+     "btts_2h": 40.0
     }
    },
    "away_season": {
@@ -7477,6 +8254,22 @@
      "btts": 54.3,
      "clean_sheet": 22.9,
      "failed_to_score": 37.1
+    },
+    "avg_ht": {
+     "gf_1h": 0.46,
+     "ga_1h": 0.63,
+     "gf_2h": 0.69,
+     "ga_2h": 0.74,
+     "total_1h": 1.09,
+     "total_2h": 1.43
+    },
+    "pct_ht": {
+     "over_05_1h": 65.7,
+     "over_15_1h": 31.4,
+     "over_05_2h": 80.0,
+     "over_15_2h": 42.9,
+     "btts_1h": 17.1,
+     "btts_2h": 28.6
     }
    },
    "home_form_last5": [
@@ -7758,6 +8551,22 @@
      "btts": 40.0,
      "clean_sheet": 34.3,
      "failed_to_score": 42.9
+    },
+    "avg_ht": {
+     "gf_1h": 0.29,
+     "ga_1h": 0.46,
+     "gf_2h": 0.43,
+     "ga_2h": 0.74,
+     "total_1h": 0.74,
+     "total_2h": 1.17
+    },
+    "pct_ht": {
+     "over_05_1h": 51.4,
+     "over_15_1h": 20.0,
+     "over_05_2h": 74.3,
+     "over_15_2h": 34.3,
+     "btts_1h": 14.3,
+     "btts_2h": 17.1
     }
    },
    "away_season": {
@@ -7768,7 +8577,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -7893,7 +8704,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 35,
@@ -7931,6 +8744,22 @@
      "btts": 51.4,
      "clean_sheet": 37.1,
      "failed_to_score": 20.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.63,
+     "ga_1h": 0.49,
+     "gf_2h": 0.71,
+     "ga_2h": 0.43,
+     "total_1h": 1.11,
+     "total_2h": 1.14
+    },
+    "pct_ht": {
+     "over_05_1h": 74.3,
+     "over_15_1h": 25.7,
+     "over_05_2h": 71.4,
+     "over_15_2h": 34.3,
+     "btts_1h": 11.4,
+     "btts_2h": 22.9
     }
    },
    "home_form_last5": [],
@@ -8084,6 +8913,22 @@
      "btts": 60.0,
      "clean_sheet": 22.9,
      "failed_to_score": 20.0
+    },
+    "avg_ht": {
+     "gf_1h": 0.54,
+     "ga_1h": 0.83,
+     "gf_2h": 0.74,
+     "ga_2h": 0.71,
+     "total_1h": 1.37,
+     "total_2h": 1.46
+    },
+    "pct_ht": {
+     "over_05_1h": 80.0,
+     "over_15_1h": 45.7,
+     "over_05_2h": 80.0,
+     "over_15_2h": 45.7,
+     "btts_1h": 22.9,
+     "btts_2h": 28.6
     }
    },
    "away_season": {
@@ -8094,7 +8939,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -8219,7 +9066,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 34,
@@ -8257,6 +9106,22 @@
      "btts": 58.8,
      "clean_sheet": 17.6,
      "failed_to_score": 26.5
+    },
+    "avg_ht": {
+     "gf_1h": 0.47,
+     "ga_1h": 0.53,
+     "gf_2h": 0.59,
+     "ga_2h": 0.97,
+     "total_1h": 1.0,
+     "total_2h": 1.56
+    },
+    "pct_ht": {
+     "over_05_1h": 73.5,
+     "over_15_1h": 17.6,
+     "over_05_2h": 85.3,
+     "over_15_2h": 47.1,
+     "btts_1h": 8.8,
+     "btts_2h": 32.4
     }
    },
    "home_form_last5": [],
@@ -8382,7 +9247,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 34,
@@ -8420,6 +9287,22 @@
      "btts": 47.1,
      "clean_sheet": 23.5,
      "failed_to_score": 35.3
+    },
+    "avg_ht": {
+     "gf_1h": 0.41,
+     "ga_1h": 0.65,
+     "gf_2h": 0.71,
+     "ga_2h": 0.97,
+     "total_1h": 1.06,
+     "total_2h": 1.68
+    },
+    "pct_ht": {
+     "over_05_1h": 67.6,
+     "over_15_1h": 29.4,
+     "over_05_2h": 88.2,
+     "over_15_2h": 50.0,
+     "btts_1h": 8.8,
+     "btts_2h": 23.5
     }
    },
    "home_form_last5": [],
@@ -8545,7 +9428,9 @@
     "ga": 0,
     "avg": {},
     "avg_home": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "away_season": {
     "mp": 34,
@@ -8583,6 +9468,22 @@
      "btts": 70.6,
      "clean_sheet": 20.6,
      "failed_to_score": 14.7
+    },
+    "avg_ht": {
+     "gf_1h": 0.5,
+     "ga_1h": 0.68,
+     "gf_2h": 0.82,
+     "ga_2h": 0.88,
+     "total_1h": 1.18,
+     "total_2h": 1.71
+    },
+    "pct_ht": {
+     "over_05_1h": 61.8,
+     "over_15_1h": 38.2,
+     "over_05_2h": 88.2,
+     "over_15_2h": 47.1,
+     "btts_1h": 26.5,
+     "btts_2h": 35.3
     }
    },
    "home_form_last5": [],
@@ -8736,6 +9637,22 @@
      "btts": 48.6,
      "clean_sheet": 37.1,
      "failed_to_score": 22.9
+    },
+    "avg_ht": {
+     "gf_1h": 0.77,
+     "ga_1h": 0.37,
+     "gf_2h": 0.71,
+     "ga_2h": 0.57,
+     "total_1h": 1.14,
+     "total_2h": 1.29
+    },
+    "pct_ht": {
+     "over_05_1h": 77.1,
+     "over_15_1h": 28.6,
+     "over_05_2h": 74.3,
+     "over_15_2h": 45.7,
+     "btts_1h": 8.6,
+     "btts_2h": 28.6
     }
    },
    "away_season": {
@@ -8774,6 +9691,22 @@
      "btts": 42.9,
      "clean_sheet": 31.4,
      "failed_to_score": 31.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.49,
+     "ga_1h": 0.43,
+     "gf_2h": 0.71,
+     "ga_2h": 0.74,
+     "total_1h": 0.91,
+     "total_2h": 1.46
+    },
+    "pct_ht": {
+     "over_05_1h": 51.4,
+     "over_15_1h": 28.6,
+     "over_05_2h": 85.7,
+     "over_15_2h": 37.1,
+     "btts_1h": 14.3,
+     "btts_2h": 25.7
     }
    },
    "home_form_last5": [
@@ -9071,6 +10004,22 @@
      "btts": 52.9,
      "clean_sheet": 20.6,
      "failed_to_score": 32.4
+    },
+    "avg_ht": {
+     "gf_1h": 0.56,
+     "ga_1h": 0.38,
+     "gf_2h": 0.62,
+     "ga_2h": 0.85,
+     "total_1h": 0.94,
+     "total_2h": 1.47
+    },
+    "pct_ht": {
+     "over_05_1h": 61.8,
+     "over_15_1h": 26.5,
+     "over_05_2h": 76.5,
+     "over_15_2h": 44.1,
+     "btts_1h": 17.6,
+     "btts_2h": 29.4
     }
    },
    "away_season": {
@@ -9081,7 +10030,9 @@
     "ga": 0,
     "avg": {},
     "avg_away": {},
-    "pct": {}
+    "pct": {},
+    "avg_ht": {},
+    "pct_ht": {}
    },
    "home_form_last5": [
     {
@@ -16466,5 +17417,477 @@
    "time": "21:00 CET",
    "competition": "ligue1"
   }
- ]
+ ],
+ "player_stats": {
+  "laliga": [],
+  "segunda": [],
+  "epl": [],
+  "bundesliga": [],
+  "seriea": [],
+  "ligue1": []
+ },
+ "event_timing": {
+  "laliga": {
+   "Girona": {
+    "mp": 33,
+    "goals_scored_1h": 13,
+    "goals_scored_2h": 15,
+    "goals_conceded_1h": 16,
+    "goals_conceded_2h": 29,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 9.1,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 6.1,
+    "goals_last_10": 6,
+    "goals_last_10_pct": 18.2,
+    "cards_1h": 14,
+    "cards_2h": 61,
+    "cards_first_30": 8,
+    "cards_first_30_pct": 24.2,
+    "opponent_cards_1h": 17,
+    "opponent_cards_2h": 48,
+    "first_goal_avg_min": 41.9,
+    "first_card_avg_min": 53.4,
+    "matches_with_first_goal_data": 22,
+    "matches_with_first_card_data": 29
+   },
+   "Rayo Vallecano": {
+    "mp": 34,
+    "goals_scored_1h": 13,
+    "goals_scored_2h": 19,
+    "goals_conceded_1h": 15,
+    "goals_conceded_2h": 20,
+    "goals_first_10": 1,
+    "goals_first_10_pct": 2.9,
+    "goals_conceded_first_10": 1,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 6,
+    "goals_last_10_pct": 17.6,
+    "cards_1h": 27,
+    "cards_2h": 76,
+    "cards_first_30": 13,
+    "cards_first_30_pct": 38.2,
+    "opponent_cards_1h": 28,
+    "opponent_cards_2h": 55,
+    "first_goal_avg_min": 50.5,
+    "first_card_avg_min": 44.7,
+    "matches_with_first_goal_data": 22,
+    "matches_with_first_card_data": 33
+   },
+   "Villarreal": {
+    "mp": 34,
+    "goals_scored_1h": 25,
+    "goals_scored_2h": 34,
+    "goals_conceded_1h": 7,
+    "goals_conceded_2h": 25,
+    "goals_first_10": 4,
+    "goals_first_10_pct": 11.8,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 8,
+    "goals_last_10_pct": 23.5,
+    "cards_1h": 24,
+    "cards_2h": 54,
+    "cards_first_30": 15,
+    "cards_first_30_pct": 44.1,
+    "opponent_cards_1h": 25,
+    "opponent_cards_2h": 50,
+    "first_goal_avg_min": 42.2,
+    "first_card_avg_min": 42.2,
+    "matches_with_first_goal_data": 28,
+    "matches_with_first_card_data": 32
+   },
+   "Real Oviedo": {
+    "mp": 34,
+    "goals_scored_1h": 10,
+    "goals_scored_2h": 14,
+    "goals_conceded_1h": 20,
+    "goals_conceded_2h": 29,
+    "goals_first_10": 2,
+    "goals_first_10_pct": 5.9,
+    "goals_conceded_first_10": 5,
+    "goals_conceded_first_10_pct": 14.7,
+    "goals_last_10": 4,
+    "goals_last_10_pct": 11.8,
+    "cards_1h": 22,
+    "cards_2h": 57,
+    "cards_first_30": 8,
+    "cards_first_30_pct": 23.5,
+    "opponent_cards_1h": 17,
+    "opponent_cards_2h": 36,
+    "first_goal_avg_min": 46.6,
+    "first_card_avg_min": 47.4,
+    "matches_with_first_goal_data": 17,
+    "matches_with_first_card_data": 33
+   },
+   "Mallorca": {
+    "mp": 34,
+    "goals_scored_1h": 15,
+    "goals_scored_2h": 22,
+    "goals_conceded_1h": 23,
+    "goals_conceded_2h": 23,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 5.9,
+    "goals_conceded_first_10": 5,
+    "goals_conceded_first_10_pct": 11.8,
+    "goals_last_10": 7,
+    "goals_last_10_pct": 20.6,
+    "cards_1h": 25,
+    "cards_2h": 52,
+    "cards_first_30": 14,
+    "cards_first_30_pct": 41.2,
+    "opponent_cards_1h": 18,
+    "opponent_cards_2h": 60,
+    "first_goal_avg_min": 45.2,
+    "first_card_avg_min": 39.8,
+    "matches_with_first_goal_data": 25,
+    "matches_with_first_card_data": 28
+   },
+   "Barcelona": {
+    "mp": 34,
+    "goals_scored_1h": 32,
+    "goals_scored_2h": 50,
+    "goals_conceded_1h": 16,
+    "goals_conceded_2h": 12,
+    "goals_first_10": 7,
+    "goals_first_10_pct": 17.6,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 5.9,
+    "goals_last_10": 19,
+    "goals_last_10_pct": 55.9,
+    "cards_1h": 17,
+    "cards_2h": 39,
+    "cards_first_30": 7,
+    "cards_first_30_pct": 20.6,
+    "opponent_cards_1h": 35,
+    "opponent_cards_2h": 56,
+    "first_goal_avg_min": 36.6,
+    "first_card_avg_min": 47.7,
+    "matches_with_first_goal_data": 32,
+    "matches_with_first_card_data": 26
+   },
+   "Alav\u00e9s": {
+    "mp": 34,
+    "goals_scored_1h": 12,
+    "goals_scored_2h": 22,
+    "goals_conceded_1h": 19,
+    "goals_conceded_2h": 29,
+    "goals_first_10": 6,
+    "goals_first_10_pct": 17.6,
+    "goals_conceded_first_10": 4,
+    "goals_conceded_first_10_pct": 8.8,
+    "goals_last_10": 7,
+    "goals_last_10_pct": 20.6,
+    "cards_1h": 27,
+    "cards_2h": 58,
+    "cards_first_30": 14,
+    "cards_first_30_pct": 41.2,
+    "opponent_cards_1h": 25,
+    "opponent_cards_2h": 48,
+    "first_goal_avg_min": 44.3,
+    "first_card_avg_min": 37.1,
+    "matches_with_first_goal_data": 21,
+    "matches_with_first_card_data": 32
+   },
+   "Levante": {
+    "mp": 34,
+    "goals_scored_1h": 12,
+    "goals_scored_2h": 24,
+    "goals_conceded_1h": 19,
+    "goals_conceded_2h": 33,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 5.9,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 5.9,
+    "goals_last_10": 10,
+    "goals_last_10_pct": 29.4,
+    "cards_1h": 26,
+    "cards_2h": 55,
+    "cards_first_30": 15,
+    "cards_first_30_pct": 44.1,
+    "opponent_cards_1h": 25,
+    "opponent_cards_2h": 63,
+    "first_goal_avg_min": 44.5,
+    "first_card_avg_min": 39.3,
+    "matches_with_first_goal_data": 21,
+    "matches_with_first_card_data": 32
+   },
+   "Valencia": {
+    "mp": 34,
+    "goals_scored_1h": 7,
+    "goals_scored_2h": 25,
+    "goals_conceded_1h": 10,
+    "goals_conceded_2h": 34,
+    "goals_first_10": 1,
+    "goals_first_10_pct": 2.9,
+    "goals_conceded_first_10": 1,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 8,
+    "goals_last_10_pct": 23.5,
+    "cards_1h": 16,
+    "cards_2h": 51,
+    "cards_first_30": 7,
+    "cards_first_30_pct": 20.6,
+    "opponent_cards_1h": 24,
+    "opponent_cards_2h": 61,
+    "first_goal_avg_min": 51.6,
+    "first_card_avg_min": 53.4,
+    "matches_with_first_goal_data": 22,
+    "matches_with_first_card_data": 34
+   },
+   "Real Sociedad": {
+    "mp": 34,
+    "goals_scored_1h": 18,
+    "goals_scored_2h": 27,
+    "goals_conceded_1h": 22,
+    "goals_conceded_2h": 26,
+    "goals_first_10": 1,
+    "goals_first_10_pct": 0.0,
+    "goals_conceded_first_10": 6,
+    "goals_conceded_first_10_pct": 17.6,
+    "goals_last_10": 9,
+    "goals_last_10_pct": 26.5,
+    "cards_1h": 23,
+    "cards_2h": 53,
+    "cards_first_30": 12,
+    "cards_first_30_pct": 35.3,
+    "opponent_cards_1h": 21,
+    "opponent_cards_2h": 68,
+    "first_goal_avg_min": 39.3,
+    "first_card_avg_min": 43.7,
+    "matches_with_first_goal_data": 26,
+    "matches_with_first_card_data": 33
+   },
+   "Celta Vigo": {
+    "mp": 34,
+    "goals_scored_1h": 16,
+    "goals_scored_2h": 24,
+    "goals_conceded_1h": 13,
+    "goals_conceded_2h": 25,
+    "goals_first_10": 1,
+    "goals_first_10_pct": 2.9,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 5.9,
+    "goals_last_10": 10,
+    "goals_last_10_pct": 29.4,
+    "cards_1h": 17,
+    "cards_2h": 51,
+    "cards_first_30": 7,
+    "cards_first_30_pct": 20.6,
+    "opponent_cards_1h": 21,
+    "opponent_cards_2h": 65,
+    "first_goal_avg_min": 43.3,
+    "first_card_avg_min": 51.2,
+    "matches_with_first_goal_data": 23,
+    "matches_with_first_card_data": 32
+   },
+   "Getafe": {
+    "mp": 34,
+    "goals_scored_1h": 6,
+    "goals_scored_2h": 20,
+    "goals_conceded_1h": 11,
+    "goals_conceded_2h": 24,
+    "goals_first_10": 0,
+    "goals_first_10_pct": 0.0,
+    "goals_conceded_first_10": 1,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 4,
+    "goals_last_10_pct": 11.8,
+    "cards_1h": 36,
+    "cards_2h": 69,
+    "cards_first_30": 15,
+    "cards_first_30_pct": 44.1,
+    "opponent_cards_1h": 17,
+    "opponent_cards_2h": 65,
+    "first_goal_avg_min": 50.5,
+    "first_card_avg_min": 38.1,
+    "matches_with_first_goal_data": 19,
+    "matches_with_first_card_data": 33
+   },
+   "Athletic Club": {
+    "mp": 34,
+    "goals_scored_1h": 15,
+    "goals_scored_2h": 20,
+    "goals_conceded_1h": 17,
+    "goals_conceded_2h": 30,
+    "goals_first_10": 2,
+    "goals_first_10_pct": 2.9,
+    "goals_conceded_first_10": 6,
+    "goals_conceded_first_10_pct": 17.6,
+    "goals_last_10": 11,
+    "goals_last_10_pct": 32.4,
+    "cards_1h": 18,
+    "cards_2h": 61,
+    "cards_first_30": 10,
+    "cards_first_30_pct": 29.4,
+    "opponent_cards_1h": 20,
+    "opponent_cards_2h": 53,
+    "first_goal_avg_min": 46.6,
+    "first_card_avg_min": 44.3,
+    "matches_with_first_goal_data": 22,
+    "matches_with_first_card_data": 29
+   },
+   "Sevilla": {
+    "mp": 33,
+    "goals_scored_1h": 12,
+    "goals_scored_2h": 23,
+    "goals_conceded_1h": 14,
+    "goals_conceded_2h": 31,
+    "goals_first_10": 2,
+    "goals_first_10_pct": 6.1,
+    "goals_conceded_first_10": 0,
+    "goals_conceded_first_10_pct": 0.0,
+    "goals_last_10": 8,
+    "goals_last_10_pct": 24.2,
+    "cards_1h": 26,
+    "cards_2h": 72,
+    "cards_first_30": 14,
+    "cards_first_30_pct": 42.4,
+    "opponent_cards_1h": 21,
+    "opponent_cards_2h": 52,
+    "first_goal_avg_min": 45.8,
+    "first_card_avg_min": 41.3,
+    "matches_with_first_goal_data": 24,
+    "matches_with_first_card_data": 33
+   },
+   "Espanyol": {
+    "mp": 34,
+    "goals_scored_1h": 10,
+    "goals_scored_2h": 24,
+    "goals_conceded_1h": 17,
+    "goals_conceded_2h": 29,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 8.8,
+    "goals_conceded_first_10": 3,
+    "goals_conceded_first_10_pct": 8.8,
+    "goals_last_10": 8,
+    "goals_last_10_pct": 23.5,
+    "cards_1h": 22,
+    "cards_2h": 63,
+    "cards_first_30": 11,
+    "cards_first_30_pct": 32.4,
+    "opponent_cards_1h": 24,
+    "opponent_cards_2h": 63,
+    "first_goal_avg_min": 46.6,
+    "first_card_avg_min": 45.2,
+    "matches_with_first_goal_data": 24,
+    "matches_with_first_card_data": 31
+   },
+   "Atl\u00e9tico Madrid": {
+    "mp": 34,
+    "goals_scored_1h": 24,
+    "goals_scored_2h": 32,
+    "goals_conceded_1h": 13,
+    "goals_conceded_2h": 20,
+    "goals_first_10": 8,
+    "goals_first_10_pct": 23.5,
+    "goals_conceded_first_10": 2,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 12,
+    "goals_last_10_pct": 35.3,
+    "cards_1h": 30,
+    "cards_2h": 45,
+    "cards_first_30": 14,
+    "cards_first_30_pct": 41.2,
+    "opponent_cards_1h": 14,
+    "opponent_cards_2h": 55,
+    "first_goal_avg_min": 32.4,
+    "first_card_avg_min": 38.5,
+    "matches_with_first_goal_data": 30,
+    "matches_with_first_card_data": 28
+   },
+   "Elche": {
+    "mp": 34,
+    "goals_scored_1h": 16,
+    "goals_scored_2h": 25,
+    "goals_conceded_1h": 23,
+    "goals_conceded_2h": 25,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 8.8,
+    "goals_conceded_first_10": 8,
+    "goals_conceded_first_10_pct": 23.5,
+    "goals_last_10": 8,
+    "goals_last_10_pct": 23.5,
+    "cards_1h": 21,
+    "cards_2h": 51,
+    "cards_first_30": 8,
+    "cards_first_30_pct": 23.5,
+    "opponent_cards_1h": 22,
+    "opponent_cards_2h": 53,
+    "first_goal_avg_min": 44.3,
+    "first_card_avg_min": 47.0,
+    "matches_with_first_goal_data": 27,
+    "matches_with_first_card_data": 31
+   },
+   "Real Betis": {
+    "mp": 34,
+    "goals_scored_1h": 20,
+    "goals_scored_2h": 30,
+    "goals_conceded_1h": 21,
+    "goals_conceded_2h": 17,
+    "goals_first_10": 4,
+    "goals_first_10_pct": 11.8,
+    "goals_conceded_first_10": 6,
+    "goals_conceded_first_10_pct": 14.7,
+    "goals_last_10": 10,
+    "goals_last_10_pct": 29.4,
+    "cards_1h": 21,
+    "cards_2h": 47,
+    "cards_first_30": 9,
+    "cards_first_30_pct": 26.5,
+    "opponent_cards_1h": 21,
+    "opponent_cards_2h": 66,
+    "first_goal_avg_min": 44.8,
+    "first_card_avg_min": 49.1,
+    "matches_with_first_goal_data": 30,
+    "matches_with_first_card_data": 29
+   },
+   "Real Madrid": {
+    "mp": 34,
+    "goals_scored_1h": 27,
+    "goals_scored_2h": 31,
+    "goals_conceded_1h": 8,
+    "goals_conceded_2h": 19,
+    "goals_first_10": 2,
+    "goals_first_10_pct": 5.9,
+    "goals_conceded_first_10": 0,
+    "goals_conceded_first_10_pct": 0.0,
+    "goals_last_10": 12,
+    "goals_last_10_pct": 35.3,
+    "cards_1h": 17,
+    "cards_2h": 53,
+    "cards_first_30": 4,
+    "cards_first_30_pct": 11.8,
+    "opponent_cards_1h": 23,
+    "opponent_cards_2h": 67,
+    "first_goal_avg_min": 38.8,
+    "first_card_avg_min": 53.3,
+    "matches_with_first_goal_data": 29,
+    "matches_with_first_card_data": 32
+   },
+   "Osasuna": {
+    "mp": 34,
+    "goals_scored_1h": 12,
+    "goals_scored_2h": 22,
+    "goals_conceded_1h": 11,
+    "goals_conceded_2h": 23,
+    "goals_first_10": 3,
+    "goals_first_10_pct": 8.8,
+    "goals_conceded_first_10": 1,
+    "goals_conceded_first_10_pct": 2.9,
+    "goals_last_10": 14,
+    "goals_last_10_pct": 41.2,
+    "cards_1h": 23,
+    "cards_2h": 66,
+    "cards_first_30": 8,
+    "cards_first_30_pct": 23.5,
+    "opponent_cards_1h": 34,
+    "opponent_cards_2h": 50,
+    "first_goal_avg_min": 48.0,
+    "first_card_avg_min": 47.6,
+    "matches_with_first_goal_data": 21,
+    "matches_with_first_card_data": 33
+   }
+  }
+ }
 }
