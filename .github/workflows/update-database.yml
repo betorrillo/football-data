@@ -25,6 +25,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
 
@@ -37,55 +38,60 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run update scripts
+      - name: Update matches
+        if: contains(fromJSON('["all","matches"]'), github.event.inputs.scope || 'all')
         run: |
-          SCOPE="${{ github.event.inputs.scope || 'all' }}"
-          echo "=== Scope: $SCOPE ==="
+          echo "--- Updating matches ---"
+          timeout 120 python3 scripts/update_all.py --matches
 
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "matches" ]; then
-            echo "--- Updating matches ---"
-            python3 scripts/update_all.py --matches
-          fi
+      - name: Update referees
+        if: contains(fromJSON('["all","referees"]'), github.event.inputs.scope || 'all')
+        run: |
+          echo "--- Updating referees ---"
+          timeout 120 python3 scripts/scrape_referees.py || echo "⚠️ Referees failed/timeout (non-blocking)"
 
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "referees" ]; then
-            echo "--- Updating referees ---"
-            python3 scripts/scrape_referees.py
-          fi
+      - name: Update injuries
+        if: contains(fromJSON('["all","injuries"]'), github.event.inputs.scope || 'all')
+        run: |
+          echo "--- Updating injuries ---"
+          timeout 120 python3 scripts/scrape_injuries.py || echo "⚠️ Injuries failed/timeout (non-blocking)"
 
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "injuries" ]; then
-            echo "--- Updating injuries ---"
-            python3 scripts/scrape_injuries.py
-          fi
+      - name: Update stats
+        if: contains(fromJSON('["all","stats"]'), github.event.inputs.scope || 'all')
+        run: |
+          echo "--- Updating stats ---"
+          timeout 60 python3 scripts/update_all.py --stats || echo "⚠️ Stats failed/timeout (non-blocking)"
 
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "stats" ]; then
-            echo "--- Updating stats ---"
-            python3 scripts/update_all.py --stats
-          fi
+      - name: Update fixtures
+        if: contains(fromJSON('["all","fixtures"]'), github.event.inputs.scope || 'all')
+        run: |
+          echo "--- Updating fixtures ---"
+          timeout 60 python3 scripts/update_all.py --fixtures || echo "⚠️ Fixtures failed/timeout (non-blocking)"
 
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "fixtures" ]; then
-            echo "--- Updating fixtures ---"
-            python3 scripts/update_all.py --fixtures
-          fi
+      - name: Update player stats (FotMob)
+        if: contains(fromJSON('["all","players"]'), github.event.inputs.scope || 'all')
+        run: |
+          echo "--- Updating player stats (FotMob) ---"
+          timeout 300 python3 scripts/scrape_player_stats.py || echo "⚠️ Player stats failed/timeout (non-blocking)"
 
-          # Player stats from FotMob (all leagues, ~2 min)
-          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "players" ]; then
-            echo "--- Updating player stats (FotMob) ---"
-            python3 scripts/scrape_player_stats.py || echo "Player stats failed (non-blocking)"
-          fi
+      - name: Update match events (ESPN)
+        if: github.event.inputs.scope == 'all' || github.event.inputs.scope == ''
+        run: |
+          echo "--- Updating match events ---"
+          timeout 180 python3 scripts/scrape_match_events.py || echo "⚠️ Match events failed/timeout (non-blocking)"
 
-          # Match events from ESPN API
-          if [ "$SCOPE" = "all" ]; then
-            echo "--- Updating match events ---"
-            python3 scripts/scrape_match_events.py || echo "Match events failed (non-blocking)"
-          fi
-
-          # Always rebuild analysis pack and status
+      - name: Build analysis pack
+        run: |
           echo "--- Building analysis pack ---"
           python3 scripts/build_analysis_pack.py
 
+      - name: Build probable lineups
+        run: |
           echo "--- Building probable lineups ---"
-          python3 scripts/build_probable_lineups.py
+          python3 scripts/build_probable_lineups.py || echo "⚠️ Lineups failed (non-blocking)"
 
+      - name: Build agent bundle
+        run: |
           echo "--- Building agent bundle ---"
           python3 scripts/build_agent_bundle.py
 
@@ -114,4 +120,4 @@ jobs:
         env:
           GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
           GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
-        run: python3 scripts/upload_to_drive.py
+        run: timeout 60 python3 scripts/upload_to_drive.py
