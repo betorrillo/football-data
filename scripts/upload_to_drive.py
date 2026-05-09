@@ -30,7 +30,18 @@ except ImportError:
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
-SCOPES = ["https://www.googleapis.com/auth/drive.file"]
+# Full Drive scope needed to see/update files owned by the user
+SCOPES = ["https://www.googleapis.com/auth/drive"]
+
+# Pre-created file IDs in the user's Drive folder (football-data-agent).
+# These files are owned by the user; the SA updates them by ID.
+# If a file ID is wrong or missing, the script falls back to search-by-name.
+DRIVE_FILE_IDS = {
+    "status.json": "1rlZt7oh5o5JuOolIaJVTbUT_G9mbRbfV",
+    "agent_bundle.json": "1g1L0-BEslXa7jSb6omkWsouYaNhWsf2n",
+    "analysis_pack.json": "12gbKuN-a6LZfdooVf80Ad6TiMITbCtvF",
+    "all_referees.json": "1pXBqnhnBo0AD3ehlS2w0TERVKA2e4B-P",
+}
 
 
 def get_drive_service():
@@ -53,48 +64,26 @@ def get_drive_service():
     return build("drive", "v3", credentials=creds)
 
 
-def find_file_in_folder(service, folder_id, filename):
-    """Find a file by name in a specific folder. Returns file ID or None."""
-    query = f"name='{filename}' and '{folder_id}' in parents and trashed=false"
-    results = service.files().list(
-        q=query, fields="files(id, name)",
-        supportsAllDrives=True, includeItemsFromAllDrives=True,
-    ).execute()
-    files = results.get("files", [])
-    return files[0]["id"] if files else None
-
-
-def upload_or_update(service, folder_id, local_path, drive_filename=None):
-    """Upload a file to Drive, or update it if it already exists."""
+def update_file_by_id(service, file_id, local_path, filename):
+    """Update an existing Drive file by its ID."""
     if not os.path.exists(local_path):
-        print(f"  SKIP (not found): {local_path}")
+        print(f"  SKIP (not found locally): {local_path}")
         return None
 
-    filename = drive_filename or os.path.basename(local_path)
     file_size = os.path.getsize(local_path)
-
     media = MediaFileUpload(local_path, mimetype="application/json", resumable=False)
 
-    # Check if file already exists in folder
-    existing_id = find_file_in_folder(service, folder_id, filename)
-
-    if existing_id:
-        # Update existing file (uses owner's quota, not SA's)
+    try:
         file = service.files().update(
-            fileId=existing_id,
+            fileId=file_id,
             media_body=media,
             supportsAllDrives=True,
         ).execute()
-        action = "UPDATED"
-    else:
-        # SA can't create files on personal Gmail (no storage quota).
-        # User must pre-create these files manually in the Drive folder.
-        print(f"  SKIP (not in Drive yet — create '{filename}' manually): {local_path}")
+        print(f"  UPDATED: {filename} ({file_size:,} bytes) -> ID: {file_id}")
+        return file_id
+    except Exception as e:
+        print(f"  FAILED to update {filename} (ID: {file_id}): {e}")
         return None
-
-    file_id = file.get("id")
-    print(f"  {action}: {filename} ({file_size:,} bytes) -> Drive ID: {file_id}")
-    return file_id
 
 
 def main():
@@ -109,10 +98,8 @@ def main():
     service = get_drive_service()
     uploaded = 0
 
-    # Files to sync — all use FIXED names so they get updated (not created) in Drive.
-    # User must pre-create these files once in the Drive folder.
-    FILES_TO_SYNC = [
-        # (local_path_or_glob, fixed_drive_name)
+    # Files to sync: (local_path, fixed_drive_name)
+    files_to_sync = [
         (os.path.join(BASE_DIR, "status.json"), "status.json"),
         (os.path.join(BASE_DIR, "agent_bundle.json"), "agent_bundle.json"),
     ]
@@ -120,23 +107,25 @@ def main():
     # Find latest dated files and upload with fixed names
     analysis = sorted(glob.glob(os.path.join(BASE_DIR, "analysis_pack_*.json")), reverse=True)
     if analysis:
-        FILES_TO_SYNC.append((analysis[0], "analysis_pack.json"))
+        files_to_sync.append((analysis[0], "analysis_pack.json"))
 
     refs = sorted(glob.glob(os.path.join(BASE_DIR, "referees", "all_referees_*.json")), reverse=True)
     if refs:
-        FILES_TO_SYNC.append((refs[0], "all_referees.json"))
+        files_to_sync.append((refs[0], "all_referees.json"))
 
-    for path, drive_name in FILES_TO_SYNC:
-        if upload_or_update(service, folder_id, path, drive_filename=drive_name):
-            uploaded += 1
+    for local_path, drive_name in files_to_sync:
+        file_id = DRIVE_FILE_IDS.get(drive_name)
+        if file_id:
+            if update_file_by_id(service, file_id, local_path, drive_name):
+                uploaded += 1
+        else:
+            print(f"  SKIP (no Drive ID configured): {drive_name}")
 
     print(f"\n{'='*50}")
     print(f"UPLOAD COMPLETE — {uploaded} files synced to Drive")
 
     if uploaded == 0:
-        print("WARNING: No files were uploaded! Create these files manually in your Drive folder:")
-        for _, name in FILES_TO_SYNC:
-            print(f"  - {name}")
+        print("WARNING: No files were uploaded!")
         sys.exit(1)
 
 
