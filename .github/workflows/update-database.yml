@@ -78,7 +78,7 @@ jobs:
         if: github.event.inputs.scope == 'all' || github.event.inputs.scope == ''
         run: |
           echo "--- Updating match events ---"
-          timeout 180 python3 scripts/scrape_match_events.py || echo "⚠️ Match events failed/timeout (non-blocking)"
+          timeout 300 python3 scripts/scrape_match_events.py || echo "⚠️ Match events failed/timeout (non-blocking)"
 
       - name: Fetch API data (football-data.org)
         if: github.event.inputs.scope == 'all' || github.event.inputs.scope == ''
