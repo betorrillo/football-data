@@ -74,6 +74,9 @@ jobs:
           echo "--- Building probable lineups ---"
           python3 scripts/build_probable_lineups.py
 
+          echo "--- Building agent bundle ---"
+          python3 scripts/build_agent_bundle.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
