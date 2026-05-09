@@ -13,6 +13,8 @@ on:
           - all
           - matches
           - stats
+          - referees
+          - injuries
           - fixtures
 
   # Automatic: Tuesday and Friday at 10:00 AM CET
@@ -35,15 +37,42 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run update script
+      - name: Run update scripts
         run: |
           SCOPE="${{ github.event.inputs.scope || 'all' }}"
-          case "$SCOPE" in
-            matches)  python3 scripts/update_all.py --matches ;;
-            stats)    python3 scripts/update_all.py --stats ;;
-            fixtures) python3 scripts/update_all.py --fixtures ;;
-            *)        python3 scripts/update_all.py ;;
-          esac
+          echo "=== Scope: $SCOPE ==="
+
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "matches" ]; then
+            echo "--- Updating matches ---"
+            python3 scripts/update_all.py --matches
+          fi
+
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "referees" ]; then
+            echo "--- Updating referees ---"
+            python3 scripts/scrape_referees.py
+          fi
+
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "injuries" ]; then
+            echo "--- Updating injuries ---"
+            python3 scripts/scrape_injuries.py
+          fi
+
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "stats" ]; then
+            echo "--- Updating stats ---"
+            python3 scripts/update_all.py --stats
+          fi
+
+          if [ "$SCOPE" = "all" ] || [ "$SCOPE" = "fixtures" ]; then
+            echo "--- Updating fixtures ---"
+            python3 scripts/update_all.py --fixtures
+          fi
+
+          # Always rebuild analysis pack and status
+          echo "--- Building analysis pack ---"
+          python3 scripts/build_analysis_pack.py
+
+          echo "--- Building probable lineups ---"
+          python3 scripts/build_probable_lineups.py
 
       - name: Commit and push changes
         run: |

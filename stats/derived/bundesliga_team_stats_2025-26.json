@@ -1,0 +1,890 @@
+{
+  "generated": "2026-05-09",
+  "league": "Bundesliga",
+  "season": "2025-26",
+  "source": "derived from match-by-match data",
+  "teams": [
+    {
+      "team": "Bayern Munich",
+      "mp": 32,
+      "w": 26,
+      "d": 5,
+      "l": 1,
+      "gf": 116,
+      "ga": 35,
+      "gd": 81,
+      "pts": 83,
+      "avg": {
+        "gf": 3.62,
+        "ga": 1.09,
+        "corners_for": 6.5,
+        "corners_against": 3.41,
+        "total_corners": 9.91,
+        "shots": 19.28,
+        "shots_against": 10.44,
+        "shots_target": 8.53,
+        "shots_target_against": 3.09,
+        "fouls": 9.0,
+        "fouls_against": 9.22,
+        "yellows": 1.78,
+        "opponent_yellows": 1.53,
+        "total_match_cards": 3.31
+      },
+      "avg_home": {
+        "gf": 3.94,
+        "ga": 1.12,
+        "corners_for": 7.81,
+        "corners_against": 3.0,
+        "over_25_pct": 100.0
+      },
+      "avg_away": {
+        "gf": 3.31,
+        "ga": 1.06,
+        "corners_for": 5.19,
+        "corners_against": 3.81,
+        "over_25_pct": 93.8
+      },
+      "pct": {
+        "over_15": 100.0,
+        "over_25": 96.9,
+        "over_35": 78.1,
+        "btts": 65.6,
+        "clean_sheet": 34.4,
+        "failed_to_score": 0.0
+      }
+    },
+    {
+      "team": "Dortmund",
+      "mp": 32,
+      "w": 20,
+      "d": 7,
+      "l": 5,
+      "gf": 65,
+      "ga": 32,
+      "gd": 33,
+      "pts": 67,
+      "avg": {
+        "gf": 2.03,
+        "ga": 1.0,
+        "corners_for": 5.31,
+        "corners_against": 4.28,
+        "total_corners": 9.59,
+        "shots": 12.97,
+        "shots_against": 10.78,
+        "shots_target": 4.56,
+        "shots_target_against": 3.56,
+        "fouls": 11.81,
+        "fouls_against": 10.28,
+        "yellows": 1.88,
+        "opponent_yellows": 1.56,
+        "total_match_cards": 3.44
+      },
+      "avg_home": {
+        "gf": 2.31,
+        "ga": 0.88,
+        "corners_for": 7.31,
+        "corners_against": 3.5,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.75,
+        "ga": 1.12,
+        "corners_for": 3.31,
+        "corners_against": 5.06,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 56.2,
+        "over_35": 31.2,
+        "btts": 50.0,
+        "clean_sheet": 43.8,
+        "failed_to_score": 6.2
+      }
+    },
+    {
+      "team": "RB Leipzig",
+      "mp": 32,
+      "w": 19,
+      "d": 5,
+      "l": 8,
+      "gf": 63,
+      "ga": 42,
+      "gd": 21,
+      "pts": 62,
+      "avg": {
+        "gf": 1.97,
+        "ga": 1.31,
+        "corners_for": 5.47,
+        "corners_against": 4.41,
+        "total_corners": 9.88,
+        "shots": 15.94,
+        "shots_against": 12.34,
+        "shots_target": 6.03,
+        "shots_target_against": 4.0,
+        "fouls": 9.47,
+        "fouls_against": 10.25,
+        "yellows": 1.53,
+        "opponent_yellows": 1.84,
+        "total_match_cards": 3.38
+      },
+      "avg_home": {
+        "gf": 2.38,
+        "ga": 1.19,
+        "corners_for": 6.06,
+        "corners_against": 4.44,
+        "over_25_pct": 75.0
+      },
+      "avg_away": {
+        "gf": 1.56,
+        "ga": 1.44,
+        "corners_for": 4.88,
+        "corners_against": 4.38,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 68.8,
+        "over_35": 46.9,
+        "btts": 59.4,
+        "clean_sheet": 34.4,
+        "failed_to_score": 9.4
+      }
+    },
+    {
+      "team": "Leverkusen",
+      "mp": 32,
+      "w": 17,
+      "d": 7,
+      "l": 8,
+      "gf": 66,
+      "ga": 43,
+      "gd": 23,
+      "pts": 58,
+      "avg": {
+        "gf": 2.06,
+        "ga": 1.34,
+        "corners_for": 5.5,
+        "corners_against": 4.06,
+        "total_corners": 9.56,
+        "shots": 15.09,
+        "shots_against": 12.41,
+        "shots_target": 5.06,
+        "shots_target_against": 4.84,
+        "fouls": 8.62,
+        "fouls_against": 11.16,
+        "yellows": 2.12,
+        "opponent_yellows": 2.62,
+        "total_match_cards": 4.75
+      },
+      "avg_home": {
+        "gf": 2.31,
+        "ga": 1.12,
+        "corners_for": 6.62,
+        "corners_against": 3.31,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.81,
+        "ga": 1.56,
+        "corners_for": 4.38,
+        "corners_against": 4.81,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 59.4,
+        "over_35": 40.6,
+        "btts": 62.5,
+        "clean_sheet": 25.0,
+        "failed_to_score": 12.5
+      }
+    },
+    {
+      "team": "Stuttgart",
+      "mp": 32,
+      "w": 17,
+      "d": 7,
+      "l": 8,
+      "gf": 66,
+      "ga": 46,
+      "gd": 20,
+      "pts": 58,
+      "avg": {
+        "gf": 2.06,
+        "ga": 1.44,
+        "corners_for": 5.62,
+        "corners_against": 4.12,
+        "total_corners": 9.75,
+        "shots": 15.16,
+        "shots_against": 12.69,
+        "shots_target": 5.97,
+        "shots_target_against": 4.62,
+        "fouls": 9.44,
+        "fouls_against": 12.41,
+        "yellows": 1.81,
+        "opponent_yellows": 1.66,
+        "total_match_cards": 3.47
+      },
+      "avg_home": {
+        "gf": 1.69,
+        "ga": 0.94,
+        "corners_for": 5.81,
+        "corners_against": 3.88,
+        "over_25_pct": 43.8
+      },
+      "avg_away": {
+        "gf": 2.44,
+        "ga": 1.94,
+        "corners_for": 5.44,
+        "corners_against": 4.38,
+        "over_25_pct": 100.0
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 71.9,
+        "over_35": 50.0,
+        "btts": 59.4,
+        "clean_sheet": 34.4,
+        "failed_to_score": 9.4
+      }
+    },
+    {
+      "team": "Hoffenheim",
+      "mp": 32,
+      "w": 17,
+      "d": 7,
+      "l": 8,
+      "gf": 64,
+      "ga": 48,
+      "gd": 16,
+      "pts": 58,
+      "avg": {
+        "gf": 2.0,
+        "ga": 1.5,
+        "corners_for": 5.62,
+        "corners_against": 4.94,
+        "total_corners": 10.56,
+        "shots": 14.16,
+        "shots_against": 12.38,
+        "shots_target": 5.28,
+        "shots_target_against": 4.47,
+        "fouls": 14.22,
+        "fouls_against": 9.06,
+        "yellows": 2.06,
+        "opponent_yellows": 1.59,
+        "total_match_cards": 3.66
+      },
+      "avg_home": {
+        "gf": 2.12,
+        "ga": 1.31,
+        "corners_for": 6.31,
+        "corners_against": 4.5,
+        "over_25_pct": 75.0
+      },
+      "avg_away": {
+        "gf": 1.88,
+        "ga": 1.69,
+        "corners_for": 4.94,
+        "corners_against": 5.38,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 87.5,
+        "over_25": 71.9,
+        "over_35": 50.0,
+        "btts": 68.8,
+        "clean_sheet": 18.8,
+        "failed_to_score": 15.6
+      }
+    },
+    {
+      "team": "Freiburg",
+      "mp": 32,
+      "w": 12,
+      "d": 8,
+      "l": 12,
+      "gf": 45,
+      "ga": 53,
+      "gd": -8,
+      "pts": 44,
+      "avg": {
+        "gf": 1.41,
+        "ga": 1.66,
+        "corners_for": 4.22,
+        "corners_against": 4.31,
+        "total_corners": 8.53,
+        "shots": 12.5,
+        "shots_against": 13.84,
+        "shots_target": 4.22,
+        "shots_target_against": 4.56,
+        "fouls": 9.28,
+        "fouls_against": 12.25,
+        "yellows": 1.59,
+        "opponent_yellows": 2.16,
+        "total_match_cards": 3.75
+      },
+      "avg_home": {
+        "gf": 1.81,
+        "ga": 1.31,
+        "corners_for": 4.75,
+        "corners_against": 3.88,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.0,
+        "ga": 2.0,
+        "corners_for": 3.69,
+        "corners_against": 4.75,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 62.5,
+        "over_35": 34.4,
+        "btts": 59.4,
+        "clean_sheet": 18.8,
+        "failed_to_score": 28.1
+      }
+    },
+    {
+      "team": "Ein Frankfurt",
+      "mp": 32,
+      "w": 11,
+      "d": 10,
+      "l": 11,
+      "gf": 57,
+      "ga": 60,
+      "gd": -3,
+      "pts": 43,
+      "avg": {
+        "gf": 1.78,
+        "ga": 1.88,
+        "corners_for": 4.72,
+        "corners_against": 4.47,
+        "total_corners": 9.19,
+        "shots": 12.0,
+        "shots_against": 12.56,
+        "shots_target": 4.56,
+        "shots_target_against": 4.72,
+        "fouls": 10.31,
+        "fouls_against": 9.53,
+        "yellows": 1.88,
+        "opponent_yellows": 1.97,
+        "total_match_cards": 3.84
+      },
+      "avg_home": {
+        "gf": 1.69,
+        "ga": 1.56,
+        "corners_for": 5.38,
+        "corners_against": 3.75,
+        "over_25_pct": 62.5
+      },
+      "avg_away": {
+        "gf": 1.88,
+        "ga": 2.19,
+        "corners_for": 4.06,
+        "corners_against": 5.19,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 87.5,
+        "over_25": 65.6,
+        "over_35": 50.0,
+        "btts": 71.9,
+        "clean_sheet": 21.9,
+        "failed_to_score": 9.4
+      }
+    },
+    {
+      "team": "Augsburg",
+      "mp": 32,
+      "w": 11,
+      "d": 7,
+      "l": 14,
+      "gf": 42,
+      "ga": 56,
+      "gd": -14,
+      "pts": 40,
+      "avg": {
+        "gf": 1.31,
+        "ga": 1.75,
+        "corners_for": 4.53,
+        "corners_against": 5.72,
+        "total_corners": 10.25,
+        "shots": 13.19,
+        "shots_against": 14.62,
+        "shots_target": 4.56,
+        "shots_target_against": 4.91,
+        "fouls": 11.16,
+        "fouls_against": 11.81,
+        "yellows": 2.47,
+        "opponent_yellows": 1.78,
+        "total_match_cards": 4.25
+      },
+      "avg_home": {
+        "gf": 1.38,
+        "ga": 1.69,
+        "corners_for": 5.38,
+        "corners_against": 5.44,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 1.25,
+        "ga": 1.81,
+        "corners_for": 3.69,
+        "corners_against": 6.0,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 59.4,
+        "over_35": 37.5,
+        "btts": 62.5,
+        "clean_sheet": 15.6,
+        "failed_to_score": 25.0
+      }
+    },
+    {
+      "team": "Mainz",
+      "mp": 32,
+      "w": 9,
+      "d": 10,
+      "l": 13,
+      "gf": 41,
+      "ga": 50,
+      "gd": -9,
+      "pts": 37,
+      "avg": {
+        "gf": 1.28,
+        "ga": 1.56,
+        "corners_for": 5.06,
+        "corners_against": 4.44,
+        "total_corners": 9.5,
+        "shots": 11.94,
+        "shots_against": 14.03,
+        "shots_target": 4.03,
+        "shots_target_against": 4.94,
+        "fouls": 10.94,
+        "fouls_against": 10.06,
+        "yellows": 2.09,
+        "opponent_yellows": 2.06,
+        "total_match_cards": 4.16
+      },
+      "avg_home": {
+        "gf": 1.25,
+        "ga": 1.38,
+        "corners_for": 6.12,
+        "corners_against": 3.5,
+        "over_25_pct": 37.5
+      },
+      "avg_away": {
+        "gf": 1.31,
+        "ga": 1.75,
+        "corners_for": 4.0,
+        "corners_against": 5.38,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 53.1,
+        "over_35": 31.2,
+        "btts": 62.5,
+        "clean_sheet": 9.4,
+        "failed_to_score": 31.2
+      }
+    },
+    {
+      "team": "M'gladbach",
+      "mp": 32,
+      "w": 8,
+      "d": 11,
+      "l": 13,
+      "gf": 37,
+      "ga": 50,
+      "gd": -13,
+      "pts": 35,
+      "avg": {
+        "gf": 1.16,
+        "ga": 1.56,
+        "corners_for": 3.88,
+        "corners_against": 4.81,
+        "total_corners": 8.69,
+        "shots": 11.59,
+        "shots_against": 14.28,
+        "shots_target": 4.12,
+        "shots_target_against": 5.5,
+        "fouls": 10.84,
+        "fouls_against": 10.84,
+        "yellows": 1.69,
+        "opponent_yellows": 2.22,
+        "total_match_cards": 3.91
+      },
+      "avg_home": {
+        "gf": 1.25,
+        "ga": 1.5,
+        "corners_for": 3.38,
+        "corners_against": 3.88,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 1.06,
+        "ga": 1.62,
+        "corners_for": 4.38,
+        "corners_against": 5.75,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 68.8,
+        "over_25": 50.0,
+        "over_35": 34.4,
+        "btts": 40.6,
+        "clean_sheet": 37.5,
+        "failed_to_score": 37.5
+      }
+    },
+    {
+      "team": "Hamburg",
+      "mp": 32,
+      "w": 8,
+      "d": 10,
+      "l": 14,
+      "gf": 36,
+      "ga": 51,
+      "gd": -15,
+      "pts": 34,
+      "avg": {
+        "gf": 1.12,
+        "ga": 1.59,
+        "corners_for": 3.75,
+        "corners_against": 5.84,
+        "total_corners": 9.59,
+        "shots": 12.03,
+        "shots_against": 14.47,
+        "shots_target": 4.5,
+        "shots_target_against": 5.03,
+        "fouls": 11.75,
+        "fouls_against": 12.97,
+        "yellows": 2.28,
+        "opponent_yellows": 2.53,
+        "total_match_cards": 4.81
+      },
+      "avg_home": {
+        "gf": 1.38,
+        "ga": 1.25,
+        "corners_for": 3.88,
+        "corners_against": 5.88,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 0.88,
+        "ga": 1.94,
+        "corners_for": 3.62,
+        "corners_against": 5.81,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 78.1,
+        "over_25": 56.2,
+        "over_35": 31.2,
+        "btts": 62.5,
+        "clean_sheet": 18.8,
+        "failed_to_score": 31.2
+      }
+    },
+    {
+      "team": "Union Berlin",
+      "mp": 32,
+      "w": 8,
+      "d": 9,
+      "l": 15,
+      "gf": 37,
+      "ga": 57,
+      "gd": -20,
+      "pts": 33,
+      "avg": {
+        "gf": 1.16,
+        "ga": 1.78,
+        "corners_for": 4.94,
+        "corners_against": 4.62,
+        "total_corners": 9.56,
+        "shots": 12.25,
+        "shots_against": 12.97,
+        "shots_target": 3.59,
+        "shots_target_against": 4.53,
+        "fouls": 12.53,
+        "fouls_against": 10.12,
+        "yellows": 2.09,
+        "opponent_yellows": 1.94,
+        "total_match_cards": 4.03
+      },
+      "avg_home": {
+        "gf": 1.38,
+        "ga": 1.62,
+        "corners_for": 5.25,
+        "corners_against": 4.19,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 0.94,
+        "ga": 1.94,
+        "corners_for": 4.62,
+        "corners_against": 5.06,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 75.0,
+        "over_25": 59.4,
+        "over_35": 43.8,
+        "btts": 62.5,
+        "clean_sheet": 18.8,
+        "failed_to_score": 25.0
+      }
+    },
+    {
+      "team": "FC Koln",
+      "mp": 32,
+      "w": 7,
+      "d": 11,
+      "l": 14,
+      "gf": 47,
+      "ga": 55,
+      "gd": -8,
+      "pts": 32,
+      "avg": {
+        "gf": 1.47,
+        "ga": 1.72,
+        "corners_for": 4.56,
+        "corners_against": 5.59,
+        "total_corners": 10.16,
+        "shots": 13.38,
+        "shots_against": 13.56,
+        "shots_target": 4.59,
+        "shots_target_against": 4.59,
+        "fouls": 8.44,
+        "fouls_against": 10.59,
+        "yellows": 1.91,
+        "opponent_yellows": 2.28,
+        "total_match_cards": 4.19
+      },
+      "avg_home": {
+        "gf": 1.81,
+        "ga": 1.69,
+        "corners_for": 4.75,
+        "corners_against": 4.75,
+        "over_25_pct": 75.0
+      },
+      "avg_away": {
+        "gf": 1.12,
+        "ga": 1.75,
+        "corners_for": 4.38,
+        "corners_against": 6.44,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 84.4,
+        "over_25": 62.5,
+        "over_35": 43.8,
+        "btts": 78.1,
+        "clean_sheet": 9.4,
+        "failed_to_score": 12.5
+      }
+    },
+    {
+      "team": "Werder Bremen",
+      "mp": 32,
+      "w": 8,
+      "d": 8,
+      "l": 16,
+      "gf": 37,
+      "ga": 57,
+      "gd": -20,
+      "pts": 32,
+      "avg": {
+        "gf": 1.16,
+        "ga": 1.78,
+        "corners_for": 4.59,
+        "corners_against": 4.91,
+        "total_corners": 9.5,
+        "shots": 13.22,
+        "shots_against": 13.62,
+        "shots_target": 4.22,
+        "shots_target_against": 5.03,
+        "fouls": 10.19,
+        "fouls_against": 9.94,
+        "yellows": 2.34,
+        "opponent_yellows": 1.5,
+        "total_match_cards": 3.84
+      },
+      "avg_home": {
+        "gf": 1.19,
+        "ga": 1.81,
+        "corners_for": 4.88,
+        "corners_against": 3.25,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.12,
+        "ga": 1.75,
+        "corners_for": 4.31,
+        "corners_against": 6.56,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 56.2,
+        "over_35": 37.5,
+        "btts": 50.0,
+        "clean_sheet": 18.8,
+        "failed_to_score": 34.4
+      }
+    },
+    {
+      "team": "Wolfsburg",
+      "mp": 32,
+      "w": 6,
+      "d": 8,
+      "l": 18,
+      "gf": 42,
+      "ga": 67,
+      "gd": -25,
+      "pts": 26,
+      "avg": {
+        "gf": 1.31,
+        "ga": 2.09,
+        "corners_for": 4.25,
+        "corners_against": 7.56,
+        "total_corners": 11.81,
+        "shots": 11.56,
+        "shots_against": 15.53,
+        "shots_target": 4.03,
+        "shots_target_against": 5.59,
+        "fouls": 11.72,
+        "fouls_against": 9.09,
+        "yellows": 2.0,
+        "opponent_yellows": 1.59,
+        "total_match_cards": 3.59
+      },
+      "avg_home": {
+        "gf": 1.31,
+        "ga": 1.94,
+        "corners_for": 5.38,
+        "corners_against": 6.25,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.31,
+        "ga": 2.25,
+        "corners_for": 3.12,
+        "corners_against": 8.88,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 65.6,
+        "over_35": 43.8,
+        "btts": 75.0,
+        "clean_sheet": 6.2,
+        "failed_to_score": 21.9
+      }
+    },
+    {
+      "team": "St Pauli",
+      "mp": 32,
+      "w": 6,
+      "d": 8,
+      "l": 18,
+      "gf": 27,
+      "ga": 55,
+      "gd": -28,
+      "pts": 26,
+      "avg": {
+        "gf": 0.84,
+        "ga": 1.72,
+        "corners_for": 4.66,
+        "corners_against": 5.09,
+        "total_corners": 9.75,
+        "shots": 10.34,
+        "shots_against": 12.19,
+        "shots_target": 3.41,
+        "shots_target_against": 5.28,
+        "fouls": 9.75,
+        "fouls_against": 9.5,
+        "yellows": 1.62,
+        "opponent_yellows": 1.69,
+        "total_match_cards": 3.31
+      },
+      "avg_home": {
+        "gf": 1.0,
+        "ga": 1.75,
+        "corners_for": 5.75,
+        "corners_against": 4.06,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 0.69,
+        "ga": 1.69,
+        "corners_for": 3.56,
+        "corners_against": 6.12,
+        "over_25_pct": 37.5
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 53.1,
+        "over_35": 18.8,
+        "btts": 53.1,
+        "clean_sheet": 15.6,
+        "failed_to_score": 40.6
+      }
+    },
+    {
+      "team": "Heidenheim",
+      "mp": 32,
+      "w": 5,
+      "d": 8,
+      "l": 19,
+      "gf": 38,
+      "ga": 69,
+      "gd": -31,
+      "pts": 23,
+      "avg": {
+        "gf": 1.19,
+        "ga": 2.16,
+        "corners_for": 4.5,
+        "corners_against": 5.09,
+        "total_corners": 9.59,
+        "shots": 11.34,
+        "shots_against": 15.22,
+        "shots_target": 3.53,
+        "shots_target_against": 5.53,
+        "fouls": 9.94,
+        "fouls_against": 10.31,
+        "yellows": 1.41,
+        "opponent_yellows": 2.03,
+        "total_match_cards": 3.44
+      },
+      "avg_home": {
+        "gf": 1.44,
+        "ga": 2.19,
+        "corners_for": 4.56,
+        "corners_against": 4.56,
+        "over_25_pct": 75.0
+      },
+      "avg_away": {
+        "gf": 0.94,
+        "ga": 2.12,
+        "corners_for": 4.44,
+        "corners_against": 5.62,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 90.6,
+        "over_25": 68.8,
+        "over_35": 40.6,
+        "btts": 62.5,
+        "clean_sheet": 3.1,
+        "failed_to_score": 34.4
+      }
+    }
+  ]
+}

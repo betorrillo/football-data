@@ -1,0 +1,890 @@
+{
+  "generated": "2026-05-09",
+  "league": "Ligue 1",
+  "season": "2025-26",
+  "source": "derived from match-by-match data",
+  "teams": [
+    {
+      "team": "Paris SG",
+      "mp": 31,
+      "w": 22,
+      "d": 4,
+      "l": 5,
+      "gf": 70,
+      "ga": 27,
+      "gd": 43,
+      "pts": 70,
+      "avg": {
+        "gf": 2.26,
+        "ga": 0.87,
+        "corners_for": 6.35,
+        "corners_against": 3.1,
+        "total_corners": 9.45,
+        "shots": 18.06,
+        "shots_against": 8.23,
+        "shots_target": 6.97,
+        "shots_target_against": 2.87,
+        "fouls": 9.52,
+        "fouls_against": 9.39,
+        "yellows": 1.1,
+        "opponent_yellows": 1.39,
+        "total_match_cards": 2.48
+      },
+      "avg_home": {
+        "gf": 2.5,
+        "ga": 0.75,
+        "corners_for": 7.12,
+        "corners_against": 2.75,
+        "over_25_pct": 75.0
+      },
+      "avg_away": {
+        "gf": 2.0,
+        "ga": 1.0,
+        "corners_for": 5.53,
+        "corners_against": 3.47,
+        "over_25_pct": 53.3
+      },
+      "pct": {
+        "over_15": 77.4,
+        "over_25": 64.5,
+        "over_35": 35.5,
+        "btts": 41.9,
+        "clean_sheet": 51.6,
+        "failed_to_score": 6.5
+      }
+    },
+    {
+      "team": "Lens",
+      "mp": 31,
+      "w": 20,
+      "d": 4,
+      "l": 7,
+      "gf": 61,
+      "ga": 33,
+      "gd": 28,
+      "pts": 64,
+      "avg": {
+        "gf": 1.97,
+        "ga": 1.06,
+        "corners_for": 6.13,
+        "corners_against": 3.71,
+        "total_corners": 9.84,
+        "shots": 16.35,
+        "shots_against": 10.87,
+        "shots_target": 5.48,
+        "shots_target_against": 3.48,
+        "fouls": 12.81,
+        "fouls_against": 12.23,
+        "yellows": 1.94,
+        "opponent_yellows": 2.16,
+        "total_match_cards": 4.1
+      },
+      "avg_home": {
+        "gf": 2.27,
+        "ga": 0.73,
+        "corners_for": 6.8,
+        "corners_against": 4.27,
+        "over_25_pct": 66.7
+      },
+      "avg_away": {
+        "gf": 1.69,
+        "ga": 1.38,
+        "corners_for": 5.5,
+        "corners_against": 3.19,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 83.9,
+        "over_25": 67.7,
+        "over_35": 29.0,
+        "btts": 54.8,
+        "clean_sheet": 32.3,
+        "failed_to_score": 16.1
+      }
+    },
+    {
+      "team": "Lyon",
+      "mp": 32,
+      "w": 18,
+      "d": 6,
+      "l": 8,
+      "gf": 52,
+      "ga": 34,
+      "gd": 18,
+      "pts": 60,
+      "avg": {
+        "gf": 1.62,
+        "ga": 1.06,
+        "corners_for": 5.38,
+        "corners_against": 4.84,
+        "total_corners": 10.22,
+        "shots": 11.97,
+        "shots_against": 11.84,
+        "shots_target": 4.72,
+        "shots_target_against": 3.88,
+        "fouls": 13.22,
+        "fouls_against": 13.28,
+        "yellows": 1.81,
+        "opponent_yellows": 2.31,
+        "total_match_cards": 4.12
+      },
+      "avg_home": {
+        "gf": 1.88,
+        "ga": 0.88,
+        "corners_for": 5.69,
+        "corners_against": 3.81,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.38,
+        "ga": 1.25,
+        "corners_for": 5.06,
+        "corners_against": 5.88,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 62.5,
+        "over_25": 53.1,
+        "over_35": 31.2,
+        "btts": 50.0,
+        "clean_sheet": 46.9,
+        "failed_to_score": 15.6
+      }
+    },
+    {
+      "team": "Lille",
+      "mp": 32,
+      "w": 17,
+      "d": 7,
+      "l": 8,
+      "gf": 51,
+      "ga": 35,
+      "gd": 16,
+      "pts": 58,
+      "avg": {
+        "gf": 1.59,
+        "ga": 1.09,
+        "corners_for": 5.88,
+        "corners_against": 3.81,
+        "total_corners": 9.69,
+        "shots": 13.91,
+        "shots_against": 9.25,
+        "shots_target": 4.75,
+        "shots_target_against": 3.31,
+        "fouls": 10.97,
+        "fouls_against": 13.25,
+        "yellows": 2.25,
+        "opponent_yellows": 1.97,
+        "total_match_cards": 4.22
+      },
+      "avg_home": {
+        "gf": 1.5,
+        "ga": 0.94,
+        "corners_for": 6.5,
+        "corners_against": 3.69,
+        "over_25_pct": 31.2
+      },
+      "avg_away": {
+        "gf": 1.69,
+        "ga": 1.25,
+        "corners_for": 5.25,
+        "corners_against": 3.94,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 65.6,
+        "over_25": 40.6,
+        "over_35": 21.9,
+        "btts": 40.6,
+        "clean_sheet": 37.5,
+        "failed_to_score": 28.1
+      }
+    },
+    {
+      "team": "Rennes",
+      "mp": 32,
+      "w": 16,
+      "d": 8,
+      "l": 8,
+      "gf": 56,
+      "ga": 46,
+      "gd": 10,
+      "pts": 56,
+      "avg": {
+        "gf": 1.75,
+        "ga": 1.44,
+        "corners_for": 5.78,
+        "corners_against": 4.69,
+        "total_corners": 10.47,
+        "shots": 13.81,
+        "shots_against": 13.16,
+        "shots_target": 4.94,
+        "shots_target_against": 4.19,
+        "fouls": 12.44,
+        "fouls_against": 12.12,
+        "yellows": 1.78,
+        "opponent_yellows": 2.03,
+        "total_match_cards": 3.81
+      },
+      "avg_home": {
+        "gf": 1.75,
+        "ga": 1.0,
+        "corners_for": 6.38,
+        "corners_against": 4.75,
+        "over_25_pct": 62.5
+      },
+      "avg_away": {
+        "gf": 1.75,
+        "ga": 1.88,
+        "corners_for": 5.19,
+        "corners_against": 4.62,
+        "over_25_pct": 75.0
+      },
+      "pct": {
+        "over_15": 81.2,
+        "over_25": 68.8,
+        "over_35": 50.0,
+        "btts": 56.2,
+        "clean_sheet": 31.2,
+        "failed_to_score": 18.8
+      }
+    },
+    {
+      "team": "Monaco",
+      "mp": 32,
+      "w": 16,
+      "d": 6,
+      "l": 10,
+      "gf": 56,
+      "ga": 48,
+      "gd": 8,
+      "pts": 54,
+      "avg": {
+        "gf": 1.75,
+        "ga": 1.5,
+        "corners_for": 5.03,
+        "corners_against": 4.41,
+        "total_corners": 9.44,
+        "shots": 12.44,
+        "shots_against": 13.59,
+        "shots_target": 4.38,
+        "shots_target_against": 4.47,
+        "fouls": 13.03,
+        "fouls_against": 10.97,
+        "yellows": 2.16,
+        "opponent_yellows": 1.72,
+        "total_match_cards": 3.88
+      },
+      "avg_home": {
+        "gf": 2.06,
+        "ga": 1.38,
+        "corners_for": 4.94,
+        "corners_against": 4.19,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.44,
+        "ga": 1.62,
+        "corners_for": 5.12,
+        "corners_against": 4.62,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 75.0,
+        "over_25": 65.6,
+        "over_35": 53.1,
+        "btts": 65.6,
+        "clean_sheet": 21.9,
+        "failed_to_score": 18.8
+      }
+    },
+    {
+      "team": "Marseille",
+      "mp": 32,
+      "w": 16,
+      "d": 5,
+      "l": 11,
+      "gf": 59,
+      "ga": 44,
+      "gd": 15,
+      "pts": 53,
+      "avg": {
+        "gf": 1.84,
+        "ga": 1.38,
+        "corners_for": 5.38,
+        "corners_against": 3.41,
+        "total_corners": 8.78,
+        "shots": 14.97,
+        "shots_against": 10.12,
+        "shots_target": 5.66,
+        "shots_target_against": 3.97,
+        "fouls": 12.47,
+        "fouls_against": 10.72,
+        "yellows": 2.31,
+        "opponent_yellows": 1.56,
+        "total_match_cards": 3.88
+      },
+      "avg_home": {
+        "gf": 2.38,
+        "ga": 1.19,
+        "corners_for": 5.69,
+        "corners_against": 2.69,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.31,
+        "ga": 1.56,
+        "corners_for": 5.06,
+        "corners_against": 4.12,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 75.0,
+        "over_25": 62.5,
+        "over_35": 40.6,
+        "btts": 50.0,
+        "clean_sheet": 25.0,
+        "failed_to_score": 25.0
+      }
+    },
+    {
+      "team": "Strasbourg",
+      "mp": 31,
+      "w": 13,
+      "d": 7,
+      "l": 11,
+      "gf": 50,
+      "ga": 41,
+      "gd": 9,
+      "pts": 46,
+      "avg": {
+        "gf": 1.61,
+        "ga": 1.32,
+        "corners_for": 4.32,
+        "corners_against": 4.71,
+        "total_corners": 9.03,
+        "shots": 11.29,
+        "shots_against": 12.16,
+        "shots_target": 4.52,
+        "shots_target_against": 4.42,
+        "fouls": 11.35,
+        "fouls_against": 12.9,
+        "yellows": 1.81,
+        "opponent_yellows": 1.84,
+        "total_match_cards": 3.65
+      },
+      "avg_home": {
+        "gf": 1.56,
+        "ga": 0.94,
+        "corners_for": 5.0,
+        "corners_against": 4.44,
+        "over_25_pct": 62.5
+      },
+      "avg_away": {
+        "gf": 1.67,
+        "ga": 1.73,
+        "corners_for": 3.6,
+        "corners_against": 5.0,
+        "over_25_pct": 66.7
+      },
+      "pct": {
+        "over_15": 74.2,
+        "over_25": 64.5,
+        "over_35": 35.5,
+        "btts": 61.3,
+        "clean_sheet": 29.0,
+        "failed_to_score": 19.4
+      }
+    },
+    {
+      "team": "Lorient",
+      "mp": 32,
+      "w": 10,
+      "d": 12,
+      "l": 10,
+      "gf": 44,
+      "ga": 49,
+      "gd": -5,
+      "pts": 42,
+      "avg": {
+        "gf": 1.38,
+        "ga": 1.53,
+        "corners_for": 3.47,
+        "corners_against": 5.47,
+        "total_corners": 8.94,
+        "shots": 11.25,
+        "shots_against": 11.34,
+        "shots_target": 3.91,
+        "shots_target_against": 4.0,
+        "fouls": 9.59,
+        "fouls_against": 13.47,
+        "yellows": 1.59,
+        "opponent_yellows": 2.19,
+        "total_match_cards": 3.78
+      },
+      "avg_home": {
+        "gf": 1.94,
+        "ga": 1.44,
+        "corners_for": 3.12,
+        "corners_against": 5.56,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 0.81,
+        "ga": 1.62,
+        "corners_for": 3.81,
+        "corners_against": 5.38,
+        "over_25_pct": 31.2
+      },
+      "pct": {
+        "over_15": 87.5,
+        "over_25": 43.8,
+        "over_35": 34.4,
+        "btts": 56.2,
+        "clean_sheet": 18.8,
+        "failed_to_score": 28.1
+      }
+    },
+    {
+      "team": "Toulouse",
+      "mp": 32,
+      "w": 11,
+      "d": 8,
+      "l": 13,
+      "gf": 45,
+      "ga": 45,
+      "gd": 0,
+      "pts": 41,
+      "avg": {
+        "gf": 1.41,
+        "ga": 1.41,
+        "corners_for": 4.38,
+        "corners_against": 5.03,
+        "total_corners": 9.41,
+        "shots": 12.81,
+        "shots_against": 12.03,
+        "shots_target": 4.28,
+        "shots_target_against": 4.06,
+        "fouls": 14.19,
+        "fouls_against": 11.22,
+        "yellows": 2.22,
+        "opponent_yellows": 1.84,
+        "total_match_cards": 4.06
+      },
+      "avg_home": {
+        "gf": 1.44,
+        "ga": 1.44,
+        "corners_for": 4.94,
+        "corners_against": 4.12,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 1.38,
+        "ga": 1.38,
+        "corners_for": 3.81,
+        "corners_against": 5.94,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 65.6,
+        "over_25": 53.1,
+        "over_35": 34.4,
+        "btts": 46.9,
+        "clean_sheet": 28.1,
+        "failed_to_score": 31.2
+      }
+    },
+    {
+      "team": "Paris FC",
+      "mp": 32,
+      "w": 10,
+      "d": 11,
+      "l": 11,
+      "gf": 44,
+      "ga": 47,
+      "gd": -3,
+      "pts": 41,
+      "avg": {
+        "gf": 1.38,
+        "ga": 1.47,
+        "corners_for": 4.5,
+        "corners_against": 5.56,
+        "total_corners": 10.06,
+        "shots": 11.53,
+        "shots_against": 12.56,
+        "shots_target": 3.91,
+        "shots_target_against": 4.03,
+        "fouls": 10.75,
+        "fouls_against": 10.75,
+        "yellows": 2.09,
+        "opponent_yellows": 1.56,
+        "total_match_cards": 3.66
+      },
+      "avg_home": {
+        "gf": 1.62,
+        "ga": 1.62,
+        "corners_for": 5.69,
+        "corners_against": 4.44,
+        "over_25_pct": 62.5
+      },
+      "avg_away": {
+        "gf": 1.12,
+        "ga": 1.31,
+        "corners_for": 3.31,
+        "corners_against": 6.69,
+        "over_25_pct": 43.8
+      },
+      "pct": {
+        "over_15": 71.9,
+        "over_25": 53.1,
+        "over_35": 34.4,
+        "btts": 59.4,
+        "clean_sheet": 25.0,
+        "failed_to_score": 28.1
+      }
+    },
+    {
+      "team": "Brest",
+      "mp": 31,
+      "w": 10,
+      "d": 8,
+      "l": 13,
+      "gf": 41,
+      "ga": 51,
+      "gd": -10,
+      "pts": 38,
+      "avg": {
+        "gf": 1.32,
+        "ga": 1.65,
+        "corners_for": 3.81,
+        "corners_against": 5.74,
+        "total_corners": 9.55,
+        "shots": 10.94,
+        "shots_against": 13.94,
+        "shots_target": 3.45,
+        "shots_target_against": 4.68,
+        "fouls": 13.0,
+        "fouls_against": 11.94,
+        "yellows": 1.84,
+        "opponent_yellows": 1.77,
+        "total_match_cards": 3.61
+      },
+      "avg_home": {
+        "gf": 1.73,
+        "ga": 1.33,
+        "corners_for": 4.53,
+        "corners_against": 4.0,
+        "over_25_pct": 46.7
+      },
+      "avg_away": {
+        "gf": 0.94,
+        "ga": 1.94,
+        "corners_for": 3.12,
+        "corners_against": 7.38,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 83.9,
+        "over_25": 51.6,
+        "over_35": 32.3,
+        "btts": 45.2,
+        "clean_sheet": 29.0,
+        "failed_to_score": 32.3
+      }
+    },
+    {
+      "team": "Angers",
+      "mp": 32,
+      "w": 9,
+      "d": 7,
+      "l": 16,
+      "gf": 27,
+      "ga": 46,
+      "gd": -19,
+      "pts": 34,
+      "avg": {
+        "gf": 0.84,
+        "ga": 1.44,
+        "corners_for": 3.69,
+        "corners_against": 5.28,
+        "total_corners": 8.97,
+        "shots": 9.38,
+        "shots_against": 14.28,
+        "shots_target": 3.31,
+        "shots_target_against": 5.5,
+        "fouls": 11.03,
+        "fouls_against": 11.31,
+        "yellows": 1.5,
+        "opponent_yellows": 1.22,
+        "total_match_cards": 2.72
+      },
+      "avg_home": {
+        "gf": 1.06,
+        "ga": 1.19,
+        "corners_for": 4.38,
+        "corners_against": 4.88,
+        "over_25_pct": 25.0
+      },
+      "avg_away": {
+        "gf": 0.62,
+        "ga": 1.69,
+        "corners_for": 3.0,
+        "corners_against": 5.69,
+        "over_25_pct": 37.5
+      },
+      "pct": {
+        "over_15": 62.5,
+        "over_25": 31.2,
+        "over_35": 18.8,
+        "btts": 37.5,
+        "clean_sheet": 31.2,
+        "failed_to_score": 37.5
+      }
+    },
+    {
+      "team": "Le Havre",
+      "mp": 32,
+      "w": 6,
+      "d": 14,
+      "l": 12,
+      "gf": 30,
+      "ga": 43,
+      "gd": -13,
+      "pts": 32,
+      "avg": {
+        "gf": 0.94,
+        "ga": 1.34,
+        "corners_for": 4.41,
+        "corners_against": 4.97,
+        "total_corners": 9.38,
+        "shots": 11.12,
+        "shots_against": 13.19,
+        "shots_target": 3.69,
+        "shots_target_against": 4.28,
+        "fouls": 13.59,
+        "fouls_against": 13.97,
+        "yellows": 1.84,
+        "opponent_yellows": 2.03,
+        "total_match_cards": 3.88
+      },
+      "avg_home": {
+        "gf": 1.25,
+        "ga": 1.06,
+        "corners_for": 4.94,
+        "corners_against": 3.62,
+        "over_25_pct": 43.8
+      },
+      "avg_away": {
+        "gf": 0.62,
+        "ga": 1.62,
+        "corners_for": 3.88,
+        "corners_against": 6.31,
+        "over_25_pct": 25.0
+      },
+      "pct": {
+        "over_15": 62.5,
+        "over_25": 34.4,
+        "over_35": 18.8,
+        "btts": 53.1,
+        "clean_sheet": 21.9,
+        "failed_to_score": 40.6
+      }
+    },
+    {
+      "team": "Nice",
+      "mp": 32,
+      "w": 7,
+      "d": 10,
+      "l": 15,
+      "gf": 36,
+      "ga": 58,
+      "gd": -22,
+      "pts": 31,
+      "avg": {
+        "gf": 1.12,
+        "ga": 1.81,
+        "corners_for": 5.06,
+        "corners_against": 5.62,
+        "total_corners": 10.69,
+        "shots": 10.94,
+        "shots_against": 15.06,
+        "shots_target": 3.84,
+        "shots_target_against": 5.25,
+        "fouls": 12.5,
+        "fouls_against": 11.47,
+        "yellows": 2.06,
+        "opponent_yellows": 2.0,
+        "total_match_cards": 4.06
+      },
+      "avg_home": {
+        "gf": 1.19,
+        "ga": 1.69,
+        "corners_for": 5.25,
+        "corners_against": 5.88,
+        "over_25_pct": 43.8
+      },
+      "avg_away": {
+        "gf": 1.06,
+        "ga": 1.94,
+        "corners_for": 4.88,
+        "corners_against": 5.38,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 78.1,
+        "over_25": 50.0,
+        "over_35": 43.8,
+        "btts": 59.4,
+        "clean_sheet": 15.6,
+        "failed_to_score": 31.2
+      }
+    },
+    {
+      "team": "Auxerre",
+      "mp": 32,
+      "w": 6,
+      "d": 10,
+      "l": 16,
+      "gf": 30,
+      "ga": 43,
+      "gd": -13,
+      "pts": 28,
+      "avg": {
+        "gf": 0.94,
+        "ga": 1.34,
+        "corners_for": 4.69,
+        "corners_against": 4.88,
+        "total_corners": 9.56,
+        "shots": 10.78,
+        "shots_against": 12.06,
+        "shots_target": 3.47,
+        "shots_target_against": 4.66,
+        "fouls": 13.62,
+        "fouls_against": 13.81,
+        "yellows": 2.06,
+        "opponent_yellows": 2.62,
+        "total_match_cards": 4.69
+      },
+      "avg_home": {
+        "gf": 1.0,
+        "ga": 1.0,
+        "corners_for": 5.19,
+        "corners_against": 4.69,
+        "over_25_pct": 43.8
+      },
+      "avg_away": {
+        "gf": 0.88,
+        "ga": 1.69,
+        "corners_for": 4.19,
+        "corners_against": 5.06,
+        "over_25_pct": 43.8
+      },
+      "pct": {
+        "over_15": 59.4,
+        "over_25": 43.8,
+        "over_35": 28.1,
+        "btts": 40.6,
+        "clean_sheet": 25.0,
+        "failed_to_score": 50.0
+      }
+    },
+    {
+      "team": "Nantes",
+      "mp": 32,
+      "w": 5,
+      "d": 8,
+      "l": 19,
+      "gf": 29,
+      "ga": 51,
+      "gd": -22,
+      "pts": 23,
+      "avg": {
+        "gf": 0.91,
+        "ga": 1.59,
+        "corners_for": 3.72,
+        "corners_against": 5.62,
+        "total_corners": 9.34,
+        "shots": 11.25,
+        "shots_against": 13.47,
+        "shots_target": 3.31,
+        "shots_target_against": 4.84,
+        "fouls": 12.66,
+        "fouls_against": 14.03,
+        "yellows": 2.03,
+        "opponent_yellows": 2.34,
+        "total_match_cards": 4.38
+      },
+      "avg_home": {
+        "gf": 1.12,
+        "ga": 1.69,
+        "corners_for": 4.0,
+        "corners_against": 5.12,
+        "over_25_pct": 43.8
+      },
+      "avg_away": {
+        "gf": 0.69,
+        "ga": 1.5,
+        "corners_for": 3.44,
+        "corners_against": 6.12,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 68.8,
+        "over_25": 46.9,
+        "over_35": 21.9,
+        "btts": 46.9,
+        "clean_sheet": 21.9,
+        "failed_to_score": 40.6
+      }
+    },
+    {
+      "team": "Metz",
+      "mp": 32,
+      "w": 3,
+      "d": 7,
+      "l": 22,
+      "gf": 32,
+      "ga": 72,
+      "gd": -40,
+      "pts": 16,
+      "avg": {
+        "gf": 1.0,
+        "ga": 2.25,
+        "corners_for": 4.16,
+        "corners_against": 5.16,
+        "total_corners": 9.31,
+        "shots": 9.94,
+        "shots_against": 15.22,
+        "shots_target": 3.19,
+        "shots_target_against": 5.72,
+        "fouls": 11.38,
+        "fouls_against": 11.28,
+        "yellows": 1.62,
+        "opponent_yellows": 1.47,
+        "total_match_cards": 3.09
+      },
+      "avg_home": {
+        "gf": 0.94,
+        "ga": 1.75,
+        "corners_for": 4.81,
+        "corners_against": 4.31,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 1.06,
+        "ga": 2.75,
+        "corners_for": 3.5,
+        "corners_against": 6.0,
+        "over_25_pct": 75.0
+      },
+      "pct": {
+        "over_15": 75.0,
+        "over_25": 62.5,
+        "over_35": 40.6,
+        "btts": 53.1,
+        "clean_sheet": 18.8,
+        "failed_to_score": 40.6
+      }
+    }
+  ]
+}

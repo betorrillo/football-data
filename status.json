@@ -1,0 +1,585 @@
+{
+  "server_time_utc": "2026-05-09T18:52:04Z",
+  "manifest_version": "4.2",
+  "analysis_pack": "analysis_pack_2026-05-09.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-05-09.json",
+  "total_data_files": 72,
+  "data_directories": {
+    "matches": {
+      "files": 31,
+      "status": "complete"
+    },
+    "stats": {
+      "files": 23,
+      "status": "complete"
+    },
+    "stats/derived": {
+      "files": 6,
+      "status": "complete"
+    },
+    "fixtures": {
+      "files": 1,
+      "status": "complete"
+    },
+    "referees": {
+      "files": 8,
+      "status": "pending"
+    },
+    "injuries": {
+      "files": 6,
+      "status": "pending"
+    },
+    "lineups": {
+      "files": 1,
+      "status": "pending"
+    }
+  },
+  "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
+  "fixtures_window": {
+    "from": "2026-05-09",
+    "to": "2026-05-12",
+    "total_matches": 45
+  },
+  "matches_summary": [
+    {
+      "match_id": "epl_2026-05-09_liverpool-vs-chelsea",
+      "competition": "epl",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "2026-05-09",
+      "time": "13:30 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-09_elche-vs-alaves",
+      "competition": "laliga",
+      "home": "Elche",
+      "away": "Alav\u00e9s",
+      "date": "2026-05-09",
+      "time": "14:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-09_brighton-vs-wolverhampton",
+      "competition": "epl",
+      "home": "Brighton",
+      "away": "Wolverhampton",
+      "date": "2026-05-09",
+      "time": "16:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-09_fulham-vs-afc-bournemouth",
+      "competition": "epl",
+      "home": "Fulham",
+      "away": "AFC Bournemouth",
+      "date": "2026-05-09",
+      "time": "16:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-09_sunderland-vs-manchester-united",
+      "competition": "epl",
+      "home": "Sunderland",
+      "away": "Manchester United",
+      "date": "2026-05-09",
+      "time": "16:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-09_sevilla-vs-espanyol",
+      "competition": "laliga",
+      "home": "Sevilla",
+      "away": "Espanyol",
+      "date": "2026-05-09",
+      "time": "16:15 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-09_manchester-city-vs-brentford",
+      "competition": "epl",
+      "home": "Manchester City",
+      "away": "Brentford",
+      "date": "2026-05-09",
+      "time": "18:30 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-09_atletico-madrid-vs-celta-vigo",
+      "competition": "laliga",
+      "home": "Atl\u00e9tico Madrid",
+      "away": "Celta Vigo",
+      "date": "2026-05-09",
+      "time": "18:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-09_rb-leipzig-vs-st-pauli",
+      "competition": "bundesliga",
+      "home": "RB Leipzig",
+      "away": "St. Pauli",
+      "date": "2026-05-09",
+      "time": "20:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-09_cagliari-vs-udinese",
+      "competition": "seriea",
+      "home": "Cagliari",
+      "away": "Udinese",
+      "date": "2026-05-09",
+      "time": "20:45 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-09_real-sociedad-vs-real-betis",
+      "competition": "laliga",
+      "home": "Real Sociedad",
+      "away": "Real Betis",
+      "date": "2026-05-09",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-10_mallorca-vs-villarreal",
+      "competition": "laliga",
+      "home": "Mallorca",
+      "away": "Villarreal",
+      "date": "2026-05-10",
+      "time": "14:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-10_burnley-vs-aston-villa",
+      "competition": "epl",
+      "home": "Burnley",
+      "away": "Aston Villa",
+      "date": "2026-05-10",
+      "time": "15:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-10_crystal-palace-vs-everton",
+      "competition": "epl",
+      "home": "Crystal Palace",
+      "away": "Everton",
+      "date": "2026-05-10",
+      "time": "15:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-10_nottingham-forest-vs-newcastle",
+      "competition": "epl",
+      "home": "Nottingham Forest",
+      "away": "Newcastle",
+      "date": "2026-05-10",
+      "time": "15:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-10_vfb-stuttgart-vs-bayer-leverkusen",
+      "competition": "bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Bayer Leverkusen",
+      "date": "2026-05-10",
+      "time": "15:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-10_fc-augsburg-vs-b-monchengladbach",
+      "competition": "bundesliga",
+      "home": "FC Augsburg",
+      "away": "B. M\u00f6nchengladbach",
+      "date": "2026-05-10",
+      "time": "15:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-10_tsg-hoffenheim-vs-werder-bremen",
+      "competition": "bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "Werder Bremen",
+      "date": "2026-05-10",
+      "time": "15:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-10_hamburg-sv-vs-sc-freiburg",
+      "competition": "bundesliga",
+      "home": "Hamburg SV",
+      "away": "SC Freiburg",
+      "date": "2026-05-10",
+      "time": "15:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-10_athletic-club-vs-valencia",
+      "competition": "laliga",
+      "home": "Athletic Club",
+      "away": "Valencia",
+      "date": "2026-05-10",
+      "time": "16:15 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-10_west-ham-vs-arsenal",
+      "competition": "epl",
+      "home": "West Ham",
+      "away": "Arsenal",
+      "date": "2026-05-10",
+      "time": "17:30 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-10_lazio-vs-internazionale",
+      "competition": "seriea",
+      "home": "Lazio",
+      "away": "Internazionale",
+      "date": "2026-05-10",
+      "time": "18:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-10_real-oviedo-vs-getafe",
+      "competition": "laliga",
+      "home": "Real Oviedo",
+      "away": "Getafe",
+      "date": "2026-05-10",
+      "time": "18:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "bundesliga_2026-05-10_vfl-wolfsburg-vs-bayern-munich",
+      "competition": "bundesliga",
+      "home": "VfL Wolfsburg",
+      "away": "Bayern Munich",
+      "date": "2026-05-10",
+      "time": "18:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-10_lecce-vs-juventus",
+      "competition": "seriea",
+      "home": "Lecce",
+      "away": "Juventus",
+      "date": "2026-05-10",
+      "time": "20:45 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-10_barcelona-vs-real-madrid",
+      "competition": "laliga",
+      "home": "Barcelona",
+      "away": "Real Madrid",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_aj-auxerre-vs-nice",
+      "competition": "ligue1",
+      "home": "AJ Auxerre",
+      "away": "Nice",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_angers-vs-strasbourg",
+      "competition": "ligue1",
+      "home": "Angers",
+      "away": "Strasbourg",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_as-monaco-vs-lille",
+      "competition": "ligue1",
+      "home": "AS Monaco",
+      "away": "Lille",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_le-havre-vs-marseille",
+      "competition": "ligue1",
+      "home": "Le Havre",
+      "away": "Marseille",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_metz-vs-lorient",
+      "competition": "ligue1",
+      "home": "Metz",
+      "away": "Lorient",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_psg-vs-brest",
+      "competition": "ligue1",
+      "home": "PSG",
+      "away": "Brest",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_stade-rennais-vs-paris-fc",
+      "competition": "ligue1",
+      "home": "Stade Rennais",
+      "away": "Paris FC",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "ligue1_2026-05-10_toulouse-vs-lyon",
+      "competition": "ligue1",
+      "home": "Toulouse",
+      "away": "Lyon",
+      "date": "2026-05-10",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-11_hellas-verona-vs-como",
+      "competition": "seriea",
+      "home": "Hellas Verona",
+      "away": "Como",
+      "date": "2026-05-11",
+      "time": "12:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-11_cremonese-vs-pisa",
+      "competition": "seriea",
+      "home": "Cremonese",
+      "away": "Pisa",
+      "date": "2026-05-11",
+      "time": "15:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-11_fiorentina-vs-genoa",
+      "competition": "seriea",
+      "home": "Fiorentina",
+      "away": "Genoa",
+      "date": "2026-05-11",
+      "time": "15:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-11_parma-vs-as-roma",
+      "competition": "seriea",
+      "home": "Parma",
+      "away": "AS Roma",
+      "date": "2026-05-11",
+      "time": "18:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-11_ac-milan-vs-atalanta",
+      "competition": "seriea",
+      "home": "AC Milan",
+      "away": "Atalanta",
+      "date": "2026-05-11",
+      "time": "20:45 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "epl_2026-05-11_tottenham-vs-leeds-united",
+      "competition": "epl",
+      "home": "Tottenham",
+      "away": "Leeds United",
+      "date": "2026-05-11",
+      "time": "21:00 BST",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-11_rayo-vallecano-vs-girona",
+      "competition": "laliga",
+      "home": "Rayo Vallecano",
+      "away": "Girona",
+      "date": "2026-05-11",
+      "time": "21:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-12_celta-vigo-vs-levante",
+      "competition": "laliga",
+      "home": "Celta Vigo",
+      "away": "Levante",
+      "date": "2026-05-12",
+      "time": "19:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-12_real-betis-vs-elche",
+      "competition": "laliga",
+      "home": "Real Betis",
+      "away": "Elche",
+      "date": "2026-05-12",
+      "time": "20:00 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "seriea_2026-05-12_napoli-vs-bologna",
+      "competition": "seriea",
+      "home": "Napoli",
+      "away": "Bologna",
+      "date": "2026-05-12",
+      "time": "20:45 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "laliga_2026-05-12_osasuna-vs-atletico-madrid",
+      "competition": "laliga",
+      "home": "Osasuna",
+      "away": "Atl\u00e9tico Madrid",
+      "date": "2026-05-12",
+      "time": "21:30 CET",
+      "missing": [
+        "referee",
+        "injuries"
+      ]
+    }
+  ]
+}
