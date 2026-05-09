@@ -18,9 +18,9 @@ on:
           - fixtures
           - players
 
-  # Automatic: EVERY DAY at 10:00 AM CET (8:00 UTC)
+  # Automatic: EVERY DAY at 9:00 AM Spain (7:00 UTC summer / 8:00 UTC winter)
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 7 * * *'
 
 jobs:
   update:
