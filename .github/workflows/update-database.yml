@@ -67,6 +67,18 @@ jobs:
             python3 scripts/update_all.py --fixtures
           fi
 
+          # Player stats from FBref (weekly, slow due to rate limits)
+          if [ "$SCOPE" = "all" ]; then
+            echo "--- Updating player stats ---"
+            python3 scripts/scrape_player_stats.py || echo "Player stats failed (non-blocking)"
+          fi
+
+          # Match events from ESPN API
+          if [ "$SCOPE" = "all" ]; then
+            echo "--- Updating match events ---"
+            python3 scripts/scrape_match_events.py || echo "Match events failed (non-blocking)"
+          fi
+
           # Always rebuild analysis pack and status
           echo "--- Building analysis pack ---"
           python3 scripts/build_analysis_pack.py

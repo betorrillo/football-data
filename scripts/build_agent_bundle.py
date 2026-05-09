@@ -18,6 +18,7 @@ from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.now().strftime("%Y-%m-%d")
+CURRENT_SEASON = "2025-26"
 
 
 def load_json(path):
@@ -76,16 +77,42 @@ def main():
     lineups = load_json(lineup_path) if lineup_path else {}
     print(f"  Lineups: {lineups.get('total_matches', 0)} matches")
 
+    # Load player stats (top players per league, trimmed for size)
+    all_player_stats = {}
+    total_players = 0
+    players_dir = os.path.join(BASE_DIR, "stats", "players")
+    for league in leagues:
+        pfile = os.path.join(players_dir, f"player_stats_{league}_{CURRENT_SEASON}.json")
+        if os.path.exists(pfile):
+            pdata = load_json(f"stats/players/player_stats_{league}_{CURRENT_SEASON}.json")
+            players = pdata.get("players", [])
+            # Keep only players with 5+ starts to save space
+            filtered = [p for p in players if p.get("starts", 0) >= 5]
+            all_player_stats[league] = filtered
+            total_players += len(filtered)
+    print(f"  Player stats: {total_players} players (5+ starts)")
+
+    # Load event timing stats
+    all_event_stats = {}
+    events_dir = os.path.join(BASE_DIR, "stats", "events")
+    for league in leagues:
+        efile = os.path.join(events_dir, f"team_event_stats_{league}_{CURRENT_SEASON}.json")
+        if os.path.exists(efile):
+            edata = load_json(f"stats/events/team_event_stats_{league}_{CURRENT_SEASON}.json")
+            all_event_stats[league] = edata.get("teams", {})
+    print(f"  Event timing: {len(all_event_stats)} leagues")
+
     # Build the bundle
     bundle = {
         "_meta": {
             "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
             "generated": TODAY,
             "generated_at": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "version": "1.0",
+            "version": "2.0",
             "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly — no web_fetch needed.",
             "github_repo": "https://github.com/betorrillo/football-data",
             "auto_updated": "Tue+Fri via GitHub Actions",
+            "data_sections": "matches, referees, injuries, lineups, player_stats, event_timing",
         },
 
         "matches": pack.get("matches", []),
@@ -95,6 +122,10 @@ def main():
         "injuries": all_injuries,
 
         "lineups": lineups.get("matches", []),
+
+        "player_stats": all_player_stats,
+
+        "event_timing": all_event_stats,
     }
 
     # Save readable version

@@ -94,6 +94,13 @@ def compute_team_stats(matches, team_name):
         "clean_sheets": 0, "failed_to_score": 0,
         "total_match_corners": 0,
         "total_match_cards": 0,
+        # Half-time stats
+        "ht_gf_1h": 0, "ht_ga_1h": 0,  # goals scored/conceded in 1st half
+        "ht_gf_2h": 0, "ht_ga_2h": 0,  # goals scored/conceded in 2nd half
+        "ht_over_05_1h": 0, "ht_over_15_1h": 0,  # match total goals 1st half
+        "ht_over_05_2h": 0, "ht_over_15_2h": 0,  # match total goals 2nd half
+        "ht_btts_1h": 0, "ht_btts_2h": 0,
+        "ht_matches_with_data": 0,  # matches that have HT data
     }
 
     for m in home_matches:
@@ -116,6 +123,27 @@ def compute_team_stats(matches, team_name):
         if gf > 0 and ga > 0: stats["btts_yes"] += 1
         if ga == 0: stats["clean_sheets"] += 1
         if gf == 0: stats["failed_to_score"] += 1
+
+        # Half-time / 2nd half breakdown
+        ht_gf = safe_int(m.get("ht_home"))
+        ht_ga = safe_int(m.get("ht_away"))
+        if m.get("ht_home") is not None:
+            stats["ht_matches_with_data"] += 1
+            stats["ht_gf_1h"] += ht_gf
+            stats["ht_ga_1h"] += ht_ga
+            goals_1h = ht_gf + ht_ga
+            if goals_1h > 0.5: stats["ht_over_05_1h"] += 1
+            if goals_1h > 1.5: stats["ht_over_15_1h"] += 1
+            if ht_gf > 0 and ht_ga > 0: stats["ht_btts_1h"] += 1
+            # 2nd half = FT - HT
+            gf_2h = gf - ht_gf
+            ga_2h = ga - ht_ga
+            stats["ht_gf_2h"] += gf_2h
+            stats["ht_ga_2h"] += ga_2h
+            goals_2h = gf_2h + ga_2h
+            if goals_2h > 0.5: stats["ht_over_05_2h"] += 1
+            if goals_2h > 1.5: stats["ht_over_15_2h"] += 1
+            if gf_2h > 0 and ga_2h > 0: stats["ht_btts_2h"] += 1
 
         hc = safe_int(m.get("home_corners"))
         ac = safe_int(m.get("away_corners"))
@@ -159,6 +187,26 @@ def compute_team_stats(matches, team_name):
         if gf > 0 and ga > 0: stats["btts_yes"] += 1
         if ga == 0: stats["clean_sheets"] += 1
         if gf == 0: stats["failed_to_score"] += 1
+
+        # Half-time / 2nd half breakdown
+        ht_gf = safe_int(m.get("ht_away"))
+        ht_ga = safe_int(m.get("ht_home"))
+        if m.get("ht_home") is not None:
+            stats["ht_matches_with_data"] += 1
+            stats["ht_gf_1h"] += ht_gf
+            stats["ht_ga_1h"] += ht_ga
+            goals_1h = ht_gf + ht_ga
+            if goals_1h > 0.5: stats["ht_over_05_1h"] += 1
+            if goals_1h > 1.5: stats["ht_over_15_1h"] += 1
+            if ht_gf > 0 and ht_ga > 0: stats["ht_btts_1h"] += 1
+            gf_2h = gf - ht_gf
+            ga_2h = ga - ht_ga
+            stats["ht_gf_2h"] += gf_2h
+            stats["ht_ga_2h"] += ga_2h
+            goals_2h = gf_2h + ga_2h
+            if goals_2h > 0.5: stats["ht_over_05_2h"] += 1
+            if goals_2h > 1.5: stats["ht_over_15_2h"] += 1
+            if gf_2h > 0 and ga_2h > 0: stats["ht_btts_2h"] += 1
 
         hc = safe_int(m.get("home_corners"))
         ac = safe_int(m.get("away_corners"))
@@ -208,6 +256,25 @@ def compute_team_stats(matches, team_name):
             "clean_sheet": round(stats["clean_sheets"] / mp * 100, 1),
             "failed_to_score": round(stats["failed_to_score"] / mp * 100, 1),
         }
+        # Half-time percentages
+        ht_mp = stats["ht_matches_with_data"]
+        if ht_mp > 0:
+            stats["avg_ht"] = {
+                "gf_1h": round(stats["ht_gf_1h"] / ht_mp, 2),
+                "ga_1h": round(stats["ht_ga_1h"] / ht_mp, 2),
+                "gf_2h": round(stats["ht_gf_2h"] / ht_mp, 2),
+                "ga_2h": round(stats["ht_ga_2h"] / ht_mp, 2),
+                "total_1h": round((stats["ht_gf_1h"] + stats["ht_ga_1h"]) / ht_mp, 2),
+                "total_2h": round((stats["ht_gf_2h"] + stats["ht_ga_2h"]) / ht_mp, 2),
+            }
+            stats["pct_ht"] = {
+                "over_05_1h": round(stats["ht_over_05_1h"] / ht_mp * 100, 1),
+                "over_15_1h": round(stats["ht_over_15_1h"] / ht_mp * 100, 1),
+                "over_05_2h": round(stats["ht_over_05_2h"] / ht_mp * 100, 1),
+                "over_15_2h": round(stats["ht_over_15_2h"] / ht_mp * 100, 1),
+                "btts_1h": round(stats["ht_btts_1h"] / ht_mp * 100, 1),
+                "btts_2h": round(stats["ht_btts_2h"] / ht_mp * 100, 1),
+            }
         # Home averages
         hmp = stats["home_mp"]
         if hmp > 0:
@@ -330,6 +397,8 @@ def build_derived_stats():
                 "avg_home": s.get("avg_home", {}),
                 "avg_away": s.get("avg_away", {}),
                 "pct": s.get("pct", {}),
+                "avg_ht": s.get("avg_ht", {}),
+                "pct_ht": s.get("pct_ht", {}),
             })
 
         # Sort by points
@@ -478,6 +547,8 @@ def build_analysis_pack():
                     "avg": home_stats.get("avg", {}),
                     "avg_home": home_stats.get("avg_home", {}),
                     "pct": home_stats.get("pct", {}),
+                    "avg_ht": home_stats.get("avg_ht", {}),
+                    "pct_ht": home_stats.get("pct_ht", {}),
                 },
                 "away_season": {
                     "mp": away_stats["mp"],
@@ -487,6 +558,8 @@ def build_analysis_pack():
                     "avg": away_stats.get("avg", {}),
                     "avg_away": away_stats.get("avg_away", {}),
                     "pct": away_stats.get("pct", {}),
+                    "avg_ht": away_stats.get("avg_ht", {}),
+                    "pct_ht": away_stats.get("pct_ht", {}),
                 },
 
                 "home_form_last5": home_form,
