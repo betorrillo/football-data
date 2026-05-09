@@ -3,7 +3,7 @@
   "source": "ESPN API",
   "league": "LaLiga",
   "season": "2025-26",
-  "total_matches": 339,
+  "total_matches": 340,
   "matches": [
     {
       "event_id": "748152",
@@ -15045,6 +15045,55 @@
         {
           "team": "Sevilla",
           "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748365",
+      "home": "Sevilla",
+      "away": "Girona",
+      "goals": [
+        {
+          "team": "Girona",
+          "minute": 2,
+          "type": "Goal"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 92,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Sevilla",
+          "minute": 21,
+          "type": "yellow"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 51,
+          "type": "yellow"
+        },
+        {
+          "team": "Girona",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Girona",
+          "minute": 87,
+          "type": "yellow"
+        },
+        {
+          "team": "Girona",
+          "minute": 92,
+          "type": "yellow"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 96,
           "type": "yellow"
         }
       ]
