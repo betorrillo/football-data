@@ -80,6 +80,14 @@ jobs:
           echo "--- Updating match events ---"
           timeout 180 python3 scripts/scrape_match_events.py || echo "⚠️ Match events failed/timeout (non-blocking)"
 
+      - name: Fetch API data (football-data.org)
+        if: github.event.inputs.scope == 'all' || github.event.inputs.scope == ''
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          echo "--- Fetching API data ---"
+          timeout 240 python3 scripts/fetch_football_data_api.py --all || echo "⚠️ API fetch failed/timeout (non-blocking)"
+
       - name: Build analysis pack
         run: |
           echo "--- Building analysis pack ---"
@@ -120,4 +128,4 @@ jobs:
         env:
           GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
           GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
-        run: timeout 60 python3 scripts/upload_to_drive.py
+        run: timeout 60 python3 scripts/upload_to_drive.py || echo "⚠️ Drive upload failed (non-blocking)"

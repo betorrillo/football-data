@@ -40,7 +40,15 @@ def get_drive_service():
         print("ERROR: GDRIVE_SERVICE_ACCOUNT_JSON env var not set")
         sys.exit(1)
 
-    sa_info = json.loads(sa_json)
+    try:
+        sa_info = json.loads(sa_json)
+    except json.JSONDecodeError as e:
+        print(f"ERROR: GDRIVE_SERVICE_ACCOUNT_JSON is not valid JSON: {e}")
+        print(f"  First 50 chars: {sa_json[:50]}...")
+        print(f"  Length: {len(sa_json)} chars")
+        print("  Make sure you pasted the ENTIRE JSON file content as the secret value")
+        sys.exit(1)
+
     creds = service_account.Credentials.from_service_account_info(sa_info, scopes=SCOPES)
     return build("drive", "v3", credentials=creds)
 
