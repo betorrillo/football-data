@@ -2,8 +2,8 @@
   "generated": "2026-05-09",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 32,
-  "teams_affected": 15,
+  "total_injured": 30,
+  "teams_affected": 14,
   "teams": {
     "Girona FC": [
       {
@@ -33,15 +33,6 @@
         "player": "\u00c1ngel Ortiz",
         "position": "Right-Back",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Deportivo Alav\u00e9s": [
-      {
-        "player": "Carlos Protesoni",
-        "position": "Defensive Midfield",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
@@ -173,22 +164,6 @@
         "status": "out"
       }
     ],
-    "FC Barcelona": [
-      {
-        "player": "Andreas Christensen",
-        "position": "Centre-Back",
-        "injury": "Ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lamine Yamal",
-        "position": "Right Winger",
-        "injury": "Muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Atl\u00e9tico de Madrid": [
       {
         "player": "Nico Gonz\u00e1lez",
@@ -218,6 +193,15 @@
       {
         "player": "Iv\u00e1n Romero",
         "position": "Centre-Forward",
+        "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Barcelona": [
+      {
+        "player": "Lamine Yamal",
+        "position": "Right Winger",
         "injury": "Muscle tear",
         "since": "",
         "status": "out"

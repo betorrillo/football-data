@@ -2,8 +2,8 @@
   "generated": "2026-05-09",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 67,
-  "teams_affected": 20,
+  "total_injured": 65,
+  "teams_affected": 19,
   "teams": {
     "Nottingham Forest": [
       {
@@ -63,41 +63,18 @@
         "status": "out"
       }
     ],
-    "AFC Bournemouth": [
-      {
-        "player": "Justin Kluivert",
-        "position": "Attacking Midfield",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matai Akinmboni",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Cook",
-        "position": "Central Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Aston Villa": [
-      {
-        "player": "Alysson",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Amadou Onana",
         "position": "Defensive Midfield",
         "injury": "Calf problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alysson",
+        "position": "Right Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -176,6 +153,45 @@
         "status": "out"
       }
     ],
+    "AFC Bournemouth": [
+      {
+        "player": "Justin Kluivert",
+        "position": "Attacking Midfield",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Matai Akinmboni",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Fulham FC": [
+      {
+        "player": "Kevin",
+        "position": "Left Winger",
+        "injury": "Metatarsal bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alex Iwobi",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ryan Sessegnon",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Newcastle United": [
       {
         "player": "Tino Livramento",
@@ -206,41 +222,18 @@
         "status": "out"
       }
     ],
-    "Fulham FC": [
-      {
-        "player": "Kevin",
-        "position": "Left Winger",
-        "injury": "Metatarsal bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alex Iwobi",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ryan Sessegnon",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Crystal Palace": [
-      {
-        "player": "Evann Guessand",
-        "position": "Right Winger",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Caleb Kporha",
         "position": "Right-Back",
         "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Evann Guessand",
+        "position": "Right Winger",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
@@ -263,9 +256,9 @@
     ],
     "Liverpool FC": [
       {
-        "player": "Florian Wirtz",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
+        "player": "Alisson",
+        "position": "Goalkeeper",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -277,9 +270,9 @@
         "status": "out"
       },
       {
-        "player": "Alisson",
-        "position": "Goalkeeper",
-        "injury": "Hamstring injury",
+        "player": "Florian Wirtz",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -452,15 +445,6 @@
       {
         "player": "Lukasz Fabianski",
         "position": "Goalkeeper",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Manchester United": [
-      {
-        "player": "Matthijs de Ligt",
-        "position": "Centre-Back",
         "injury": "Back injury",
         "since": "",
         "status": "out"

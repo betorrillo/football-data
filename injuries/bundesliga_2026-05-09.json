@@ -5,127 +5,53 @@
   "total_injured": 64,
   "teams_affected": 18,
   "teams": {
-    "SV Werder Bremen": [
+    "FC St. Pauli": [
       {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Karl Hein",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Juli\u00e1n Malatini",
+        "player": "Jannik Robatsch",
         "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Leonardo Bittencourt",
-        "position": "Central Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SC Freiburg": [
-      {
-        "player": "Patrick Osterhage",
-        "position": "Defensive Midfield",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Max Rosenfelder",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Yuito Suzuki",
-        "position": "Second Striker",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "1.FC K\u00f6ln": [
-      {
-        "player": "Timo H\u00fcbers",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Luca Kilian",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Malek El Mala",
-        "position": "Centre-Forward",
-        "injury": "Muscle tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ragnar Ache",
-        "position": "Centre-Forward",
         "injury": "Muscle injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "VfB Stuttgart": [
+      },
       {
-        "player": "Ameen Al-Dakhil",
+        "player": "Karol Mets",
         "position": "Centre-Back",
-        "injury": "Knee problems",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Lazar Jovanovic",
-        "position": "Right Winger",
+        "player": "Manolis Saliakas",
+        "position": "Right-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Finn Jeltsch",
-        "position": "Centre-Back",
+        "player": "James Sands",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Borussia M\u00f6nchengladbach": [
+      {
+        "player": "Tim Kleindienst",
+        "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       }
     ],
     "VfL Wolfsburg": [
-      {
-        "player": "Jonas Wind",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Rog\u00e9rio",
         "position": "Left-Back",
@@ -162,9 +88,25 @@
         "status": "out"
       },
       {
+        "player": "Jonas Wind",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Maximilian Arnold",
         "position": "Central Midfield",
         "injury": "Groin problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Augsburg": [
+      {
+        "player": "Mads Pedersen",
+        "position": "Left-Back",
+        "injury": "Knee problems",
         "since": "",
         "status": "out"
       }
@@ -195,15 +137,6 @@
         "player": "Frederik R\u00f6nnow",
         "position": "Goalkeeper",
         "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "FC Augsburg": [
-      {
-        "player": "Mads Pedersen",
-        "position": "Left-Back",
-        "injury": "Knee problems",
         "since": "",
         "status": "out"
       }
@@ -261,37 +194,51 @@
         "status": "out"
       }
     ],
-    "RB Leipzig": [
+    "1.FC K\u00f6ln": [
       {
-        "player": "Leopold Zingerle",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
+        "player": "Timo H\u00fcbers",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ezechiel Banzuzi",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Viggo Gebel",
-        "position": "Attacking Midfield",
+        "player": "Luca Kilian",
+        "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ayodele Thomas",
-        "position": "Left Winger",
-        "injury": "Ankle problems",
+        "player": "Malek El Mala",
+        "position": "Centre-Forward",
+        "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ragnar Ache",
+        "position": "Centre-Forward",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
     ],
     "Hamburger SV": [
+      {
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "William Mikelbrencis",
+        "position": "Right-Back",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Fernando Dickes",
         "position": "Goalkeeper",
@@ -307,20 +254,6 @@
         "status": "out"
       },
       {
-        "player": "William Mikelbrencis",
-        "position": "Right-Back",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Miro Muheim",
         "position": "Left-Back",
         "injury": "Ankle injury",
@@ -328,59 +261,39 @@
         "status": "out"
       }
     ],
-    "Bayer 04 Leverkusen": [
+    "1.FSV Mainz 05": [
       {
-        "player": "Martin Terrier",
-        "position": "Left Winger",
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jae-sung Lee",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Borussia Dortmund": [
+      },
       {
-        "player": "Emre Can",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
+        "player": "Silas",
+        "position": "Right Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ramy Bensebaini",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Felix Nmecha",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Borussia M\u00f6nchengladbach": [
-      {
-        "player": "Tim Kleindienst",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Eintracht Frankfurt": [
-      {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jens Grahl",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
+        "player": "Kasey Bos",
+        "position": "Left-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -415,76 +328,163 @@
         "status": "out"
       }
     ],
-    "FC St. Pauli": [
+    "Bayer 04 Leverkusen": [
       {
-        "player": "Karol Mets",
+        "player": "Martin Terrier",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Eintracht Frankfurt": [
+      {
+        "player": "Nnamdi Collins",
         "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Manolis Saliakas",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
         "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Jannik Robatsch",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
+        "player": "Jens Grahl",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
     ],
-    "1.FSV Mainz 05": [
+    "Borussia Dortmund": [
       {
-        "player": "Silas",
-        "position": "Right Winger",
+        "player": "Emre Can",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ramy Bensebaini",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Felix Nmecha",
+        "position": "Central Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      },
+      }
+    ],
+    "SC Freiburg": [
       {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
+        "player": "Patrick Osterhage",
+        "position": "Defensive Midfield",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Maxim Leitsch",
+        "player": "Max Rosenfelder",
         "position": "Centre-Back",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Jae-sung Lee",
-        "position": "Attacking Midfield",
+        "player": "Yuito Suzuki",
+        "position": "Second Striker",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "VfB Stuttgart": [
+      {
+        "player": "Finn Jeltsch",
+        "position": "Centre-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
-        "injury": "Shoulder injury",
+        "player": "Lazar Jovanovic",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ameen Al-Dakhil",
+        "position": "Centre-Back",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SV Werder Bremen": [
+      {
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Juli\u00e1n Malatini",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Karl Hein",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leonardo Bittencourt",
+        "position": "Central Midfield",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RB Leipzig": [
+      {
+        "player": "Viggo Gebel",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ezechiel Banzuzi",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leopold Zingerle",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ayodele Thomas",
+        "position": "Left Winger",
+        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       }
