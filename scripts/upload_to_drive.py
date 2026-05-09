@@ -73,15 +73,13 @@ def upload_or_update(service, folder_id, local_path, drive_filename=None):
     filename = drive_filename or os.path.basename(local_path)
     file_size = os.path.getsize(local_path)
 
-    # Use non-resumable upload (Service Accounts on personal Gmail have no storage quota
-    # with resumable uploads, but non-resumable to a shared folder works)
     media = MediaFileUpload(local_path, mimetype="application/json", resumable=False)
 
     # Check if file already exists in folder
     existing_id = find_file_in_folder(service, folder_id, filename)
 
     if existing_id:
-        # Update existing file
+        # Update existing file (uses owner's quota, not SA's)
         file = service.files().update(
             fileId=existing_id,
             media_body=media,
@@ -89,18 +87,10 @@ def upload_or_update(service, folder_id, local_path, drive_filename=None):
         ).execute()
         action = "UPDATED"
     else:
-        # Create new file
-        file_metadata = {
-            "name": filename,
-            "parents": [folder_id],
-        }
-        file = service.files().create(
-            body=file_metadata,
-            media_body=media,
-            fields="id",
-            supportsAllDrives=True,
-        ).execute()
-        action = "CREATED"
+        # SA can't create files on personal Gmail (no storage quota).
+        # User must pre-create these files manually in the Drive folder.
+        print(f"  SKIP (not in Drive yet — create '{filename}' manually): {local_path}")
+        return None
 
     file_id = file.get("id")
     print(f"  {action}: {filename} ({file_size:,} bytes) -> Drive ID: {file_id}")
@@ -119,44 +109,34 @@ def main():
     service = get_drive_service()
     uploaded = 0
 
-    # 1. Upload status.json
-    path = os.path.join(BASE_DIR, "status.json")
-    if upload_or_update(service, folder_id, path):
-        uploaded += 1
+    # Files to sync — all use FIXED names so they get updated (not created) in Drive.
+    # User must pre-create these files once in the Drive folder.
+    FILES_TO_SYNC = [
+        # (local_path_or_glob, fixed_drive_name)
+        (os.path.join(BASE_DIR, "status.json"), "status.json"),
+        (os.path.join(BASE_DIR, "agent_bundle.json"), "agent_bundle.json"),
+    ]
 
-    # 2. Upload latest analysis_pack
-    packs = sorted(glob.glob(os.path.join(BASE_DIR, "analysis_pack_*.json")), reverse=True)
-    if packs:
-        if upload_or_update(service, folder_id, packs[0]):
-            uploaded += 1
-    else:
-        print("  SKIP: No analysis_pack found")
+    # Find latest dated files and upload with fixed names
+    analysis = sorted(glob.glob(os.path.join(BASE_DIR, "analysis_pack_*.json")), reverse=True)
+    if analysis:
+        FILES_TO_SYNC.append((analysis[0], "analysis_pack.json"))
 
-    # 3. Upload latest referees
     refs = sorted(glob.glob(os.path.join(BASE_DIR, "referees", "all_referees_*.json")), reverse=True)
     if refs:
-        if upload_or_update(service, folder_id, refs[0]):
-            uploaded += 1
-    else:
-        print("  SKIP: No referees file found")
+        FILES_TO_SYNC.append((refs[0], "all_referees.json"))
 
-    # 4. Upload agent_bundle.json (the complete data package)
-    bundle = os.path.join(BASE_DIR, "agent_bundle.json")
-    if upload_or_update(service, folder_id, bundle):
-        uploaded += 1
-
-    # 5. Upload latest injuries (all leagues combined)
-    injuries_files = sorted(glob.glob(os.path.join(BASE_DIR, "injuries", "*.json")), reverse=True)
-    if injuries_files:
-        # Upload the first one as representative
-        if upload_or_update(service, folder_id, injuries_files[0]):
+    for path, drive_name in FILES_TO_SYNC:
+        if upload_or_update(service, folder_id, path, drive_filename=drive_name):
             uploaded += 1
 
     print(f"\n{'='*50}")
     print(f"UPLOAD COMPLETE — {uploaded} files synced to Drive")
 
     if uploaded == 0:
-        print("WARNING: No files were uploaded!")
+        print("WARNING: No files were uploaded! Create these files manually in your Drive folder:")
+        for _, name in FILES_TO_SYNC:
+            print(f"  - {name}")
         sys.exit(1)
 
 
