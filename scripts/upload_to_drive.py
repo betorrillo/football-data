@@ -41,6 +41,7 @@ DRIVE_FILE_IDS = {
     "agent_bundle.json": "1g1L0-BEslXa7jSb6omkWsouYaNhWsf2n",
     "analysis_pack.json": "12gbKuN-a6LZfdooVf80Ad6TiMITbCtvF",
     "all_referees.json": "1pXBqnhnBo0AD3ehlS2w0TERVKA2e4B-P",
+    "fixture_predictions.json": "1dR2Qq4P9KE_vCd9MBUO-njEkfdAg0ADB",
 }
 
 
@@ -112,6 +113,10 @@ def main():
     refs = sorted(glob.glob(os.path.join(BASE_DIR, "referees", "all_referees_*.json")), reverse=True)
     if refs:
         files_to_sync.append((refs[0], "all_referees.json"))
+
+    preds = os.path.join(BASE_DIR, "predictions", "fixture_predictions_latest.json")
+    if os.path.exists(preds):
+        files_to_sync.append((preds, "fixture_predictions.json"))
 
     for local_path, drive_name in files_to_sync:
         file_id = DRIVE_FILE_IDS.get(drive_name)

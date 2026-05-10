@@ -98,6 +98,11 @@ jobs:
           echo "--- Building probable lineups ---"
           python3 scripts/build_probable_lineups.py || echo "⚠️ Lineups failed (non-blocking)"
 
+      - name: Build fixture predictions (with referee analysis)
+        run: |
+          echo "--- Building fixture predictions ---"
+          python3 scripts/build_fixture_predictions.py || echo "⚠️ Fixture predictions failed (non-blocking)"
+
       - name: Build agent bundle
         run: |
           echo "--- Building agent bundle ---"

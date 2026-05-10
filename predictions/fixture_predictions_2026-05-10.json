@@ -1,0 +1,2043 @@
+{
+  "generated": "2026-05-10",
+  "total_fixtures": 118,
+  "fixtures_with_referee": 27,
+  "predictions": {
+    "PD": {
+      "competition": "LaLiga",
+      "fixtures": [
+        {
+          "date": "2026-05-10",
+          "time": "12:00",
+          "home": "Mallorca",
+          "away": "Villarreal",
+          "matchday": 35,
+          "referee": "Víctor García Verdura",
+          "cards_analysis": {
+            "team_cards_avg": 4.53,
+            "ref_cards_per_match": 4.49,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 181,
+            "blended_cards_prediction": 4.51,
+            "cards_verdict": "ALTO"
+          },
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.65,
+          "away_goals_1h_avg": 0.74,
+          "away_goals_2h_avg": 1.0
+        },
+        {
+          "date": "2026-05-10",
+          "time": "14:15",
+          "home": "Athletic",
+          "away": "Valencia",
+          "matchday": 35,
+          "referee": "Miguel Ortiz Arias",
+          "cards_analysis": {
+            "team_cards_avg": 4.47,
+            "ref_cards_per_match": 4.7,
+            "ref_verdict": "ALTO",
+            "ref_matches": 281,
+            "blended_cards_prediction": 4.58,
+            "cards_verdict": "ALTO"
+          },
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.59,
+          "away_goals_1h_avg": 0.21,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-10",
+          "time": "16:30",
+          "home": "Real Oviedo",
+          "away": "Getafe",
+          "matchday": 35,
+          "referee": "César Soto Grado",
+          "cards_analysis": {
+            "team_cards_avg": 4.69,
+            "ref_cards_per_match": 5.19,
+            "ref_verdict": "MUY ALTO",
+            "ref_matches": 338,
+            "blended_cards_prediction": 4.94,
+            "cards_verdict": "ALTO"
+          },
+          "home_goals_1h_avg": 0.29,
+          "home_goals_2h_avg": 0.41,
+          "away_goals_1h_avg": 0.18,
+          "away_goals_2h_avg": 0.59
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Barça",
+          "away": "Real Madrid",
+          "matchday": 35,
+          "referee": "Alejandro Hernández Hernández",
+          "cards_analysis": {
+            "team_cards_avg": 4.51,
+            "ref_cards_per_match": 5.94,
+            "ref_verdict": "MUY ALTO",
+            "ref_matches": 616,
+            "blended_cards_prediction": 5.22,
+            "cards_verdict": "MUY ALTO"
+          },
+          "home_goals_1h_avg": 0.94,
+          "home_goals_2h_avg": 1.47,
+          "away_goals_1h_avg": 0.79,
+          "away_goals_2h_avg": 0.91
+        },
+        {
+          "date": "2026-05-11",
+          "time": "19:00",
+          "home": "Rayo Vallecano",
+          "away": "Girona",
+          "matchday": 35,
+          "cards_analysis": {
+            "team_cards_avg": 4.88,
+            "blended_cards_prediction": 4.88,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.38,
+          "home_goals_2h_avg": 0.56,
+          "away_goals_1h_avg": 0.41,
+          "away_goals_2h_avg": 0.44
+        },
+        {
+          "date": "2026-05-12",
+          "time": "17:00",
+          "home": "Celta",
+          "away": "Levante",
+          "matchday": 36,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-12",
+          "time": "18:00",
+          "home": "Real Betis",
+          "away": "Elche",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.44,
+            "blended_cards_prediction": 4.44,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.59,
+          "home_goals_2h_avg": 0.88,
+          "away_goals_1h_avg": 0.47,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-12",
+          "time": "19:30",
+          "home": "Osasuna",
+          "away": "Atleti",
+          "matchday": 36,
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.65
+        },
+        {
+          "date": "2026-05-13",
+          "time": "17:00",
+          "home": "Espanyol",
+          "away": "Athletic",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.4,
+            "blended_cards_prediction": 4.4,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.94,
+          "home_goals_2h_avg": 1.47,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.59
+        },
+        {
+          "date": "2026-05-13",
+          "time": "17:00",
+          "home": "Villarreal",
+          "away": "Sevilla FC",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.85,
+            "blended_cards_prediction": 4.85,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.74,
+          "home_goals_2h_avg": 1.0,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-13",
+          "time": "19:30",
+          "home": "Alavés",
+          "away": "Barça",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.49,
+            "blended_cards_prediction": 4.49,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.65,
+          "away_goals_1h_avg": 0.94,
+          "away_goals_2h_avg": 1.47
+        },
+        {
+          "date": "2026-05-13",
+          "time": "19:30",
+          "home": "Getafe",
+          "away": "Mallorca",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 5.03,
+            "blended_cards_prediction": 5.03,
+            "cards_verdict": "MUY ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.18,
+          "home_goals_2h_avg": 0.59,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.65
+        },
+        {
+          "date": "2026-05-14",
+          "time": "17:00",
+          "home": "Valencia",
+          "away": "Rayo Vallecano",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.97,
+            "blended_cards_prediction": 4.97,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.21,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.38,
+          "away_goals_2h_avg": 0.56
+        },
+        {
+          "date": "2026-05-14",
+          "time": "18:00",
+          "home": "Girona",
+          "away": "Real Sociedad",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.57,
+            "blended_cards_prediction": 4.57,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.41,
+          "home_goals_2h_avg": 0.44,
+          "away_goals_1h_avg": 0.53,
+          "away_goals_2h_avg": 0.79
+        },
+        {
+          "date": "2026-05-14",
+          "time": "19:30",
+          "home": "Real Madrid",
+          "away": "Real Oviedo",
+          "matchday": 36,
+          "cards_analysis": {
+            "team_cards_avg": 4.29,
+            "blended_cards_prediction": 4.29,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.79,
+          "home_goals_2h_avg": 0.91,
+          "away_goals_1h_avg": 0.29,
+          "away_goals_2h_avg": 0.41
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Athletic",
+          "away": "Celta",
+          "matchday": 37,
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.59
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Atleti",
+          "away": "Girona",
+          "matchday": 37,
+          "away_goals_1h_avg": 0.41,
+          "away_goals_2h_avg": 0.44
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Barça",
+          "away": "Real Betis",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.44,
+            "blended_cards_prediction": 4.44,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.94,
+          "home_goals_2h_avg": 1.47,
+          "away_goals_1h_avg": 0.59,
+          "away_goals_2h_avg": 0.88
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Elche",
+          "away": "Getafe",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.91,
+            "blended_cards_prediction": 4.91,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.47,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.18,
+          "away_goals_2h_avg": 0.59
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Levante",
+          "away": "Mallorca",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.76,
+            "blended_cards_prediction": 4.76,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.71,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.65
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Rayo Vallecano",
+          "away": "Villarreal",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.99,
+            "blended_cards_prediction": 4.99,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.38,
+          "home_goals_2h_avg": 0.56,
+          "away_goals_1h_avg": 0.74,
+          "away_goals_2h_avg": 1.0
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Real Sociedad",
+          "away": "Valencia",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.66,
+            "blended_cards_prediction": 4.66,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.53,
+          "home_goals_2h_avg": 0.79,
+          "away_goals_1h_avg": 0.21,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Real Oviedo",
+          "away": "Alavés",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.26,
+            "blended_cards_prediction": 4.26,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.29,
+          "home_goals_2h_avg": 0.41,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.65
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Osasuna",
+          "away": "Espanyol",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.71,
+            "blended_cards_prediction": 4.71,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.65,
+          "away_goals_1h_avg": 0.94,
+          "away_goals_2h_avg": 1.47
+        },
+        {
+          "date": "2026-05-17",
+          "time": "17:00",
+          "home": "Sevilla FC",
+          "away": "Real Madrid",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.96,
+            "blended_cards_prediction": 4.96,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.71,
+          "away_goals_1h_avg": 0.79,
+          "away_goals_2h_avg": 0.91
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Alavés",
+          "away": "Rayo Vallecano",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 5.06,
+            "blended_cards_prediction": 5.06,
+            "cards_verdict": "MUY ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.35,
+          "home_goals_2h_avg": 0.65,
+          "away_goals_1h_avg": 0.38,
+          "away_goals_2h_avg": 0.56
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Real Betis",
+          "away": "Levante",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.76,
+            "blended_cards_prediction": 4.76,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.59,
+          "home_goals_2h_avg": 0.88,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Celta",
+          "away": "Sevilla FC",
+          "matchday": 38,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Espanyol",
+          "away": "Real Sociedad",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.59,
+            "blended_cards_prediction": 4.59,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.94,
+          "home_goals_2h_avg": 1.47,
+          "away_goals_1h_avg": 0.53,
+          "away_goals_2h_avg": 0.79
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Getafe",
+          "away": "Osasuna",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 5.29,
+            "blended_cards_prediction": 5.29,
+            "cards_verdict": "MUY ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.18,
+          "home_goals_2h_avg": 0.59,
+          "away_goals_1h_avg": 0.35,
+          "away_goals_2h_avg": 0.65
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Mallorca",
+          "away": "Real Oviedo",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.22,
+            "blended_cards_prediction": 4.22,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.65,
+          "away_goals_1h_avg": 0.29,
+          "away_goals_2h_avg": 0.41
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Real Madrid",
+          "away": "Athletic",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.59,
+            "blended_cards_prediction": 4.59,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.79,
+          "home_goals_2h_avg": 0.91,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.59
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Villarreal",
+          "away": "Atleti",
+          "matchday": 38,
+          "home_goals_1h_avg": 0.74,
+          "home_goals_2h_avg": 1.0
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Valencia",
+          "away": "Barça",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.4,
+            "blended_cards_prediction": 4.4,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.21,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.94,
+          "away_goals_2h_avg": 1.47
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Girona",
+          "away": "Elche",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.31,
+            "blended_cards_prediction": 4.31,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.41,
+          "home_goals_2h_avg": 0.44,
+          "away_goals_1h_avg": 0.47,
+          "away_goals_2h_avg": 0.74
+        }
+      ],
+      "total": 35
+    },
+    "PL": {
+      "competition": "Premier League",
+      "fixtures": [
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "home": "Crystal Palace",
+          "away": "Everton",
+          "matchday": 36,
+          "referee": "Thomas Bramall",
+          "cards_analysis": {
+            "team_cards_avg": 3.9,
+            "ref_cards_per_match": 3.58,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 217,
+            "blended_cards_prediction": 3.74,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.33,
+          "home_goals_2h_avg": 0.48,
+          "away_goals_1h_avg": 0.41,
+          "away_goals_2h_avg": 0.79
+        },
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "home": "Burnley",
+          "away": "Aston Villa",
+          "matchday": 36,
+          "referee": "Anthony Taylor",
+          "cards_analysis": {
+            "team_cards_avg": 3.56,
+            "ref_cards_per_match": 3.68,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 942,
+            "blended_cards_prediction": 3.62,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.49,
+          "away_goals_2h_avg": 0.89
+        },
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "home": "Nottingham",
+          "away": "Newcastle",
+          "matchday": 36,
+          "referee": "Paul Tierney",
+          "cards_analysis": {
+            "team_cards_avg": 3.92,
+            "ref_cards_per_match": 3.52,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 526,
+            "blended_cards_prediction": 3.72,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.47,
+          "home_goals_2h_avg": 0.68,
+          "away_goals_1h_avg": 0.66,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-10",
+          "time": "15:30",
+          "home": "West Ham",
+          "away": "Arsenal",
+          "matchday": 36,
+          "referee": "Chris Kavanagh",
+          "cards_analysis": {
+            "team_cards_avg": 3.5,
+            "ref_cards_per_match": 3.71,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 499,
+            "blended_cards_prediction": 3.6,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.51,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 1.11
+        },
+        {
+          "date": "2026-05-11",
+          "time": "19:00",
+          "home": "Tottenham",
+          "away": "Leeds United",
+          "matchday": 36,
+          "referee": "Jarred Gillett",
+          "cards_analysis": {
+            "team_cards_avg": 4.04,
+            "ref_cards_per_match": 4.26,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 488,
+            "blended_cards_prediction": 4.15,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.49,
+          "home_goals_2h_avg": 0.8,
+          "away_goals_1h_avg": 0.63,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-13",
+          "time": "19:00",
+          "home": "Man City",
+          "away": "Crystal Palace",
+          "matchday": 31,
+          "referee": "Stuart Attwell",
+          "cards_analysis": {
+            "team_cards_avg": 3.99,
+            "ref_cards_per_match": 3.75,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 606,
+            "blended_cards_prediction": 3.87,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 1.0,
+          "home_goals_2h_avg": 0.94,
+          "away_goals_1h_avg": 0.33,
+          "away_goals_2h_avg": 0.48
+        },
+        {
+          "date": "2026-05-15",
+          "time": "19:00",
+          "home": "Aston Villa",
+          "away": "Liverpool",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.88,
+            "blended_cards_prediction": 3.88,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.49,
+          "home_goals_2h_avg": 0.89,
+          "away_goals_1h_avg": 0.61,
+          "away_goals_2h_avg": 1.06
+        },
+        {
+          "date": "2026-05-17",
+          "time": "11:30",
+          "home": "Man United",
+          "away": "Nottingham",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.79,
+            "blended_cards_prediction": 3.79,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.65,
+          "home_goals_2h_avg": 1.03,
+          "away_goals_1h_avg": 0.47,
+          "away_goals_2h_avg": 0.68
+        },
+        {
+          "date": "2026-05-17",
+          "time": "14:00",
+          "home": "Brentford",
+          "away": "Crystal Palace",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.89,
+            "blended_cards_prediction": 3.89,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.54,
+          "home_goals_2h_avg": 0.71,
+          "away_goals_1h_avg": 0.33,
+          "away_goals_2h_avg": 0.48
+        },
+        {
+          "date": "2026-05-17",
+          "time": "14:00",
+          "home": "Everton",
+          "away": "Sunderland",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.91,
+            "blended_cards_prediction": 3.91,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.41,
+          "home_goals_2h_avg": 0.79,
+          "away_goals_1h_avg": 0.31,
+          "away_goals_2h_avg": 0.63
+        },
+        {
+          "date": "2026-05-17",
+          "time": "14:00",
+          "home": "Leeds United",
+          "away": "Brighton Hove",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.04,
+            "blended_cards_prediction": 4.04,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.63,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.91
+        },
+        {
+          "date": "2026-05-17",
+          "time": "14:00",
+          "home": "Wolverhampton",
+          "away": "Fulham",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.84,
+            "blended_cards_prediction": 3.84,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.2,
+          "home_goals_2h_avg": 0.46,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-17",
+          "time": "16:30",
+          "home": "Newcastle",
+          "away": "West Ham",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.06,
+            "blended_cards_prediction": 4.06,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.66,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.51,
+          "away_goals_2h_avg": 0.6
+        },
+        {
+          "date": "2026-05-18",
+          "time": "19:00",
+          "home": "Arsenal",
+          "away": "Burnley",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.1,
+            "blended_cards_prediction": 3.1,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.69,
+          "home_goals_2h_avg": 1.11,
+          "away_goals_1h_avg": 0.34,
+          "away_goals_2h_avg": 0.6
+        },
+        {
+          "date": "2026-05-19",
+          "time": "18:30",
+          "home": "Bournemouth",
+          "away": "Man City",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.04,
+            "blended_cards_prediction": 4.04,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.66,
+          "home_goals_2h_avg": 0.77,
+          "away_goals_1h_avg": 1.0,
+          "away_goals_2h_avg": 0.94
+        },
+        {
+          "date": "2026-05-19",
+          "time": "19:15",
+          "home": "Chelsea",
+          "away": "Tottenham",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.63,
+            "blended_cards_prediction": 4.63,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.51,
+          "home_goals_2h_avg": 0.83,
+          "away_goals_1h_avg": 0.49,
+          "away_goals_2h_avg": 0.8
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Sunderland",
+          "away": "Chelsea",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.41,
+            "blended_cards_prediction": 4.41,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.31,
+          "home_goals_2h_avg": 0.63,
+          "away_goals_1h_avg": 0.51,
+          "away_goals_2h_avg": 0.83
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Brighton Hove",
+          "away": "Man United",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.3,
+            "blended_cards_prediction": 4.3,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.91,
+          "away_goals_1h_avg": 0.65,
+          "away_goals_2h_avg": 1.03
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Crystal Palace",
+          "away": "Arsenal",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.65,
+            "blended_cards_prediction": 3.65,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.33,
+          "home_goals_2h_avg": 0.48,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 1.11
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Burnley",
+          "away": "Wolverhampton",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.49,
+            "blended_cards_prediction": 3.49,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.2,
+          "away_goals_2h_avg": 0.46
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Fulham",
+          "away": "Newcastle",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.01,
+            "blended_cards_prediction": 4.01,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.66,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Liverpool",
+          "away": "Brentford",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.66,
+            "blended_cards_prediction": 3.66,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.61,
+          "home_goals_2h_avg": 1.06,
+          "away_goals_1h_avg": 0.54,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Man City",
+          "away": "Aston Villa",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.0,
+            "blended_cards_prediction": 4.0,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 1.0,
+          "home_goals_2h_avg": 0.94,
+          "away_goals_1h_avg": 0.49,
+          "away_goals_2h_avg": 0.89
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Nottingham",
+          "away": "Bournemouth",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.86,
+            "blended_cards_prediction": 3.86,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.47,
+          "home_goals_2h_avg": 0.68,
+          "away_goals_1h_avg": 0.66,
+          "away_goals_2h_avg": 0.77
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "Tottenham",
+          "away": "Everton",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.12,
+            "blended_cards_prediction": 4.12,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.49,
+          "home_goals_2h_avg": 0.8,
+          "away_goals_1h_avg": 0.41,
+          "away_goals_2h_avg": 0.79
+        },
+        {
+          "date": "2026-05-24",
+          "time": "15:00",
+          "home": "West Ham",
+          "away": "Leeds United",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.67,
+            "blended_cards_prediction": 3.67,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.51,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.63,
+          "away_goals_2h_avg": 0.57
+        }
+      ],
+      "total": 26
+    },
+    "BL1": {
+      "competition": "Bundesliga",
+      "fixtures": [
+        {
+          "date": "2026-05-10",
+          "time": "13:30",
+          "home": "HSV",
+          "away": "Freiburg",
+          "matchday": 33,
+          "referee": "Felix Zwayer",
+          "cards_analysis": {
+            "ref_cards_per_match": 4.26,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 706,
+            "blended_cards_prediction": 4.26,
+            "cards_verdict": "MEDIO",
+            "note": "ref-only (no team event data)"
+          },
+          "away_goals_1h_avg": 0.5,
+          "away_goals_2h_avg": 0.75
+        },
+        {
+          "date": "2026-05-10",
+          "time": "15:30",
+          "home": "1. FC Köln",
+          "away": "Heidenheim",
+          "matchday": 33,
+          "referee": "Sven Jablonski",
+          "cards_analysis": {
+            "ref_cards_per_match": 3.74,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 376,
+            "blended_cards_prediction": 3.74,
+            "cards_verdict": "MEDIO",
+            "note": "ref-only (no team event data)"
+          },
+          "away_goals_1h_avg": 0.34,
+          "away_goals_2h_avg": 0.78
+        },
+        {
+          "date": "2026-05-10",
+          "time": "17:30",
+          "home": "Mainz",
+          "away": "Union Berlin",
+          "matchday": 33,
+          "referee": "Florian Exner",
+          "cards_analysis": {
+            "team_cards_avg": 4.22,
+            "ref_cards_per_match": 3.06,
+            "ref_verdict": "BAJO",
+            "ref_matches": 281,
+            "blended_cards_prediction": 3.64,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.5,
+          "home_goals_2h_avg": 0.53,
+          "away_goals_1h_avg": 0.28,
+          "away_goals_2h_avg": 0.78
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Bremen",
+          "away": "Dortmund",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.75,
+            "blended_cards_prediction": 3.75,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.31,
+          "home_goals_2h_avg": 0.75,
+          "away_goals_1h_avg": 0.8,
+          "away_goals_2h_avg": 1.03
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Heidenheim",
+          "away": "Mainz",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.89,
+            "blended_cards_prediction": 3.89,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.78,
+          "away_goals_1h_avg": 0.5,
+          "away_goals_2h_avg": 0.53
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Freiburg",
+          "away": "RB Leipzig",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.58,
+            "blended_cards_prediction": 3.58,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.5,
+          "home_goals_2h_avg": 0.75,
+          "away_goals_1h_avg": 0.9,
+          "away_goals_2h_avg": 1.06
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Frankfurt",
+          "away": "Stuttgart",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.67,
+            "blended_cards_prediction": 3.67,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.73,
+          "home_goals_2h_avg": 0.93,
+          "away_goals_1h_avg": 0.72,
+          "away_goals_2h_avg": 1.22
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "St. Pauli",
+          "away": "Wolfsburg",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.5,
+            "blended_cards_prediction": 3.5,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.28,
+          "home_goals_2h_avg": 0.44,
+          "away_goals_1h_avg": 0.56,
+          "away_goals_2h_avg": 0.62
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Union Berlin",
+          "away": "Augsburg",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.23,
+            "blended_cards_prediction": 4.23,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.28,
+          "home_goals_2h_avg": 0.78,
+          "away_goals_1h_avg": 0.5,
+          "away_goals_2h_avg": 0.69
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "M'gladbach",
+          "away": "Hoffenheim",
+          "matchday": 34,
+          "home_goals_1h_avg": 0.38,
+          "home_goals_2h_avg": 0.66
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Bayern",
+          "away": "1. FC Köln",
+          "matchday": 34
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Leverkusen",
+          "away": "HSV",
+          "matchday": 34
+        }
+      ],
+      "total": 12
+    },
+    "SA": {
+      "competition": "Serie A",
+      "fixtures": [
+        {
+          "date": "2026-05-10",
+          "time": "10:30",
+          "home": "Verona",
+          "away": "Como 1907",
+          "matchday": 36,
+          "referee": "Marco Di Bello",
+          "cards_analysis": {
+            "team_cards_avg": 4.3,
+            "ref_cards_per_match": 4.59,
+            "ref_verdict": "ALTO",
+            "ref_matches": 427,
+            "blended_cards_prediction": 4.45,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.26,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 0.89
+        },
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "home": "Fiorentina",
+          "away": "Genoa",
+          "matchday": 36,
+          "referee": "Luca Massimi",
+          "cards_analysis": {
+            "team_cards_avg": 4.51,
+            "blended_cards_prediction": 4.51,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.6
+        },
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "home": "Cremonese",
+          "away": "AC Pisa",
+          "matchday": 36,
+          "referee": "Giovanni Ayroldi",
+          "cards_analysis": {
+            "team_cards_avg": 3.59,
+            "ref_cards_per_match": 5.47,
+            "ref_verdict": "MUY ALTO",
+            "ref_matches": 193,
+            "blended_cards_prediction": 4.53,
+            "cards_verdict": "ALTO"
+          },
+          "home_goals_1h_avg": 0.29,
+          "home_goals_2h_avg": 0.4,
+          "away_goals_1h_avg": 0.2,
+          "away_goals_2h_avg": 0.34
+        },
+        {
+          "date": "2026-05-10",
+          "time": "16:00",
+          "home": "Parma",
+          "away": "Roma",
+          "matchday": 36,
+          "referee": "Daniele Chiffi",
+          "cards_analysis": {
+            "team_cards_avg": 3.93,
+            "ref_cards_per_match": 4.16,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 348,
+            "blended_cards_prediction": 4.04,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.2,
+          "home_goals_2h_avg": 0.46,
+          "away_goals_1h_avg": 0.65,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-10",
+          "time": "18:45",
+          "home": "Milan",
+          "away": "Atalanta",
+          "matchday": 36,
+          "referee": "Luca Zufferli",
+          "cards_analysis": {
+            "team_cards_avg": 3.36,
+            "ref_cards_per_match": 3.79,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 164,
+            "blended_cards_prediction": 3.58,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.83,
+          "away_goals_1h_avg": 0.54,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-11",
+          "time": "18:45",
+          "home": "Napoli",
+          "away": "Bologna",
+          "matchday": 36,
+          "referee": "Marco Piccinini",
+          "cards_analysis": {
+            "team_cards_avg": 3.56,
+            "blended_cards_prediction": 3.56,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.69,
+          "home_goals_2h_avg": 0.69,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.68
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Roma",
+          "away": "Lazio",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.4,
+            "blended_cards_prediction": 4.4,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.65,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.37,
+          "away_goals_2h_avg": 0.63
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Atalanta",
+          "away": "Bologna",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.53,
+            "blended_cards_prediction": 3.53,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.54,
+          "home_goals_2h_avg": 0.71,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.68
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Cagliari",
+          "away": "Torino",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.61,
+            "blended_cards_prediction": 3.61,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.31,
+          "home_goals_2h_avg": 0.66,
+          "away_goals_1h_avg": 0.37,
+          "away_goals_2h_avg": 0.6
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Genoa",
+          "away": "Milan",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.04,
+            "blended_cards_prediction": 4.04,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.83
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Como 1907",
+          "away": "Parma",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.19,
+            "blended_cards_prediction": 4.19,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.69,
+          "home_goals_2h_avg": 0.89,
+          "away_goals_1h_avg": 0.2,
+          "away_goals_2h_avg": 0.46
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Inter",
+          "away": "Verona",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.77,
+            "blended_cards_prediction": 3.77,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.83,
+          "home_goals_2h_avg": 1.37,
+          "away_goals_1h_avg": 0.34,
+          "away_goals_2h_avg": 0.26
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Juventus",
+          "away": "Fiorentina",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 4.09,
+            "blended_cards_prediction": 4.09,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.54,
+          "home_goals_2h_avg": 1.06,
+          "away_goals_1h_avg": 0.34,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "AC Pisa",
+          "away": "Napoli",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.41,
+            "blended_cards_prediction": 3.41,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.2,
+          "home_goals_2h_avg": 0.34,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 0.69
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Sassuolo",
+          "away": "Lecce",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.89,
+            "blended_cards_prediction": 3.89,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.43,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.31,
+          "away_goals_2h_avg": 0.34
+        },
+        {
+          "date": "2026-05-17",
+          "time": "00:00",
+          "home": "Udinese",
+          "away": "Cremonese",
+          "matchday": 37,
+          "cards_analysis": {
+            "team_cards_avg": 3.56,
+            "blended_cards_prediction": 3.56,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.69,
+          "away_goals_1h_avg": 0.29,
+          "away_goals_2h_avg": 0.4
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Fiorentina",
+          "away": "Atalanta",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.83,
+            "blended_cards_prediction": 3.83,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.54,
+          "away_goals_2h_avg": 0.71
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Milan",
+          "away": "Cagliari",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.8,
+            "blended_cards_prediction": 3.8,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.4,
+          "home_goals_2h_avg": 0.83,
+          "away_goals_1h_avg": 0.31,
+          "away_goals_2h_avg": 0.66
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Bologna",
+          "away": "Inter",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.76,
+            "blended_cards_prediction": 3.76,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.68,
+          "away_goals_1h_avg": 0.83,
+          "away_goals_2h_avg": 1.37
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Torino",
+          "away": "Juventus",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.43,
+            "blended_cards_prediction": 3.43,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.37,
+          "home_goals_2h_avg": 0.6,
+          "away_goals_1h_avg": 0.54,
+          "away_goals_2h_avg": 1.06
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Verona",
+          "away": "Roma",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.04,
+            "blended_cards_prediction": 4.04,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.26,
+          "away_goals_1h_avg": 0.65,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Lazio",
+          "away": "AC Pisa",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.26,
+            "blended_cards_prediction": 4.26,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.37,
+          "home_goals_2h_avg": 0.63,
+          "away_goals_1h_avg": 0.2,
+          "away_goals_2h_avg": 0.34
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Parma",
+          "away": "Sassuolo",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 4.01,
+            "blended_cards_prediction": 4.01,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.2,
+          "home_goals_2h_avg": 0.46,
+          "away_goals_1h_avg": 0.43,
+          "away_goals_2h_avg": 0.74
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Napoli",
+          "away": "Udinese",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.39,
+            "blended_cards_prediction": 3.39,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.69,
+          "home_goals_2h_avg": 0.69,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.69
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Cremonese",
+          "away": "Como 1907",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.99,
+            "blended_cards_prediction": 3.99,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.29,
+          "home_goals_2h_avg": 0.4,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 0.89
+        },
+        {
+          "date": "2026-05-24",
+          "time": "00:00",
+          "home": "Lecce",
+          "away": "Genoa",
+          "matchday": 38,
+          "cards_analysis": {
+            "team_cards_avg": 3.99,
+            "blended_cards_prediction": 3.99,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.31,
+          "home_goals_2h_avg": 0.34,
+          "away_goals_1h_avg": 0.4,
+          "away_goals_2h_avg": 0.6
+        }
+      ],
+      "total": 26
+    },
+    "FL1": {
+      "competition": "Ligue 1",
+      "fixtures": [
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Le Havre",
+          "away": "Marseille",
+          "matchday": 33,
+          "referee": "Benoît Bastien",
+          "cards_analysis": {
+            "team_cards_avg": 4.19,
+            "ref_cards_per_match": 4.03,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 639,
+            "blended_cards_prediction": 4.11,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.33,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.59,
+          "away_goals_2h_avg": 1.09
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Auxerre",
+          "away": "Nice",
+          "matchday": 33,
+          "referee": "François Letexier",
+          "cards_analysis": {
+            "team_cards_avg": 4.49,
+            "ref_cards_per_match": 4.2,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 446,
+            "blended_cards_prediction": 4.35,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.41,
+          "home_goals_2h_avg": 0.44,
+          "away_goals_1h_avg": 0.43,
+          "away_goals_2h_avg": 0.53
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Monaco",
+          "away": "Lille",
+          "matchday": 33,
+          "referee": "Clément Turpin",
+          "cards_analysis": {
+            "team_cards_avg": 4.35,
+            "ref_cards_per_match": 3.41,
+            "ref_verdict": "BAJO",
+            "ref_matches": 739,
+            "blended_cards_prediction": 3.88,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.48,
+          "home_goals_2h_avg": 1.1,
+          "away_goals_1h_avg": 0.38,
+          "away_goals_2h_avg": 1.0
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "FC Metz",
+          "away": "Lorient",
+          "matchday": 33,
+          "referee": "Jeremy Stinat",
+          "cards_analysis": {
+            "team_cards_avg": 3.59,
+            "ref_cards_per_match": 3.68,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 351,
+            "blended_cards_prediction": 3.63,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.5,
+          "away_goals_1h_avg": 0.44,
+          "away_goals_2h_avg": 0.84
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Toulouse",
+          "away": "Olympique Lyon",
+          "matchday": 33,
+          "referee": "Bastien Dechepy",
+          "cards_analysis": {
+            "team_cards_avg": 4.52,
+            "ref_cards_per_match": 4.04,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 328,
+            "blended_cards_prediction": 4.28,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.48,
+          "home_goals_2h_avg": 0.81,
+          "away_goals_1h_avg": 0.69,
+          "away_goals_2h_avg": 0.84
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "PSG",
+          "away": "Brest",
+          "matchday": 33,
+          "referee": "Jérôme Brisard",
+          "cards_analysis": {
+            "team_cards_avg": 3.25,
+            "ref_cards_per_match": 3.89,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 425,
+            "blended_cards_prediction": 3.57,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.86,
+          "home_goals_2h_avg": 1.17,
+          "away_goals_1h_avg": 0.57,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Angers SCO",
+          "away": "Strasbourg",
+          "matchday": 33,
+          "referee": "Hakim Ben El Hadj Salem",
+          "cards_analysis": {
+            "team_cards_avg": 3.27,
+            "blended_cards_prediction": 3.27,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.19,
+          "home_goals_2h_avg": 0.55,
+          "away_goals_1h_avg": 0.63,
+          "away_goals_2h_avg": 0.87
+        },
+        {
+          "date": "2026-05-10",
+          "time": "19:00",
+          "home": "Stade Rennais",
+          "away": "Paris FC",
+          "matchday": 33,
+          "referee": "Thomas Léonard",
+          "cards_analysis": {
+            "team_cards_avg": 3.97,
+            "ref_cards_per_match": 3.97,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 453,
+            "blended_cards_prediction": 3.97,
+            "cards_verdict": "MEDIO"
+          },
+          "home_goals_1h_avg": 0.77,
+          "home_goals_2h_avg": 0.8,
+          "away_goals_1h_avg": 0.59,
+          "away_goals_2h_avg": 0.62
+        },
+        {
+          "date": "2026-05-13",
+          "time": "17:00",
+          "home": "Brest",
+          "away": "Strasbourg",
+          "matchday": 29,
+          "cards_analysis": {
+            "team_cards_avg": 3.77,
+            "blended_cards_prediction": 3.77,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.57,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.63,
+          "away_goals_2h_avg": 0.87
+        },
+        {
+          "date": "2026-05-13",
+          "time": "19:00",
+          "home": "RC Lens",
+          "away": "PSG",
+          "matchday": 29,
+          "cards_analysis": {
+            "team_cards_avg": 3.56,
+            "blended_cards_prediction": 3.56,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.63,
+          "home_goals_2h_avg": 1.23,
+          "away_goals_1h_avg": 0.86,
+          "away_goals_2h_avg": 1.17
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Lorient",
+          "away": "Le Havre",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.07,
+            "blended_cards_prediction": 4.07,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.44,
+          "home_goals_2h_avg": 0.84,
+          "away_goals_1h_avg": 0.33,
+          "away_goals_2h_avg": 0.57
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Nantes",
+          "away": "Toulouse",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.57,
+            "blended_cards_prediction": 4.57,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.34,
+          "home_goals_2h_avg": 0.5,
+          "away_goals_1h_avg": 0.48,
+          "away_goals_2h_avg": 0.81
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Paris FC",
+          "away": "PSG",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.32,
+            "blended_cards_prediction": 3.32,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.59,
+          "home_goals_2h_avg": 0.62,
+          "away_goals_1h_avg": 0.86,
+          "away_goals_2h_avg": 1.17
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Nice",
+          "away": "FC Metz",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.64,
+            "blended_cards_prediction": 3.64,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.43,
+          "home_goals_2h_avg": 0.53,
+          "away_goals_1h_avg": 0.34,
+          "away_goals_2h_avg": 0.5
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Olympique Lyon",
+          "away": "RC Lens",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.48,
+            "blended_cards_prediction": 4.48,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.69,
+          "home_goals_2h_avg": 0.84,
+          "away_goals_1h_avg": 0.63,
+          "away_goals_2h_avg": 1.23
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Marseille",
+          "away": "Stade Rennais",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.11,
+            "blended_cards_prediction": 4.11,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.59,
+          "home_goals_2h_avg": 1.09,
+          "away_goals_1h_avg": 0.77,
+          "away_goals_2h_avg": 0.8
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Lille",
+          "away": "Auxerre",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.7,
+            "blended_cards_prediction": 4.7,
+            "cards_verdict": "ALTO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.38,
+          "home_goals_2h_avg": 1.0,
+          "away_goals_1h_avg": 0.41,
+          "away_goals_2h_avg": 0.44
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Strasbourg",
+          "away": "Monaco",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 4.0,
+            "blended_cards_prediction": 4.0,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.63,
+          "home_goals_2h_avg": 0.87,
+          "away_goals_1h_avg": 0.48,
+          "away_goals_2h_avg": 1.1
+        },
+        {
+          "date": "2026-05-17",
+          "time": "19:00",
+          "home": "Brest",
+          "away": "Angers SCO",
+          "matchday": 34,
+          "cards_analysis": {
+            "team_cards_avg": 3.27,
+            "blended_cards_prediction": 3.27,
+            "cards_verdict": "BAJO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.57,
+          "home_goals_2h_avg": 0.57,
+          "away_goals_1h_avg": 0.19,
+          "away_goals_2h_avg": 0.55
+        }
+      ],
+      "total": 19
+    },
+    "CL": {
+      "competition": "Champions League",
+      "fixtures": [],
+      "total": 0
+    }
+  }
+}
