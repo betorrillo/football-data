@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09",
+  "generated": "2026-05-10",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 61,
+  "total_injured": 65,
   "teams_affected": 18,
   "teams": {
     "LOSC Lille": [
@@ -127,6 +127,13 @@
         "status": "out"
       },
       {
+        "player": "Tanner Tessmann",
+        "position": "Defensive Midfield",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "R\u00e9mi Himbert",
         "position": "Left Winger",
         "injury": "Ankle injury",
@@ -134,46 +141,25 @@
         "status": "out"
       }
     ],
-    "AS Monaco": [
+    "RC Strasbourg Alsace": [
       {
-        "player": "Caio Henrique",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Paris Brunner",
+        "player": "Emmanuel Emegha",
         "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Aar\u00f3n Anselmino",
+        "position": "Centre-Back",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Stanis Idumbo",
-        "position": "Attacking Midfield",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mohammed Salisu",
-        "position": "Centre-Back",
+        "player": "Joaqu\u00edn Panichelli",
+        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kassoum Ouattara",
-        "position": "Left-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Takumi Minamino",
-        "position": "Left Winger",
-        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -272,9 +258,9 @@
     ],
     "FC Metz": [
       {
-        "player": "Joseph Mangondo",
-        "position": "Centre-Forward",
-        "injury": "Knee problems",
+        "player": "Boubacar Traor\u00e9",
+        "position": "Defensive Midfield",
+        "injury": "Calf injury",
         "since": "",
         "status": "out"
       },
@@ -286,16 +272,60 @@
         "status": "out"
       },
       {
-        "player": "Boubacar Traor\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Calf injury",
+        "player": "Believe Munongo",
+        "position": "Central Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Believe Munongo",
-        "position": "Central Midfield",
+        "player": "Joseph Mangondo",
+        "position": "Centre-Forward",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AS Monaco": [
+      {
+        "player": "Caio Henrique",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mohammed Salisu",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stanis Idumbo",
+        "position": "Attacking Midfield",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Paris Brunner",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kassoum Ouattara",
+        "position": "Left-Back",
         "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Takumi Minamino",
+        "position": "Left Winger",
+        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -376,63 +406,38 @@
         "status": "out"
       }
     ],
-    "FC Toulouse": [
-      {
-        "player": "Abu Francis",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Rafik Messali",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "\u00c1lex Dom\u00ednguez",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "OGC Nice": [
-      {
-        "player": "Youssouf Ndayishimiye",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mo\u00efse Bombito",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Everton",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Paris Saint-Germain": [
       {
-        "player": "Lucas Chevalier",
-        "position": "Goalkeeper",
+        "player": "Quentin Ndjantou",
+        "position": "Left Winger",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Quentin Ndjantou",
-        "position": "Left Winger",
+        "player": "Warren Za\u00efre-Emery",
+        "position": "Central Midfield",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Willian Pacho",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nuno Mendes",
+        "position": "Left-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lucas Chevalier",
+        "position": "Goalkeeper",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
@@ -445,25 +450,48 @@
         "status": "out"
       }
     ],
-    "RC Strasbourg Alsace": [
+    "OGC Nice": [
       {
-        "player": "Emmanuel Emegha",
-        "position": "Centre-Forward",
+        "player": "Mo\u00efse Bombito",
+        "position": "Centre-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Aar\u00f3n Anselmino",
+        "player": "Youssouf Ndayishimiye",
         "position": "Centre-Back",
-        "injury": "Hamstring injury",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Joaqu\u00edn Panichelli",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "player": "Everton",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Toulouse": [
+      {
+        "player": "Rafik Messali",
+        "position": "Right-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Abu Francis",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "\u00c1lex Dom\u00ednguez",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09",
+  "generated": "2026-05-10",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -2479,16 +2479,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Youssouf Ndayishimiye",
+          "player": "Mo\u00efse Bombito",
           "position": "Centre-Back",
-          "injury": "Muscle injury",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Mo\u00efse Bombito",
+          "player": "Youssouf Ndayishimiye",
           "position": "Centre-Back",
-          "injury": "Unknown",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
@@ -2622,9 +2622,9 @@
           "status": "out"
         },
         {
-          "player": "Paris Brunner",
-          "position": "Centre-Forward",
-          "injury": "Hamstring injury",
+          "player": "Mohammed Salisu",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -2636,9 +2636,9 @@
           "status": "out"
         },
         {
-          "player": "Mohammed Salisu",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
+          "player": "Paris Brunner",
+          "position": "Centre-Forward",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -2836,9 +2836,9 @@
       },
       "home_injuries": [
         {
-          "player": "Joseph Mangondo",
-          "position": "Centre-Forward",
-          "injury": "Knee problems",
+          "player": "Boubacar Traor\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Calf injury",
           "since": "",
           "status": "out"
         },
@@ -2850,16 +2850,16 @@
           "status": "out"
         },
         {
-          "player": "Boubacar Traor\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Calf injury",
+          "player": "Believe Munongo",
+          "position": "Central Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Believe Munongo",
-          "position": "Central Midfield",
-          "injury": "Knee injury",
+          "player": "Joseph Mangondo",
+          "position": "Centre-Forward",
+          "injury": "Knee problems",
           "since": "",
           "status": "out"
         }
@@ -3046,15 +3046,15 @@
       },
       "home_injuries": [
         {
-          "player": "Abu Francis",
-          "position": "Central Midfield",
+          "player": "Rafik Messali",
+          "position": "Right-Back",
           "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Rafik Messali",
-          "position": "Right-Back",
+          "player": "Abu Francis",
+          "position": "Central Midfield",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -3076,6 +3076,13 @@
           "status": "out"
         },
         {
+          "player": "Tanner Tessmann",
+          "position": "Defensive Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "R\u00e9mi Himbert",
           "position": "Left Winger",
           "injury": "Ankle injury",
@@ -3084,7 +3091,7 @@
         }
       ],
       "home_injury_count": 3,
-      "away_injury_count": 2,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
