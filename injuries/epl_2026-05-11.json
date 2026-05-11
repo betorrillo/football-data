@@ -1,22 +1,22 @@
 {
-  "generated": "2026-05-10",
+  "generated": "2026-05-11",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 65,
+  "total_injured": 62,
   "teams_affected": 19,
   "teams": {
     "Nottingham Forest": [
       {
-        "player": "Ola Aina",
-        "position": "Right-Back",
-        "injury": "Knock",
+        "player": "Willy Boly",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Willy Boly",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Ola Aina",
+        "position": "Right-Back",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       },
@@ -63,6 +63,29 @@
         "status": "out"
       }
     ],
+    "Fulham FC": [
+      {
+        "player": "Kevin",
+        "position": "Left Winger",
+        "injury": "Metatarsal bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alex Iwobi",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ryan Sessegnon",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Aston Villa": [
       {
         "player": "Amadou Onana",
@@ -98,13 +121,6 @@
         "player": "Jos\u00e9 S\u00e1",
         "position": "Goalkeeper",
         "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ladislav Krej\u010d\u00ed",
-        "position": "Centre-Back",
-        "injury": "Neck injury",
         "since": "",
         "status": "out"
       }
@@ -153,71 +169,11 @@
         "status": "out"
       }
     ],
-    "AFC Bournemouth": [
+    "Leeds United": [
       {
-        "player": "Justin Kluivert",
-        "position": "Attacking Midfield",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matai Akinmboni",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Fulham FC": [
-      {
-        "player": "Kevin",
-        "position": "Left Winger",
-        "injury": "Metatarsal bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alex Iwobi",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ryan Sessegnon",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Newcastle United": [
-      {
-        "player": "Tino Livramento",
-        "position": "Right-Back",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fabian Sch\u00e4r",
-        "position": "Centre-Back",
-        "injury": "surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Meniscus injury",
         "since": "",
         "status": "out"
       }
@@ -245,11 +201,34 @@
         "status": "out"
       }
     ],
-    "Leeds United": [
+    "Newcastle United": [
       {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
-        "injury": "Meniscus injury",
+        "player": "Tino Livramento",
+        "position": "Right-Back",
+        "injury": "Thigh problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lewis Miley",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Emil Krafth",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "West Ham United": [
+      {
+        "player": "Lukasz Fabianski",
+        "position": "Goalkeeper",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -402,6 +381,15 @@
         "status": "out"
       }
     ],
+    "AFC Bournemouth": [
+      {
+        "player": "Matai Akinmboni",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Manchester City": [
       {
         "player": "R\u00faben Dias",
@@ -437,15 +425,6 @@
         "player": "Bertrand Traor\u00e9",
         "position": "Right Winger",
         "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "West Ham United": [
-      {
-        "player": "Lukasz Fabianski",
-        "position": "Goalkeeper",
-        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
