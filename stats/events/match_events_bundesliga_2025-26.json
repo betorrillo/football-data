@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "source": "ESPN API",
   "league": "Bundesliga",
   "season": "2025-26",
-  "total_matches": 285,
+  "total_matches": 294,
   "matches": [
     {
       "event_id": "746988",
@@ -12292,6 +12292,377 @@
         {
           "team": "1. FC Union Berlin",
           "minute": 84,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747008",
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "goals": [
+        {
+          "team": "Eintracht Frankfurt",
+          "minute": 2,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 42,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 46,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 72,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Eintracht Frankfurt",
+          "minute": 87,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Borussia Dortmund",
+          "minute": 21,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 91,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747009",
+      "home": "FC Augsburg",
+      "away": "Borussia M\u00f6nchengladbach",
+      "goals": [
+        {
+          "team": "FC Augsburg",
+          "minute": 24,
+          "type": "Goal"
+        },
+        {
+          "team": "FC Augsburg",
+          "minute": 42,
+          "type": "Goal"
+        },
+        {
+          "team": "FC Augsburg",
+          "minute": 72,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 92,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Augsburg",
+          "minute": 56,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 61,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Augsburg",
+          "minute": 61,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747011",
+      "home": "RB Leipzig",
+      "away": "St. Pauli",
+      "goals": [
+        {
+          "team": "RB Leipzig",
+          "minute": 45,
+          "type": "Goal"
+        },
+        {
+          "team": "RB Leipzig",
+          "minute": 54,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "St. Pauli",
+          "minute": 86,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "RB Leipzig",
+          "minute": 19,
+          "type": "yellow"
+        },
+        {
+          "team": "RB Leipzig",
+          "minute": 50,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747012",
+      "home": "TSG Hoffenheim",
+      "away": "Werder Bremen",
+      "goals": [
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 26,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Werder Bremen",
+          "minute": 5,
+          "type": "red"
+        },
+        {
+          "team": "Werder Bremen",
+          "minute": 41,
+          "type": "yellow"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 66,
+          "type": "yellow"
+        },
+        {
+          "team": "Werder Bremen",
+          "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747013",
+      "home": "VfB Stuttgart",
+      "away": "Bayer Leverkusen",
+      "goals": [
+        {
+          "team": "Bayer Leverkusen",
+          "minute": 1,
+          "type": "Goal"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 5,
+          "type": "Goal"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 58,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "VfB Stuttgart",
+          "minute": 80,
+          "type": "yellow"
+        },
+        {
+          "team": "Bayer Leverkusen",
+          "minute": 97,
+          "type": "yellow"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 97,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747014",
+      "home": "VfL Wolfsburg",
+      "away": "Bayern Munich",
+      "goals": [
+        {
+          "team": "Bayern Munich",
+          "minute": 56,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 91,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747010",
+      "home": "Hamburg SV",
+      "away": "SC Freiburg",
+      "goals": [
+        {
+          "team": "Hamburg SV",
+          "minute": 14,
+          "type": "Goal"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 16,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Hamburg SV",
+          "minute": 64,
+          "type": "Goal - Free-kick"
+        },
+        {
+          "team": "Hamburg SV",
+          "minute": 67,
+          "type": "Goal"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 87,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "SC Freiburg",
+          "minute": 20,
+          "type": "yellow"
+        },
+        {
+          "team": "Hamburg SV",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Hamburg SV",
+          "minute": 86,
+          "type": "yellow"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 86,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747006",
+      "home": "FC Cologne",
+      "away": "1. FC Heidenheim 1846",
+      "goals": [
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 8,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "FC Cologne",
+          "minute": 10,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 28,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 72,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 30,
+          "type": "yellow"
+        },
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 37,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Cologne",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Cologne",
+          "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747007",
+      "home": "Mainz",
+      "away": "1. FC Union Berlin",
+      "goals": [
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 38,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Mainz",
+          "minute": 48,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 88,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Mainz",
+          "minute": 7,
+          "type": "yellow"
+        },
+        {
+          "team": "Mainz",
+          "minute": 75,
+          "type": "yellow"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 80,
           "type": "yellow"
         }
       ]

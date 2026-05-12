@@ -1,22 +1,36 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 64,
-  "teams_affected": 19,
+  "total_injured": 61,
+  "teams_affected": 20,
   "teams": {
-    "SSC Napoli": [
+    "US Sassuolo": [
       {
-        "player": "Romelu Lukaku",
-        "position": "Centre-Forward",
+        "player": "Jay Idzes",
+        "position": "Centre-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Math\u00edas Olivera",
+        "player": "Edoardo Pieragnolo",
         "position": "Left-Back",
-        "injury": "Muscle fatigue",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Boloca",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Fali Cand\u00e9",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -37,17 +51,26 @@
         "status": "out"
       }
     ],
-    "US Lecce": [
+    "SS Lazio": [
       {
-        "player": "Riccardo Sottil",
-        "position": "Left Winger",
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Gaspar",
-        "position": "Centre-Back",
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "US Lecce": [
+      {
+        "player": "Riccardo Sottil",
+        "position": "Left Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -67,85 +90,25 @@
         "status": "out"
       }
     ],
-    "US Cremonese": [
+    "Bologna FC 1909": [
       {
-        "player": "Mart\u00edn Payero",
-        "position": "Central Midfield",
-        "injury": "bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Faris Moumbagna",
-        "position": "Centre-Forward",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Romano Floriani Mussolini",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Federico Baschirotto",
+        "player": "Martin Vit\u00edk",
         "position": "Centre-Back",
-        "injury": "Hamstring strain",
+        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
-      }
-    ],
-    "SS Lazio": [
+      },
       {
-        "player": "Mattia Zaccagni",
+        "player": "Nicol\u00f2 Cambiaghi",
         "position": "Left Winger",
-        "injury": "Unknown",
+        "injury": "Thigh problems",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Pisa Sporting Club": [
-      {
-        "player": "Calvin Stengs",
-        "position": "Attacking Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Francesco Coppola",
+        "player": "Nicol\u00f2 Casale",
         "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matteo Tramoni",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Denoon",
-        "position": "Centre-Back",
-        "injury": "Ankle problems",
+        "injury": "Calf muscle tear",
         "since": "",
         "status": "out"
       }
@@ -187,18 +150,78 @@
         "status": "out"
       }
     ],
-    "Genoa CFC": [
+    "Cagliari Calcio": [
       {
-        "player": "Sebastian Otoa",
-        "position": "Centre-Back",
+        "player": "Gennaro Borrelli",
+        "position": "Centre-Forward",
         "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
-        "injury": "unknown injury",
+        "player": "Joseph Liteta",
+        "position": "Central Midfield",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mattia Felici",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Riyad Idrissi",
+        "position": "Left-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "US Cremonese": [
+      {
+        "player": "Mart\u00edn Payero",
+        "position": "Central Midfield",
+        "injury": "bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Faris Moumbagna",
+        "position": "Centre-Forward",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Romano Floriani Mussolini",
+        "position": "Right-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Federico Baschirotto",
+        "position": "Centre-Back",
+        "injury": "Hamstring strain",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Genoa CFC": [
+      {
+        "player": "Sebastian Otoa",
+        "position": "Centre-Back",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
@@ -210,8 +233,8 @@
         "status": "out"
       },
       {
-        "player": "Tommaso Baldanzi",
-        "position": "Attacking Midfield",
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
@@ -227,6 +250,36 @@
         "player": "Junior Messias",
         "position": "Right Winger",
         "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Pisa Sporting Club": [
+      {
+        "player": "Calvin Stengs",
+        "position": "Attacking Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Francesco Coppola",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Matteo Tramoni",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Denoon",
+        "position": "Centre-Back",
+        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       }
@@ -259,64 +312,27 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Bologna FC 1909": [
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
       },
       {
-        "player": "Nicol\u00f2 Cambiaghi",
+        "player": "Jacob Ondrejka",
         "position": "Left Winger",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Casale",
-        "position": "Centre-Back",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jo\u00e3o M\u00e1rio",
-        "position": "Right-Back",
-        "injury": "Hamstring strain",
+        "injury": "surgery",
         "since": "",
         "status": "out"
       }
     ],
-    "US Sassuolo": [
+    "Inter Milan": [
       {
-        "player": "Jay Idzes",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "Marcus Thuram",
+        "position": "Centre-Forward",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Daniel Boloca",
+        "player": "Hakan \u00c7alhano\u011flu",
         "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Edoardo Pieragnolo",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fali Cand\u00e9",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
+        "injury": "Calf muscle tear",
         "since": "",
         "status": "out"
       }
@@ -351,46 +367,18 @@
         "status": "out"
       }
     ],
-    "Cagliari Calcio": [
+    "SSC Napoli": [
       {
-        "player": "Gennaro Borrelli",
-        "position": "Centre-Forward",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Luca Mazzitelli",
-        "position": "Central Midfield",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Joseph Liteta",
-        "position": "Central Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mattia Felici",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Leonardo Pavoletti",
-        "position": "Centre-Forward",
+        "player": "Kevin De Bruyne",
+        "position": "Attacking Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Riyad Idrissi",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament tear",
+        "player": "Romelu Lukaku",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -400,13 +388,6 @@
         "player": "Moise Kean",
         "position": "Centre-Forward",
         "injury": "Shin bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Tariq Lamptey",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament surgery",
         "since": "",
         "status": "out"
       }

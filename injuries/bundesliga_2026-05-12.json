@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 65,
+  "total_injured": 64,
   "teams_affected": 18,
   "teams": {
     "SV Werder Bremen": [
@@ -97,13 +97,6 @@
     ],
     "VfB Stuttgart": [
       {
-        "player": "Ameen Al-Dakhil",
-        "position": "Centre-Back",
-        "injury": "Knee problems",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Lazar Jovanovic",
         "position": "Right Winger",
         "injury": "Unknown",
@@ -114,6 +107,13 @@
         "player": "Finn Jeltsch",
         "position": "Centre-Back",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ameen Al-Dakhil",
+        "position": "Centre-Back",
+        "injury": "Knee problems",
         "since": "",
         "status": "out"
       }
@@ -298,53 +298,32 @@
         "status": "out"
       }
     ],
-    "FC St. Pauli": [
+    "Hamburger SV": [
       {
-        "player": "Karol Mets",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Adam Dzwigala",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Manolis Saliakas",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
         "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Jannik Robatsch",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "David Nemeth",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "William Mikelbrencis",
+        "position": "Right-Back",
+        "injury": "Adductor pain",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }
@@ -415,13 +394,6 @@
         "status": "out"
       },
       {
-        "player": "Leon Klanac",
-        "position": "Goalkeeper",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Serge Gnabry",
         "position": "Second Striker",
         "injury": "Adductor injury",
@@ -432,6 +404,57 @@
         "player": "David Santos Daiber",
         "position": "Defensive Midfield",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC St. Pauli": [
+      {
+        "player": "Karol Mets",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Adam Dzwigala",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Manolis Saliakas",
+        "position": "Right-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "James Sands",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jannik Robatsch",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Nemeth",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -462,36 +485,6 @@
         "player": "Kasey Bos",
         "position": "Left-Back",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Hamburger SV": [
-      {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "William Mikelbrencis",
-        "position": "Right-Back",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }

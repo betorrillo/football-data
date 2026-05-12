@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "source": "ESPN API",
   "league": "Segunda Division",
   "season": "2025-26",
-  "total_matches": 418,
+  "total_matches": 429,
   "matches": [
     {
       "event_id": "748524",
@@ -20083,6 +20083,564 @@
         {
           "team": "Mirand\u00e9s",
           "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748949",
+      "home": "C\u00e1diz",
+      "away": "Deportivo La Coru\u00f1a",
+      "goals": [
+        {
+          "team": "Deportivo La Coru\u00f1a",
+          "minute": 88,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Deportivo La Coru\u00f1a",
+          "minute": 18,
+          "type": "yellow"
+        },
+        {
+          "team": "Deportivo La Coru\u00f1a",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "C\u00e1diz",
+          "minute": 74,
+          "type": "yellow"
+        },
+        {
+          "team": "Deportivo La Coru\u00f1a",
+          "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748950",
+      "home": "Ceuta",
+      "away": "Castell\u00f3n",
+      "goals": [
+        {
+          "team": "Castell\u00f3n",
+          "minute": 52,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Ceuta",
+          "minute": 8,
+          "type": "yellow"
+        },
+        {
+          "team": "Ceuta",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Castell\u00f3n",
+          "minute": 64,
+          "type": "yellow"
+        },
+        {
+          "team": "Ceuta",
+          "minute": 64,
+          "type": "yellow"
+        },
+        {
+          "team": "Castell\u00f3n",
+          "minute": 86,
+          "type": "yellow"
+        },
+        {
+          "team": "Ceuta",
+          "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748947",
+      "home": "Albacete",
+      "away": "Cultural Leonesa",
+      "goals": [
+        {
+          "team": "Cultural Leonesa",
+          "minute": 87,
+          "type": "Goal"
+        },
+        {
+          "team": "Albacete",
+          "minute": 88,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Cultural Leonesa",
+          "minute": 28,
+          "type": "yellow"
+        },
+        {
+          "team": "Albacete",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "Cultural Leonesa",
+          "minute": 92,
+          "type": "red"
+        },
+        {
+          "team": "Cultural Leonesa",
+          "minute": 98,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748951",
+      "home": "Burgos",
+      "away": "Almer\u00eda",
+      "goals": [],
+      "cards": [
+        {
+          "team": "Burgos",
+          "minute": 19,
+          "type": "yellow"
+        },
+        {
+          "team": "Almer\u00eda",
+          "minute": 29,
+          "type": "yellow"
+        },
+        {
+          "team": "Almer\u00eda",
+          "minute": 45,
+          "type": "yellow"
+        },
+        {
+          "team": "Almer\u00eda",
+          "minute": 54,
+          "type": "yellow"
+        },
+        {
+          "team": "Almer\u00eda",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "Burgos",
+          "minute": 73,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748945",
+      "home": "Real Valladolid",
+      "away": "Real Zaragoza",
+      "goals": [
+        {
+          "team": "Real Valladolid",
+          "minute": 4,
+          "type": "Goal"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 86,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Real Zaragoza",
+          "minute": 15,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 24,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 41,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Zaragoza",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 58,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Valladolid",
+          "minute": 67,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Zaragoza",
+          "minute": 80,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Zaragoza",
+          "minute": 82,
+          "type": "red"
+        },
+        {
+          "team": "Real Zaragoza",
+          "minute": 91,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748946",
+      "home": "M\u00e1laga",
+      "away": "Sporting Gij\u00f3n",
+      "goals": [
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 11,
+          "type": "Goal"
+        },
+        {
+          "team": "M\u00e1laga",
+          "minute": 54,
+          "type": "Goal"
+        },
+        {
+          "team": "M\u00e1laga",
+          "minute": 86,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 25,
+          "type": "red"
+        },
+        {
+          "team": "M\u00e1laga",
+          "minute": 45,
+          "type": "red"
+        },
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 61,
+          "type": "yellow"
+        },
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 61,
+          "type": "yellow"
+        },
+        {
+          "team": "M\u00e1laga",
+          "minute": 81,
+          "type": "yellow"
+        },
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 86,
+          "type": "yellow"
+        },
+        {
+          "team": "Sporting Gij\u00f3n",
+          "minute": 92,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748952",
+      "home": "FC Andorra",
+      "away": "Las Palmas",
+      "goals": [
+        {
+          "team": "FC Andorra",
+          "minute": 35,
+          "type": "Goal"
+        },
+        {
+          "team": "FC Andorra",
+          "minute": 64,
+          "type": "Own Goal"
+        },
+        {
+          "team": "FC Andorra",
+          "minute": 78,
+          "type": "Goal"
+        },
+        {
+          "team": "FC Andorra",
+          "minute": 81,
+          "type": "Goal"
+        },
+        {
+          "team": "FC Andorra",
+          "minute": 87,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Las Palmas",
+          "minute": 42,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748943",
+      "home": "Legan\u00e9s",
+      "away": "Racing Santander",
+      "goals": [
+        {
+          "team": "Racing Santander",
+          "minute": 26,
+          "type": "Goal"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 99,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Legan\u00e9s",
+          "minute": 20,
+          "type": "yellow"
+        },
+        {
+          "team": "Racing Santander",
+          "minute": 36,
+          "type": "yellow"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 46,
+          "type": "yellow"
+        },
+        {
+          "team": "Racing Santander",
+          "minute": 52,
+          "type": "yellow"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 54,
+          "type": "yellow"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 77,
+          "type": "yellow"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "Legan\u00e9s",
+          "minute": 98,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748948",
+      "home": "C\u00f3rdoba",
+      "away": "Granada",
+      "goals": [
+        {
+          "team": "C\u00f3rdoba",
+          "minute": 85,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Granada",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "Granada",
+          "minute": 42,
+          "type": "yellow"
+        },
+        {
+          "team": "C\u00f3rdoba",
+          "minute": 77,
+          "type": "yellow"
+        },
+        {
+          "team": "C\u00f3rdoba",
+          "minute": 80,
+          "type": "red"
+        },
+        {
+          "team": "Granada",
+          "minute": 90,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748942",
+      "home": "Mirand\u00e9s",
+      "away": "Eibar",
+      "goals": [
+        {
+          "team": "Eibar",
+          "minute": 3,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Mirand\u00e9s",
+          "minute": 33,
+          "type": "yellow"
+        },
+        {
+          "team": "Eibar",
+          "minute": 40,
+          "type": "yellow"
+        },
+        {
+          "team": "Mirand\u00e9s",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Eibar",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Eibar",
+          "minute": 82,
+          "type": "yellow"
+        },
+        {
+          "team": "Eibar",
+          "minute": 92,
+          "type": "yellow"
+        },
+        {
+          "team": "Eibar",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "Mirand\u00e9s",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748944",
+      "home": "Huesca",
+      "away": "Real Sociedad II",
+      "goals": [
+        {
+          "team": "Real Sociedad II",
+          "minute": 27,
+          "type": "Goal"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 77,
+          "type": "Goal"
+        },
+        {
+          "team": "Huesca",
+          "minute": 95,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Real Sociedad II",
+          "minute": 1,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 5,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 20,
+          "type": "yellow"
+        },
+        {
+          "team": "Huesca",
+          "minute": 49,
+          "type": "yellow"
+        },
+        {
+          "team": "Huesca",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Huesca",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 60,
+          "type": "yellow"
+        },
+        {
+          "team": "Huesca",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 66,
+          "type": "red"
+        },
+        {
+          "team": "Huesca",
+          "minute": 92,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad II",
+          "minute": 96,
           "type": "yellow"
         }
       ]

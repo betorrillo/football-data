@@ -1,10 +1,63 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 33,
+  "total_injured": 35,
   "teams_affected": 14,
   "teams": {
+    "Valencia CF": [
+      {
+        "player": "Dimitri Foulquier",
+        "position": "Right-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Julen Agirrezabala",
+        "position": "Goalkeeper",
+        "injury": "Meniscus tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Thierry Correia",
+        "position": "Right-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jos\u00e9 Copete",
+        "position": "Centre-Back",
+        "injury": "Meniscus tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mouctar Diakhaby",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Celta de Vigo": [
+      {
+        "player": "Mat\u00edas Vecino",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Miguel Rom\u00e1n",
+        "position": "Central Midfield",
+        "injury": "Metatarsal fracture",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Real Madrid": [
       {
         "player": "Dean Huijsen",
@@ -63,6 +116,15 @@
         "status": "out"
       }
     ],
+    "Real Betis Balompi\u00e9": [
+      {
+        "player": "\u00c1ngel Ortiz",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Girona FC": [
       {
         "player": "Juan Carlos",
@@ -82,68 +144,6 @@
         "player": "Vladyslav Vanat",
         "position": "Centre-Forward",
         "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Real Betis Balompi\u00e9": [
-      {
-        "player": "\u00c1ngel Ortiz",
-        "position": "Right-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Valencia CF": [
-      {
-        "player": "Julen Agirrezabala",
-        "position": "Goalkeeper",
-        "injury": "Meniscus tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Dimitri Foulquier",
-        "position": "Right-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Thierry Correia",
-        "position": "Right-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mouctar Diakhaby",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jos\u00e9 Copete",
-        "position": "Centre-Back",
-        "injury": "Meniscus tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Celta de Vigo": [
-      {
-        "player": "Mat\u00edas Vecino",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Miguel Rom\u00e1n",
-        "position": "Central Midfield",
-        "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
       }
@@ -217,13 +217,11 @@
         "injury": "Muscle injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Athletic Bilbao": [
+      },
       {
-        "player": "Be\u00f1at Prados",
+        "player": "Johnny Cardoso",
         "position": "Central Midfield",
-        "injury": "Cruciate ligament tear",
+        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       }
@@ -233,6 +231,22 @@
         "player": "Iv\u00e1n Romero",
         "position": "Centre-Forward",
         "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Athletic Bilbao": [
+      {
+        "player": "Be\u00f1at Prados",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nico Williams",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
