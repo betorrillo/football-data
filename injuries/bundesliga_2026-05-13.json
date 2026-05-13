@@ -1,55 +1,41 @@
 {
-  "generated": "2026-05-12",
+  "generated": "2026-05-13",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 64,
+  "total_injured": 61,
   "teams_affected": 18,
   "teams": {
-    "SV Werder Bremen": [
+    "1.FC Union Berlin": [
       {
-        "player": "Juli\u00e1n Malatini",
-        "position": "Centre-Back",
+        "player": "Janik Haberer",
+        "position": "Central Midfield",
+        "injury": "Knock",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Robert Skov",
+        "position": "Left Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Karl Hein",
+        "player": "Matheo Raab",
         "position": "Goalkeeper",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Leonardo Bittencourt",
-        "position": "Central Midfield",
-        "injury": "Hamstring injury",
+        "player": "Frederik R\u00f6nnow",
+        "position": "Goalkeeper",
+        "injury": "Adductor injury",
         "since": "",
         "status": "out"
       }
     ],
     "SC Freiburg": [
-      {
-        "player": "Max Rosenfelder",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Yuito Suzuki",
         "position": "Second Striker",
@@ -61,6 +47,13 @@
         "player": "Patrick Osterhage",
         "position": "Defensive Midfield",
         "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Max Rosenfelder",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -77,13 +70,6 @@
         "player": "Luca Kilian",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Malek El Mala",
-        "position": "Centre-Forward",
-        "injury": "Muscle tear",
         "since": "",
         "status": "out"
       },
@@ -134,13 +120,6 @@
         "status": "out"
       },
       {
-        "player": "Kilian Fischer",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Jenson Seelt",
         "position": "Centre-Back",
         "injury": "Knee injury",
@@ -169,32 +148,39 @@
         "status": "out"
       }
     ],
-    "1.FC Union Berlin": [
+    "SV Werder Bremen": [
       {
-        "player": "Janik Haberer",
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Karl Hein",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Juli\u00e1n Malatini",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leonardo Bittencourt",
         "position": "Central Midfield",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Skov",
-        "position": "Left Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matheo Raab",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Frederik R\u00f6nnow",
-        "position": "Goalkeeper",
-        "injury": "Adductor injury",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -298,36 +284,6 @@
         "status": "out"
       }
     ],
-    "Hamburger SV": [
-      {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "William Mikelbrencis",
-        "position": "Right-Back",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Bayer 04 Leverkusen": [
       {
         "player": "Nathan Tella",
@@ -417,13 +373,6 @@
         "status": "out"
       },
       {
-        "player": "Adam Dzwigala",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Manolis Saliakas",
         "position": "Right-Back",
         "injury": "Unknown",
@@ -434,6 +383,13 @@
         "player": "James Sands",
         "position": "Defensive Midfield",
         "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
@@ -450,11 +406,34 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
+      }
+    ],
+    "Hamburger SV": [
+      {
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
       },
       {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "William Mikelbrencis",
+        "position": "Right-Back",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }

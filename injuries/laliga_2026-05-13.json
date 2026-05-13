@@ -1,22 +1,68 @@
 {
-  "generated": "2026-05-12",
+  "generated": "2026-05-13",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 35,
-  "teams_affected": 14,
+  "total_injured": 32,
+  "teams_affected": 13,
   "teams": {
-    "Valencia CF": [
+    "Atl\u00e9tico de Madrid": [
       {
-        "player": "Dimitri Foulquier",
-        "position": "Right-Back",
+        "player": "Johnny Cardoso",
+        "position": "Central Midfield",
+        "injury": "Ankle surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nico Gonz\u00e1lez",
+        "position": "Left Winger",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Pablo Barrios",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Girona FC": [
+      {
+        "player": "Juan Carlos",
+        "position": "Goalkeeper",
         "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
+        "player": "Vladyslav Vanat",
+        "position": "Centre-Forward",
+        "injury": "Torn thigh muscle",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Portu",
+        "position": "Right Winger",
+        "injury": "Torn knee ligaments",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Valencia CF": [
+      {
         "player": "Julen Agirrezabala",
         "position": "Goalkeeper",
         "injury": "Meniscus tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Dimitri Foulquier",
+        "position": "Right-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
@@ -67,13 +113,6 @@
         "status": "out"
       },
       {
-        "player": "Daniel Carvajal",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Kylian Mbapp\u00e9",
         "position": "Centre-Forward",
         "injury": "Torn muscle fiber",
@@ -81,16 +120,16 @@
         "status": "out"
       },
       {
-        "player": "Federico Valverde",
-        "position": "Central Midfield",
+        "player": "Daniel Carvajal",
+        "position": "Right-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Arda G\u00fcler",
-        "position": "Attacking Midfield",
-        "injury": "Muscle injury",
+        "player": "Federico Valverde",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -116,34 +155,18 @@
         "status": "out"
       }
     ],
-    "Real Betis Balompi\u00e9": [
+    "Sevilla FC": [
       {
-        "player": "\u00c1ngel Ortiz",
-        "position": "Right-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Girona FC": [
-      {
-        "player": "Juan Carlos",
-        "position": "Goalkeeper",
-        "injury": "Knee injury",
+        "player": "Manu Bueno",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Portu",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Vladyslav Vanat",
-        "position": "Centre-Forward",
-        "injury": "Torn thigh muscle",
+        "player": "Marc\u00e3o",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -171,66 +194,11 @@
         "status": "out"
       }
     ],
-    "Sevilla FC": [
+    "Real Betis Balompi\u00e9": [
       {
-        "player": "Marc\u00e3o",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Manu Bueno",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "FC Barcelona": [
-      {
-        "player": "Andreas Christensen",
-        "position": "Centre-Back",
-        "injury": "Ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lamine Yamal",
-        "position": "Right Winger",
-        "injury": "Muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Atl\u00e9tico de Madrid": [
-      {
-        "player": "Nico Gonz\u00e1lez",
-        "position": "Left Winger",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Pablo Barrios",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Johnny Cardoso",
-        "position": "Central Midfield",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Levante UD": [
-      {
-        "player": "Iv\u00e1n Romero",
-        "position": "Centre-Forward",
-        "injury": "Muscle tear",
+        "player": "\u00c1ngel Ortiz",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -247,6 +215,15 @@
         "player": "Nico Williams",
         "position": "Left Winger",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Barcelona": [
+      {
+        "player": "Lamine Yamal",
+        "position": "Right Winger",
+        "injury": "Muscle tear",
         "since": "",
         "status": "out"
       }
