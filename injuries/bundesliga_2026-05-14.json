@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-13",
+  "generated": "2026-05-14",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 61,
+  "total_injured": 62,
   "teams_affected": 18,
   "teams": {
     "1.FC Union Berlin": [
@@ -44,16 +44,39 @@
         "status": "out"
       },
       {
+        "player": "Max Rosenfelder",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Patrick Osterhage",
         "position": "Defensive Midfield",
         "injury": "Knee surgery",
         "since": "",
         "status": "out"
+      }
+    ],
+    "VfB Stuttgart": [
+      {
+        "player": "Ameen Al-Dakhil",
+        "position": "Centre-Back",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
       },
       {
-        "player": "Max Rosenfelder",
+        "player": "Finn Jeltsch",
         "position": "Centre-Back",
-        "injury": "Hamstring injury",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lazar Jovanovic",
+        "position": "Right Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -77,29 +100,6 @@
         "player": "Ragnar Ache",
         "position": "Centre-Forward",
         "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "VfB Stuttgart": [
-      {
-        "player": "Lazar Jovanovic",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Finn Jeltsch",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ameen Al-Dakhil",
-        "position": "Centre-Back",
-        "injury": "Knee problems",
         "since": "",
         "status": "out"
       }
@@ -199,6 +199,13 @@
         "injury": "Knee injury",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Dimitrios Giannoulis",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
       }
     ],
     "TSG 1899 Hoffenheim": [
@@ -284,6 +291,50 @@
         "status": "out"
       }
     ],
+    "FC St. Pauli": [
+      {
+        "player": "Manolis Saliakas",
+        "position": "Right-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Karol Mets",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "James Sands",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jannik Robatsch",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Nemeth",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Bayer 04 Leverkusen": [
       {
         "player": "Nathan Tella",
@@ -360,50 +411,6 @@
         "player": "David Santos Daiber",
         "position": "Defensive Midfield",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "FC St. Pauli": [
-      {
-        "player": "Karol Mets",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Manolis Saliakas",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jannik Robatsch",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Nemeth",
-        "position": "Centre-Back",
-        "injury": "Unknown",
         "since": "",
         "status": "out"
       }

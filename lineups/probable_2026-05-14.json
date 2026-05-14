@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-13",
+  "generated": "2026-05-14",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -773,16 +773,16 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Kevin",
+          "player": "Alex Iwobi",
           "position": "Left Winger",
-          "injury": "Metatarsal bruise",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Alex Iwobi",
-          "position": "Left Winger",
-          "injury": "Hamstring injury",
+          "player": "Ra\u00fal Jim\u00e9nez",
+          "position": "Centre-Forward",
+          "injury": "Knock",
           "since": "",
           "status": "out"
         },
@@ -1390,16 +1390,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Karol Mets",
-          "position": "Centre-Back",
-          "injury": "Muscle injury",
+          "player": "Manolis Saliakas",
+          "position": "Right-Back",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Manolis Saliakas",
-          "position": "Right-Back",
-          "injury": "Unknown",
+          "player": "Karol Mets",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
@@ -1448,9 +1448,9 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Lazar Jovanovic",
-          "position": "Right Winger",
-          "injury": "Unknown",
+          "player": "Ameen Al-Dakhil",
+          "position": "Centre-Back",
+          "injury": "Knee problems",
           "since": "",
           "status": "out"
         },
@@ -1462,9 +1462,9 @@
           "status": "out"
         },
         {
-          "player": "Ameen Al-Dakhil",
-          "position": "Centre-Back",
-          "injury": "Knee problems",
+          "player": "Lazar Jovanovic",
+          "position": "Right Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -1498,10 +1498,17 @@
           "injury": "Knee injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Dimitrios Giannoulis",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1684,16 +1691,16 @@
           "status": "out"
         },
         {
-          "player": "Patrick Osterhage",
-          "position": "Defensive Midfield",
-          "injury": "Knee surgery",
+          "player": "Max Rosenfelder",
+          "position": "Centre-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Max Rosenfelder",
-          "position": "Centre-Back",
-          "injury": "Hamstring injury",
+          "player": "Patrick Osterhage",
+          "position": "Defensive Midfield",
+          "injury": "Knee surgery",
           "since": "",
           "status": "out"
         }
@@ -1936,16 +1943,16 @@
       },
       "home_injuries": [
         {
-          "player": "Armel Bella-Kotchap",
-          "position": "Centre-Back",
-          "injury": "Shoulder injury",
+          "player": "Cheikh Niasse",
+          "position": "Defensive Midfield",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Cheikh Niasse",
-          "position": "Defensive Midfield",
-          "injury": "unknown injury",
+          "player": "Armel Bella-Kotchap",
+          "position": "Centre-Back",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         },
@@ -2022,9 +2029,9 @@
       },
       "home_injuries": [
         {
-          "player": "Romano Floriani Mussolini",
-          "position": "Right-Back",
-          "injury": "Unknown",
+          "player": "Mart\u00edn Payero",
+          "position": "Central Midfield",
+          "injury": "bruise",
           "since": "",
           "status": "out"
         },
@@ -2036,9 +2043,9 @@
           "status": "out"
         },
         {
-          "player": "Mart\u00edn Payero",
-          "position": "Central Midfield",
-          "injury": "bruise",
+          "player": "Romano Floriani Mussolini",
+          "position": "Right-Back",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -2052,15 +2059,15 @@
       ],
       "away_injuries": [
         {
-          "player": "Francesco Coppola",
-          "position": "Centre-Back",
+          "player": "Calvin Stengs",
+          "position": "Attacking Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Calvin Stengs",
-          "position": "Attacking Midfield",
+          "player": "Francesco Coppola",
+          "position": "Centre-Back",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2298,16 +2305,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Lorenzo Bernasconi",
-          "position": "Left Midfield",
-          "injury": "Unknown",
+          "player": "Berat Djimsiti",
+          "position": "Centre-Back",
+          "injury": "Thigh problems",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Berat Djimsiti",
-          "position": "Centre-Back",
-          "injury": "Thigh problems",
+          "player": "Lorenzo Bernasconi",
+          "position": "Left Midfield",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -2432,6 +2439,13 @@
           "injury": "Ankle sprain",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Bryan Okoh",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [
@@ -2457,7 +2471,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -2586,16 +2600,16 @@
           "status": "out"
         },
         {
-          "player": "Paris Brunner",
-          "position": "Centre-Forward",
-          "injury": "Hamstring injury",
+          "player": "Stanis Idumbo",
+          "position": "Attacking Midfield",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Stanis Idumbo",
-          "position": "Attacking Midfield",
-          "injury": "Shoulder injury",
+          "player": "Paris Brunner",
+          "position": "Centre-Forward",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
