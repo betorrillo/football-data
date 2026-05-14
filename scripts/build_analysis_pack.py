@@ -506,23 +506,62 @@ def load_all_matches_for_league(league_folder):
     return all_matches
 
 
+def _load_fixtures_from_api():
+    """Load upcoming fixtures from football-data.org API file as fallback/complement."""
+    api_dir = os.path.join(BASE_DIR, "data", "api")
+    if not os.path.isdir(api_dir):
+        return {}
+
+    # API competition codes -> our folder names
+    API_CODE_MAP = {
+        "PD": "laliga", "SD": "segunda", "PL": "epl",
+        "BL1": "bundesliga", "SA": "seriea", "FL1": "ligue1",
+        "CL": "champions", "PPL": "portugal", "EL": "europa",
+        "ECL": "conference",
+    }
+
+    api_file = None
+    for f in sorted(os.listdir(api_dir), reverse=True):
+        if f.startswith("fixtures_api_") and f.endswith(".json"):
+            api_file = os.path.join(api_dir, f)
+            break
+    if not api_file:
+        return {}
+
+    with open(api_file) as f:
+        api_data = json.load(f)
+
+    result = {}
+    for code, info in api_data.items():
+        folder = API_CODE_MAP.get(code, code.lower())
+        fixtures = []
+        for fix in info.get("fixtures", []):
+            fixtures.append({
+                "home": fix.get("home_short") or fix.get("home_team", ""),
+                "away": fix.get("away_short") or fix.get("away_team", ""),
+                "date": fix.get("date", ""),
+                "time": fix.get("time", ""),
+            })
+        if fixtures:
+            result[folder] = {"matches": fixtures, "matchday": ""}
+    return result
+
+
 def build_analysis_pack():
     """Build the main analysis_pack.json with pre-computed data for upcoming fixtures."""
     print("\n=== BUILDING ANALYSIS PACK ===")
 
-    # Find latest fixtures file
+    # Find latest fixtures file (ESPN source)
     fixtures_file = None
     for f in sorted(os.listdir(FIXTURES_DIR), reverse=True):
         if f.startswith("next_72h_") and f.endswith(".json"):
             fixtures_file = os.path.join(FIXTURES_DIR, f)
             break
 
-    if not fixtures_file:
-        print("  No fixtures file found!")
-        return
-
-    with open(fixtures_file) as f:
-        fixtures_data = json.load(f)
+    fixtures_data = {}
+    if fixtures_file:
+        with open(fixtures_file) as f:
+            fixtures_data = json.load(f)
 
     # Map fixture league keys to our folder names
     LEAGUE_KEY_MAP = {
@@ -538,9 +577,27 @@ def build_analysis_pack():
         "primeira_liga": "portugal",
     }
 
+    # Merge ESPN fixtures with API fixtures (API fills gaps for leagues ESPN doesn't cover)
+    merged_leagues = dict(fixtures_data.get("leagues", {}))
+    api_fixtures = _load_fixtures_from_api()
+    for folder, api_info in api_fixtures.items():
+        # Only add from API if this league isn't already in ESPN data
+        espn_key = None
+        for ek, ev in LEAGUE_KEY_MAP.items():
+            if ev == folder and ek in merged_leagues:
+                espn_key = ek
+                break
+        if not espn_key:
+            merged_leagues[folder] = api_info
+            print(f"  + Added {folder} fixtures from API ({len(api_info['matches'])} matches)")
+
+    if not merged_leagues:
+        print("  No fixtures found from any source!")
+        return
+
     pack_matches = []
 
-    for league_key, league_info in fixtures_data.get("leagues", {}).items():
+    for league_key, league_info in merged_leagues.items():
         folder = LEAGUE_KEY_MAP.get(league_key, league_key)
         league_name = LEAGUES.get(folder, league_key)
 
