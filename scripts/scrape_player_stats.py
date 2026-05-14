@@ -52,6 +52,7 @@ LEAGUES = {
     "bundesliga": {"fm_id": 54,  "season_id": "26891", "name": "Bundesliga"},
     "seriea":     {"fm_id": 55,  "season_id": "27044", "name": "Serie A"},
     "ligue1":     {"fm_id": 53,  "season_id": "27212", "name": "Ligue 1"},
+    "portugal":   {"fm_id": 61,  "season_id": "27266", "name": "Primeira Liga"},
 }
 
 # Stats to scrape — covers ALL bet365 player markets

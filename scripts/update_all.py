@@ -37,6 +37,7 @@ LEAGUES = {
     "bundesliga": {"code": "D1",  "name": "Bundesliga",      "espn_id": "ger.1",  "xg_slug": "bundesliga"},
     "seriea":     {"code": "I1",  "name": "Serie A",         "espn_id": "ita.1",  "xg_slug": "serie-a"},
     "ligue1":     {"code": "F1",  "name": "Ligue 1",         "espn_id": "fra.1",  "xg_slug": "league-1"},
+    "portugal":   {"code": "P1",  "name": "Primeira Liga",   "espn_id": "por.1",  "xg_slug": None},
 }
 
 SEASONS = {

@@ -33,6 +33,7 @@ LEAGUES = {
     "seriea": {"tm_comp": "IT1", "name": "Serie A"},
     "ligue1": {"tm_comp": "FR1", "name": "Ligue 1"},
     "champions": {"tm_comp": "CL", "name": "Champions League"},
+    "portugal":  {"tm_comp": "PO1", "name": "Primeira Liga"},
 }
 
 

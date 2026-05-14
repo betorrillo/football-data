@@ -18,9 +18,11 @@ on:
           - fixtures
           - players
 
-  # Automatic: EVERY DAY at 9:00 AM Spain (7:00 UTC summer / 8:00 UTC winter)
+  # Automatic: TWICE DAILY — morning + evening refresh
+  # 07:00 UTC (09:00 Spain) = morning update
+  # 19:00 UTC (21:00 Spain) = evening refresh before weekend fixtures
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 7,19 * * *'
 
 jobs:
   update:

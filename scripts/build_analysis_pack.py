@@ -18,8 +18,13 @@ Usage:
 import json
 import os
 import re
+import sys
 from collections import defaultdict
 from datetime import datetime
+
+# Add scripts dir to path for utils import
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from utils.team_aliases import normalize_team
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MATCHES_DIR = os.path.join(BASE_DIR, "matches")
@@ -38,6 +43,7 @@ LEAGUES = {
     "seriea": "Serie A",
     "ligue1": "Ligue 1",
     "champions": "Champions League",
+    "portugal": "Primeira Liga",
 }
 
 
@@ -65,8 +71,9 @@ def safe_int(v):
 
 def compute_team_stats(matches, team_name):
     """Compute comprehensive stats for a team from match list."""
-    home_matches = [m for m in matches if m.get("home") == team_name and m.get("ft_home") is not None]
-    away_matches = [m for m in matches if m.get("away") == team_name and m.get("ft_home") is not None]
+    norm = normalize_team(team_name)
+    home_matches = [m for m in matches if normalize_team(m.get("home", "")) == norm and m.get("ft_home") is not None]
+    away_matches = [m for m in matches if normalize_team(m.get("away", "")) == norm and m.get("ft_home") is not None]
 
     stats = {
         "team": team_name,
@@ -303,12 +310,13 @@ def compute_team_stats(matches, team_name):
 
 
 def compute_form(matches, team_name, last_n=5):
-    """Get last N matches form for a team."""
+    """Get last N matches form for a team (uses alias normalization)."""
+    norm = normalize_team(team_name)
     team_matches = []
     for m in matches:
         if m.get("ft_home") is None:
             continue
-        if m.get("home") == team_name:
+        if normalize_team(m.get("home", "")) == norm:
             gf, ga = safe_int(m["ft_home"]), safe_int(m["ft_away"])
             team_matches.append({
                 "date": m.get("date", ""),
@@ -323,7 +331,7 @@ def compute_form(matches, team_name, last_n=5):
                 "team_shots": safe_int(m.get("home_shots")),
                 "team_sot": safe_int(m.get("home_shots_target")),
             })
-        elif m.get("away") == team_name:
+        elif normalize_team(m.get("away", "")) == norm:
             gf, ga = safe_int(m["ft_away"]), safe_int(m["ft_home"])
             team_matches.append({
                 "date": m.get("date", ""),
@@ -342,23 +350,49 @@ def compute_form(matches, team_name, last_n=5):
     return team_matches[-last_n:]
 
 
-def compute_h2h(matches, home_team, away_team, last_n=10):
-    """Get H2H between two teams from match data."""
+def compute_h2h(matches, home_team, away_team, last_n=10, max_seasons=2):
+    """Get H2H between two teams from match data (last max_seasons seasons only, with alias normalization)."""
+    norm_home = normalize_team(home_team)
+    norm_away = normalize_team(away_team)
+
+    # Determine cutoff: only include matches from last N seasons
+    current_year = datetime.now().year
+    cutoff_year = current_year - max_seasons  # e.g. 2026 - 2 = 2024
+    cutoff_date = f"{cutoff_year}-07-01"  # Season starts ~July
+
     h2h = []
+    skipped_old = 0
     for m in matches:
         if m.get("ft_home") is None:
             continue
-        if (m.get("home") == home_team and m.get("away") == away_team) or \
-           (m.get("home") == away_team and m.get("away") == home_team):
+        mh = normalize_team(m.get("home", ""))
+        ma = normalize_team(m.get("away", ""))
+        if (mh == norm_home and ma == norm_away) or \
+           (mh == norm_away and ma == norm_home):
+            match_date = m.get("date", "")
+            if match_date and match_date < cutoff_date:
+                skipped_old += 1
+                continue
             h2h.append({
-                "date": m.get("date", ""),
+                "date": match_date,
                 "home": m["home"],
                 "away": m["away"],
                 "ft": f"{safe_int(m['ft_home'])}-{safe_int(m['ft_away'])}",
                 "corners": safe_int(m.get("home_corners", 0)) + safe_int(m.get("away_corners", 0)),
                 "cards": safe_int(m.get("home_yellow", 0)) + safe_int(m.get("away_yellow", 0)),
             })
-    return h2h[-last_n:]
+
+    result = h2h[-last_n:]
+    # Add warning if we had to skip old matches or if sample is small
+    if skipped_old > 0 or len(result) < 3:
+        warning = []
+        if skipped_old > 0:
+            warning.append(f"{skipped_old} older matches excluded (pre-{cutoff_date[:4]})")
+        if len(result) < 3:
+            warning.append(f"only {len(result)} recent H2H matches found")
+        for r in result:
+            r["_h2h_warning"] = "; ".join(warning)
+    return result
 
 
 def get_all_teams(matches):
@@ -500,6 +534,8 @@ def build_analysis_pack():
         "ligue_1": "ligue1",
         "segunda": "segunda",
         "champions": "champions",
+        "portugal": "portugal",
+        "primeira_liga": "portugal",
     }
 
     pack_matches = []
@@ -618,6 +654,18 @@ def build_analysis_pack():
     return pack
 
 
+def _dir_status(available_files, prefix):
+    """Return 'complete', 'stale', or 'empty' based on file existence and age."""
+    dir_files = {k: v for k, v in available_files.items() if k.startswith(prefix)}
+    if not dir_files:
+        return "empty"
+    # If any file is fresher than 48 hours (2880 min), data is current
+    min_age = min(f["age_minutes"] for f in dir_files.values())
+    if min_age < 2880:
+        return "complete"
+    return "stale"
+
+
 def build_status(pack=None):
     """Build status.json — single entry point for the agent."""
     print("\n=== BUILDING STATUS.JSON ===")
@@ -647,9 +695,12 @@ def build_status(pack=None):
             "stats": {"files": len([f for f in available_files if f.startswith("stats/")]), "status": "complete"},
             "stats/derived": {"files": len([f for f in available_files if f.startswith("stats/derived/")]), "status": "complete"},
             "fixtures": {"files": len([f for f in available_files if f.startswith("fixtures/")]), "status": "complete"},
-            "referees": {"files": len([f for f in available_files if f.startswith("referees/")]), "status": "pending"},
-            "injuries": {"files": len([f for f in available_files if f.startswith("injuries/")]), "status": "pending"},
-            "lineups": {"files": len([f for f in available_files if f.startswith("lineups/")]), "status": "pending"},
+            "referees": {"files": len([f for f in available_files if f.startswith("referees/")]),
+                         "status": _dir_status(available_files, "referees/")},
+            "injuries": {"files": len([f for f in available_files if f.startswith("injuries/")]),
+                         "status": _dir_status(available_files, "injuries/")},
+            "lineups": {"files": len([f for f in available_files if f.startswith("lineups/")]),
+                         "status": _dir_status(available_files, "lineups/")},
         },
         "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
     }

@@ -38,6 +38,7 @@ LEAGUES = {
     "bundesliga": "Bundesliga",
     "seriea": "Serie A",
     "ligue1": "Ligue 1",
+    "portugal": "Primeira Liga",
 }
 
 LEAGUE_KEY_MAP = {

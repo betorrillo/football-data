@@ -39,6 +39,9 @@ COMPETITIONS = {
     "SA":  {"name": "Serie A",         "country": "Italy"},
     "FL1": {"name": "Ligue 1",         "country": "France"},
     "CL":  {"name": "Champions League","country": "Europe"},
+    "PPL": {"name": "Primeira Liga",  "country": "Portugal"},
+    "EL":  {"name": "Europa League",  "country": "Europe"},
+    "ECL": {"name": "Conference League","country": "Europe"},
 }
 
 # Rate limiting

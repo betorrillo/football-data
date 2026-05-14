@@ -34,6 +34,7 @@ LEAGUES = {
     "bundesliga": {"espn_id": "ger.1",  "name": "Bundesliga"},
     "seriea":     {"espn_id": "ita.1",  "name": "Serie A"},
     "ligue1":     {"espn_id": "fra.1",  "name": "Ligue 1"},
+    "portugal":   {"espn_id": "por.1",  "name": "Primeira Liga"},
 }
 
 

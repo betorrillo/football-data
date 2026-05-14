@@ -29,6 +29,7 @@ LEAGUES = {
     "bundesliga": {"tm_comp": "L1",  "name": "Bundesliga"},
     "seriea":     {"tm_comp": "IT1", "name": "Serie A"},
     "ligue1":     {"tm_comp": "FR1", "name": "Ligue 1"},
+    "portugal":   {"tm_comp": "PO1", "name": "Primeira Liga"},
 }
 
 
@@ -141,12 +142,18 @@ def main():
 
     total_injured = 0
 
+    all_leagues_data = {}
+
     for league_key, league_info in LEAGUES.items():
         print(f"\n{league_info['name']}...", end=" ", flush=True)
-        players = scrape_league(league_key, league_info)
+        try:
+            players = scrape_league(league_key, league_info)
+        except Exception as e:
+            print(f"ERROR: {e}")
+            continue
         by_team = group_by_team(players)
 
-        output = {
+        league_output = {
             "generated": TODAY,
             "source": "transfermarkt.com",
             "league": league_info["name"],
@@ -157,8 +164,9 @@ def main():
 
         path = os.path.join(INJURIES_DIR, f"{league_key}_{TODAY}.json")
         with open(path, "w") as f:
-            json.dump(output, f, indent=2)
+            json.dump(league_output, f, indent=2)
 
+        all_leagues_data[league_key] = league_output
         total_injured += len(players)
         print(f"{len(players)} injured across {len(by_team)} teams")
 
@@ -168,15 +176,33 @@ def main():
         if len(players) > 5:
             print(f"    ... and {len(players)-5} more")
 
+    # Build consolidated all_injuries file for Drive
+    consolidated = {
+        "generated": TODAY,
+        "source": "transfermarkt.com",
+        "total_injured": total_injured,
+        "leagues_scraped": len(all_leagues_data),
+        "leagues": all_leagues_data,
+    }
+    all_path = os.path.join(INJURIES_DIR, f"all_injuries_{TODAY}.json")
+    with open(all_path, "w") as f:
+        json.dump(consolidated, f, indent=2)
+    print(f"\nConsolidated: {all_path}")
+
     # Clean old files
     for league_key in LEAGUES:
         files = sorted([f for f in os.listdir(INJURIES_DIR)
                        if f.startswith(f"{league_key}_") and f.endswith(".json")])
         for old in files[:-1]:
             os.remove(os.path.join(INJURIES_DIR, old))
+    # Clean old consolidated files
+    all_files = sorted([f for f in os.listdir(INJURIES_DIR)
+                       if f.startswith("all_injuries_") and f.endswith(".json")])
+    for old in all_files[:-1]:
+        os.remove(os.path.join(INJURIES_DIR, old))
 
     print(f"\n{'='*50}")
-    print(f"COMPLETE — {total_injured} injuries total across {len(LEAGUES)} leagues")
+    print(f"COMPLETE — {total_injured} injuries total across {len(all_leagues_data)} leagues")
 
 
 if __name__ == "__main__":

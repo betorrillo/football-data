@@ -42,6 +42,7 @@ DRIVE_FILE_IDS = {
     "analysis_pack.json": "12gbKuN-a6LZfdooVf80Ad6TiMITbCtvF",
     "all_referees.json": "1pXBqnhnBo0AD3ehlS2w0TERVKA2e4B-P",
     "fixture_predictions.json": "1dR2Qq4P9KE_vCd9MBUO-njEkfdAg0ADB",
+    "all_injuries.json": None,  # TODO: create file in Drive and add ID here
 }
 
 
@@ -117,6 +118,10 @@ def main():
     preds = os.path.join(BASE_DIR, "predictions", "fixture_predictions_latest.json")
     if os.path.exists(preds):
         files_to_sync.append((preds, "fixture_predictions.json"))
+
+    injuries = sorted(glob.glob(os.path.join(BASE_DIR, "injuries", "all_injuries_*.json")), reverse=True)
+    if injuries:
+        files_to_sync.append((injuries[0], "all_injuries.json"))
 
     for local_path, drive_name in files_to_sync:
         file_id = DRIVE_FILE_IDS.get(drive_name)
