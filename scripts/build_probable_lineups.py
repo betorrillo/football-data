@@ -49,6 +49,15 @@ LEAGUE_KEY_MAP = {
     "ligue1": "ligue1",
     "ligue_1": "ligue1",
     "segunda": "segunda",
+    "portugal": "portugal",
+    "primeira_liga": "portugal",
+}
+
+# API competition codes -> our folder names
+API_CODE_MAP = {
+    "PD": "laliga", "SD": "segunda", "PL": "epl",
+    "BL1": "bundesliga", "SA": "seriea", "FL1": "ligue1",
+    "CL": "champions", "PPL": "portugal",
 }
 
 
@@ -188,23 +197,51 @@ def main():
     print("=" * 50)
     os.makedirs(LINEUPS_DIR, exist_ok=True)
 
-    # Load fixtures
+    # Load fixtures (ESPN next_72h)
     fixtures_file = None
     for f in sorted(os.listdir(FIXTURES_DIR), reverse=True):
         if f.startswith("next_72h_") and f.endswith(".json"):
             fixtures_file = os.path.join(FIXTURES_DIR, f)
             break
 
-    if not fixtures_file:
-        print("No fixtures file found!")
-        return
+    fixtures_data = {}
+    if fixtures_file:
+        with open(fixtures_file) as f:
+            fixtures_data = json.load(f)
 
-    with open(fixtures_file) as f:
-        fixtures_data = json.load(f)
+    # Merge with API fixtures (covers Portugal and leagues ESPN misses)
+    merged_leagues = dict(fixtures_data.get("leagues", {}))
+    api_dir = os.path.join(BASE_DIR, "data", "api")
+    if os.path.isdir(api_dir):
+        api_file = None
+        for f in sorted(os.listdir(api_dir), reverse=True):
+            if f.startswith("fixtures_api_") and f.endswith(".json"):
+                api_file = os.path.join(api_dir, f)
+                break
+        if api_file:
+            with open(api_file) as f:
+                api_data = json.load(f)
+            for code, info in api_data.items():
+                folder = API_CODE_MAP.get(code, code.lower())
+                # Only add if not already covered by ESPN
+                already = any(LEAGUE_KEY_MAP.get(ek) == folder for ek in merged_leagues)
+                if not already and info.get("fixtures"):
+                    merged_leagues[folder] = {
+                        "matches": [
+                            {"home": fx.get("home_short") or fx.get("home_team", ""),
+                             "away": fx.get("away_short") or fx.get("away_team", ""),
+                             "date": fx.get("date", ""), "time": fx.get("time", "")}
+                            for fx in info["fixtures"]
+                        ]
+                    }
+
+    if not merged_leagues:
+        print("No fixtures found!")
+        return
 
     all_lineups = []
 
-    for league_key, league_info in fixtures_data.get("leagues", {}).items():
+    for league_key, league_info in merged_leagues.items():
         folder = LEAGUE_KEY_MAP.get(league_key, league_key)
         if folder not in LEAGUES:
             continue
