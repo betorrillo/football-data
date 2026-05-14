@@ -14,7 +14,11 @@ Usage:
 import glob
 import json
 import os
+import sys
 from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from utils.team_aliases import normalize_team
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.now().strftime("%Y-%m-%d")
@@ -88,7 +92,7 @@ def load_team_event_stats():
 
 
 def find_team_stats(team_name, stats_lookup):
-    """Find team stats with fuzzy matching."""
+    """Find team stats with alias normalization + fuzzy matching."""
     if not team_name:
         return None
 
@@ -98,9 +102,17 @@ def find_team_stats(team_name, stats_lookup):
     if name_lower in stats_lookup:
         return stats_lookup[name_lower]
 
-    # Partial match
+    # Try via alias normalization
+    normalized = normalize_team(team_name).lower()
+    if normalized in stats_lookup:
+        return stats_lookup[normalized]
+
+    # Partial match (fallback)
     for key, val in stats_lookup.items():
         if name_lower in key or key in name_lower:
+            return val
+        # Also try normalized against keys
+        if normalized in key or key in normalized:
             return val
 
     return None
