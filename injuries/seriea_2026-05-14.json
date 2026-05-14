@@ -2,28 +2,35 @@
   "generated": "2026-05-14",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 58,
-  "teams_affected": 20,
+  "total_injured": 55,
+  "teams_affected": 19,
   "teams": {
-    "US Lecce": [
+    "Genoa CFC": [
       {
-        "player": "Riccardo Sottil",
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sebastian Otoa",
+        "position": "Centre-Back",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxwel Cornet",
         "position": "Left Winger",
-        "injury": "Unknown",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Sadik Fofana",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Medon Berisha",
-        "position": "Central Midfield",
-        "injury": "Torn thigh muscle",
+        "player": "Junior Messias",
+        "position": "Right Winger",
+        "injury": "Adductor injury",
         "since": "",
         "status": "out"
       }
@@ -54,36 +61,6 @@
         "player": "Federico Baschirotto",
         "position": "Centre-Back",
         "injury": "Hamstring strain",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Pisa Sporting Club": [
-      {
-        "player": "Calvin Stengs",
-        "position": "Attacking Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Francesco Coppola",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matteo Tramoni",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Denoon",
-        "position": "Centre-Back",
-        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       }
@@ -125,39 +102,25 @@
         "status": "out"
       }
     ],
-    "Genoa CFC": [
+    "Pisa Sporting Club": [
       {
-        "player": "Sebastian Otoa",
-        "position": "Centre-Back",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
+        "player": "Calvin Stengs",
+        "position": "Attacking Midfield",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Brooke Norton-Cuffy",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
+        "player": "Francesco Coppola",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Junior Messias",
-        "position": "Right Winger",
-        "injury": "Adductor injury",
+        "player": "Daniel Denoon",
+        "position": "Centre-Back",
+        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       }
@@ -344,11 +307,25 @@
         "status": "out"
       }
     ],
-    "ACF Fiorentina": [
+    "US Lecce": [
       {
-        "player": "Moise Kean",
-        "position": "Centre-Forward",
-        "injury": "Shin bruise",
+        "player": "Riccardo Sottil",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sadik Fofana",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Medon Berisha",
+        "position": "Central Midfield",
+        "injury": "Torn thigh muscle",
         "since": "",
         "status": "out"
       }

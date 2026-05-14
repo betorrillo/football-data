@@ -2,56 +2,8 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-05-14 to 2026-05-28",
-    "count": 23,
+    "count": 20,
     "fixtures": [
-      {
-        "id": 544568,
-        "matchday": 36,
-        "date": "2026-05-14",
-        "time": "17:00",
-        "home_team": "Valencia CF",
-        "home_short": "Valencia",
-        "away_team": "Rayo Vallecano de Madrid",
-        "away_short": "Rayo Vallecano",
-        "referees": [
-          {
-            "name": "Alejandro Quintero González",
-            "nationality": "Spain"
-          }
-        ]
-      },
-      {
-        "id": 544565,
-        "matchday": 36,
-        "date": "2026-05-14",
-        "time": "18:00",
-        "home_team": "Girona FC",
-        "home_short": "Girona",
-        "away_team": "Real Sociedad de Fútbol",
-        "away_short": "Real Sociedad",
-        "referees": [
-          {
-            "name": "Miguel Sesma Espinosa",
-            "nationality": "Spain"
-          }
-        ]
-      },
-      {
-        "id": 544570,
-        "matchday": 36,
-        "date": "2026-05-14",
-        "time": "19:30",
-        "home_team": "Real Madrid CF",
-        "home_short": "Real Madrid",
-        "away_team": "Real Oviedo",
-        "away_short": "Real Oviedo",
-        "referees": [
-          {
-            "name": "Ricardo de Burgos",
-            "nationality": "Spain"
-          }
-        ]
-      },
       {
         "id": 544571,
         "matchday": 37,
@@ -265,7 +217,7 @@
         "id": 544588,
         "matchday": 38,
         "date": "2026-05-24",
-        "time": "00:00",
+        "time": "19:00",
         "home_team": "Villarreal CF",
         "home_short": "Villarreal",
         "away_team": "Club Atlético de Madrid",
@@ -1073,6 +1025,122 @@
   "CL": {
     "competition": "Champions League",
     "date_range": "2026-05-14 to 2026-05-28",
+    "count": 0,
+    "fixtures": []
+  },
+  "PPL": {
+    "competition": "Primeira Liga",
+    "date_range": "2026-05-14 to 2026-05-28",
+    "count": 9,
+    "fixtures": [
+      {
+        "id": 545997,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "14:30",
+        "home_team": "Moreirense FC",
+        "home_short": "Moreirense",
+        "away_team": "AVS",
+        "away_short": "AVS",
+        "referees": []
+      },
+      {
+        "id": 546000,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "14:30",
+        "home_team": "FC Porto",
+        "home_short": "Porto",
+        "away_team": "CD Santa Clara",
+        "away_short": "Santa Clara",
+        "referees": []
+      },
+      {
+        "id": 546002,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "home_team": "CD Nacional",
+        "home_short": "CD Nacional",
+        "away_team": "Vitória SC",
+        "away_short": "Vitória SC",
+        "referees": []
+      },
+      {
+        "id": 546003,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "home_team": "Casa Pia AC",
+        "home_short": "Casa Pia",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "referees": []
+      },
+      {
+        "id": 546004,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "home_team": "FC Arouca",
+        "home_short": "Arouca",
+        "away_team": "CD Tondela",
+        "away_short": "Tondela",
+        "referees": []
+      },
+      {
+        "id": 546005,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "home_team": "Sporting Clube de Braga",
+        "home_short": "Braga",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "referees": []
+      },
+      {
+        "id": 545998,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "19:30",
+        "home_team": "FC Famalicão",
+        "home_short": "Famalicão",
+        "away_team": "FC Alverca",
+        "away_short": "Alverca",
+        "referees": []
+      },
+      {
+        "id": 545999,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "19:30",
+        "home_team": "Sporting Clube de Portugal",
+        "home_short": "Sporting CP",
+        "away_team": "Gil Vicente FC",
+        "away_short": "Gil Vicente",
+        "referees": []
+      },
+      {
+        "id": 546001,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "19:30",
+        "home_team": "GD Estoril Praia",
+        "home_short": "Estoril Praia",
+        "away_team": "Sport Lisboa e Benfica",
+        "away_short": "SL Benfica",
+        "referees": []
+      }
+    ]
+  },
+  "EL": {
+    "competition": "Europa League",
+    "count": 0,
+    "fixtures": []
+  },
+  "ECL": {
+    "competition": "Conference League",
     "count": 0,
     "fixtures": []
   }

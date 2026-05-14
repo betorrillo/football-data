@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-05-07 to 2026-05-14",
-    "count": 17,
+    "count": 20,
     "matches": [
       {
         "id": 544554,
@@ -393,6 +393,78 @@
         "referees": [
           {
             "name": "Juan Martínez Munuera",
+            "nationality": "Spain"
+          }
+        ]
+      },
+      {
+        "id": 544568,
+        "matchday": 36,
+        "date": "2026-05-14",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Valencia CF",
+        "home_short": "Valencia",
+        "home_tla": "VAL",
+        "away_team": "Rayo Vallecano de Madrid",
+        "away_short": "Rayo Vallecano",
+        "away_tla": "RAY",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Alejandro Quintero González",
+            "nationality": "Spain"
+          }
+        ]
+      },
+      {
+        "id": 544565,
+        "matchday": 36,
+        "date": "2026-05-14",
+        "time": "18:00",
+        "status": "FINISHED",
+        "home_team": "Girona FC",
+        "home_short": "Girona",
+        "home_tla": "GIR",
+        "away_team": "Real Sociedad de Fútbol",
+        "away_short": "Real Sociedad",
+        "away_tla": "RSO",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Miguel Sesma Espinosa",
+            "nationality": "Spain"
+          }
+        ]
+      },
+      {
+        "id": 544570,
+        "matchday": 36,
+        "date": "2026-05-14",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "Real Madrid CF",
+        "home_short": "Real Madrid",
+        "home_tla": "RMA",
+        "away_team": "Real Oviedo",
+        "away_short": "Real Oviedo",
+        "away_tla": "OVI",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Ricardo de Burgos",
             "nationality": "Spain"
           }
         ]
@@ -1404,6 +1476,239 @@
   "CL": {
     "competition": "Champions League",
     "date_range": "2026-05-07 to 2026-05-14",
+    "count": 0,
+    "matches": []
+  },
+  "PPL": {
+    "competition": "Primeira Liga",
+    "date_range": "2026-05-07 to 2026-05-14",
+    "count": 9,
+    "matches": [
+      {
+        "id": 545991,
+        "matchday": 33,
+        "date": "2026-05-10",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "AVS",
+        "home_short": "AVS",
+        "home_tla": "AVS",
+        "away_team": "FC Porto",
+        "away_short": "Porto",
+        "away_tla": "FCP",
+        "ft_home": 3,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Carlos Macedo",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545993,
+        "matchday": 33,
+        "date": "2026-05-10",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "FC Alverca",
+        "home_short": "Alverca",
+        "home_tla": "ALV",
+        "away_team": "GD Estoril Praia",
+        "away_short": "Estoril Praia",
+        "away_tla": "EST",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Iancu Vasilica",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545988,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "Vitória SC",
+        "home_short": "Vitória SC",
+        "home_tla": "GUI",
+        "away_team": "Casa Pia AC",
+        "away_short": "Casa Pia",
+        "away_tla": "CAS",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Luís Godinho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545989,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "Gil Vicente FC",
+        "home_short": "Gil Vicente",
+        "home_tla": "GIL",
+        "away_team": "FC Arouca",
+        "away_short": "Arouca",
+        "away_tla": "FCA",
+        "ft_home": 1,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Miguel Fonseca",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545990,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "CD Tondela",
+        "home_short": "Tondela",
+        "home_tla": "TON",
+        "away_team": "Moreirense FC",
+        "away_short": "Moreirense",
+        "away_tla": "MOR",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Ricardo Baixinho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545992,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "CF Estrela da Amadora",
+        "home_short": "Amadora",
+        "home_tla": "AMA",
+        "away_team": "FC Famalicão",
+        "away_short": "Famalicão",
+        "away_tla": "FAM",
+        "ft_home": 0,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Fábio Veríssimo",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545994,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "Rio Ave FC",
+        "home_short": "Rio Ave",
+        "home_tla": "RIO",
+        "away_team": "Sporting Clube de Portugal",
+        "away_short": "Sporting CP",
+        "away_tla": "SPO",
+        "ft_home": 1,
+        "ft_away": 4,
+        "ht_home": 1,
+        "ht_away": 2,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "João Gonçalves",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545995,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "CD Santa Clara",
+        "home_short": "Santa Clara",
+        "home_tla": "CD ",
+        "away_team": "CD Nacional",
+        "away_short": "CD Nacional",
+        "away_tla": "CDN",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Hélder Carvalho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 545996,
+        "matchday": 33,
+        "date": "2026-05-11",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "Sport Lisboa e Benfica",
+        "home_short": "SL Benfica",
+        "home_tla": "BEN",
+        "away_team": "Sporting Clube de Braga",
+        "away_short": "Braga",
+        "away_tla": "SCB",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "João Pinheiro",
+            "nationality": "Portugal"
+          }
+        ]
+      }
+    ]
+  },
+  "EL": {
+    "competition": "Europa League",
+    "count": 0,
+    "matches": []
+  },
+  "ECL": {
+    "competition": "Conference League",
     "count": 0,
     "matches": []
   }

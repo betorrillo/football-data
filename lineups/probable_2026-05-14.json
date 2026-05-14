@@ -8,15 +8,15 @@
       "home": "Elche",
       "away": "Alav\u00e9s",
       "home_profile": {
-        "total_matches": 35,
+        "total_matches": 36,
         "last5_goals_scored": 8,
-        "last5_goals_conceded": 7,
-        "last5_results": "WWWLD",
+        "last5_goals_conceded": 9,
+        "last5_results": "WWLDL",
         "last5_avg_shots": 11.4,
         "last5_avg_sot": 4.2,
-        "last5_avg_corners": 5.6,
-        "last5_avg_yellows": 1.4,
-        "last10_goals_scored": 14,
+        "last5_avg_corners": 4.8,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 13,
         "last10_goals_conceded": 17,
         "trajectory": "improving",
         "scoring_consistency": "consistent"
@@ -37,15 +37,15 @@
       "home": "Sevilla",
       "away": "Espanyol",
       "home_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 6,
-        "last5_goals_conceded": 6,
-        "last5_results": "WLLWW",
-        "last5_avg_shots": 13.2,
-        "last5_avg_sot": 3.0,
-        "last5_avg_corners": 4.6,
-        "last5_avg_yellows": 3.6,
-        "last10_goals_scored": 11,
+        "total_matches": 36,
+        "last5_goals_scored": 7,
+        "last5_goals_conceded": 7,
+        "last5_results": "LLWWW",
+        "last5_avg_shots": 13.6,
+        "last5_avg_sot": 3.6,
+        "last5_avg_corners": 4.2,
+        "last5_avg_yellows": 3.0,
+        "last10_goals_scored": 12,
         "last10_goals_conceded": 17,
         "trajectory": "improving",
         "scoring_consistency": "consistent"
@@ -53,15 +53,15 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Manu Bueno",
-          "position": "Central Midfield",
+          "player": "Marc\u00e3o",
+          "position": "Centre-Back",
           "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Marc\u00e3o",
-          "position": "Centre-Back",
+          "player": "Manu Bueno",
+          "position": "Central Midfield",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -137,30 +137,30 @@
       "home": "Mallorca",
       "away": "Villarreal",
       "home_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 7,
-        "last5_goals_conceded": 4,
-        "last5_results": "WDLWD",
-        "last5_avg_shots": 12.4,
-        "last5_avg_sot": 5.2,
-        "last5_avg_corners": 4.8,
-        "last5_avg_yellows": 1.2,
-        "last10_goals_scored": 14,
-        "last10_goals_conceded": 11,
-        "trajectory": "stable",
+        "total_matches": 36,
+        "last5_goals_scored": 5,
+        "last5_goals_conceded": 7,
+        "last5_results": "DLWDL",
+        "last5_avg_shots": 11.8,
+        "last5_avg_sot": 4.8,
+        "last5_avg_corners": 4.2,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 15,
+        "last10_goals_conceded": 13,
+        "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
       "away_profile": {
-        "total_matches": 35,
+        "total_matches": 36,
         "last5_goals_scored": 11,
-        "last5_goals_conceded": 5,
-        "last5_results": "WDWWD",
-        "last5_avg_shots": 11.8,
-        "last5_avg_sot": 4.6,
-        "last5_avg_corners": 4.2,
-        "last5_avg_yellows": 2.0,
-        "last10_goals_scored": 18,
-        "last10_goals_conceded": 13,
+        "last5_goals_conceded": 7,
+        "last5_results": "DWWDL",
+        "last5_avg_shots": 10.6,
+        "last5_avg_sot": 4.2,
+        "last5_avg_corners": 4.8,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 19,
+        "last10_goals_conceded": 12,
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
@@ -210,16 +210,16 @@
       "away": "Valencia",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 4,
+        "total_matches": 36,
+        "last5_goals_scored": 5,
         "last5_goals_conceded": 5,
-        "last5_results": "LDWLW",
-        "last5_avg_shots": 12.6,
-        "last5_avg_sot": 3.4,
-        "last5_avg_corners": 4.6,
+        "last5_results": "DWLWD",
+        "last5_avg_shots": 10.6,
+        "last5_avg_sot": 2.4,
+        "last5_avg_corners": 3.8,
         "last5_avg_yellows": 1.8,
         "last10_goals_scored": 12,
-        "last10_goals_conceded": 11,
+        "last10_goals_conceded": 12,
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
@@ -247,16 +247,16 @@
           "status": "out"
         },
         {
-          "player": "Jos\u00e9 Copete",
+          "player": "Mouctar Diakhaby",
           "position": "Centre-Back",
-          "injury": "Meniscus tear",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Mouctar Diakhaby",
+          "player": "Jos\u00e9 Copete",
           "position": "Centre-Back",
-          "injury": "Muscle injury",
+          "injury": "Meniscus tear",
           "since": "",
           "status": "out"
         }
@@ -275,18 +275,18 @@
       "away": "Getafe",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 1,
+        "total_matches": 36,
+        "last5_goals_scored": 4,
         "last5_goals_conceded": 5,
-        "last5_results": "LWLLD",
-        "last5_avg_shots": 9.8,
-        "last5_avg_sot": 1.6,
-        "last5_avg_corners": 4.8,
-        "last5_avg_yellows": 4.0,
-        "last10_goals_scored": 8,
-        "last10_goals_conceded": 7,
+        "last5_results": "WLLDW",
+        "last5_avg_shots": 10.0,
+        "last5_avg_sot": 2.2,
+        "last5_avg_corners": 5.0,
+        "last5_avg_yellows": 3.2,
+        "last10_goals_scored": 10,
+        "last10_goals_conceded": 8,
         "trajectory": "declining",
-        "scoring_consistency": "consistent"
+        "scoring_consistency": "variable"
       },
       "home_injuries": [],
       "away_injuries": [],
@@ -303,30 +303,30 @@
       "home": "Barcelona",
       "away": "Real Madrid",
       "home_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 11,
+        "total_matches": 36,
+        "last5_goals_scored": 7,
         "last5_goals_conceded": 2,
-        "last5_results": "WWWWW",
-        "last5_avg_shots": 13.2,
-        "last5_avg_sot": 5.6,
-        "last5_avg_corners": 5.2,
-        "last5_avg_yellows": 2.0,
-        "last10_goals_scored": 24,
+        "last5_results": "WWWWL",
+        "last5_avg_shots": 10.8,
+        "last5_avg_sot": 3.6,
+        "last5_avg_corners": 4.6,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 20,
         "last10_goals_conceded": 6,
         "trajectory": "declining",
         "scoring_consistency": "variable"
       },
       "away_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 6,
-        "last5_goals_conceded": 5,
-        "last5_results": "DWDWL",
-        "last5_avg_shots": 16.2,
-        "last5_avg_sot": 6.2,
-        "last5_avg_corners": 7.8,
-        "last5_avg_yellows": 2.6,
-        "last10_goals_scored": 16,
-        "last10_goals_conceded": 12,
+        "total_matches": 36,
+        "last5_goals_scored": 7,
+        "last5_goals_conceded": 4,
+        "last5_results": "WDWLW",
+        "last5_avg_shots": 15.6,
+        "last5_avg_sot": 5.8,
+        "last5_avg_corners": 6.6,
+        "last5_avg_yellows": 2.2,
+        "last10_goals_scored": 18,
+        "last10_goals_conceded": 11,
         "trajectory": "declining",
         "scoring_consistency": "variable"
       },
@@ -344,20 +344,6 @@
           "player": "Dean Huijsen",
           "position": "Centre-Back",
           "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Kylian Mbapp\u00e9",
-          "position": "Centre-Forward",
-          "injury": "Torn muscle fiber",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Daniel Carvajal",
-          "position": "Right-Back",
-          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -391,7 +377,7 @@
         }
       ],
       "home_injury_count": 1,
-      "away_injury_count": 7,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -404,16 +390,16 @@
       "away": "Girona",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 35,
+        "total_matches": 36,
         "last5_goals_scored": 5,
         "last5_goals_conceded": 8,
-        "last5_results": "DLLLD",
-        "last5_avg_shots": 9.8,
-        "last5_avg_sot": 3.4,
-        "last5_avg_corners": 3.6,
-        "last5_avg_yellows": 1.8,
+        "last5_results": "LLLDD",
+        "last5_avg_shots": 13.6,
+        "last5_avg_sot": 3.8,
+        "last5_avg_corners": 4.6,
+        "last5_avg_yellows": 2.0,
         "last10_goals_scored": 11,
-        "last10_goals_conceded": 12,
+        "last10_goals_conceded": 11,
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
@@ -427,9 +413,9 @@
           "status": "out"
         },
         {
-          "player": "Vladyslav Vanat",
-          "position": "Centre-Forward",
-          "injury": "Torn thigh muscle",
+          "player": "Marc-Andr\u00e9 ter Stegen",
+          "position": "Goalkeeper",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -439,10 +425,17 @@
           "injury": "Torn knee ligaments",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Vladyslav Vanat",
+          "position": "Centre-Forward",
+          "injury": "Torn thigh muscle",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 0,
-      "away_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -455,17 +448,17 @@
       "away": "Levante",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 7,
-        "last5_goals_conceded": 7,
-        "last5_results": "WWDLW",
-        "last5_avg_shots": 17.0,
-        "last5_avg_sot": 5.2,
-        "last5_avg_corners": 6.6,
+        "total_matches": 36,
+        "last5_goals_scored": 9,
+        "last5_goals_conceded": 9,
+        "last5_results": "WDLWW",
+        "last5_avg_shots": 15.4,
+        "last5_avg_sot": 5.6,
+        "last5_avg_corners": 5.8,
         "last5_avg_yellows": 2.2,
-        "last10_goals_scored": 15,
-        "last10_goals_conceded": 13,
-        "trajectory": "declining",
+        "last10_goals_scored": 16,
+        "last10_goals_conceded": 15,
+        "trajectory": "improving",
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
@@ -484,15 +477,15 @@
       "away": "Elche",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 35,
+        "total_matches": 36,
         "last5_goals_scored": 8,
-        "last5_goals_conceded": 7,
-        "last5_results": "WWWLD",
+        "last5_goals_conceded": 9,
+        "last5_results": "WWLDL",
         "last5_avg_shots": 11.4,
         "last5_avg_sot": 4.2,
-        "last5_avg_corners": 5.6,
-        "last5_avg_yellows": 1.4,
-        "last10_goals_scored": 14,
+        "last5_avg_corners": 4.8,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 13,
         "last10_goals_conceded": 17,
         "trajectory": "improving",
         "scoring_consistency": "consistent"
@@ -520,17 +513,17 @@
       "home": "Osasuna",
       "away": "Atl\u00e9tico Madrid",
       "home_profile": {
-        "total_matches": 35,
+        "total_matches": 36,
         "last5_goals_scored": 6,
-        "last5_goals_conceded": 8,
-        "last5_results": "DLWLL",
-        "last5_avg_shots": 9.8,
-        "last5_avg_sot": 4.2,
-        "last5_avg_corners": 3.6,
-        "last5_avg_yellows": 1.8,
-        "last10_goals_scored": 12,
-        "last10_goals_conceded": 16,
-        "trajectory": "stable",
+        "last5_goals_conceded": 9,
+        "last5_results": "LWLLL",
+        "last5_avg_shots": 12.0,
+        "last5_avg_sot": 4.4,
+        "last5_avg_corners": 4.0,
+        "last5_avg_yellows": 2.4,
+        "last10_goals_scored": 13,
+        "last10_goals_conceded": 17,
+        "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
       "away_profile": null,
@@ -1005,18 +998,18 @@
       "home": "Crystal Palace",
       "away": "Everton",
       "home_profile": {
-        "total_matches": 35,
-        "last5_goals_scored": 5,
-        "last5_goals_conceded": 9,
-        "last5_results": "WDLLD",
-        "last5_avg_shots": 12.4,
-        "last5_avg_sot": 4.4,
-        "last5_avg_corners": 4.0,
-        "last5_avg_yellows": 1.4,
-        "last10_goals_scored": 12,
+        "total_matches": 36,
+        "last5_goals_scored": 3,
+        "last5_goals_conceded": 11,
+        "last5_results": "DLLDL",
+        "last5_avg_shots": 11.4,
+        "last5_avg_sot": 3.8,
+        "last5_avg_corners": 4.4,
+        "last5_avg_yellows": 1.8,
+        "last10_goals_scored": 10,
         "last10_goals_conceded": 15,
         "trajectory": "declining",
-        "scoring_consistency": "consistent"
+        "scoring_consistency": "variable"
       },
       "away_profile": {
         "total_matches": 36,
@@ -1390,23 +1383,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Manolis Saliakas",
-          "position": "Right-Back",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Karol Mets",
-          "position": "Centre-Back",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "James Sands",
           "position": "Defensive Midfield",
           "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Manolis Saliakas",
+          "position": "Right-Back",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -1418,22 +1404,22 @@
           "status": "out"
         },
         {
-          "player": "Jannik Robatsch",
-          "position": "Centre-Back",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "David Nemeth",
           "position": "Centre-Back",
           "injury": "Unknown",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Jannik Robatsch",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 4,
-      "away_injury_count": 6,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1453,24 +1439,10 @@
           "injury": "Knee problems",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "Finn Jeltsch",
-          "position": "Centre-Back",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Lazar Jovanovic",
-          "position": "Right Winger",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
         }
       ],
       "away_injuries": [],
-      "home_injury_count": 3,
+      "home_injury_count": 1,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1602,16 +1574,16 @@
       },
       "home_injuries": [
         {
-          "player": "Jonas Wind",
-          "position": "Centre-Forward",
-          "injury": "Hamstring injury",
+          "player": "Rog\u00e9rio",
+          "position": "Left-Back",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Rog\u00e9rio",
-          "position": "Left-Back",
-          "injury": "Muscle injury",
+          "player": "Patrick Wimmer",
+          "position": "Right Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -1632,6 +1604,20 @@
         {
           "player": "Cleiton",
           "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Kilian Fischer",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jonas Wind",
+          "position": "Centre-Forward",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -1667,7 +1653,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 6,
+      "home_injury_count": 8,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -1691,13 +1677,6 @@
           "status": "out"
         },
         {
-          "player": "Max Rosenfelder",
-          "position": "Centre-Back",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Patrick Osterhage",
           "position": "Defensive Midfield",
           "injury": "Knee surgery",
@@ -1706,7 +1685,7 @@
         }
       ],
       "home_injury_count": 0,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2073,13 +2052,6 @@
           "status": "out"
         },
         {
-          "player": "Matteo Tramoni",
-          "position": "Attacking Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Daniel Denoon",
           "position": "Centre-Back",
           "injury": "Ankle problems",
@@ -2088,7 +2060,7 @@
         }
       ],
       "home_injury_count": 4,
-      "away_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2127,16 +2099,15 @@
         "trajectory": "stable",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [
+      "home_injuries": [],
+      "away_injuries": [
         {
-          "player": "Moise Kean",
-          "position": "Centre-Forward",
-          "injury": "Shin bruise",
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
-        }
-      ],
-      "away_injuries": [
+        },
         {
           "player": "Sebastian Otoa",
           "position": "Centre-Back",
@@ -2152,20 +2123,6 @@
           "status": "out"
         },
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
-          "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Brooke Norton-Cuffy",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Junior Messias",
           "position": "Right Winger",
           "injury": "Adductor injury",
@@ -2173,8 +2130,8 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 1,
-      "away_injury_count": 5,
+      "home_injury_count": 0,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2498,17 +2455,17 @@
         "scoring_consistency": "consistent"
       },
       "away_profile": {
-        "total_matches": 32,
-        "last5_goals_scored": 8,
+        "total_matches": 33,
+        "last5_goals_scored": 7,
         "last5_goals_conceded": 9,
-        "last5_results": "WLWLD",
-        "last5_avg_shots": 12.0,
-        "last5_avg_sot": 4.4,
+        "last5_results": "LWLDW",
+        "last5_avg_shots": 10.8,
+        "last5_avg_sot": 4.2,
         "last5_avg_corners": 4.6,
-        "last5_avg_yellows": 1.0,
-        "last10_goals_scored": 15,
+        "last5_avg_yellows": 1.2,
+        "last10_goals_scored": 14,
         "last10_goals_conceded": 13,
-        "trajectory": "improving",
+        "trajectory": "stable",
         "scoring_consistency": "variable"
       },
       "home_injuries": [
@@ -2630,16 +2587,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Marc-Aur\u00e8le Caillard",
-          "position": "Goalkeeper",
-          "injury": "Elbow injury",
+          "player": "Hamza Igamane",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Hamza Igamane",
-          "position": "Centre-Forward",
-          "injury": "Cruciate ligament tear",
+          "player": "Marc-Aur\u00e8le Caillard",
+          "position": "Goalkeeper",
+          "injury": "Elbow injury",
           "since": "",
           "status": "out"
         },
@@ -2837,17 +2794,17 @@
       "away": "Brest",
       "home_profile": null,
       "away_profile": {
-        "total_matches": 32,
-        "last5_goals_scored": 7,
-        "last5_goals_conceded": 13,
-        "last5_results": "LDDLL",
-        "last5_avg_shots": 6.6,
-        "last5_avg_sot": 2.4,
-        "last5_avg_corners": 1.6,
-        "last5_avg_yellows": 1.6,
-        "last10_goals_scored": 12,
-        "last10_goals_conceded": 18,
-        "trajectory": "improving",
+        "total_matches": 33,
+        "last5_goals_scored": 5,
+        "last5_goals_conceded": 11,
+        "last5_results": "DDLLL",
+        "last5_avg_shots": 8.8,
+        "last5_avg_sot": 2.8,
+        "last5_avg_corners": 2.0,
+        "last5_avg_yellows": 1.2,
+        "last10_goals_scored": 11,
+        "last10_goals_conceded": 20,
+        "trajectory": "declining",
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
@@ -2987,13 +2944,6 @@
           "injury": "Unknown",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "\u00c1lex Dom\u00ednguez",
-          "position": "Goalkeeper",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
         }
       ],
       "away_injuries": [
@@ -3019,7 +2969,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 1,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",

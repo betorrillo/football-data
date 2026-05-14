@@ -1,0 +1,1178 @@
+{
+  "generated": "2026-05-14",
+  "league": "Primeira Liga",
+  "season": "2025-26",
+  "source": "derived from match-by-match data",
+  "teams": [
+    {
+      "team": "Porto",
+      "mp": 33,
+      "w": 27,
+      "d": 4,
+      "l": 2,
+      "gf": 65,
+      "ga": 18,
+      "gd": 47,
+      "pts": 85,
+      "avg": {
+        "gf": 1.97,
+        "ga": 0.55,
+        "corners_for": 5.58,
+        "corners_against": 2.91,
+        "total_corners": 8.48,
+        "shots": 14.42,
+        "shots_against": 9.52,
+        "shots_target": 5.21,
+        "shots_target_against": 2.42,
+        "fouls": 14.0,
+        "fouls_against": 12.58,
+        "yellows": 2.39,
+        "opponent_yellows": 3.03,
+        "total_match_cards": 5.42
+      },
+      "avg_home": {
+        "gf": 2.0,
+        "ga": 0.38,
+        "corners_for": 5.5,
+        "corners_against": 2.81,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 1.94,
+        "ga": 0.71,
+        "corners_for": 5.65,
+        "corners_against": 3.0,
+        "over_25_pct": 64.7
+      },
+      "pct": {
+        "over_15": 72.7,
+        "over_25": 57.6,
+        "over_35": 24.2,
+        "btts": 39.4,
+        "clean_sheet": 60.6,
+        "failed_to_score": 3.0
+      },
+      "avg_ht": {
+        "gf_1h": 0.88,
+        "ga_1h": 0.12,
+        "gf_2h": 1.09,
+        "ga_2h": 0.42,
+        "total_1h": 1.0,
+        "total_2h": 1.52
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 27.3,
+        "over_05_2h": 81.8,
+        "over_15_2h": 48.5,
+        "btts_1h": 3.0,
+        "btts_2h": 27.3
+      }
+    },
+    {
+      "team": "Sp Lisbon",
+      "mp": 33,
+      "w": 24,
+      "d": 7,
+      "l": 2,
+      "gf": 86,
+      "ga": 24,
+      "gd": 62,
+      "pts": 79,
+      "avg": {
+        "gf": 2.61,
+        "ga": 0.73,
+        "corners_for": 6.88,
+        "corners_against": 3.12,
+        "total_corners": 10.0,
+        "shots": 17.64,
+        "shots_against": 8.82,
+        "shots_target": 6.85,
+        "shots_target_against": 3.03,
+        "fouls": 12.21,
+        "fouls_against": 13.64,
+        "yellows": 2.18,
+        "opponent_yellows": 2.79,
+        "total_match_cards": 4.97
+      },
+      "avg_home": {
+        "gf": 3.0,
+        "ga": 0.69,
+        "corners_for": 6.25,
+        "corners_against": 3.06,
+        "over_25_pct": 81.2
+      },
+      "avg_away": {
+        "gf": 2.24,
+        "ga": 0.76,
+        "corners_for": 7.47,
+        "corners_against": 3.18,
+        "over_25_pct": 58.8
+      },
+      "pct": {
+        "over_15": 90.9,
+        "over_25": 69.7,
+        "over_35": 36.4,
+        "btts": 57.6,
+        "clean_sheet": 42.4,
+        "failed_to_score": 0.0
+      },
+      "avg_ht": {
+        "gf_1h": 1.09,
+        "ga_1h": 0.24,
+        "gf_2h": 1.52,
+        "ga_2h": 0.48,
+        "total_1h": 1.33,
+        "total_2h": 2.0
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 39.4,
+        "over_05_2h": 93.9,
+        "over_15_2h": 60.6,
+        "btts_1h": 18.2,
+        "btts_2h": 33.3
+      }
+    },
+    {
+      "team": "Benfica",
+      "mp": 33,
+      "w": 22,
+      "d": 11,
+      "l": 0,
+      "gf": 71,
+      "ga": 24,
+      "gd": 47,
+      "pts": 77,
+      "avg": {
+        "gf": 2.15,
+        "ga": 0.73,
+        "corners_for": 7.15,
+        "corners_against": 2.82,
+        "total_corners": 9.97,
+        "shots": 17.0,
+        "shots_against": 9.09,
+        "shots_target": 6.0,
+        "shots_target_against": 3.09,
+        "fouls": 11.12,
+        "fouls_against": 15.91,
+        "yellows": 1.91,
+        "opponent_yellows": 2.91,
+        "total_match_cards": 4.82
+      },
+      "avg_home": {
+        "gf": 2.41,
+        "ga": 0.76,
+        "corners_for": 7.47,
+        "corners_against": 2.59,
+        "over_25_pct": 70.6
+      },
+      "avg_away": {
+        "gf": 1.88,
+        "ga": 0.69,
+        "corners_for": 6.81,
+        "corners_against": 3.06,
+        "over_25_pct": 68.8
+      },
+      "pct": {
+        "over_15": 87.9,
+        "over_25": 69.7,
+        "over_35": 30.3,
+        "btts": 57.6,
+        "clean_sheet": 42.4,
+        "failed_to_score": 6.1
+      },
+      "avg_ht": {
+        "gf_1h": 1.06,
+        "ga_1h": 0.3,
+        "gf_2h": 1.09,
+        "ga_2h": 0.42,
+        "total_1h": 1.36,
+        "total_2h": 1.52
+      },
+      "pct_ht": {
+        "over_05_1h": 72.7,
+        "over_15_1h": 45.5,
+        "over_05_2h": 75.8,
+        "over_15_2h": 54.5,
+        "btts_1h": 18.2,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "Sp Braga",
+      "mp": 33,
+      "w": 16,
+      "d": 10,
+      "l": 7,
+      "gf": 62,
+      "ga": 34,
+      "gd": 28,
+      "pts": 58,
+      "avg": {
+        "gf": 1.88,
+        "ga": 1.03,
+        "corners_for": 5.24,
+        "corners_against": 3.21,
+        "total_corners": 8.45,
+        "shots": 11.58,
+        "shots_against": 9.85,
+        "shots_target": 4.76,
+        "shots_target_against": 3.27,
+        "fouls": 11.7,
+        "fouls_against": 11.85,
+        "yellows": 2.27,
+        "opponent_yellows": 2.58,
+        "total_match_cards": 4.85
+      },
+      "avg_home": {
+        "gf": 2.0,
+        "ga": 1.0,
+        "corners_for": 5.19,
+        "corners_against": 3.19,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.76,
+        "ga": 1.06,
+        "corners_for": 5.29,
+        "corners_against": 3.24,
+        "over_25_pct": 64.7
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 66.7,
+        "over_35": 36.4,
+        "btts": 54.5,
+        "clean_sheet": 36.4,
+        "failed_to_score": 9.1
+      },
+      "avg_ht": {
+        "gf_1h": 1.09,
+        "ga_1h": 0.52,
+        "gf_2h": 0.79,
+        "ga_2h": 0.52,
+        "total_1h": 1.61,
+        "total_2h": 1.3
+      },
+      "pct_ht": {
+        "over_05_1h": 87.9,
+        "over_15_1h": 45.5,
+        "over_05_2h": 75.8,
+        "over_15_2h": 39.4,
+        "btts_1h": 27.3,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "Famalicao",
+      "mp": 33,
+      "w": 14,
+      "d": 11,
+      "l": 8,
+      "gf": 41,
+      "ga": 29,
+      "gd": 12,
+      "pts": 53,
+      "avg": {
+        "gf": 1.24,
+        "ga": 0.88,
+        "corners_for": 5.45,
+        "corners_against": 4.94,
+        "total_corners": 10.39,
+        "shots": 12.52,
+        "shots_against": 10.73,
+        "shots_target": 4.39,
+        "shots_target_against": 3.76,
+        "fouls": 16.0,
+        "fouls_against": 16.61,
+        "yellows": 2.64,
+        "opponent_yellows": 2.36,
+        "total_match_cards": 5.0
+      },
+      "avg_home": {
+        "gf": 1.62,
+        "ga": 0.75,
+        "corners_for": 5.69,
+        "corners_against": 4.75,
+        "over_25_pct": 50.0
+      },
+      "avg_away": {
+        "gf": 0.88,
+        "ga": 1.0,
+        "corners_for": 5.24,
+        "corners_against": 5.12,
+        "over_25_pct": 29.4
+      },
+      "pct": {
+        "over_15": 54.5,
+        "over_25": 39.4,
+        "over_35": 24.2,
+        "btts": 36.4,
+        "clean_sheet": 48.5,
+        "failed_to_score": 27.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.45,
+        "ga_1h": 0.39,
+        "gf_2h": 0.79,
+        "ga_2h": 0.48,
+        "total_1h": 0.85,
+        "total_2h": 1.27
+      },
+      "pct_ht": {
+        "over_05_1h": 54.5,
+        "over_15_1h": 24.2,
+        "over_05_2h": 78.8,
+        "over_15_2h": 30.3,
+        "btts_1h": 15.2,
+        "btts_2h": 18.2
+      }
+    },
+    {
+      "team": "Gil Vicente",
+      "mp": 33,
+      "w": 13,
+      "d": 11,
+      "l": 9,
+      "gf": 47,
+      "ga": 35,
+      "gd": 12,
+      "pts": 50,
+      "avg": {
+        "gf": 1.42,
+        "ga": 1.06,
+        "corners_for": 5.7,
+        "corners_against": 3.88,
+        "total_corners": 9.58,
+        "shots": 13.91,
+        "shots_against": 10.42,
+        "shots_target": 4.64,
+        "shots_target_against": 3.58,
+        "fouls": 13.52,
+        "fouls_against": 14.7,
+        "yellows": 2.45,
+        "opponent_yellows": 2.39,
+        "total_match_cards": 4.85
+      },
+      "avg_home": {
+        "gf": 1.65,
+        "ga": 1.0,
+        "corners_for": 5.41,
+        "corners_against": 3.35,
+        "over_25_pct": 52.9
+      },
+      "avg_away": {
+        "gf": 1.19,
+        "ga": 1.12,
+        "corners_for": 6.0,
+        "corners_against": 4.44,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 51.5,
+        "over_35": 27.3,
+        "btts": 48.5,
+        "clean_sheet": 36.4,
+        "failed_to_score": 24.2
+      },
+      "avg_ht": {
+        "gf_1h": 0.73,
+        "ga_1h": 0.45,
+        "gf_2h": 0.7,
+        "ga_2h": 0.61,
+        "total_1h": 1.18,
+        "total_2h": 1.3
+      },
+      "pct_ht": {
+        "over_05_1h": 78.8,
+        "over_15_1h": 33.3,
+        "over_05_2h": 72.7,
+        "over_15_2h": 39.4,
+        "btts_1h": 21.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Guimaraes",
+      "mp": 33,
+      "w": 12,
+      "d": 6,
+      "l": 15,
+      "gf": 39,
+      "ga": 49,
+      "gd": -10,
+      "pts": 42,
+      "avg": {
+        "gf": 1.18,
+        "ga": 1.48,
+        "corners_for": 4.39,
+        "corners_against": 3.97,
+        "total_corners": 8.36,
+        "shots": 13.33,
+        "shots_against": 11.39,
+        "shots_target": 3.94,
+        "shots_target_against": 4.67,
+        "fouls": 14.58,
+        "fouls_against": 15.0,
+        "yellows": 2.33,
+        "opponent_yellows": 2.7,
+        "total_match_cards": 5.03
+      },
+      "avg_home": {
+        "gf": 1.53,
+        "ga": 1.12,
+        "corners_for": 4.41,
+        "corners_against": 4.29,
+        "over_25_pct": 52.9
+      },
+      "avg_away": {
+        "gf": 0.81,
+        "ga": 1.88,
+        "corners_for": 4.38,
+        "corners_against": 3.62,
+        "over_25_pct": 37.5
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 45.5,
+        "over_35": 24.2,
+        "btts": 42.4,
+        "clean_sheet": 30.3,
+        "failed_to_score": 33.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.52,
+        "ga_1h": 0.7,
+        "gf_2h": 0.67,
+        "ga_2h": 0.79,
+        "total_1h": 1.21,
+        "total_2h": 1.45
+      },
+      "pct_ht": {
+        "over_05_1h": 63.6,
+        "over_15_1h": 42.4,
+        "over_05_2h": 78.8,
+        "over_15_2h": 45.5,
+        "btts_1h": 24.2,
+        "btts_2h": 18.2
+      }
+    },
+    {
+      "team": "Moreirense",
+      "mp": 33,
+      "w": 12,
+      "d": 6,
+      "l": 15,
+      "gf": 37,
+      "ga": 49,
+      "gd": -12,
+      "pts": 42,
+      "avg": {
+        "gf": 1.12,
+        "ga": 1.48,
+        "corners_for": 3.61,
+        "corners_against": 4.82,
+        "total_corners": 8.42,
+        "shots": 8.79,
+        "shots_against": 13.36,
+        "shots_target": 3.21,
+        "shots_target_against": 4.67,
+        "fouls": 14.06,
+        "fouls_against": 15.36,
+        "yellows": 2.58,
+        "opponent_yellows": 2.12,
+        "total_match_cards": 4.7
+      },
+      "avg_home": {
+        "gf": 1.25,
+        "ga": 1.31,
+        "corners_for": 3.94,
+        "corners_against": 5.25,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.0,
+        "ga": 1.65,
+        "corners_for": 3.29,
+        "corners_against": 4.41,
+        "over_25_pct": 47.1
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 51.5,
+        "over_35": 21.2,
+        "btts": 48.5,
+        "clean_sheet": 24.2,
+        "failed_to_score": 30.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.45,
+        "ga_1h": 0.58,
+        "gf_2h": 0.67,
+        "ga_2h": 0.91,
+        "total_1h": 1.03,
+        "total_2h": 1.58
+      },
+      "pct_ht": {
+        "over_05_1h": 66.7,
+        "over_15_1h": 30.3,
+        "over_05_2h": 84.8,
+        "over_15_2h": 42.4,
+        "btts_1h": 24.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Estoril",
+      "mp": 33,
+      "w": 10,
+      "d": 9,
+      "l": 14,
+      "gf": 53,
+      "ga": 54,
+      "gd": -1,
+      "pts": 39,
+      "avg": {
+        "gf": 1.61,
+        "ga": 1.64,
+        "corners_for": 4.45,
+        "corners_against": 4.79,
+        "total_corners": 9.24,
+        "shots": 11.55,
+        "shots_against": 11.91,
+        "shots_target": 4.0,
+        "shots_target_against": 4.33,
+        "fouls": 13.06,
+        "fouls_against": 12.88,
+        "yellows": 2.42,
+        "opponent_yellows": 2.18,
+        "total_match_cards": 4.61
+      },
+      "avg_home": {
+        "gf": 1.75,
+        "ga": 1.44,
+        "corners_for": 4.81,
+        "corners_against": 5.19,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 1.47,
+        "ga": 1.82,
+        "corners_for": 4.12,
+        "corners_against": 4.41,
+        "over_25_pct": 64.7
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 60.6,
+        "over_35": 51.5,
+        "btts": 57.6,
+        "clean_sheet": 15.2,
+        "failed_to_score": 30.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.79,
+        "ga_1h": 0.85,
+        "gf_2h": 0.82,
+        "ga_2h": 0.79,
+        "total_1h": 1.64,
+        "total_2h": 1.61
+      },
+      "pct_ht": {
+        "over_05_1h": 87.9,
+        "over_15_1h": 48.5,
+        "over_05_2h": 78.8,
+        "over_15_2h": 45.5,
+        "btts_1h": 27.3,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "Alverca",
+      "mp": 33,
+      "w": 10,
+      "d": 9,
+      "l": 14,
+      "gf": 35,
+      "ga": 51,
+      "gd": -16,
+      "pts": 39,
+      "avg": {
+        "gf": 1.06,
+        "ga": 1.55,
+        "corners_for": 4.36,
+        "corners_against": 4.48,
+        "total_corners": 8.85,
+        "shots": 9.76,
+        "shots_against": 13.73,
+        "shots_target": 3.58,
+        "shots_target_against": 4.48,
+        "fouls": 12.67,
+        "fouls_against": 14.0,
+        "yellows": 2.18,
+        "opponent_yellows": 2.33,
+        "total_match_cards": 4.52
+      },
+      "avg_home": {
+        "gf": 1.06,
+        "ga": 1.35,
+        "corners_for": 4.65,
+        "corners_against": 3.24,
+        "over_25_pct": 47.1
+      },
+      "avg_away": {
+        "gf": 1.06,
+        "ga": 1.75,
+        "corners_for": 4.06,
+        "corners_against": 5.81,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 78.8,
+        "over_25": 51.5,
+        "over_35": 24.2,
+        "btts": 57.6,
+        "clean_sheet": 18.2,
+        "failed_to_score": 27.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.42,
+        "ga_1h": 0.73,
+        "gf_2h": 0.64,
+        "ga_2h": 0.82,
+        "total_1h": 1.15,
+        "total_2h": 1.45
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 33.3,
+        "over_05_2h": 87.9,
+        "over_15_2h": 39.4,
+        "btts_1h": 15.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Arouca",
+      "mp": 33,
+      "w": 11,
+      "d": 6,
+      "l": 16,
+      "gf": 44,
+      "ga": 63,
+      "gd": -19,
+      "pts": 39,
+      "avg": {
+        "gf": 1.33,
+        "ga": 1.91,
+        "corners_for": 3.67,
+        "corners_against": 5.24,
+        "total_corners": 8.91,
+        "shots": 10.52,
+        "shots_against": 13.3,
+        "shots_target": 3.55,
+        "shots_target_against": 4.64,
+        "fouls": 13.88,
+        "fouls_against": 12.09,
+        "yellows": 2.85,
+        "opponent_yellows": 2.27,
+        "total_match_cards": 5.12
+      },
+      "avg_home": {
+        "gf": 1.5,
+        "ga": 1.81,
+        "corners_for": 4.0,
+        "corners_against": 5.88,
+        "over_25_pct": 68.8
+      },
+      "avg_away": {
+        "gf": 1.18,
+        "ga": 2.0,
+        "corners_for": 3.35,
+        "corners_against": 4.65,
+        "over_25_pct": 64.7
+      },
+      "pct": {
+        "over_15": 78.8,
+        "over_25": 66.7,
+        "over_35": 48.5,
+        "btts": 54.5,
+        "clean_sheet": 21.2,
+        "failed_to_score": 27.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.52,
+        "ga_1h": 0.97,
+        "gf_2h": 0.82,
+        "ga_2h": 0.94,
+        "total_1h": 1.48,
+        "total_2h": 1.76
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 39.4,
+        "over_05_2h": 84.8,
+        "over_15_2h": 54.5,
+        "btts_1h": 24.2,
+        "btts_2h": 33.3
+      }
+    },
+    {
+      "team": "Santa Clara",
+      "mp": 33,
+      "w": 9,
+      "d": 9,
+      "l": 15,
+      "gf": 32,
+      "ga": 40,
+      "gd": -8,
+      "pts": 36,
+      "avg": {
+        "gf": 0.97,
+        "ga": 1.21,
+        "corners_for": 4.61,
+        "corners_against": 4.27,
+        "total_corners": 8.88,
+        "shots": 11.79,
+        "shots_against": 9.64,
+        "shots_target": 3.33,
+        "shots_target_against": 3.48,
+        "fouls": 15.03,
+        "fouls_against": 14.79,
+        "yellows": 2.88,
+        "opponent_yellows": 2.94,
+        "total_match_cards": 5.82
+      },
+      "avg_home": {
+        "gf": 1.0,
+        "ga": 1.0,
+        "corners_for": 4.53,
+        "corners_against": 4.24,
+        "over_25_pct": 35.3
+      },
+      "avg_away": {
+        "gf": 0.94,
+        "ga": 1.44,
+        "corners_for": 4.69,
+        "corners_against": 4.31,
+        "over_25_pct": 37.5
+      },
+      "pct": {
+        "over_15": 57.6,
+        "over_25": 36.4,
+        "over_35": 15.2,
+        "btts": 42.4,
+        "clean_sheet": 30.3,
+        "failed_to_score": 36.4
+      },
+      "avg_ht": {
+        "gf_1h": 0.39,
+        "ga_1h": 0.64,
+        "gf_2h": 0.58,
+        "ga_2h": 0.58,
+        "total_1h": 1.03,
+        "total_2h": 1.15
+      },
+      "pct_ht": {
+        "over_05_1h": 57.6,
+        "over_15_1h": 33.3,
+        "over_05_2h": 72.7,
+        "over_15_2h": 33.3,
+        "btts_1h": 21.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Rio Ave",
+      "mp": 33,
+      "w": 8,
+      "d": 11,
+      "l": 14,
+      "gf": 34,
+      "ga": 56,
+      "gd": -22,
+      "pts": 35,
+      "avg": {
+        "gf": 1.03,
+        "ga": 1.7,
+        "corners_for": 4.39,
+        "corners_against": 6.48,
+        "total_corners": 10.88,
+        "shots": 10.61,
+        "shots_against": 15.27,
+        "shots_target": 3.88,
+        "shots_target_against": 5.15,
+        "fouls": 12.85,
+        "fouls_against": 14.48,
+        "yellows": 2.7,
+        "opponent_yellows": 2.33,
+        "total_match_cards": 5.03
+      },
+      "avg_home": {
+        "gf": 1.0,
+        "ga": 1.71,
+        "corners_for": 5.12,
+        "corners_against": 6.06,
+        "over_25_pct": 64.7
+      },
+      "avg_away": {
+        "gf": 1.06,
+        "ga": 1.69,
+        "corners_for": 3.62,
+        "corners_against": 6.94,
+        "over_25_pct": 56.2
+      },
+      "pct": {
+        "over_15": 81.8,
+        "over_25": 60.6,
+        "over_35": 30.3,
+        "btts": 51.5,
+        "clean_sheet": 18.2,
+        "failed_to_score": 39.4
+      },
+      "avg_ht": {
+        "gf_1h": 0.39,
+        "ga_1h": 0.73,
+        "gf_2h": 0.64,
+        "ga_2h": 0.97,
+        "total_1h": 1.12,
+        "total_2h": 1.61
+      },
+      "pct_ht": {
+        "over_05_1h": 72.7,
+        "over_15_1h": 33.3,
+        "over_05_2h": 78.8,
+        "over_15_2h": 54.5,
+        "btts_1h": 18.2,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "Nacional",
+      "mp": 33,
+      "w": 8,
+      "d": 7,
+      "l": 18,
+      "gf": 35,
+      "ga": 45,
+      "gd": -10,
+      "pts": 31,
+      "avg": {
+        "gf": 1.06,
+        "ga": 1.36,
+        "corners_for": 4.45,
+        "corners_against": 6.39,
+        "total_corners": 10.85,
+        "shots": 12.88,
+        "shots_against": 14.61,
+        "shots_target": 4.24,
+        "shots_target_against": 4.48,
+        "fouls": 14.85,
+        "fouls_against": 12.27,
+        "yellows": 2.94,
+        "opponent_yellows": 2.36,
+        "total_match_cards": 5.3
+      },
+      "avg_home": {
+        "gf": 1.31,
+        "ga": 1.44,
+        "corners_for": 4.94,
+        "corners_against": 6.94,
+        "over_25_pct": 56.2
+      },
+      "avg_away": {
+        "gf": 0.82,
+        "ga": 1.29,
+        "corners_for": 4.0,
+        "corners_against": 5.88,
+        "over_25_pct": 29.4
+      },
+      "pct": {
+        "over_15": 72.7,
+        "over_25": 42.4,
+        "over_35": 18.2,
+        "btts": 48.5,
+        "clean_sheet": 21.2,
+        "failed_to_score": 33.3
+      },
+      "avg_ht": {
+        "gf_1h": 0.45,
+        "ga_1h": 0.55,
+        "gf_2h": 0.61,
+        "ga_2h": 0.82,
+        "total_1h": 1.0,
+        "total_2h": 1.42
+      },
+      "pct_ht": {
+        "over_05_1h": 66.7,
+        "over_15_1h": 27.3,
+        "over_05_2h": 72.7,
+        "over_15_2h": 36.4,
+        "btts_1h": 12.1,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "Estrela",
+      "mp": 33,
+      "w": 6,
+      "d": 11,
+      "l": 16,
+      "gf": 36,
+      "ga": 54,
+      "gd": -18,
+      "pts": 29,
+      "avg": {
+        "gf": 1.09,
+        "ga": 1.64,
+        "corners_for": 3.39,
+        "corners_against": 5.73,
+        "total_corners": 9.12,
+        "shots": 11.06,
+        "shots_against": 13.45,
+        "shots_target": 3.55,
+        "shots_target_against": 4.52,
+        "fouls": 14.61,
+        "fouls_against": 15.33,
+        "yellows": 2.58,
+        "opponent_yellows": 2.64,
+        "total_match_cards": 5.21
+      },
+      "avg_home": {
+        "gf": 1.24,
+        "ga": 1.41,
+        "corners_for": 3.59,
+        "corners_against": 5.47,
+        "over_25_pct": 52.9
+      },
+      "avg_away": {
+        "gf": 0.94,
+        "ga": 1.88,
+        "corners_for": 3.19,
+        "corners_against": 6.0,
+        "over_25_pct": 50.0
+      },
+      "pct": {
+        "over_15": 72.7,
+        "over_25": 51.5,
+        "over_35": 36.4,
+        "btts": 45.5,
+        "clean_sheet": 24.2,
+        "failed_to_score": 45.5
+      },
+      "avg_ht": {
+        "gf_1h": 0.55,
+        "ga_1h": 0.73,
+        "gf_2h": 0.55,
+        "ga_2h": 0.91,
+        "total_1h": 1.27,
+        "total_2h": 1.45
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 33.3,
+        "over_05_2h": 78.8,
+        "over_15_2h": 36.4,
+        "btts_1h": 15.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Casa Pia",
+      "mp": 33,
+      "w": 6,
+      "d": 11,
+      "l": 16,
+      "gf": 30,
+      "ga": 56,
+      "gd": -26,
+      "pts": 29,
+      "avg": {
+        "gf": 0.91,
+        "ga": 1.7,
+        "corners_for": 3.88,
+        "corners_against": 6.06,
+        "total_corners": 9.94,
+        "shots": 8.55,
+        "shots_against": 13.76,
+        "shots_target": 2.82,
+        "shots_target_against": 4.55,
+        "fouls": 16.12,
+        "fouls_against": 13.85,
+        "yellows": 2.88,
+        "opponent_yellows": 2.45,
+        "total_match_cards": 5.33
+      },
+      "avg_home": {
+        "gf": 1.06,
+        "ga": 1.56,
+        "corners_for": 3.25,
+        "corners_against": 5.94,
+        "over_25_pct": 31.2
+      },
+      "avg_away": {
+        "gf": 0.76,
+        "ga": 1.82,
+        "corners_for": 4.47,
+        "corners_against": 6.18,
+        "over_25_pct": 58.8
+      },
+      "pct": {
+        "over_15": 75.8,
+        "over_25": 45.5,
+        "over_35": 30.3,
+        "btts": 45.5,
+        "clean_sheet": 21.2,
+        "failed_to_score": 45.5
+      },
+      "avg_ht": {
+        "gf_1h": 0.45,
+        "ga_1h": 0.76,
+        "gf_2h": 0.45,
+        "ga_2h": 0.94,
+        "total_1h": 1.21,
+        "total_2h": 1.39
+      },
+      "pct_ht": {
+        "over_05_1h": 66.7,
+        "over_15_1h": 33.3,
+        "over_05_2h": 75.8,
+        "over_15_2h": 30.3,
+        "btts_1h": 15.2,
+        "btts_2h": 21.2
+      }
+    },
+    {
+      "team": "Tondela",
+      "mp": 33,
+      "w": 6,
+      "d": 10,
+      "l": 17,
+      "gf": 26,
+      "ga": 52,
+      "gd": -26,
+      "pts": 28,
+      "avg": {
+        "gf": 0.79,
+        "ga": 1.58,
+        "corners_for": 3.91,
+        "corners_against": 5.82,
+        "total_corners": 9.73,
+        "shots": 10.61,
+        "shots_against": 13.33,
+        "shots_target": 3.42,
+        "shots_target_against": 4.97,
+        "fouls": 14.55,
+        "fouls_against": 12.33,
+        "yellows": 2.7,
+        "opponent_yellows": 2.45,
+        "total_match_cards": 5.15
+      },
+      "avg_home": {
+        "gf": 0.76,
+        "ga": 1.24,
+        "corners_for": 3.94,
+        "corners_against": 5.88,
+        "over_25_pct": 35.3
+      },
+      "avg_away": {
+        "gf": 0.81,
+        "ga": 1.94,
+        "corners_for": 3.88,
+        "corners_against": 5.75,
+        "over_25_pct": 62.5
+      },
+      "pct": {
+        "over_15": 66.7,
+        "over_25": 48.5,
+        "over_35": 27.3,
+        "btts": 33.3,
+        "clean_sheet": 21.2,
+        "failed_to_score": 54.5
+      },
+      "avg_ht": {
+        "gf_1h": 0.3,
+        "ga_1h": 0.64,
+        "gf_2h": 0.48,
+        "ga_2h": 0.94,
+        "total_1h": 0.94,
+        "total_2h": 1.42
+      },
+      "pct_ht": {
+        "over_05_1h": 54.5,
+        "over_15_1h": 30.3,
+        "over_05_2h": 78.8,
+        "over_15_2h": 39.4,
+        "btts_1h": 15.2,
+        "btts_2h": 24.2
+      }
+    },
+    {
+      "team": "AVS",
+      "mp": 33,
+      "w": 3,
+      "d": 11,
+      "l": 19,
+      "gf": 27,
+      "ga": 67,
+      "gd": -40,
+      "pts": 20,
+      "avg": {
+        "gf": 0.82,
+        "ga": 2.03,
+        "corners_for": 3.7,
+        "corners_against": 5.88,
+        "total_corners": 9.58,
+        "shots": 11.12,
+        "shots_against": 15.42,
+        "shots_target": 3.12,
+        "shots_target_against": 5.39,
+        "fouls": 13.82,
+        "fouls_against": 10.94,
+        "yellows": 2.24,
+        "opponent_yellows": 2.27,
+        "total_match_cards": 4.52
+      },
+      "avg_home": {
+        "gf": 0.88,
+        "ga": 1.59,
+        "corners_for": 3.47,
+        "corners_against": 5.47,
+        "over_25_pct": 47.1
+      },
+      "avg_away": {
+        "gf": 0.75,
+        "ga": 2.5,
+        "corners_for": 3.94,
+        "corners_against": 6.31,
+        "over_25_pct": 75.0
+      },
+      "pct": {
+        "over_15": 81.8,
+        "over_25": 60.6,
+        "over_35": 39.4,
+        "btts": 45.5,
+        "clean_sheet": 12.1,
+        "failed_to_score": 51.5
+      },
+      "avg_ht": {
+        "gf_1h": 0.3,
+        "ga_1h": 0.97,
+        "gf_2h": 0.52,
+        "ga_2h": 1.06,
+        "total_1h": 1.27,
+        "total_2h": 1.58
+      },
+      "pct_ht": {
+        "over_05_1h": 69.7,
+        "over_15_1h": 42.4,
+        "over_05_2h": 78.8,
+        "over_15_2h": 51.5,
+        "btts_1h": 18.2,
+        "btts_2h": 27.3
+      }
+    }
+  ]
+}

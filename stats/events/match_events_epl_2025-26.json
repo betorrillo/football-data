@@ -3,7 +3,7 @@
   "source": "ESPN API",
   "league": "Premier League",
   "season": "2025-26",
-  "total_matches": 356,
+  "total_matches": 357,
   "matches": [
     {
       "event_id": "740935",
@@ -14664,6 +14664,40 @@
         {
           "team": "Tottenham Hotspur",
           "minute": 82,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740902",
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "goals": [
+        {
+          "team": "Manchester City",
+          "minute": 32,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 40,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 84,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Crystal Palace",
+          "minute": 52,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 81,
           "type": "yellow"
         }
       ]

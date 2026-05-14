@@ -1,0 +1,2449 @@
+{
+  "generated": "2026-05-14",
+  "source": "transfermarkt.com",
+  "total_injured": 308,
+  "leagues_scraped": 7,
+  "leagues": {
+    "laliga": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "LaLiga",
+      "total_injured": 31,
+      "teams_affected": 13,
+      "teams": {
+        "Atl\u00e9tico de Madrid": [
+          {
+            "player": "Johnny Cardoso",
+            "position": "Central Midfield",
+            "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nico Gonz\u00e1lez",
+            "position": "Left Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pablo Barrios",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Girona FC": [
+          {
+            "player": "Juan Carlos",
+            "position": "Goalkeeper",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marc-Andr\u00e9 ter Stegen",
+            "position": "Goalkeeper",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Portu",
+            "position": "Right Winger",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Vladyslav Vanat",
+            "position": "Centre-Forward",
+            "injury": "Torn thigh muscle",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Betis Balompi\u00e9": [
+          {
+            "player": "\u00c1ngel Ortiz",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Valencia CF": [
+          {
+            "player": "Julen Agirrezabala",
+            "position": "Goalkeeper",
+            "injury": "Meniscus tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Dimitri Foulquier",
+            "position": "Right-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Thierry Correia",
+            "position": "Right-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mouctar Diakhaby",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jos\u00e9 Copete",
+            "position": "Centre-Back",
+            "injury": "Meniscus tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RCD Mallorca": [
+          {
+            "player": "Jan Salas",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Antonio Ra\u00edllo",
+            "position": "Centre-Back",
+            "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mateo Joseph",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sevilla FC": [
+          {
+            "player": "Marc\u00e3o",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Manu Bueno",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Celta de Vigo": [
+          {
+            "player": "Mat\u00edas Vecino",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Miguel Rom\u00e1n",
+            "position": "Central Midfield",
+            "injury": "Metatarsal fracture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Madrid": [
+          {
+            "player": "Dean Huijsen",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Federico Valverde",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "\u00c9der Milit\u00e3o",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Rodrygo",
+            "position": "Right Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ferland Mendy",
+            "position": "Left-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Athletic Bilbao": [
+          {
+            "player": "Be\u00f1at Prados",
+            "position": "Central Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nico Williams",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Barcelona": [
+          {
+            "player": "Lamine Yamal",
+            "position": "Right Winger",
+            "injury": "Muscle tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Villarreal CF": [
+          {
+            "player": "Juan Foyth",
+            "position": "Centre-Back",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RCD Espanyol Barcelona": [
+          {
+            "player": "Javi Puado",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Sociedad": [
+          {
+            "player": "\u00c1lvaro Odriozola",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "segunda": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Segunda Division",
+      "total_injured": 22,
+      "teams_affected": 14,
+      "teams": {
+        "Granada CF": [
+          {
+            "player": "Luca Zidane",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SD Huesca": [
+          {
+            "player": "Diego Aznar",
+            "position": "Centre-Forward",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "C\u00e1diz CF": [
+          {
+            "player": "Iuri Tabatadze",
+            "position": "Right Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "UD Las Palmas": [
+          {
+            "player": "Jerem\u00eda Recoba",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Racing Santander": [
+          {
+            "player": "Facundo Gonz\u00e1lez",
+            "position": "Centre-Back",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Manex Lozano",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Albacete Balompi\u00e9": [
+          {
+            "player": "Higinio Mar\u00edn",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Edward Cede\u00f1o",
+            "position": "Defensive Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Deportivo de La Coru\u00f1a": [
+          {
+            "player": "David Mella",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "M\u00e1laga CF": [
+          {
+            "player": "Luismi S\u00e1nchez",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "\u00c1lex Pastor",
+            "position": "Centre-Back",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Juanpe",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Zaragoza": [
+          {
+            "player": "Valery Fern\u00e1ndez",
+            "position": "Right Winger",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Paulino de la Fuente",
+            "position": "Right Winger",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Andorra": [
+          {
+            "player": "Edgar Gonz\u00e1lez",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Th\u00e9o Le Normand",
+            "position": "Central Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "CD Mirand\u00e9s": [
+          {
+            "player": "Alberto Mar\u00ed",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pablo L\u00f3pez",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sporting Gij\u00f3n": [
+          {
+            "player": "Andr\u00e9s Ferrari",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "C\u00f3rdoba CF": [
+          {
+            "player": "Adilson",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Valladolid CF": [
+          {
+            "player": "Guille Bueno",
+            "position": "Left-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Sergi Can\u00f3s",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "epl": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Premier League",
+      "total_injured": 62,
+      "teams_affected": 19,
+      "teams": {
+        "Nottingham Forest": [
+          {
+            "player": "Ola Aina",
+            "position": "Right-Back",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Willy Boly",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Dan Ndoye",
+            "position": "Right Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "John Victor",
+            "position": "Goalkeeper",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nicol\u00f2 Savona",
+            "position": "Right-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Zach Abbott",
+            "position": "Centre-Back",
+            "injury": "concussion",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Murillo",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Callum Hudson-Odoi",
+            "position": "Left Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Aston Villa": [
+          {
+            "player": "Amadou Onana",
+            "position": "Defensive Midfield",
+            "injury": "Calf problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Alysson",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Boubacar Kamara",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Wolverhampton Wanderers": [
+          {
+            "player": "Sam Johnstone",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jos\u00e9 S\u00e1",
+            "position": "Goalkeeper",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Chelsea FC": [
+          {
+            "player": "Robert S\u00e1nchez",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pedro Neto",
+            "position": "Right Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jamie Gittens",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Caleb Wiley",
+            "position": "Left-Back",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Alejandro Garnacho",
+            "position": "Left Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Est\u00eav\u00e3o",
+            "position": "Right Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AFC Bournemouth": [
+          {
+            "player": "Matai Akinmboni",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Fulham FC": [
+          {
+            "player": "Alex Iwobi",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ra\u00fal Jim\u00e9nez",
+            "position": "Centre-Forward",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ryan Sessegnon",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Newcastle United": [
+          {
+            "player": "Tino Livramento",
+            "position": "Right-Back",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Lewis Miley",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Emil Krafth",
+            "position": "Right-Back",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Crystal Palace": [
+          {
+            "player": "Caleb Kporha",
+            "position": "Right-Back",
+            "injury": "Back injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Evann Guessand",
+            "position": "Right Winger",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Eddie Nketiah",
+            "position": "Centre-Forward",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Leeds United": [
+          {
+            "player": "Ilia Gruev",
+            "position": "Defensive Midfield",
+            "injury": "Meniscus injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Liverpool FC": [
+          {
+            "player": "Alisson",
+            "position": "Goalkeeper",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mohamed Salah",
+            "position": "Right Winger",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Florian Wirtz",
+            "position": "Attacking Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Giovanni Leoni",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wataru Endo",
+            "position": "Defensive Midfield",
+            "injury": "Ankle ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Conor Bradley",
+            "position": "Right-Back",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Hugo Ekitik\u00e9",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Brighton &amp; Hove Albion": [
+          {
+            "player": "Kaoru Mitoma",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Adam Webster",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Diego G\u00f3mez",
+            "position": "Central Midfield",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Stefanos Tzimas",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Tottenham Hotspur": [
+          {
+            "player": "Ben Davies",
+            "position": "Centre-Back",
+            "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Dominic Solanke",
+            "position": "Centre-Forward",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Guglielmo Vicario",
+            "position": "Goalkeeper",
+            "injury": "surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mohammed Kudus",
+            "position": "Right Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wilson Odobert",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Dejan Kulusevski",
+            "position": "Attacking Midfield",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Cristian Romero",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Xavi Simons",
+            "position": "Attacking Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Brentford FC": [
+          {
+            "player": "Jordan Henderson",
+            "position": "Defensive Midfield",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Antoni Milambo",
+            "position": "Attacking Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "F\u00e1bio Carvalho",
+            "position": "Attacking Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Burnley FC": [
+          {
+            "player": "Jordan Beyer",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Josh Cullen",
+            "position": "Central Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Manchester City": [
+          {
+            "player": "R\u00faben Dias",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sunderland AFC": [
+          {
+            "player": "Simon Moore",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Romaine Mundle",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nilson Angulo",
+            "position": "Left Winger",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "West Ham United": [
+          {
+            "player": "Lukasz Fabianski",
+            "position": "Goalkeeper",
+            "injury": "Back injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Arsenal FC": [
+          {
+            "player": "Mikel Merino",
+            "position": "Central Midfield",
+            "injury": "Foot surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Everton FC": [
+          {
+            "player": "Jarrad Branthwaite",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jack Grealish",
+            "position": "Left Winger",
+            "injury": "Foot surgery",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "bundesliga": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Bundesliga",
+      "total_injured": 60,
+      "teams_affected": 18,
+      "teams": {
+        "1.FC Union Berlin": [
+          {
+            "player": "Robert Skov",
+            "position": "Left Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Janik Haberer",
+            "position": "Central Midfield",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Matheo Raab",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Frederik R\u00f6nnow",
+            "position": "Goalkeeper",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SC Freiburg": [
+          {
+            "player": "Yuito Suzuki",
+            "position": "Second Striker",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Patrick Osterhage",
+            "position": "Defensive Midfield",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "VfB Stuttgart": [
+          {
+            "player": "Ameen Al-Dakhil",
+            "position": "Centre-Back",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "VfL Wolfsburg": [
+          {
+            "player": "Rog\u00e9rio",
+            "position": "Left-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Patrick Wimmer",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jenson Seelt",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bence D\u00e1rdai",
+            "position": "Attacking Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Cleiton",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kilian Fischer",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jonas Wind",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maximilian Arnold",
+            "position": "Central Midfield",
+            "injury": "Groin problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SV Werder Bremen": [
+          {
+            "player": "Mitchell Weiser",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Karl Hein",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Keke Topp",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Juli\u00e1n Malatini",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Leonardo Bittencourt",
+            "position": "Central Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "1.FC K\u00f6ln": [
+          {
+            "player": "Luca Kilian",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Timo H\u00fcbers",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Tom Krau\u00df",
+            "position": "Defensive Midfield",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ragnar Ache",
+            "position": "Centre-Forward",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Augsburg": [
+          {
+            "player": "Mads Pedersen",
+            "position": "Left-Back",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Arthur Chaves",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Dimitrios Giannoulis",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "TSG 1899 Hoffenheim": [
+          {
+            "player": "Koki Machida",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Valentin Gendrey",
+            "position": "Right-Back",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "1.FC Heidenheim 1846": [
+          {
+            "player": "Leart Pa\u00e7arada",
+            "position": "Left-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marnon Busch",
+            "position": "Right-Back",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedikt Gimber",
+            "position": "Centre-Back",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nick Rothweiler",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Sirlord Conteh",
+            "position": "Right Winger",
+            "injury": "Knee surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RB Leipzig": [
+          {
+            "player": "Leopold Zingerle",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ezechiel Banzuzi",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Viggo Gebel",
+            "position": "Attacking Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ayodele Thomas",
+            "position": "Left Winger",
+            "injury": "Ankle problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC St. Pauli": [
+          {
+            "player": "James Sands",
+            "position": "Defensive Midfield",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Manolis Saliakas",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mathias Pereira Lage",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "David Nemeth",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jannik Robatsch",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Bayer 04 Leverkusen": [
+          {
+            "player": "Nathan Tella",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Martin Terrier",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Borussia Dortmund": [
+          {
+            "player": "Emre Can",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ramy Bensebaini",
+            "position": "Centre-Back",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Eintracht Frankfurt": [
+          {
+            "player": "Nnamdi Collins",
+            "position": "Centre-Back",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Bayern Munich": [
+          {
+            "player": "Alphonso Davies",
+            "position": "Left-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Serge Gnabry",
+            "position": "Second Striker",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "David Santos Daiber",
+            "position": "Defensive Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Hamburger SV": [
+          {
+            "player": "Alexander R\u00f8ssing-Lelesiit",
+            "position": "Left Winger",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Fernando Dickes",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Robert Glatzel",
+            "position": "Centre-Forward",
+            "injury": "Calf strain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nicol\u00e1s Capaldo",
+            "position": "Centre-Back",
+            "injury": "Back problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Borussia M\u00f6nchengladbach": [
+          {
+            "player": "Rocco Reitz",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "seriea": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Serie A",
+      "total_injured": 55,
+      "teams_affected": 19,
+      "teams": {
+        "Genoa CFC": [
+          {
+            "player": "Benjamin Siegrist",
+            "position": "Goalkeeper",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Sebastian Otoa",
+            "position": "Centre-Back",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxwel Cornet",
+            "position": "Left Winger",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Junior Messias",
+            "position": "Right Winger",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "US Cremonese": [
+          {
+            "player": "Mart\u00edn Payero",
+            "position": "Central Midfield",
+            "injury": "bruise",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Faris Moumbagna",
+            "position": "Centre-Forward",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Romano Floriani Mussolini",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Federico Baschirotto",
+            "position": "Centre-Back",
+            "injury": "Hamstring strain",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Hellas Verona": [
+          {
+            "player": "Cheikh Niasse",
+            "position": "Defensive Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Armel Bella-Kotchap",
+            "position": "Centre-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Daniel Oyegoke",
+            "position": "Right-Back",
+            "injury": "Ankle sprain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Daniel Mosquera",
+            "position": "Centre-Forward",
+            "injury": "Meniscus damage",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Suat Serdar",
+            "position": "Central Midfield",
+            "injury": "Cruciate ligament surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Pisa Sporting Club": [
+          {
+            "player": "Calvin Stengs",
+            "position": "Attacking Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Francesco Coppola",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Daniel Denoon",
+            "position": "Centre-Back",
+            "injury": "Ankle problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SSC Napoli": [
+          {
+            "player": "Kevin De Bruyne",
+            "position": "Attacking Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Romelu Lukaku",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Cagliari Calcio": [
+          {
+            "player": "Gennaro Borrelli",
+            "position": "Centre-Forward",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Joseph Liteta",
+            "position": "Central Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mattia Felici",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Leonardo Pavoletti",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Riyad Idrissi",
+            "position": "Left-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Bologna FC 1909": [
+          {
+            "player": "Martin Vit\u00edk",
+            "position": "Centre-Back",
+            "injury": "Ankle sprain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nicol\u00f2 Cambiaghi",
+            "position": "Left Winger",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nicol\u00f2 Casale",
+            "position": "Centre-Back",
+            "injury": "Calf muscle tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Parma Calcio 1913": [
+          {
+            "player": "Gaetano Oristanio",
+            "position": "Attacking Midfield",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Adri\u00e1n Bernab\u00e9",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benja Cremaschi",
+            "position": "Central Midfield",
+            "injury": "Meniscus injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jacob Ondrejka",
+            "position": "Left Winger",
+            "injury": "surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Atalanta BC": [
+          {
+            "player": "Berat Djimsiti",
+            "position": "Centre-Back",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Lorenzo Bernasconi",
+            "position": "Left Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AS Roma": [
+          {
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Artem Dovbyk",
+            "position": "Centre-Forward",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Evan Ferguson",
+            "position": "Centre-Forward",
+            "injury": "Ankle problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "US Sassuolo": [
+          {
+            "player": "Jay Idzes",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Daniel Boloca",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Edoardo Pieragnolo",
+            "position": "Left-Back",
+            "injury": "Cruciate ligament injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Fali Cand\u00e9",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "US Lecce": [
+          {
+            "player": "Riccardo Sottil",
+            "position": "Left Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Sadik Fofana",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Medon Berisha",
+            "position": "Central Midfield",
+            "injury": "Torn thigh muscle",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AC Milan": [
+          {
+            "player": "Christian Pulisic",
+            "position": "Right Winger",
+            "injury": "Strain in the thigh and gluteal muscles",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Luka Modri\u0107",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Inter Milan": [
+          {
+            "player": "Hakan \u00c7alhano\u011flu",
+            "position": "Defensive Midfield",
+            "injury": "Calf muscle tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Torino FC": [
+          {
+            "player": "Tino Anjorin",
+            "position": "Attacking Midfield",
+            "injury": "Hip bruise",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ardian Ismajli",
+            "position": "Centre-Back",
+            "injury": "Hamstring muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Zakaria Aboukhlal",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Juventus FC": [
+          {
+            "player": "Juan Cabal",
+            "position": "Left-Back",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Arkadiusz Milik",
+            "position": "Centre-Forward",
+            "injury": "Hamstring muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Udinese Calcio": [
+          {
+            "player": "Jurgen Ekkelenkamp",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Alessandro Zanoli",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Como 1907": [
+          {
+            "player": "Jayden Addai",
+            "position": "Right Winger",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SS Lazio": [
+          {
+            "player": "Ivan Provedel",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "ligue1": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Ligue 1",
+      "total_injured": 57,
+      "teams_affected": 18,
+      "teams": {
+        "LOSC Lille": [
+          {
+            "player": "Hamza Igamane",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marc-Aur\u00e8le Caillard",
+            "position": "Goalkeeper",
+            "injury": "Elbow injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marius Broholm",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ousmane Tour\u00e9",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Le Havre AC": [
+          {
+            "player": "Abdoulaye Tour\u00e9",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Noam Obougou",
+            "position": "Centre-Forward",
+            "injury": "Groin injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Stephan Zagadou",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RC Lens": [
+          {
+            "player": "R\u00e9gis Gurtner",
+            "position": "Goalkeeper",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jonathan Gradit",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Nantes": [
+          {
+            "player": "Deiver Machado",
+            "position": "Left-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kelvin Amian",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Fabien Centonze",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Tylel Tati",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Olympique Lyon": [
+          {
+            "player": "Orel Mangala",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Tanner Tessmann",
+            "position": "Defensive Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "R\u00e9mi Himbert",
+            "position": "Left Winger",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AS Monaco": [
+          {
+            "player": "Caio Henrique",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mohammed Salisu",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Stanis Idumbo",
+            "position": "Attacking Midfield",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Paris Brunner",
+            "position": "Centre-Forward",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kassoum Ouattara",
+            "position": "Left-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Takumi Minamino",
+            "position": "Left Winger",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Lorient": [
+          {
+            "player": "Darlin Yongwa",
+            "position": "Left-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Th\u00e9o Le Bris",
+            "position": "Right Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Angers SCO": [
+          {
+            "player": "Yassin Belkhdim",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marius Courcoul",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Harouna Djibirin",
+            "position": "Right Winger",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Stade Brestois 29": [
+          {
+            "player": "Souma\u00efla Coulibaly",
+            "position": "Centre-Back",
+            "injury": "Shin injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bradley Locko",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Paris FC": [
+          {
+            "player": "Julien Lopez",
+            "position": "Left Winger",
+            "injury": "Back injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pierre-Yves Hamel",
+            "position": "Centre-Forward",
+            "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jean-Philippe Krasso",
+            "position": "Centre-Forward",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Tuomas Ollila",
+            "position": "Left-Back",
+            "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Metz": [
+          {
+            "player": "Boubacar Traor\u00e9",
+            "position": "Defensive Midfield",
+            "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Joseph Mangondo",
+            "position": "Centre-Forward",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Olympique Marseille": [
+          {
+            "player": "Geoffrey Kondogbia",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Hamed Traor\u00e9",
+            "position": "Left Winger",
+            "injury": "Adductor pain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "CJ Egan-Riley",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bilal Nadir",
+            "position": "Central Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Stade Rennais FC": [
+          {
+            "player": "Przemyslaw Frankowski",
+            "position": "Right-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "J\u00e9r\u00e9my Jacquet",
+            "position": "Centre-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AJ Auxerre": [
+          {
+            "player": "Oussama El Azzouzi",
+            "position": "Defensive Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Fredrik Oppeg\u00e5rd",
+            "position": "Left-Back",
+            "injury": "Ankle sprain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bryan Okoh",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Toulouse": [
+          {
+            "player": "Rafik Messali",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "OGC Nice": [
+          {
+            "player": "Youssouf Ndayishimiye",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mo\u00efse Bombito",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Everton",
+            "position": "Defensive Midfield",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Paris Saint-Germain": [
+          {
+            "player": "Lucas Chevalier",
+            "position": "Goalkeeper",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nuno Mendes",
+            "position": "Left-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Willian Pacho",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Warren Za\u00efre-Emery",
+            "position": "Central Midfield",
+            "injury": "Back injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Quentin Ndjantou",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Achraf Hakimi",
+            "position": "Right-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RC Strasbourg Alsace": [
+          {
+            "player": "Emmanuel Emegha",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Aar\u00f3n Anselmino",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Joaqu\u00edn Panichelli",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    },
+    "portugal": {
+      "generated": "2026-05-14",
+      "source": "transfermarkt.com",
+      "league": "Primeira Liga",
+      "total_injured": 21,
+      "teams_affected": 10,
+      "teams": {
+        "SC Braga": [
+          {
+            "player": "Bright Arrey-Mbi",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Adrian Leon Barisic",
+            "position": "Centre-Back",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Sikou Niakat\u00e9",
+            "position": "Centre-Back",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Diego Rodrigues",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Avs Futebol": [
+          {
+            "player": "Antoine Baroan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "CD Tondela": [
+          {
+            "player": "Nor Maviram",
+            "position": "Left-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Xabi Huarte",
+            "position": "Attacking Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jordan",
+            "position": "Centre-Forward",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Rio Ave FC": [
+          {
+            "player": "Brandon Aguilera",
+            "position": "Central Midfield",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Cezary Miszta",
+            "position": "Goalkeeper",
+            "injury": "Back problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Gil Vicente FC": [
+          {
+            "player": "Mohamed Bamba",
+            "position": "Defensive Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "CD Santa Clara": [
+          {
+            "player": "MT",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "CD Nacional": [
+          {
+            "player": "Ulisses",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ivanildo Fernandes",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Moreirense FC": [
+          {
+            "player": "Vasco Sousa",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sporting CP": [
+          {
+            "player": "Morten Hjulmand",
+            "position": "Defensive Midfield",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Fotis Ioannidis",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jo\u00e3o Sim\u00f5es",
+            "position": "Central Midfield",
+            "injury": "Metatarsal fracture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Iv\u00e1n Fresneda",
+            "position": "Right-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "FC Porto": [
+          {
+            "player": "Luuk de Jong",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Samu Aghehowa",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ]
+      }
+    }
+  }
+}

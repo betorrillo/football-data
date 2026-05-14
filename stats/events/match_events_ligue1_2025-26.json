@@ -3,7 +3,7 @@
   "source": "ESPN API",
   "league": "Ligue 1",
   "season": "2025-26",
-  "total_matches": 288,
+  "total_matches": 290,
   "matches": [
     {
       "event_id": "746686",
@@ -12010,6 +12010,59 @@
           "team": "Toulouse",
           "minute": 79,
           "type": "red"
+        }
+      ]
+    },
+    {
+      "event_id": "746665",
+      "home": "Brest",
+      "away": "Strasbourg",
+      "goals": [
+        {
+          "team": "Strasbourg",
+          "minute": 9,
+          "type": "Goal"
+        },
+        {
+          "team": "Brest",
+          "minute": 13,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Strasbourg",
+          "minute": 20,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Strasbourg",
+          "minute": 85,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "746666",
+      "home": "Lens",
+      "away": "Paris Saint-Germain",
+      "goals": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 29,
+          "type": "Goal"
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 93,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Paris Saint-Germain",
+          "minute": 45,
+          "type": "yellow"
         }
       ]
     }

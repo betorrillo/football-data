@@ -1,20 +1,20 @@
 {
-  "server_time_utc": "2026-05-14T09:43:32Z",
+  "server_time_utc": "2026-05-14T23:25:22Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-05-14.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-05-14.json",
-  "total_data_files": 122,
+  "total_data_files": 131,
   "data_directories": {
     "matches": {
-      "files": 31,
+      "files": 32,
       "status": "complete"
     },
     "stats": {
-      "files": 40,
+      "files": 44,
       "status": "complete"
     },
     "stats/derived": {
-      "files": 6,
+      "files": 7,
       "status": "complete"
     },
     "fixtures": {
@@ -22,16 +22,16 @@
       "status": "complete"
     },
     "referees": {
-      "files": 8,
-      "status": "pending"
+      "files": 9,
+      "status": "complete"
     },
     "injuries": {
-      "files": 6,
-      "status": "pending"
+      "files": 8,
+      "status": "complete"
     },
     "lineups": {
       "files": 1,
-      "status": "pending"
+      "status": "complete"
     }
   },
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",

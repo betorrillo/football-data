@@ -6,29 +6,29 @@
   "teams": [
     {
       "team": "Paris SG",
-      "mp": 32,
-      "w": 23,
+      "mp": 33,
+      "w": 24,
       "d": 4,
       "l": 5,
-      "gf": 71,
+      "gf": 73,
       "ga": 27,
-      "gd": 44,
-      "pts": 73,
+      "gd": 46,
+      "pts": 76,
       "avg": {
-        "gf": 2.22,
-        "ga": 0.84,
-        "corners_for": 6.56,
-        "corners_against": 3.06,
-        "total_corners": 9.62,
-        "shots": 18.22,
-        "shots_against": 8.06,
-        "shots_target": 6.94,
-        "shots_target_against": 2.84,
-        "fouls": 9.38,
-        "fouls_against": 9.47,
+        "gf": 2.21,
+        "ga": 0.82,
+        "corners_for": 6.45,
+        "corners_against": 3.15,
+        "total_corners": 9.61,
+        "shots": 17.97,
+        "shots_against": 8.58,
+        "shots_target": 6.82,
+        "shots_target_against": 3.06,
+        "fouls": 9.18,
+        "fouls_against": 9.45,
         "yellows": 1.06,
-        "opponent_yellows": 1.34,
-        "total_match_cards": 2.41
+        "opponent_yellows": 1.3,
+        "total_match_cards": 2.36
       },
       "avg_home": {
         "gf": 2.41,
@@ -39,68 +39,68 @@
       },
       "avg_away": {
         "gf": 2.0,
-        "ga": 1.0,
-        "corners_for": 5.53,
-        "corners_against": 3.47,
-        "over_25_pct": 53.3
+        "ga": 0.94,
+        "corners_for": 5.38,
+        "corners_against": 3.62,
+        "over_25_pct": 50.0
       },
       "pct": {
-        "over_15": 75.0,
-        "over_25": 62.5,
-        "over_35": 34.4,
-        "btts": 40.6,
-        "clean_sheet": 53.1,
-        "failed_to_score": 6.2
+        "over_15": 75.8,
+        "over_25": 60.6,
+        "over_35": 33.3,
+        "btts": 39.4,
+        "clean_sheet": 54.5,
+        "failed_to_score": 6.1
       },
       "avg_ht": {
         "gf_1h": 1.0,
-        "ga_1h": 0.41,
-        "gf_2h": 1.22,
-        "ga_2h": 0.44,
-        "total_1h": 1.41,
-        "total_2h": 1.66
+        "ga_1h": 0.39,
+        "gf_2h": 1.21,
+        "ga_2h": 0.42,
+        "total_1h": 1.39,
+        "total_2h": 1.64
       },
       "pct_ht": {
-        "over_05_1h": 75.0,
-        "over_15_1h": 43.8,
-        "over_05_2h": 93.8,
-        "over_15_2h": 46.9,
-        "btts_1h": 21.9,
-        "btts_2h": 31.2
+        "over_05_1h": 75.8,
+        "over_15_1h": 42.4,
+        "over_05_2h": 93.9,
+        "over_15_2h": 45.5,
+        "btts_1h": 21.2,
+        "btts_2h": 30.3
       }
     },
     {
       "team": "Lens",
-      "mp": 32,
+      "mp": 33,
       "w": 21,
       "d": 4,
-      "l": 7,
+      "l": 8,
       "gf": 62,
-      "ga": 33,
-      "gd": 29,
+      "ga": 35,
+      "gd": 27,
       "pts": 67,
       "avg": {
-        "gf": 1.94,
-        "ga": 1.03,
-        "corners_for": 6.19,
-        "corners_against": 3.69,
-        "total_corners": 9.88,
-        "shots": 16.28,
-        "shots_against": 11.0,
-        "shots_target": 5.47,
-        "shots_target_against": 3.47,
-        "fouls": 12.88,
-        "fouls_against": 12.31,
-        "yellows": 1.94,
-        "opponent_yellows": 2.12,
-        "total_match_cards": 4.06
+        "gf": 1.88,
+        "ga": 1.06,
+        "corners_for": 6.18,
+        "corners_against": 3.67,
+        "total_corners": 9.85,
+        "shots": 16.55,
+        "shots_against": 10.97,
+        "shots_target": 5.61,
+        "shots_target_against": 3.45,
+        "fouls": 12.76,
+        "fouls_against": 12.03,
+        "yellows": 1.88,
+        "opponent_yellows": 2.09,
+        "total_match_cards": 3.97
       },
       "avg_home": {
-        "gf": 2.19,
-        "ga": 0.69,
-        "corners_for": 6.88,
-        "corners_against": 4.19,
-        "over_25_pct": 62.5
+        "gf": 2.06,
+        "ga": 0.76,
+        "corners_for": 6.82,
+        "corners_against": 4.12,
+        "over_25_pct": 58.8
       },
       "avg_away": {
         "gf": 1.69,
@@ -110,28 +110,28 @@
         "over_25_pct": 68.8
       },
       "pct": {
-        "over_15": 81.2,
-        "over_25": 65.6,
-        "over_35": 28.1,
-        "btts": 53.1,
-        "clean_sheet": 34.4,
-        "failed_to_score": 15.6
+        "over_15": 81.8,
+        "over_25": 63.6,
+        "over_35": 27.3,
+        "btts": 51.5,
+        "clean_sheet": 33.3,
+        "failed_to_score": 18.2
       },
       "avg_ht": {
-        "gf_1h": 0.72,
-        "ga_1h": 0.59,
-        "gf_2h": 1.22,
-        "ga_2h": 0.44,
-        "total_1h": 1.31,
-        "total_2h": 1.66
+        "gf_1h": 0.7,
+        "ga_1h": 0.61,
+        "gf_2h": 1.18,
+        "ga_2h": 0.45,
+        "total_1h": 1.3,
+        "total_2h": 1.64
       },
       "pct_ht": {
-        "over_05_1h": 78.1,
-        "over_15_1h": 37.5,
-        "over_05_2h": 87.5,
-        "over_15_2h": 53.1,
-        "btts_1h": 18.8,
-        "btts_2h": 21.9
+        "over_05_1h": 78.8,
+        "over_15_1h": 36.4,
+        "over_05_2h": 87.9,
+        "over_15_2h": 51.5,
+        "btts_1h": 18.2,
+        "btts_2h": 21.2
       }
     },
     {
@@ -461,29 +461,29 @@
     },
     {
       "team": "Strasbourg",
-      "mp": 32,
-      "w": 13,
+      "mp": 33,
+      "w": 14,
       "d": 8,
       "l": 11,
-      "gf": 51,
-      "ga": 42,
-      "gd": 9,
-      "pts": 47,
+      "gf": 53,
+      "ga": 43,
+      "gd": 10,
+      "pts": 50,
       "avg": {
-        "gf": 1.59,
-        "ga": 1.31,
-        "corners_for": 4.25,
-        "corners_against": 4.56,
-        "total_corners": 8.81,
-        "shots": 11.41,
-        "shots_against": 12.12,
-        "shots_target": 4.56,
-        "shots_target_against": 4.41,
-        "fouls": 11.41,
-        "fouls_against": 13.0,
-        "yellows": 1.81,
-        "opponent_yellows": 1.84,
-        "total_match_cards": 3.66
+        "gf": 1.61,
+        "ga": 1.3,
+        "corners_for": 4.24,
+        "corners_against": 4.58,
+        "total_corners": 8.82,
+        "shots": 11.36,
+        "shots_against": 12.39,
+        "shots_target": 4.58,
+        "shots_target_against": 4.45,
+        "fouls": 11.39,
+        "fouls_against": 12.91,
+        "yellows": 1.79,
+        "opponent_yellows": 1.79,
+        "total_match_cards": 3.58
       },
       "avg_home": {
         "gf": 1.56,
@@ -493,35 +493,35 @@
         "over_25_pct": 62.5
       },
       "avg_away": {
-        "gf": 1.62,
-        "ga": 1.69,
-        "corners_for": 3.5,
-        "corners_against": 4.69,
-        "over_25_pct": 62.5
+        "gf": 1.65,
+        "ga": 1.65,
+        "corners_for": 3.53,
+        "corners_against": 4.71,
+        "over_25_pct": 64.7
       },
       "pct": {
-        "over_15": 75.0,
-        "over_25": 62.5,
-        "over_35": 34.4,
-        "btts": 62.5,
-        "clean_sheet": 28.1,
-        "failed_to_score": 18.8
+        "over_15": 75.8,
+        "over_25": 63.6,
+        "over_35": 33.3,
+        "btts": 63.6,
+        "clean_sheet": 27.3,
+        "failed_to_score": 18.2
       },
       "avg_ht": {
-        "gf_1h": 0.69,
-        "ga_1h": 0.44,
-        "gf_2h": 0.91,
-        "ga_2h": 0.88,
-        "total_1h": 1.12,
-        "total_2h": 1.78
+        "gf_1h": 0.73,
+        "ga_1h": 0.45,
+        "gf_2h": 0.88,
+        "ga_2h": 0.85,
+        "total_1h": 1.18,
+        "total_2h": 1.73
       },
       "pct_ht": {
-        "over_05_1h": 71.9,
-        "over_15_1h": 31.2,
-        "over_05_2h": 84.4,
-        "over_15_2h": 43.8,
-        "btts_1h": 21.9,
-        "btts_2h": 31.2
+        "over_05_1h": 72.7,
+        "over_15_1h": 33.3,
+        "over_05_2h": 81.8,
+        "over_15_2h": 42.4,
+        "btts_1h": 24.2,
+        "btts_2h": 30.3
       }
     },
     {
@@ -721,36 +721,36 @@
     },
     {
       "team": "Brest",
-      "mp": 32,
+      "mp": 33,
       "w": 10,
       "d": 8,
-      "l": 14,
-      "gf": 41,
-      "ga": 52,
-      "gd": -11,
+      "l": 15,
+      "gf": 42,
+      "ga": 54,
+      "gd": -12,
       "pts": 38,
       "avg": {
-        "gf": 1.28,
-        "ga": 1.62,
-        "corners_for": 3.75,
-        "corners_against": 5.97,
-        "total_corners": 9.72,
-        "shots": 10.69,
-        "shots_against": 14.22,
-        "shots_target": 3.41,
-        "shots_target_against": 4.72,
-        "fouls": 12.97,
-        "fouls_against": 11.72,
-        "yellows": 1.78,
-        "opponent_yellows": 1.72,
-        "total_match_cards": 3.5
+        "gf": 1.27,
+        "ga": 1.64,
+        "corners_for": 3.79,
+        "corners_against": 5.91,
+        "total_corners": 9.7,
+        "shots": 11.0,
+        "shots_against": 14.09,
+        "shots_target": 3.48,
+        "shots_target_against": 4.73,
+        "fouls": 12.88,
+        "fouls_against": 11.7,
+        "yellows": 1.73,
+        "opponent_yellows": 1.7,
+        "total_match_cards": 3.42
       },
       "avg_home": {
-        "gf": 1.73,
-        "ga": 1.33,
-        "corners_for": 4.53,
+        "gf": 1.69,
+        "ga": 1.38,
+        "corners_for": 4.56,
         "corners_against": 4.0,
-        "over_25_pct": 46.7
+        "over_25_pct": 50.0
       },
       "avg_away": {
         "gf": 0.88,
@@ -760,28 +760,28 @@
         "over_25_pct": 52.9
       },
       "pct": {
-        "over_15": 81.2,
-        "over_25": 50.0,
-        "over_35": 31.2,
-        "btts": 43.8,
-        "clean_sheet": 28.1,
-        "failed_to_score": 34.4
+        "over_15": 81.8,
+        "over_25": 51.5,
+        "over_35": 30.3,
+        "btts": 45.5,
+        "clean_sheet": 27.3,
+        "failed_to_score": 33.3
       },
       "avg_ht": {
-        "gf_1h": 0.66,
-        "ga_1h": 0.78,
-        "gf_2h": 0.62,
-        "ga_2h": 0.84,
-        "total_1h": 1.44,
-        "total_2h": 1.47
+        "gf_1h": 0.67,
+        "ga_1h": 0.82,
+        "gf_2h": 0.61,
+        "ga_2h": 0.82,
+        "total_1h": 1.48,
+        "total_2h": 1.42
       },
       "pct_ht": {
-        "over_05_1h": 75.0,
-        "over_15_1h": 50.0,
-        "over_05_2h": 81.2,
-        "over_15_2h": 43.8,
-        "btts_1h": 18.8,
-        "btts_2h": 15.6
+        "over_05_1h": 75.8,
+        "over_15_1h": 51.5,
+        "over_05_2h": 78.8,
+        "over_15_2h": 42.4,
+        "btts_1h": 21.2,
+        "btts_2h": 15.2
       }
     },
     {
