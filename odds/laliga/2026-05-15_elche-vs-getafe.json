@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "id": "2026-05-15_elche-vs-getafe",
+    "scraped_at": "2026-05-15T16:39:15.816209",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Elche",
+    "away_team": "Getafe",
+    "bet365_event_id": "193332402",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.3,
+      "draw_or_away": 1.667,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.111,
+        "1.5": 1.533,
+        "2.5": 2.75,
+        "3.5": 5.5,
+        "4.5": 13.0,
+        "5.5": 26.0,
+        "6.5": 67.0
+      },
+      "under": {
+        "1.5": 6.5,
+        "2.5": 2.5,
+        "3.5": 1.444,
+        "4.5": 1.143,
+        "5.5": 1.04,
+        "6.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.04,
+        "5.5": 1.1,
+        "6.5": 1.2,
+        "7.5": 1.4,
+        "8.5": 1.667,
+        "9.5": 2.1,
+        "10.5": 2.75,
+        "11.5": 4.0,
+        "12.5": 6.0,
+        "13.5": 9.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 13.0,
+        "6.5": 7.0,
+        "7.5": 4.333,
+        "8.5": 2.75,
+        "9.5": 2.1,
+        "10.5": 1.667,
+        "11.5": 1.4,
+        "12.5": 1.222,
+        "13.5": 1.125,
+        "14.5": 1.071,
+        "15.5": 1.036,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 26.0,
+        "3.5": 3.2,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 29.0,
+        "8.5": 8.5,
+        "9.5": 13.0,
+        "10.5": 19.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.062,
+        "3.5": 1.8,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.143,
+        "9.5": 1.056,
+        "10.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.333,
+        "4.5": 8.5,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 9.5,
+        "8.5": 15.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.04,
+        "3.5": 1.5,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.025,
+        "7.5": 1.125,
+        "8.5": 1.05,
+        "9.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Elche": 29.0,
+      "Empate": 4.0,
+      "Getafe": 6.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 2.75
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 2.75
+      },
+      {
+        "player": "Juan Piera",
+        "odds": 3.25
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 3.25
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 4.0
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 4.0
+      },
+      {
+        "player": "Jimenez Juanmi",
+        "odds": 4.0
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 4.0
+      },
+      {
+        "player": "Luis Vazquez",
+        "odds": 4.0
+      },
+      {
+        "player": "Martin Satriano",
+        "odds": 4.0
+      },
+      {
+        "player": "Tete Morente",
+        "odds": 4.333
+      },
+      {
+        "player": "Adam Boayar",
+        "odds": 4.5
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 4.5
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 4.5
+      },
+      {
+        "player": "German Valera",
+        "odds": 4.5
+      },
+      {
+        "player": "Veljko Birmancevic",
+        "odds": 4.75
+      },
+      {
+        "player": "Yago Santiago",
+        "odds": 4.75
+      },
+      {
+        "player": "Fernandez Josan",
+        "odds": 5.0
+      },
+      {
+        "player": "Grady Diangana",
+        "odds": 5.0
+      },
+      {
+        "player": "Joselu Perez",
+        "odds": 5.0
+      },
+      {
+        "player": "Mauro Arambarri",
+        "odds": 5.0
+      },
+      {
+        "player": "Alex Sanchez",
+        "odds": 5.5
+      },
+      {
+        "player": "Mario Martin",
+        "odds": 5.5
+      },
+      {
+        "player": "Alejandro Mestanza",
+        "odds": 6.0
+      },
+      {
+        "player": "Adrian Riquelme",
+        "odds": 7.0
+      },
+      {
+        "player": "Carvalho Martim Neto",
+        "odds": 7.0
+      },
+      {
+        "player": "Hector Fort",
+        "odds": 7.0
+      },
+      {
+        "player": "Marc Aguado",
+        "odds": 7.0
+      },
+      {
+        "player": "Aleix Febas",
+        "odds": 8.0
+      },
+      {
+        "player": "Damian Caceres",
+        "odds": 8.0
+      },
+      {
+        "player": "Gonzalo Villar",
+        "odds": 8.0
+      },
+      {
+        "player": "Hugo Solozabal",
+        "odds": 8.0
+      },
+      {
+        "player": "Jimenez Javi Munoz",
+        "odds": 9.5
+      },
+      {
+        "player": "Jorge Montes",
+        "odds": 9.5
+      },
+      {
+        "player": "Luis Milla",
+        "odds": 9.5
+      },
+      {
+        "player": "Federico Redondo",
+        "odds": 11.0
+      },
+      {
+        "player": "Adria Pedrosa",
+        "odds": 12.0
+      },
+      {
+        "player": "David Affengruber",
+        "odds": 12.0
+      },
+      {
+        "player": "John Donald",
+        "odds": 12.0
+      },
+      {
+        "player": "Juan Iglesias",
+        "odds": 12.0
+      },
+      {
+        "player": "Leo Petrot",
+        "odds": 12.0
+      },
+      {
+        "player": "Allan Nyom",
+        "odds": 13.0
+      },
+      {
+        "player": "Buba Sangare",
+        "odds": 13.0
+      },
+      {
+        "player": "Mancha Davinchi",
+        "odds": 13.0
+      },
+      {
+        "player": "Pedro Bigas",
+        "odds": 13.0
+      },
+      {
+        "player": "Abdelkabir Abqar",
+        "odds": 15.0
+      },
+      {
+        "player": "Dakonam Djene",
+        "odds": 15.0
+      },
+      {
+        "player": "Diego Rico",
+        "odds": 15.0
+      },
+      {
+        "player": "Ismael Bekhoucha",
+        "odds": 15.0
+      },
+      {
+        "player": "Kiko Femenia",
+        "odds": 15.0
+      },
+      {
+        "player": "Sebastian Boselli",
+        "odds": 15.0
+      },
+      {
+        "player": "Zaid Romero",
+        "odds": 15.0
+      },
+      {
+        "player": "Domingos Duarte",
+        "odds": 15.0
+      },
+      {
+        "player": "Victor Chust",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Lucas Cepeda",
+        "odds": 1.02
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.025
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 1.05
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 1.062
+      },
+      {
+        "player": "German Valera",
+        "odds": 1.062
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 1.062
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 1.071
+      },
+      {
+        "player": "Yago Santiago",
+        "odds": 1.083
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 1.083
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 1.1
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 1.111
+      },
+      {
+        "player": "Jimenez Juanmi",
+        "odds": 1.111
+      },
+      {
+        "player": "Luis Vazquez",
+        "odds": 1.111
+      },
+      {
+        "player": "Martin Satriano",
+        "odds": 1.111
+      },
+      {
+        "player": "Veljko Birmancevic",
+        "odds": 1.111
+      },
+      {
+        "player": "Adam Boayar",
+        "odds": 1.125
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 1.125
+      },
+      {
+        "player": "Mario Martin",
+        "odds": 1.125
+      },
+      {
+        "player": "Tete Morente",
+        "odds": 1.143
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 1.143
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.143
+      },
+      {
+        "player": "Fernandez Josan",
+        "odds": 1.167
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.167
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 1.167
+      },
+      {
+        "player": "Mauro Arambarri",
+        "odds": 1.167
+      },
+      {
+        "player": "Grady Diangana",
+        "odds": 1.2
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.2
+      },
+      {
+        "player": "Joselu Perez",
+        "odds": 1.2
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 1.2
+      },
+      {
+        "player": "Hector Fort",
+        "odds": 1.222
+      },
+      {
+        "player": "German Valera",
+        "odds": 1.222
+      },
+      {
+        "player": "Alex Sanchez",
+        "odds": 1.25
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 1.25
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 1.25
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 1.25
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 1.25
+      },
+      {
+        "player": "German Valera",
+        "odds": 1.286
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 1.286
+      },
+      {
+        "player": "German Valera",
+        "odds": 1.3
+      },
+      {
+        "player": "Yago Santiago",
+        "odds": 1.3
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 1.3
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 1.3
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 1.333
+      },
+      {
+        "player": "Alejandro Mestanza",
+        "odds": 1.333
+      },
+      {
+        "player": "Jimenez Javi Munoz",
+        "odds": 1.333
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 1.333
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 1.333
+      },
+      {
+        "player": "Adam Boayar",
+        "odds": 1.364
+      },
+      {
+        "player": "Yago Santiago",
+        "odds": 1.364
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 1.364
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Rafa Mir",
+        "odds": 1.286
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.333
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 1.533
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 1.533
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 1.533
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 1.571
+      },
+      {
+        "player": "German Valera",
+        "odds": 1.667
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 1.667
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 1.727
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 1.727
+      },
+      {
+        "player": "Jimenez Juanmi",
+        "odds": 1.727
+      },
+      {
+        "player": "Luis Vazquez",
+        "odds": 1.727
+      },
+      {
+        "player": "Martin Satriano",
+        "odds": 1.727
+      },
+      {
+        "player": "Veljko Birmancevic",
+        "odds": 1.727
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 1.8
+      },
+      {
+        "player": "Adam Boayar",
+        "odds": 1.833
+      },
+      {
+        "player": "Tete Morente",
+        "odds": 1.833
+      },
+      {
+        "player": "Yago Santiago",
+        "odds": 1.833
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.833
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 1.909
+      },
+      {
+        "player": "Mauro Arambarri",
+        "odds": 1.909
+      },
+      {
+        "player": "Mario Martin",
+        "odds": 2.0
+      },
+      {
+        "player": "Fernandez Josan",
+        "odds": 2.1
+      },
+      {
+        "player": "Grady Diangana",
+        "odds": 2.1
+      },
+      {
+        "player": "Joselu Perez",
+        "odds": 2.1
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 2.1
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 2.2
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 2.2
+      },
+      {
+        "player": "Moya Borja Mayoral",
+        "odds": 2.2
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 2.2
+      },
+      {
+        "player": "Alex Sanchez",
+        "odds": 2.25
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 2.25
+      },
+      {
+        "player": "Lucas Cepeda",
+        "odds": 2.25
+      },
+      {
+        "player": "Alex Sancris",
+        "odds": 2.25
+      },
+      {
+        "player": "Rafa Mir",
+        "odds": 2.375
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 2.375
+      },
+      {
+        "player": "German Valera",
+        "odds": 2.5
+      },
+      {
+        "player": "Alejandro Mestanza",
+        "odds": 2.5
+      },
+      {
+        "player": "Adrian Liso",
+        "odds": 2.5
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 2.5
+      },
+      {
+        "player": "Jimenez Juanmi",
+        "odds": 2.5
+      },
+      {
+        "player": "Luis Vazquez",
+        "odds": 2.5
+      },
+      {
+        "player": "Martin Satriano",
+        "odds": 2.5
+      },
+      {
+        "player": "Hector Fort",
+        "odds": 2.625
+      },
+      {
+        "player": "Miguel Andre Silva",
+        "odds": 2.625
+      },
+      {
+        "player": "Tete Morente",
+        "odds": 2.625
+      },
+      {
+        "player": "German Valera",
+        "odds": 2.625
+      },
+      {
+        "player": "Abu Kamara",
+        "odds": 2.625
+      },
+      {
+        "player": "Jimenez Juanmi",
+        "odds": 2.625
+      },
+      {
+        "player": "Luis Vazquez",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 81.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 67.0,
+      "Primeros 10 minutos": 201.0,
+      "primeros 10 minutos": 251.0
+    }
+  }
+}

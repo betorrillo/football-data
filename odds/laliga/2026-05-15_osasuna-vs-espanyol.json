@@ -1,0 +1,743 @@
+{
+  "meta": {
+    "id": "2026-05-15_osasuna-vs-espanyol",
+    "scraped_at": "2026-05-15T16:39:14.010622",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Osasuna",
+    "away_team": "Espanyol",
+    "bet365_event_id": "193332397",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.222,
+      "draw_or_away": 1.8,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.083,
+        "1.5": 1.364,
+        "2.5": 2.2,
+        "3.5": 4.0,
+        "4.5": 8.0,
+        "5.5": 17.0,
+        "6.5": 34.0
+      },
+      "under": {
+        "1.5": 8.0,
+        "2.5": 3.2,
+        "3.5": 1.667,
+        "4.5": 1.25,
+        "5.5": 1.083,
+        "6.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.03,
+        "5.5": 1.1,
+        "6.5": 1.2,
+        "7.5": 1.364,
+        "8.5": 1.667,
+        "9.5": 2.1,
+        "10.5": 2.75,
+        "11.5": 4.0,
+        "12.5": 6.0,
+        "13.5": 9.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 21.0,
+        "5.5": 15.0,
+        "6.5": 7.0,
+        "7.5": 4.333,
+        "8.5": 3.0,
+        "9.5": 2.1,
+        "10.5": 1.667,
+        "11.5": 1.4,
+        "12.5": 1.222,
+        "13.5": 1.125,
+        "14.5": 1.071,
+        "15.5": 1.04,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 9.5,
+        "2.5": 26.0,
+        "3.5": 3.1,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 8.0,
+        "9.5": 13.0,
+        "10.5": 19.0,
+        "11.5": 26.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.062,
+        "3.5": 1.8,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.05,
+        "7.5": 1.02,
+        "8.5": 1.143,
+        "9.5": 1.062,
+        "10.5": 1.036,
+        "11.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.5,
+        "4.5": 8.5,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 10.0,
+        "8.5": 15.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.04,
+        "3.5": 1.5,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.025,
+        "7.5": 1.111,
+        "8.5": 1.05,
+        "9.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Osasuna": 26.0,
+      "Empate": 4.75,
+      "Espanyol": 6.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Ante Budimir",
+        "odds": 2.0
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 2.375
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 2.75
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 3.25
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 3.5
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 3.5
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 3.75
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 3.75
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 4.0
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 4.0
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 4.0
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 4.333
+      },
+      {
+        "player": "Iker Benito",
+        "odds": 4.75
+      },
+      {
+        "player": "Tyrhys Dolan",
+        "odds": 5.0
+      },
+      {
+        "player": "Antoniu Roca",
+        "odds": 5.5
+      },
+      {
+        "player": "Asier Osambela",
+        "odds": 5.5
+      },
+      {
+        "player": "Jofre Carreras",
+        "odds": 5.5
+      },
+      {
+        "player": "Kike Barja",
+        "odds": 5.5
+      },
+      {
+        "player": "Abel Bretones",
+        "odds": 6.0
+      },
+      {
+        "player": "Alex Almansa",
+        "odds": 6.0
+      },
+      {
+        "player": "Lluc Castell",
+        "odds": 6.0
+      },
+      {
+        "player": "Bordonado Moi Gomez",
+        "odds": 7.0
+      },
+      {
+        "player": "Jon Moncayola",
+        "odds": 7.0
+      },
+      {
+        "player": "Lucas Torro",
+        "odds": 7.0
+      },
+      {
+        "player": "Eduardo Exposito",
+        "odds": 8.0
+      },
+      {
+        "player": "Iker Munoz",
+        "odds": 8.0
+      },
+      {
+        "player": "Ramon Terrats",
+        "odds": 8.0
+      },
+      {
+        "player": "Ruben Sanchez",
+        "odds": 8.0
+      },
+      {
+        "player": "Alejandro Catena",
+        "odds": 8.5
+      },
+      {
+        "player": "Inigo Arguibide",
+        "odds": 8.5
+      },
+      {
+        "player": "Pol Lozano",
+        "odds": 8.5
+      },
+      {
+        "player": "Carlos Romero",
+        "odds": 9.5
+      },
+      {
+        "player": "Charles Pickel",
+        "odds": 9.5
+      },
+      {
+        "player": "Ferran Gomez",
+        "odds": 9.5
+      },
+      {
+        "player": "Javier Galan",
+        "odds": 9.5
+      },
+      {
+        "player": "Jose Salinas",
+        "odds": 9.5
+      },
+      {
+        "player": "Leandro Cabrera",
+        "odds": 9.5
+      },
+      {
+        "player": "Valentin Rosier",
+        "odds": 9.5
+      },
+      {
+        "player": "Adama Timera",
+        "odds": 13.0
+      },
+      {
+        "player": "Enzo Boyomo",
+        "odds": 13.0
+      },
+      {
+        "player": "Fernando Calero",
+        "odds": 13.0
+      },
+      {
+        "player": "Jorge Herrando",
+        "odds": 13.0
+      },
+      {
+        "player": "Urko Gonzalez",
+        "odds": 13.0
+      },
+      {
+        "player": "Clemens Riedel",
+        "odds": 17.0
+      },
+      {
+        "player": "Miguel Rubio",
+        "odds": 17.0
+      },
+      {
+        "player": "Omar El Hilali",
+        "odds": 17.0
+      },
+      {
+        "player": "Juan Cruz Armada",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Ante Budimir",
+        "odds": 1.012
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.025
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 1.025
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 1.025
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 1.03
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 1.04
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 1.062
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 1.062
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 1.071
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 1.071
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.1
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 1.1
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 1.111
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.125
+      },
+      {
+        "player": "Tyrhys Dolan",
+        "odds": 1.125
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.143
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 1.143
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 1.143
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.167
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 1.167
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 1.167
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 1.167
+      },
+      {
+        "player": "Iker Benito",
+        "odds": 1.182
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 1.182
+      },
+      {
+        "player": "Kike Barja",
+        "odds": 1.2
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 1.2
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 1.2
+      },
+      {
+        "player": "Eduardo Exposito",
+        "odds": 1.2
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 1.222
+      },
+      {
+        "player": "Antoniu Roca",
+        "odds": 1.222
+      },
+      {
+        "player": "Jofre Carreras",
+        "odds": 1.222
+      },
+      {
+        "player": "Asier Osambela",
+        "odds": 1.25
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 1.25
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 1.25
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 1.286
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 1.286
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 1.3
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 1.3
+      },
+      {
+        "player": "Abel Bretones",
+        "odds": 1.333
+      },
+      {
+        "player": "Jon Moncayola",
+        "odds": 1.333
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 1.333
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 1.333
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.333
+      },
+      {
+        "player": "Jose Salinas",
+        "odds": 1.333
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 1.333
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 1.333
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 1.333
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 1.364
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 1.364
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 1.364
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Ante Budimir",
+        "odds": 1.2
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.286
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 1.4
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 1.4
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 1.5
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 1.533
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 1.533
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 1.533
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.571
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 1.571
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.615
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 1.615
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 1.667
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 1.727
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.727
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 1.8
+      },
+      {
+        "player": "Ante Budimir",
+        "odds": 1.909
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 1.909
+      },
+      {
+        "player": "Tyrhys Dolan",
+        "odds": 1.909
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 1.909
+      },
+      {
+        "player": "Iker Benito",
+        "odds": 2.0
+      },
+      {
+        "player": "Roberto Arroyo",
+        "odds": 2.0
+      },
+      {
+        "player": "Cyril Ngonge",
+        "odds": 2.0
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 2.1
+      },
+      {
+        "player": "Antoniu Roca",
+        "odds": 2.1
+      },
+      {
+        "player": "Jofre Carreras",
+        "odds": 2.1
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 2.1
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 2.2
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 2.2
+      },
+      {
+        "player": "Victor Munoz",
+        "odds": 2.2
+      },
+      {
+        "player": "Javi Puado",
+        "odds": 2.2
+      },
+      {
+        "player": "Asier Osambela",
+        "odds": 2.25
+      },
+      {
+        "player": "Kike Barja",
+        "odds": 2.25
+      },
+      {
+        "player": "Aimar Oroz",
+        "odds": 2.25
+      },
+      {
+        "player": "Raul Moro",
+        "odds": 2.25
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 2.25
+      },
+      {
+        "player": "Raul Garcia",
+        "odds": 2.375
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 2.375
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 2.375
+      },
+      {
+        "player": "Garcia Kike",
+        "odds": 2.375
+      },
+      {
+        "player": "Abel Bretones",
+        "odds": 2.5
+      },
+      {
+        "player": "Jon Moncayola",
+        "odds": 2.5
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 2.5
+      },
+      {
+        "player": "Pere Milla",
+        "odds": 2.5
+      },
+      {
+        "player": "Roberto Fernandez",
+        "odds": 2.5
+      },
+      {
+        "player": "Lucas Torro",
+        "odds": 2.625
+      },
+      {
+        "player": "Santos Ruben Garcia",
+        "odds": 2.625
+      },
+      {
+        "player": "Jose Salinas",
+        "odds": 2.625
+      },
+      {
+        "player": "Ruben Sanchez",
+        "odds": 2.75
+      },
+      {
+        "player": "Alejandro Catena",
+        "odds": 3.0
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 81.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 401.0,
+      "Primeros 10 minutos": 126.0,
+      "primeros 10 minutos": 251.0
+    }
+  }
+}

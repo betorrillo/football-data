@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "id": "2026-05-15_leganes-vs-huesca",
+    "scraped_at": "2026-05-15T16:39:00.111907",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Leganés",
+    "away_team": "Huesca",
+    "bet365_event_id": "193003640",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.286,
+      "draw_or_away": 1.727,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.062,
+        "1.5": 1.286,
+        "2.5": 1.95,
+        "3.5": 3.4,
+        "4.5": 6.5,
+        "5.5": 15.0,
+        "6.5": 29.0
+      },
+      "under": {
+        "1.5": 10.0,
+        "2.5": 3.5,
+        "3.5": 1.85,
+        "4.5": 1.3,
+        "5.5": 1.111,
+        "6.5": 1.03
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.8,
+        "10.5": 2.25,
+        "11.5": 3.0,
+        "12.5": 4.333,
+        "13.5": 6.0,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 1.909,
+        "11.5": 1.571,
+        "12.5": 1.364,
+        "13.5": 1.2,
+        "14.5": 1.125,
+        "15.5": 1.062,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.625,
+        "4.5": 4.5,
+        "5.5": 8.0,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.5,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.062,
+        "3.5": 2.0,
+        "4.5": 1.444,
+        "5.5": 1.182,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.111,
+        "10.5": 1.05,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 29.0,
+        "3.5": 4.0,
+        "4.5": 7.5,
+        "5.5": 13.0,
+        "6.5": 21.0,
+        "7.5": 8.0,
+        "8.5": 13.0,
+        "9.5": 19.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.571,
+        "4.5": 1.222,
+        "5.5": 1.071,
+        "6.5": 1.03,
+        "7.5": 1.143,
+        "8.5": 1.062,
+        "9.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Leganés": 23.0,
+      "Empate": 15.0,
+      "Huesca": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Alex Millan",
+        "odds": 2.4
+      },
+      {
+        "player": "Beltran Auguste",
+        "odds": 2.6
+      },
+      {
+        "player": "Diego Garcia",
+        "odds": 2.6
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 2.6
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 3.0
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 3.0
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 3.0
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 3.0
+      },
+      {
+        "player": "Diego Aznar",
+        "odds": 3.25
+      },
+      {
+        "player": "Oscar Plano",
+        "odds": 3.25
+      },
+      {
+        "player": "Enol Rodriguez",
+        "odds": 3.5
+      },
+      {
+        "player": "Dani Rodriguez",
+        "odds": 3.75
+      },
+      {
+        "player": "Daniel Luna",
+        "odds": 3.75
+      },
+      {
+        "player": "David Osei",
+        "odds": 3.75
+      },
+      {
+        "player": "Francisco Portillo",
+        "odds": 3.75
+      },
+      {
+        "player": "Gonzalo Melero",
+        "odds": 3.75
+      },
+      {
+        "player": "Luis Lopes",
+        "odds": 3.75
+      },
+      {
+        "player": "Yuri Menac",
+        "odds": 3.75
+      },
+      {
+        "player": "Andres Campos Bautista",
+        "odds": 4.333
+      },
+      {
+        "player": "Carlos de Miguel",
+        "odds": 4.333
+      },
+      {
+        "player": "Gift Siame",
+        "odds": 4.333
+      },
+      {
+        "player": "Ignacio Laquintana",
+        "odds": 4.333
+      },
+      {
+        "player": "Liberto Beltran Martinez",
+        "odds": 4.333
+      },
+      {
+        "player": "Marcos Leiva",
+        "odds": 4.333
+      },
+      {
+        "player": "Naim Garcia",
+        "odds": 4.333
+      },
+      {
+        "player": "Seydouba Cisse",
+        "odds": 4.333
+      },
+      {
+        "player": "Efe Ugiagbe",
+        "odds": 5.0
+      },
+      {
+        "player": "Jaime Seoane",
+        "odds": 5.0
+      },
+      {
+        "player": "Oscar Sielva",
+        "odds": 5.0
+      },
+      {
+        "player": "Roberto Lopez",
+        "odds": 5.0
+      },
+      {
+        "player": "Daniel Ojeda",
+        "odds": 6.0
+      },
+      {
+        "player": "Guillermo Burcio",
+        "odds": 6.0
+      },
+      {
+        "player": "Modou Ndiaye",
+        "odds": 6.0
+      },
+      {
+        "player": "Alejandro Cantero",
+        "odds": 6.5
+      },
+      {
+        "player": "Jorge Herrero",
+        "odds": 6.5
+      },
+      {
+        "player": "Rubén Peña",
+        "odds": 7.5
+      },
+      {
+        "player": "Amadou Diawara",
+        "odds": 8.0
+      },
+      {
+        "player": "Carlos Mora Guirao",
+        "odds": 8.0
+      },
+      {
+        "player": "Samuel Almarza",
+        "odds": 8.0
+      },
+      {
+        "player": "Sergio Fernandez",
+        "odds": 8.0
+      },
+      {
+        "player": "Enric Franquesa",
+        "odds": 9.0
+      },
+      {
+        "player": "Javier Mier",
+        "odds": 9.0
+      },
+      {
+        "player": "Michael Agbekpornu",
+        "odds": 9.0
+      },
+      {
+        "player": "Alejandro Calvo Abella",
+        "odds": 11.0
+      },
+      {
+        "player": "David Hamansenya",
+        "odds": 11.0
+      },
+      {
+        "player": "Djibril Gueye",
+        "odds": 11.0
+      },
+      {
+        "player": "Gonzalo Aguilar",
+        "odds": 11.0
+      },
+      {
+        "player": "Jesus Alvarez Aguado",
+        "odds": 11.0
+      },
+      {
+        "player": "Lucas Macazaga",
+        "odds": 11.0
+      },
+      {
+        "player": "Marc Aznar",
+        "odds": 11.0
+      },
+      {
+        "player": "Said Imicene",
+        "odds": 11.0
+      },
+      {
+        "player": "Sebastian Figueredo",
+        "odds": 11.0
+      },
+      {
+        "player": "Hugo Perez",
+        "odds": 13.0
+      },
+      {
+        "player": "Ignasi Miquel",
+        "odds": 13.0
+      },
+      {
+        "player": "Jordi Martin",
+        "odds": 13.0
+      },
+      {
+        "player": "Jorge Pulido",
+        "odds": 13.0
+      },
+      {
+        "player": "Jorge Saenz",
+        "odds": 13.0
+      },
+      {
+        "player": "Marvel Antolin Garzon",
+        "odds": 13.0
+      },
+      {
+        "player": "Toni Abad",
+        "odds": 13.0
+      },
+      {
+        "player": "Inigo Sebastian Magana",
+        "odds": 15.0
+      },
+      {
+        "player": "Joaquin Fernandez",
+        "odds": 15.0
+      },
+      {
+        "player": "Julio Alonso",
+        "odds": 15.0
+      },
+      {
+        "player": "Rodrigo Abajas",
+        "odds": 15.0
+      },
+      {
+        "player": "Ruben Pulido",
+        "odds": 15.0
+      },
+      {
+        "player": "Alvaro Carrillo",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Oscar Plano",
+        "odds": 1.015
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 1.025
+      },
+      {
+        "player": "Diego Garcia",
+        "odds": 1.025
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 1.025
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 1.03
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 1.05
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 1.05
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 1.05
+      },
+      {
+        "player": "Diego Aznar",
+        "odds": 1.062
+      },
+      {
+        "player": "Enol Rodriguez",
+        "odds": 1.062
+      },
+      {
+        "player": "Dani Rodriguez",
+        "odds": 1.071
+      },
+      {
+        "player": "Oscar Sielva",
+        "odds": 1.071
+      },
+      {
+        "player": "Yuri Menac",
+        "odds": 1.083
+      },
+      {
+        "player": "David Osei",
+        "odds": 1.1
+      },
+      {
+        "player": "Gonzalo Melero",
+        "odds": 1.1
+      },
+      {
+        "player": "Luis Lopes",
+        "odds": 1.1
+      },
+      {
+        "player": "Daniel Luna",
+        "odds": 1.1
+      },
+      {
+        "player": "Francisco Portillo",
+        "odds": 1.1
+      },
+      {
+        "player": "Oscar Plano",
+        "odds": 1.111
+      },
+      {
+        "player": "Jaime Seoane",
+        "odds": 1.125
+      },
+      {
+        "player": "Andres Campos Bautista",
+        "odds": 1.143
+      },
+      {
+        "player": "Carlos de Miguel",
+        "odds": 1.143
+      },
+      {
+        "player": "Gift Siame",
+        "odds": 1.143
+      },
+      {
+        "player": "Marcos Leiva",
+        "odds": 1.143
+      },
+      {
+        "player": "Naim Garcia",
+        "odds": 1.143
+      },
+      {
+        "player": "Seydouba Cisse",
+        "odds": 1.143
+      },
+      {
+        "player": "Diego Garcia",
+        "odds": 1.143
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 1.143
+      },
+      {
+        "player": "Ignacio Laquintana",
+        "odds": 1.143
+      },
+      {
+        "player": "Liberto Beltran Martinez",
+        "odds": 1.143
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 1.143
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 1.167
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 1.167
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 1.167
+      },
+      {
+        "player": "Daniel Ojeda",
+        "odds": 1.182
+      },
+      {
+        "player": "Roberto Lopez",
+        "odds": 1.2
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 1.2
+      },
+      {
+        "player": "Efe Ugiagbe",
+        "odds": 1.2
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 1.222
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 1.222
+      },
+      {
+        "player": "Enol Rodriguez",
+        "odds": 1.222
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 1.222
+      },
+      {
+        "player": "Dani Rodriguez",
+        "odds": 1.25
+      },
+      {
+        "player": "Diego Aznar",
+        "odds": 1.25
+      },
+      {
+        "player": "Oscar Sielva",
+        "odds": 1.25
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 1.286
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 1.286
+      },
+      {
+        "player": "Alejandro Cantero",
+        "odds": 1.286
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 1.286
+      },
+      {
+        "player": "Yuri Menac",
+        "odds": 1.3
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Diego Garcia",
+        "odds": 1.286
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 1.3
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 1.364
+      },
+      {
+        "player": "Oscar Plano",
+        "odds": 1.4
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 1.4
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 1.444
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 1.444
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 1.444
+      },
+      {
+        "player": "Diego Aznar",
+        "odds": 1.533
+      },
+      {
+        "player": "Dani Rodriguez",
+        "odds": 1.571
+      },
+      {
+        "player": "Enol Rodriguez",
+        "odds": 1.571
+      },
+      {
+        "player": "David Osei",
+        "odds": 1.667
+      },
+      {
+        "player": "Gonzalo Melero",
+        "odds": 1.667
+      },
+      {
+        "player": "Luis Lopes",
+        "odds": 1.667
+      },
+      {
+        "player": "Yuri Menac",
+        "odds": 1.667
+      },
+      {
+        "player": "Diego Garcia",
+        "odds": 1.667
+      },
+      {
+        "player": "Daniel Luna",
+        "odds": 1.667
+      },
+      {
+        "player": "Francisco Portillo",
+        "odds": 1.667
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 1.727
+      },
+      {
+        "player": "Oscar Sielva",
+        "odds": 1.727
+      },
+      {
+        "player": "Andres Campos Bautista",
+        "odds": 1.833
+      },
+      {
+        "player": "Carlos de Miguel",
+        "odds": 1.833
+      },
+      {
+        "player": "Gift Siame",
+        "odds": 1.833
+      },
+      {
+        "player": "Marcos Leiva",
+        "odds": 1.833
+      },
+      {
+        "player": "Naim Garcia",
+        "odds": 1.833
+      },
+      {
+        "player": "Seydouba Cisse",
+        "odds": 1.833
+      },
+      {
+        "player": "Oscar Plano",
+        "odds": 1.833
+      },
+      {
+        "player": "Suleiman El Haddadi",
+        "odds": 1.833
+      },
+      {
+        "player": "Ignacio Laquintana",
+        "odds": 1.833
+      },
+      {
+        "player": "Jaime Seoane",
+        "odds": 1.833
+      },
+      {
+        "player": "Liberto Beltran Martinez",
+        "odds": 1.833
+      },
+      {
+        "player": "Jordi Escobar",
+        "odds": 1.909
+      },
+      {
+        "player": "Juan Cruz",
+        "odds": 2.0
+      },
+      {
+        "player": "Luis Asue",
+        "odds": 2.0
+      },
+      {
+        "player": "Sergi Enrich",
+        "odds": 2.0
+      },
+      {
+        "player": "Roberto Lopez",
+        "odds": 2.1
+      },
+      {
+        "player": "Daniel Ojeda",
+        "odds": 2.1
+      },
+      {
+        "player": "Efe Ugiagbe",
+        "odds": 2.1
+      },
+      {
+        "player": "Dani Rodriguez",
+        "odds": 2.2
+      },
+      {
+        "player": "Diego Aznar",
+        "odds": 2.2
+      },
+      {
+        "player": "Diego Garcia",
+        "odds": 2.25
+      },
+      {
+        "player": "Enol Rodriguez",
+        "odds": 2.25
+      },
+      {
+        "player": "Alex Millan",
+        "odds": 2.375
+      },
+      {
+        "player": "David Osei",
+        "odds": 2.375
+      },
+      {
+        "player": "Gonzalo Melero",
+        "odds": 2.375
+      },
+      {
+        "player": "Luis Lopes",
+        "odds": 2.375
+      },
+      {
+        "player": "Yuri Menac",
+        "odds": 2.375
+      },
+      {
+        "player": "Daniel Luna",
+        "odds": 2.375
+      },
+      {
+        "player": "Francisco Portillo",
+        "odds": 2.375
+      },
+      {
+        "player": "Guillermo Burcio",
+        "odds": 2.5
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 81.0,
+      "encuentro": 81.0,
+      "1ª mitad": 67.0,
+      "2ª mitad": 51.0,
+      "Primeros 10 minutos": 126.0,
+      "primeros 10 minutos": 11.0
+    }
+  }
+}

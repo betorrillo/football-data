@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "id": "2026-05-15_racing-santander-vs-valladolid",
+    "scraped_at": "2026-05-15T16:39:02.657065",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Racing Santander",
+    "away_team": "Valladolid",
+    "bet365_event_id": "193003644",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.125,
+      "draw_or_away": 2.625,
+      "home_or_away": 1.182
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.025,
+        "1.5": 1.167,
+        "2.5": 1.533,
+        "3.5": 2.25,
+        "4.5": 4.0,
+        "5.5": 8.0,
+        "6.5": 17.0,
+        "7.5": 29.0
+      },
+      "under": {
+        "1.5": 17.0,
+        "2.5": 5.0,
+        "3.5": 2.4,
+        "4.5": 1.571,
+        "5.5": 1.222,
+        "6.5": 1.083,
+        "7.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.03,
+        "5.5": 1.083,
+        "6.5": 1.182,
+        "7.5": 1.364,
+        "8.5": 1.615,
+        "9.5": 2.0,
+        "10.5": 2.625,
+        "11.5": 3.75,
+        "12.5": 5.5,
+        "13.5": 8.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 23.0,
+        "5.5": 15.0,
+        "6.5": 8.0,
+        "7.5": 4.5,
+        "8.5": 3.0,
+        "9.5": 2.2,
+        "10.5": 1.727,
+        "11.5": 1.444,
+        "12.5": 1.25,
+        "13.5": 1.143,
+        "14.5": 1.083,
+        "15.5": 1.04,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.875,
+        "4.5": 4.75,
+        "5.5": 8.5,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.5,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 1.909,
+        "4.5": 1.4,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.111,
+        "10.5": 1.05,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 15.0,
+        "2.5": 34.0,
+        "3.5": 5.0,
+        "4.5": 9.5,
+        "5.5": 17.0,
+        "6.5": 29.0,
+        "7.5": 12.0,
+        "8.5": 19.0,
+        "9.5": 26.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.036,
+        "3.5": 1.4,
+        "4.5": 1.143,
+        "5.5": 1.05,
+        "6.5": 1.02,
+        "7.5": 1.083,
+        "8.5": 1.036,
+        "9.5": 1.02
+      }
+    },
+    "ht_ft": {
+      "Racing Santander": 19.0,
+      "Empate": 17.0,
+      "Valladolid": 11.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Andres Martin",
+        "odds": 1.833
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.952
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.952
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 2.2
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 2.3
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 2.3
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 2.5
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 2.5
+      },
+      {
+        "player": "Diego Diaz",
+        "odds": 3.4
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 3.4
+      },
+      {
+        "player": "Brain Obosso",
+        "odds": 3.75
+      },
+      {
+        "player": "Diego Fuentes",
+        "odds": 3.75
+      },
+      {
+        "player": "Inigo Vicente",
+        "odds": 3.75
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 3.75
+      },
+      {
+        "player": "Marco Sangalli",
+        "odds": 3.75
+      },
+      {
+        "player": "Mario Dominguez",
+        "odds": 3.75
+      },
+      {
+        "player": "Noah Ohio",
+        "odds": 3.75
+      },
+      {
+        "player": "Suleiman Camara",
+        "odds": 3.75
+      },
+      {
+        "player": "Vegard Erlien",
+        "odds": 3.75
+      },
+      {
+        "player": "Peter Gonzalez",
+        "odds": 4.0
+      },
+      {
+        "player": "Sergio Martinez",
+        "odds": 4.0
+      },
+      {
+        "player": "Marcos Andre",
+        "odds": 4.0
+      },
+      {
+        "player": "Inigo Sainz-Maza",
+        "odds": 4.5
+      },
+      {
+        "player": "Amath Diedhiou",
+        "odds": 5.0
+      },
+      {
+        "player": "Damian Rodríguez",
+        "odds": 5.0
+      },
+      {
+        "player": "Gustavo Puerta",
+        "odds": 5.0
+      },
+      {
+        "player": "Maguette Gueye",
+        "odds": 5.0
+      },
+      {
+        "player": "Chuki",
+        "odds": 5.5
+      },
+      {
+        "player": "Sergi Canos",
+        "odds": 5.5
+      },
+      {
+        "player": "Stipe Biuk",
+        "odds": 5.5
+      },
+      {
+        "player": "Angel Carvajal",
+        "odds": 6.5
+      },
+      {
+        "player": "Aritz Aldasoro",
+        "odds": 6.5
+      },
+      {
+        "player": "Ivan Alejo",
+        "odds": 6.5
+      },
+      {
+        "player": "Julien Ponceau",
+        "odds": 6.5
+      },
+      {
+        "player": "Lucas Sanseviero",
+        "odds": 6.5
+      },
+      {
+        "player": "Samuel Calera",
+        "odds": 6.5
+      },
+      {
+        "player": "Jorge Salinas",
+        "odds": 7.0
+      },
+      {
+        "player": "Facundo Gonzalez",
+        "odds": 7.5
+      },
+      {
+        "player": "Hugo San Modesto",
+        "odds": 7.5
+      },
+      {
+        "player": "Javier Castro",
+        "odds": 7.5
+      },
+      {
+        "player": "Mario Maroto",
+        "odds": 8.5
+      },
+      {
+        "player": "Alvaro Mantilla",
+        "odds": 9.5
+      },
+      {
+        "player": "Carlos Sanchez",
+        "odds": 9.5
+      },
+      {
+        "player": "Manu Hernando",
+        "odds": 9.5
+      },
+      {
+        "player": "Mario Garcia",
+        "odds": 9.5
+      },
+      {
+        "player": "Mathis Lachuer",
+        "odds": 9.5
+      },
+      {
+        "player": "Pablo Ramon",
+        "odds": 9.5
+      },
+      {
+        "player": "Stanko Juric",
+        "odds": 9.5
+      },
+      {
+        "player": "Carlos Clerc",
+        "odds": 11.0
+      },
+      {
+        "player": "Ibrahim Alani",
+        "odds": 11.0
+      },
+      {
+        "player": "Ivan Garriel",
+        "odds": 11.0
+      },
+      {
+        "player": "Victor Meseguer",
+        "odds": 11.0
+      },
+      {
+        "player": "Clement Michelin",
+        "odds": 13.0
+      },
+      {
+        "player": "Guille Bueno",
+        "odds": 17.0
+      },
+      {
+        "player": "Jose Luis Aranda",
+        "odds": 17.0
+      },
+      {
+        "player": "Koke Iglesias",
+        "odds": 17.0
+      },
+      {
+        "player": "Mohamed Jaouab",
+        "odds": 17.0
+      },
+      {
+        "player": "Pablo Tomeo",
+        "odds": 17.0
+      },
+      {
+        "player": "Ramon Martinez",
+        "odds": 17.0
+      },
+      {
+        "player": "David Torres",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Manex Lozano",
+        "odds": 1.012
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 1.02
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 1.02
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 1.03
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 1.03
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.03
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 1.03
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 1.04
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.04
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.04
+      },
+      {
+        "player": "Inigo Vicente",
+        "odds": 1.05
+      },
+      {
+        "player": "Andres Martin",
+        "odds": 1.05
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.05
+      },
+      {
+        "player": "Andres Martin",
+        "odds": 1.062
+      },
+      {
+        "player": "Peter Gonzalez",
+        "odds": 1.062
+      },
+      {
+        "player": "Diego Diaz",
+        "odds": 1.071
+      },
+      {
+        "player": "Maguette Gueye",
+        "odds": 1.083
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.083
+      },
+      {
+        "player": "Diego Fuentes",
+        "odds": 1.1
+      },
+      {
+        "player": "Marco Sangalli",
+        "odds": 1.1
+      },
+      {
+        "player": "Suleiman Camara",
+        "odds": 1.1
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.1
+      },
+      {
+        "player": "Mario Dominguez",
+        "odds": 1.1
+      },
+      {
+        "player": "Noah Ohio",
+        "odds": 1.1
+      },
+      {
+        "player": "Vegard Erlien",
+        "odds": 1.1
+      },
+      {
+        "player": "Sergio Martinez",
+        "odds": 1.111
+      },
+      {
+        "player": "Marcos Andre",
+        "odds": 1.111
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.125
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 1.125
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 1.125
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 1.143
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 1.143
+      },
+      {
+        "player": "Inigo Sainz-Maza",
+        "odds": 1.167
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.167
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 1.167
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 1.167
+      },
+      {
+        "player": "Sergi Canos",
+        "odds": 1.167
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 1.167
+      },
+      {
+        "player": "Andres Martin",
+        "odds": 1.182
+      },
+      {
+        "player": "Damian Rodríguez",
+        "odds": 1.2
+      },
+      {
+        "player": "Gustavo Puerta",
+        "odds": 1.2
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 1.2
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 1.2
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 1.2
+      },
+      {
+        "player": "Amath Diedhiou",
+        "odds": 1.2
+      },
+      {
+        "player": "Chuki",
+        "odds": 1.2
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 1.2
+      },
+      {
+        "player": "Aritz Aldasoro",
+        "odds": 1.222
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 1.222
+      },
+      {
+        "player": "Inigo Vicente",
+        "odds": 1.222
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Andres Martin",
+        "odds": 1.143
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.143
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.167
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.2
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 1.222
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 1.286
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 1.364
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 1.364
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 1.4
+      },
+      {
+        "player": "Andres Martin",
+        "odds": 1.444
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.444
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.444
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 1.444
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.533
+      },
+      {
+        "player": "Diego Diaz",
+        "odds": 1.571
+      },
+      {
+        "player": "Inigo Vicente",
+        "odds": 1.571
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 1.615
+      },
+      {
+        "player": "Diego Fuentes",
+        "odds": 1.667
+      },
+      {
+        "player": "Marco Sangalli",
+        "odds": 1.667
+      },
+      {
+        "player": "Suleiman Camara",
+        "odds": 1.667
+      },
+      {
+        "player": "Andres Martin",
+        "odds": 1.667
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 1.667
+      },
+      {
+        "player": "Mario Dominguez",
+        "odds": 1.667
+      },
+      {
+        "player": "Noah Ohio",
+        "odds": 1.667
+      },
+      {
+        "player": "Vegard Erlien",
+        "odds": 1.667
+      },
+      {
+        "player": "Sergio Martinez",
+        "odds": 1.727
+      },
+      {
+        "player": "Juan Carlos Arana",
+        "odds": 1.727
+      },
+      {
+        "player": "Asier Villalibre",
+        "odds": 1.727
+      },
+      {
+        "player": "Marcos Andre",
+        "odds": 1.727
+      },
+      {
+        "player": "Peter Gonzalez",
+        "odds": 1.727
+      },
+      {
+        "player": "Inigo Sainz-Maza",
+        "odds": 1.833
+      },
+      {
+        "player": "Maguette Gueye",
+        "odds": 1.833
+      },
+      {
+        "player": "Izan Yurrieta",
+        "odds": 1.833
+      },
+      {
+        "player": "Santi Franco",
+        "odds": 1.833
+      },
+      {
+        "player": "Manex Lozano",
+        "odds": 1.909
+      },
+      {
+        "player": "Peio Canales",
+        "odds": 1.909
+      },
+      {
+        "player": "Sergi Canos",
+        "odds": 1.909
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "odds": 2.0
+      },
+      {
+        "player": "Juan Latasa",
+        "odds": 2.0
+      },
+      {
+        "player": "Damian Rodríguez",
+        "odds": 2.1
+      },
+      {
+        "player": "Gustavo Puerta",
+        "odds": 2.1
+      },
+      {
+        "player": "Amath Diedhiou",
+        "odds": 2.1
+      },
+      {
+        "player": "Diego Diaz",
+        "odds": 2.2
+      },
+      {
+        "player": "Inigo Vicente",
+        "odds": 2.2
+      },
+      {
+        "player": "Chuki",
+        "odds": 2.2
+      },
+      {
+        "player": "Jaime Mata",
+        "odds": 2.25
+      },
+      {
+        "player": "Stipe Biuk",
+        "odds": 2.25
+      },
+      {
+        "player": "Diego Fuentes",
+        "odds": 2.375
+      },
+      {
+        "player": "Marco Sangalli",
+        "odds": 2.375
+      },
+      {
+        "player": "Suleiman Camara",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 151.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 81.0,
+      "Primeros 10 minutos": 5.5,
+      "primeros 10 minutos": 13.0
+    }
+  }
+}

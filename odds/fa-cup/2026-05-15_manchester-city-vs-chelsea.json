@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "id": "2026-05-15_manchester-city-vs-chelsea",
+    "scraped_at": "2026-05-15T16:38:59.243093",
+    "league": "FA Cup",
+    "league_code": "ENG_FA",
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "bet365_event_id": "193663388",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 2.15,
+      "home_or_draw": 1.182,
+      "home_or_away": 1.222
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.2,
+        "2.5": 1.667,
+        "3.5": 2.625,
+        "4.5": 5.0,
+        "5.5": 10.0,
+        "6.5": 21.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 13.0,
+        "2.5": 4.333,
+        "3.5": 2.2,
+        "4.5": 1.444,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.015
+      }
+    },
+    "corners_total": {
+      "over": {
+        "5.5": 1.04,
+        "6.5": 1.083,
+        "7.5": 1.182,
+        "8.5": 1.333,
+        "9.5": 1.571,
+        "10.5": 1.909,
+        "11.5": 2.5,
+        "12.5": 3.4,
+        "13.5": 4.5,
+        "14.5": 7.0,
+        "15.5": 11.0,
+        "16.5": 13.0,
+        "17.5": 19.0
+      },
+      "under": {
+        "5.5": 23.0,
+        "6.5": 13.0,
+        "7.5": 8.0,
+        "8.5": 4.5,
+        "9.5": 3.25,
+        "10.5": 2.25,
+        "11.5": 1.8,
+        "12.5": 1.5,
+        "13.5": 1.3,
+        "14.5": 1.182,
+        "15.5": 1.1,
+        "16.5": 1.05,
+        "17.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.2,
+        "1.5": 7.0,
+        "2.5": 21.0,
+        "3.5": 41.0,
+        "4.5": 3.75,
+        "5.5": 6.5,
+        "6.5": 11.0,
+        "7.5": 17.0,
+        "8.5": 26.0,
+        "9.5": 6.5,
+        "10.5": 10.0,
+        "11.5": 15.0,
+        "12.5": 21.0
+      },
+      "under": {
+        "1.5": 1.615,
+        "2.5": 1.091,
+        "3.5": 1.02,
+        "4.5": 1.571,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.045,
+        "8.5": 1.02,
+        "9.5": 1.182,
+        "10.5": 1.091,
+        "11.5": 1.045,
+        "12.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 29.0,
+        "3.5": 4.0,
+        "4.5": 7.5,
+        "5.5": 13.0,
+        "6.5": 21.0,
+        "7.5": 8.5,
+        "8.5": 13.0,
+        "9.5": 19.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.571,
+        "4.5": 1.222,
+        "5.5": 1.071,
+        "6.5": 1.03,
+        "7.5": 1.143,
+        "8.5": 1.062,
+        "9.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "1.5": 1.062,
+        "2.5": 1.2,
+        "3.5": 1.5,
+        "4.5": 2.0,
+        "5.5": 3.25,
+        "6.5": 5.0,
+        "7.5": 9.0,
+        "8.5": 15.0,
+        "9.5": 26.0
+      },
+      "under": {
+        "1.5": 21.0,
+        "2.5": 10.0,
+        "3.5": 4.333,
+        "4.5": 2.5,
+        "5.5": 1.727,
+        "6.5": 1.333,
+        "7.5": 1.167,
+        "8.5": 1.071,
+        "9.5": 1.03
+      }
+    },
+    "cards_home": {
+      "over": {
+        "0.5": 13.0,
+        "1.5": 101.0,
+        "2.5": 6.5,
+        "3.5": 19.0,
+        "4.5": 34.0,
+        "5.5": 51.0
+      },
+      "under": {
+        "1.5": 1.036,
+        "2.5": 1.533,
+        "3.5": 1.111,
+        "4.5": 1.025,
+        "5.5": 1.02
+      }
+    },
+    "cards_away": {
+      "over": {
+        "0.5": 10.0,
+        "1.5": 67.0,
+        "2.5": 3.5,
+        "3.5": 8.5,
+        "4.5": 19.0,
+        "5.5": 34.0,
+        "6.5": 34.0
+      },
+      "under": {
+        "1.5": 1.062,
+        "2.5": 2.05,
+        "3.5": 1.3,
+        "4.5": 1.062,
+        "5.5": 1.02,
+        "6.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Chelsea": 34.0,
+      "Empate": 13.0,
+      "Manchester City": 2.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Erling Haaland",
+        "odds": 1.571
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 2.3
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 2.3
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 2.75
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 3.4
+      },
+      {
+        "player": "Cole Palmer",
+        "odds": 3.5
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 3.5
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 3.75
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 3.75
+      },
+      {
+        "player": "Jeremy Doku",
+        "odds": 4.0
+      },
+      {
+        "player": "Savinho",
+        "odds": 4.0
+      },
+      {
+        "player": "Pedro Neto",
+        "odds": 4.5
+      },
+      {
+        "player": "Tijjani Reijnders",
+        "odds": 4.5
+      },
+      {
+        "player": "Alejandro Garnacho",
+        "odds": 5.5
+      },
+      {
+        "player": "Enzo Fernández",
+        "odds": 5.5
+      },
+      {
+        "player": "Mateo Kovacic",
+        "odds": 5.5
+      },
+      {
+        "player": "Mathis Eboue",
+        "odds": 5.5
+      },
+      {
+        "player": "Bernardo Silva",
+        "odds": 5.5
+      },
+      {
+        "player": "Nico O'Reilly",
+        "odds": 5.5
+      },
+      {
+        "player": "Andrey Santos",
+        "odds": 7.0
+      },
+      {
+        "player": "Marc Guehi",
+        "odds": 7.0
+      },
+      {
+        "player": "Nico Gonzalez",
+        "odds": 7.0
+      },
+      {
+        "player": "Rodri",
+        "odds": 7.0
+      },
+      {
+        "player": "Matheus Nunes",
+        "odds": 8.5
+      },
+      {
+        "player": "Rayan Ait Nouri",
+        "odds": 8.5
+      },
+      {
+        "player": "Abduqodir Khusanov",
+        "odds": 11.0
+      },
+      {
+        "player": "Dario Essugo",
+        "odds": 11.0
+      },
+      {
+        "player": "John Stones",
+        "odds": 11.0
+      },
+      {
+        "player": "Nathan Ake",
+        "odds": 11.0
+      },
+      {
+        "player": "Reece James",
+        "odds": 11.0
+      },
+      {
+        "player": "Rico Lewis",
+        "odds": 11.0
+      },
+      {
+        "player": "Romeo Lavia",
+        "odds": 11.0
+      },
+      {
+        "player": "Ruben Dias",
+        "odds": 11.0
+      },
+      {
+        "player": "Josh Acheampong",
+        "odds": 13.0
+      },
+      {
+        "player": "Mamadou Sarr",
+        "odds": 13.0
+      },
+      {
+        "player": "Marc Cucurella",
+        "odds": 13.0
+      },
+      {
+        "player": "Moises Caicedo",
+        "odds": 13.0
+      },
+      {
+        "player": "Trevoh Chalobah",
+        "odds": 13.0
+      },
+      {
+        "player": "Benoit Badiashile",
+        "odds": 17.0
+      },
+      {
+        "player": "Jorrel Hato",
+        "odds": 17.0
+      },
+      {
+        "player": "Levi Colwill",
+        "odds": 17.0
+      },
+      {
+        "player": "Malo Gusto",
+        "odds": 17.0
+      },
+      {
+        "player": "Tosin Adarabioyo",
+        "odds": 17.0
+      },
+      {
+        "player": "Wesley Fofana",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Erling Haaland",
+        "odds": 1.02
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.02
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 1.02
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 1.071
+      },
+      {
+        "player": "Savinho",
+        "odds": 1.071
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 1.1
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 1.1
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 1.1
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 1.111
+      },
+      {
+        "player": "Cole Palmer",
+        "odds": 1.125
+      },
+      {
+        "player": "Tijjani Reijnders",
+        "odds": 1.125
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.125
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 1.125
+      },
+      {
+        "player": "Pedro Neto",
+        "odds": 1.143
+      },
+      {
+        "player": "Jeremy Doku",
+        "odds": 1.143
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.143
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.143
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 1.167
+      },
+      {
+        "player": "Enzo Fernández",
+        "odds": 1.2
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.2
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.2
+      },
+      {
+        "player": "Alejandro Garnacho",
+        "odds": 1.222
+      },
+      {
+        "player": "Mathis Eboue",
+        "odds": 1.222
+      },
+      {
+        "player": "Mateo Kovacic",
+        "odds": 1.25
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 1.3
+      },
+      {
+        "player": "Nico O'Reilly",
+        "odds": 1.333
+      },
+      {
+        "player": "Savinho",
+        "odds": 1.333
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 1.364
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 1.364
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 1.364
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 1.364
+      },
+      {
+        "player": "Savinho",
+        "odds": 1.364
+      },
+      {
+        "player": "Andrey Santos",
+        "odds": 1.4
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 1.4
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 1.4
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 1.4
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.4
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 1.4
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 1.4
+      },
+      {
+        "player": "Savinho",
+        "odds": 1.4
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 1.444
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 1.444
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 1.444
+      },
+      {
+        "player": "Cole Palmer",
+        "odds": 1.444
+      },
+      {
+        "player": "Bernardo Silva",
+        "odds": 1.444
+      },
+      {
+        "player": "Marc Guehi",
+        "odds": 1.444
+      },
+      {
+        "player": "Nico Gonzalez",
+        "odds": 1.444
+      },
+      {
+        "player": "Rodri",
+        "odds": 1.444
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.444
+      },
+      {
+        "player": "Jeremy Doku",
+        "odds": 1.444
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Erling Haaland",
+        "odds": 1.143
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.25
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 1.4
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.5
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.533
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 1.571
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 1.571
+      },
+      {
+        "player": "Savinho",
+        "odds": 1.571
+      },
+      {
+        "player": "Cole Palmer",
+        "odds": 1.615
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 1.667
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 1.667
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 1.667
+      },
+      {
+        "player": "Tijjani Reijnders",
+        "odds": 1.727
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.727
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 1.8
+      },
+      {
+        "player": "Pedro Neto",
+        "odds": 1.833
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 1.833
+      },
+      {
+        "player": "Jeremy Doku",
+        "odds": 2.0
+      },
+      {
+        "player": "Nico O'Reilly",
+        "odds": 2.0
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 2.0
+      },
+      {
+        "player": "Alejandro Garnacho",
+        "odds": 2.1
+      },
+      {
+        "player": "Enzo Fernández",
+        "odds": 2.1
+      },
+      {
+        "player": "Mathis Eboue",
+        "odds": 2.1
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 2.1
+      },
+      {
+        "player": "Mateo Kovacic",
+        "odds": 2.25
+      },
+      {
+        "player": "Omar Marmoush",
+        "odds": 2.25
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 2.25
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 2.375
+      },
+      {
+        "player": "Cole Palmer",
+        "odds": 2.5
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 2.5
+      },
+      {
+        "player": "Marc Guiu",
+        "odds": 2.5
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 2.5
+      },
+      {
+        "player": "Savinho",
+        "odds": 2.5
+      },
+      {
+        "player": "Phil Foden",
+        "odds": 2.5
+      },
+      {
+        "player": "Andrey Santos",
+        "odds": 2.625
+      },
+      {
+        "player": "Liam Delap",
+        "odds": 2.625
+      },
+      {
+        "player": "Tijjani Reijnders",
+        "odds": 2.625
+      },
+      {
+        "player": "Antoine Semenyo",
+        "odds": 2.625
+      },
+      {
+        "player": "Savinho",
+        "odds": 2.625
+      },
+      {
+        "player": "Joao Pedro",
+        "odds": 2.75
+      },
+      {
+        "player": "Bernardo Silva",
+        "odds": 2.75
+      },
+      {
+        "player": "Tijjani Reijnders",
+        "odds": 2.75
+      },
+      {
+        "player": "Pedro Neto",
+        "odds": 3.0
+      },
+      {
+        "player": "Nico Gonzalez",
+        "odds": 3.0
+      },
+      {
+        "player": "Rodri",
+        "odds": 3.0
+      },
+      {
+        "player": "Rayan Cherki",
+        "odds": 3.0
+      },
+      {
+        "player": "Pedro Neto",
+        "odds": 3.25
+      },
+      {
+        "player": "Marc Guehi",
+        "odds": 3.25
+      },
+      {
+        "player": "Erling Haaland",
+        "odds": 3.25
+      },
+      {
+        "player": "Jeremy Doku",
+        "odds": 3.25
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 251.0,
+      "1ª mitad": 351.0,
+      "2ª mitad": 41.0,
+      "Primeros 10 minutos": 201.0,
+      "primeros 10 minutos": 81.0
+    }
+  }
+}

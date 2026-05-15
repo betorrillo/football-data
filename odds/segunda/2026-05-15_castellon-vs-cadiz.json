@@ -1,54 +1,38 @@
 {
   "meta": {
     "id": "2026-05-15_castellon-vs-cadiz",
-    "scraped_at": "2026-05-15T14:59:38.615143",
+    "scraped_at": "2026-05-15T16:39:08.605971",
     "league": "Spain Segunda",
     "league_code": "ESP2",
     "home_team": "CD Castellón",
     "away_team": "Cádiz",
     "bet365_event_id": "193003587",
-    "markets_count": 20,
+    "markets_count": 13,
     "markets_available": [
-      "away_goals",
-      "btts",
       "cards_away",
       "cards_home",
       "cards_total",
-      "clean_sheet",
       "corners_away",
       "corners_home",
       "corners_total",
-      "correct_score",
       "double_chance",
-      "draw_no_bet",
-      "home_goals",
       "ht_ft",
       "player_anytime_scorer",
       "player_shots",
       "player_shots_on_target",
-      "result",
       "total_goals",
       "winning_margin"
     ]
   },
   "markets": {
-    "result": {
-      "home": 1.25,
-      "draw": 6.0,
-      "away": 9.5
-    },
     "double_chance": {
       "home_or_draw": 1.071,
       "draw_or_away": 3.75,
       "home_or_away": 1.125
     },
-    "draw_no_bet": {
-      "home": 1.083,
-      "away": 8.0
-    },
     "total_goals": {
       "over": {
-        "0.5": 1.02,
+        "0.5": 1.015,
         "1.5": 1.125,
         "2.5": 1.444,
         "3.5": 2.1,
@@ -59,7 +43,7 @@
         "8.5": 51.0
       },
       "under": {
-        "1.5": 19.0,
+        "1.5": 21.0,
         "2.5": 6.0,
         "3.5": 2.7,
         "4.5": 1.667,
@@ -68,10 +52,6 @@
         "7.5": 1.04,
         "8.5": 1.01
       }
-    },
-    "btts": {
-      "yes": 1.833,
-      "no": 1.833
     },
     "corners_total": {
       "over": {
@@ -113,7 +93,7 @@
         "1.5": 6.0,
         "2.5": 17.0,
         "3.5": 34.0,
-        "4.5": 3.4,
+        "4.5": 3.25,
         "5.5": 5.5,
         "6.5": 9.5,
         "7.5": 15.0,
@@ -227,134 +207,10 @@
         "7.5": 1.02
       }
     },
-    "correct_score": {
-      "1-0": {
-        "odds": 29.0,
-        "side": "away"
-      },
-      "2-0": {
-        "odds": 51.0,
-        "side": "away"
-      },
-      "2-1": {
-        "odds": 26.0,
-        "side": "away"
-      },
-      "3-0": {
-        "odds": 101.0,
-        "side": "away"
-      },
-      "3-1": {
-        "odds": 51.0,
-        "side": "away"
-      },
-      "3-2": {
-        "odds": 51.0,
-        "side": "away"
-      },
-      "4-0": {
-        "odds": 12.0,
-        "side": "home"
-      },
-      "4-1": {
-        "odds": 201.0,
-        "side": "away"
-      },
-      "4-2": {
-        "odds": 151.0,
-        "side": "away"
-      },
-      "4-3": {
-        "odds": 151.0,
-        "side": "away"
-      },
-      "5-0": {
-        "odds": 21.0,
-        "side": "home"
-      },
-      "5-1": {
-        "odds": 26.0,
-        "side": "home"
-      },
-      "5-2": {
-        "odds": 51.0,
-        "side": "home"
-      },
-      "5-3": {
-        "odds": 101.0,
-        "side": "home"
-      },
-      "6-0": {
-        "odds": 41.0,
-        "side": "home"
-      },
-      "6-1": {
-        "odds": 41.0,
-        "side": "home"
-      },
-      "6-2": {
-        "odds": 81.0,
-        "side": "home"
-      },
-      "6-3": {
-        "odds": 201.0,
-        "side": "home"
-      },
-      "7-0": {
-        "odds": 67.0,
-        "side": "home"
-      },
-      "7-1": {
-        "odds": 81.0,
-        "side": "home"
-      },
-      "7-2": {
-        "odds": 151.0,
-        "side": "home"
-      },
-      "8-0": {
-        "odds": 151.0,
-        "side": "home"
-      },
-      "8-1": {
-        "odds": 151.0,
-        "side": "home"
-      },
-      "0-0": {
-        "odds": 21.0,
-        "side": "draw"
-      },
-      "1-1": {
-        "odds": 12.0,
-        "side": "draw"
-      },
-      "2-2": {
-        "odds": 21.0,
-        "side": "draw"
-      },
-      "3-3": {
-        "odds": 51.0,
-        "side": "draw"
-      },
-      "4-4": {
-        "odds": 251.0,
-        "side": "draw"
-      }
-    },
     "ht_ft": {
       "CD Castellón": 17.0,
       "Empate": 21.0,
-      "Cádiz": 19.0
-    },
-    "clean_sheet": {
-      "home": {
-        "yes": 2.0,
-        "no": 1.727
-      },
-      "away": {
-        "yes": 11.0,
-        "no": 1.05
-      }
+      "Cádiz": 17.0
     },
     "player_anytime_scorer": [
       {
@@ -422,23 +278,23 @@
         "odds": 3.6
       },
       {
+        "player": "Garcia Pascual",
+        "odds": 3.6
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 3.6
+      },
+      {
         "player": "Ronaldo Pompeu",
         "odds": 3.6
       },
       {
-        "player": "Garcia Pascual",
-        "odds": 4.0
-      },
-      {
-        "player": "Roger Marti",
+        "player": "Javi Ontiveros",
         "odds": 4.0
       },
       {
         "player": "Benat Gerenabarrena",
-        "odds": 4.333
-      },
-      {
-        "player": "Javi Ontiveros",
         "odds": 4.333
       },
       {
@@ -486,6 +342,10 @@
         "odds": 6.0
       },
       {
+        "player": "Antonito Cordero",
+        "odds": 6.5
+      },
+      {
         "player": "Fabrizio Brignani",
         "odds": 6.5
       },
@@ -507,18 +367,18 @@
       },
       {
         "player": "Alex Fernandez",
-        "odds": 7.5
-      },
-      {
-        "player": "Antonito Cordero",
-        "odds": 7.5
+        "odds": 7.0
       },
       {
         "player": "Ismael Alvarez",
-        "odds": 7.5
+        "odds": 7.0
       },
       {
         "player": "Alberto Jimenez",
+        "odds": 8.0
+      },
+      {
+        "player": "Jose Antonio De La Rosa",
         "odds": 8.0
       },
       {
@@ -530,11 +390,11 @@
         "odds": 8.0
       },
       {
-        "player": "Agustin Sienra",
-        "odds": 9.0
+        "player": "Yussi Diarra",
+        "odds": 8.0
       },
       {
-        "player": "Jose Antonio De La Rosa",
+        "player": "Agustin Sienra",
         "odds": 9.0
       },
       {
@@ -542,11 +402,11 @@
         "odds": 9.0
       },
       {
-        "player": "Yussi Diarra",
-        "odds": 9.0
+        "player": "Joaquin Gonzalez",
+        "odds": 11.0
       },
       {
-        "player": "Joaquin Gonzalez",
+        "player": "Rominigue Kouame",
         "odds": 11.0
       },
       {
@@ -555,10 +415,6 @@
       },
       {
         "player": "Moussa Diakite",
-        "odds": 13.0
-      },
-      {
-        "player": "Rominigue Kouame",
         "odds": 13.0
       },
       {
@@ -612,6 +468,10 @@
         "odds": 1.015
       },
       {
+        "player": "Javi Ontiveros",
+        "odds": 1.02
+      },
+      {
         "player": "Awer Mabil",
         "odds": 1.025
       },
@@ -621,10 +481,6 @@
       },
       {
         "player": "Isidoro Angulo",
-        "odds": 1.03
-      },
-      {
-        "player": "Javi Ontiveros",
         "odds": 1.03
       },
       {
@@ -696,6 +552,14 @@
         "odds": 1.083
       },
       {
+        "player": "Garcia Pascual",
+        "odds": 1.083
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 1.083
+      },
+      {
         "player": "Israel Suero",
         "odds": 1.1
       },
@@ -716,12 +580,8 @@
         "odds": 1.111
       },
       {
-        "player": "Garcia Pascual",
-        "odds": 1.111
-      },
-      {
-        "player": "Roger Marti",
-        "odds": 1.111
+        "player": "Javi Ontiveros",
+        "odds": 1.125
       },
       {
         "player": "Benat Gerenabarrena",
@@ -733,6 +593,10 @@
       },
       {
         "player": "Pablo Santiago Lopez",
+        "odds": 1.143
+      },
+      {
+        "player": "Javi Ontiveros",
         "odds": 1.143
       },
       {
@@ -749,10 +613,6 @@
       },
       {
         "player": "Brian Ocampo",
-        "odds": 1.167
-      },
-      {
-        "player": "Javi Ontiveros",
         "odds": 1.167
       },
       {
@@ -773,10 +633,6 @@
       },
       {
         "player": "Martinez Lucas Perez",
-        "odds": 1.182
-      },
-      {
-        "player": "Javi Ontiveros",
         "odds": 1.182
       },
       {
@@ -842,11 +698,11 @@
         "odds": 1.3
       },
       {
-        "player": "Isidoro Angulo",
-        "odds": 1.364
+        "player": "Javi Ontiveros",
+        "odds": 1.333
       },
       {
-        "player": "Javi Ontiveros",
+        "player": "Isidoro Angulo",
         "odds": 1.364
       },
       {
@@ -906,6 +762,14 @@
         "odds": 1.615
       },
       {
+        "player": "Garcia Pascual",
+        "odds": 1.615
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 1.615
+      },
+      {
         "player": "Jeronimo Domina",
         "odds": 1.667
       },
@@ -930,15 +794,11 @@
         "odds": 1.727
       },
       {
-        "player": "Garcia Pascual",
-        "odds": 1.727
-      },
-      {
-        "player": "Roger Marti",
-        "odds": 1.727
-      },
-      {
         "player": "Iuri Tabatadze",
+        "odds": 1.8
+      },
+      {
+        "player": "Javi Ontiveros",
         "odds": 1.8
       },
       {
@@ -959,10 +819,6 @@
       },
       {
         "player": "Isidoro Angulo",
-        "odds": 1.833
-      },
-      {
-        "player": "Javi Ontiveros",
         "odds": 1.833
       },
       {
@@ -998,45 +854,12 @@
         "odds": 2.0
       }
     ],
-    "home_goals": {
-      "over": {
-        "0.5": 1.05,
-        "1.5": 1.286,
-        "2.5": 1.833,
-        "3.5": 3.4,
-        "4.5": 6.5,
-        "5.5": 15.0,
-        "6.5": 29.0
-      },
-      "under": {
-        "0.5": 11.0,
-        "1.5": 3.5,
-        "3.5": 1.3,
-        "4.5": 1.111,
-        "5.5": 1.03,
-        "6.5": 1.007
-      }
-    },
-    "away_goals": {
-      "over": {
-        "0.5": 1.727,
-        "1.5": 4.5,
-        "2.5": 17.0,
-        "3.5": 51.0
-      },
-      "under": {
-        "0.5": 2.0,
-        "1.5": 1.182,
-        "2.5": 1.025,
-        "3.5": 1.002
-      }
-    },
     "winning_margin": {
       "Encuentro": 126.0,
       "encuentro": 81.0,
       "1ª mitad": 41.0,
       "2ª mitad": 101.0,
-      "Primeros 10 minutos": 5.0,
+      "Primeros 10 minutos": 67.0,
       "primeros 10 minutos": 15.0
     }
   }

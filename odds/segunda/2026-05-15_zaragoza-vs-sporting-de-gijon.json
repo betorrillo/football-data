@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "id": "2026-05-15_zaragoza-vs-sporting-de-gijon",
+    "scraped_at": "2026-05-15T16:39:00.970327",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Real Zaragoza",
+    "away_team": "Sporting de Gijón",
+    "bet365_event_id": "193003652",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.222,
+      "draw_or_away": 1.95,
+      "home_or_away": 1.25
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.05,
+        "1.5": 1.25,
+        "2.5": 1.85,
+        "3.5": 3.25,
+        "4.5": 6.0,
+        "5.5": 13.0,
+        "6.5": 26.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 11.0,
+        "2.5": 3.75,
+        "3.5": 1.95,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.04,
+        "7.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.05,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.727,
+        "10.5": 2.2,
+        "11.5": 3.0,
+        "12.5": 4.0,
+        "13.5": 6.0,
+        "14.5": 9.0,
+        "15.5": 12.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 11.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 2.0,
+        "11.5": 1.615,
+        "12.5": 1.364,
+        "13.5": 1.222,
+        "14.5": 1.125,
+        "15.5": 1.071,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.0,
+        "2.5": 23.0,
+        "3.5": 2.5,
+        "4.5": 4.0,
+        "5.5": 7.0,
+        "6.5": 13.0,
+        "7.5": 19.0,
+        "8.5": 5.5,
+        "9.5": 8.0,
+        "10.5": 13.0,
+        "11.5": 17.0,
+        "12.5": 23.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 2.1,
+        "4.5": 1.5,
+        "5.5": 1.222,
+        "6.5": 1.083,
+        "7.5": 1.036,
+        "8.5": 1.286,
+        "9.5": 1.143,
+        "10.5": 1.062,
+        "11.5": 1.036,
+        "12.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.333,
+        "4.5": 8.0,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 9.0,
+        "8.5": 15.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.04,
+        "3.5": 1.533,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.03,
+        "7.5": 1.125,
+        "8.5": 1.056,
+        "9.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Real Zaragoza": 21.0,
+      "Empate": 15.0,
+      "Sporting de Gijón": 7.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.909
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 2.1
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 2.375
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 2.375
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 2.375
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 2.6
+      },
+      {
+        "player": "Juan Otero",
+        "odds": 3.1
+      },
+      {
+        "player": "William Agada",
+        "odds": 3.1
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 3.25
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 3.25
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 3.25
+      },
+      {
+        "player": "Andrés Ferrari",
+        "odds": 3.6
+      },
+      {
+        "player": "Miguel Conde",
+        "odds": 3.6
+      },
+      {
+        "player": "Nikola Cumic",
+        "odds": 3.6
+      },
+      {
+        "player": "Amadou Coundoul",
+        "odds": 4.0
+      },
+      {
+        "player": "Francho Serrano",
+        "odds": 4.0
+      },
+      {
+        "player": "Jonathan Dubasin",
+        "odds": 4.0
+      },
+      {
+        "player": "Cesar Gelabert",
+        "odds": 4.333
+      },
+      {
+        "player": "Iker Vadillo",
+        "odds": 4.333
+      },
+      {
+        "player": "Lucas Terrer",
+        "odds": 4.333
+      },
+      {
+        "player": "Valery Fernandez",
+        "odds": 4.333
+      },
+      {
+        "player": "Yussif Saidu",
+        "odds": 4.333
+      },
+      {
+        "player": "Alejandro Oyon",
+        "odds": 4.75
+      },
+      {
+        "player": "Raul Gutierrez",
+        "odds": 4.75
+      },
+      {
+        "player": "Alex Lozano",
+        "odds": 5.0
+      },
+      {
+        "player": "Jawad El Yamiq",
+        "odds": 5.0
+      },
+      {
+        "player": "Mawuli Mensah",
+        "odds": 5.0
+      },
+      {
+        "player": "Antonio Moya",
+        "odds": 6.0
+      },
+      {
+        "player": "Daniel Queipo",
+        "odds": 6.5
+      },
+      {
+        "player": "Gaspar Campos",
+        "odds": 6.5
+      },
+      {
+        "player": "Justin Smith",
+        "odds": 6.5
+      },
+      {
+        "player": "Keidi Bare",
+        "odds": 6.5
+      },
+      {
+        "player": "Manu Rodriguez",
+        "odds": 6.5
+      },
+      {
+        "player": "Nico Riestra",
+        "odds": 6.5
+      },
+      {
+        "player": "Jaime Tobajas",
+        "odds": 7.0
+      },
+      {
+        "player": "Diego Matabuena",
+        "odds": 8.0
+      },
+      {
+        "player": "Juan Larios",
+        "odds": 8.0
+      },
+      {
+        "player": "Paul Akouokou",
+        "odds": 8.0
+      },
+      {
+        "player": "Ale Gomes",
+        "odds": 8.5
+      },
+      {
+        "player": "Alex Corredera",
+        "odds": 8.5
+      },
+      {
+        "player": "Carlos Pomares",
+        "odds": 9.5
+      },
+      {
+        "player": "Dani Tasende",
+        "odds": 9.5
+      },
+      {
+        "player": "Hugo Barrachina",
+        "odds": 9.5
+      },
+      {
+        "player": "Juan Serrano",
+        "odds": 9.5
+      },
+      {
+        "player": "Loum N'Diaye",
+        "odds": 9.5
+      },
+      {
+        "player": "Alex Diego",
+        "odds": 11.0
+      },
+      {
+        "player": "Ignacio Martin",
+        "odds": 11.0
+      },
+      {
+        "player": "Iker Martinez",
+        "odds": 11.0
+      },
+      {
+        "player": "Martin Aguirregabiria",
+        "odds": 11.0
+      },
+      {
+        "player": "Alberto Tachi",
+        "odds": 13.0
+      },
+      {
+        "player": "Jesus Bernal",
+        "odds": 13.0
+      },
+      {
+        "player": "Olivan Brian",
+        "odds": 13.0
+      },
+      {
+        "player": "Pablo Insua",
+        "odds": 13.0
+      },
+      {
+        "player": "Pablo Vazquez",
+        "odds": 13.0
+      },
+      {
+        "player": "Aleksandar Radovanovic",
+        "odds": 15.0
+      },
+      {
+        "player": "Guillermo Rosas",
+        "odds": 15.0
+      },
+      {
+        "player": "Kevin Vazquez",
+        "odds": 15.0
+      },
+      {
+        "player": "Pablo Carrasco Garcia",
+        "odds": 15.0
+      },
+      {
+        "player": "Andres Cuenca",
+        "odds": 19.0
+      },
+      {
+        "player": "Diego Sánchez",
+        "odds": 19.0
+      },
+      {
+        "player": "Eric Curbelo",
+        "odds": 19.0
+      },
+      {
+        "player": "Lucas Perrin",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.01
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.01
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 1.012
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 1.015
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 1.015
+      },
+      {
+        "player": "Juan Otero",
+        "odds": 1.015
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 1.025
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 1.03
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 1.03
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 1.03
+      },
+      {
+        "player": "William Agada",
+        "odds": 1.04
+      },
+      {
+        "player": "Francho Serrano",
+        "odds": 1.062
+      },
+      {
+        "player": "Nikola Cumic",
+        "odds": 1.083
+      },
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.083
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.083
+      },
+      {
+        "player": "Andrés Ferrari",
+        "odds": 1.083
+      },
+      {
+        "player": "Jonathan Dubasin",
+        "odds": 1.083
+      },
+      {
+        "player": "Miguel Conde",
+        "odds": 1.083
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 1.1
+      },
+      {
+        "player": "Jawad El Yamiq",
+        "odds": 1.111
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 1.111
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 1.111
+      },
+      {
+        "player": "Amadou Coundoul",
+        "odds": 1.111
+      },
+      {
+        "player": "Cesar Gelabert",
+        "odds": 1.111
+      },
+      {
+        "player": "Juan Otero",
+        "odds": 1.111
+      },
+      {
+        "player": "Iker Vadillo",
+        "odds": 1.143
+      },
+      {
+        "player": "Lucas Terrer",
+        "odds": 1.143
+      },
+      {
+        "player": "Valery Fernandez",
+        "odds": 1.143
+      },
+      {
+        "player": "Yussif Saidu",
+        "odds": 1.143
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 1.143
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 1.143
+      },
+      {
+        "player": "Antonio Moya",
+        "odds": 1.167
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 1.167
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 1.167
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 1.167
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 1.167
+      },
+      {
+        "player": "Daniel Queipo",
+        "odds": 1.167
+      },
+      {
+        "player": "Raul Gutierrez",
+        "odds": 1.182
+      },
+      {
+        "player": "Alejandro Oyon",
+        "odds": 1.182
+      },
+      {
+        "player": "Mawuli Mensah",
+        "odds": 1.2
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 1.2
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 1.2
+      },
+      {
+        "player": "William Agada",
+        "odds": 1.2
+      },
+      {
+        "player": "Alex Lozano",
+        "odds": 1.2
+      },
+      {
+        "player": "Keidi Bare",
+        "odds": 1.222
+      },
+      {
+        "player": "William Agada",
+        "odds": 1.222
+      },
+      {
+        "player": "Francho Serrano",
+        "odds": 1.222
+      },
+      {
+        "player": "Gaspar Campos",
+        "odds": 1.222
+      },
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.286
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.286
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.182
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.2
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 1.222
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 1.222
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 1.286
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 1.3
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 1.4
+      },
+      {
+        "player": "William Agada",
+        "odds": 1.4
+      },
+      {
+        "player": "Juan Otero",
+        "odds": 1.4
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 1.444
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 1.533
+      },
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.533
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.571
+      },
+      {
+        "player": "Francho Serrano",
+        "odds": 1.615
+      },
+      {
+        "player": "Nikola Cumic",
+        "odds": 1.615
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 1.615
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 1.615
+      },
+      {
+        "player": "Andrés Ferrari",
+        "odds": 1.615
+      },
+      {
+        "player": "Jonathan Dubasin",
+        "odds": 1.615
+      },
+      {
+        "player": "Miguel Conde",
+        "odds": 1.615
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 1.667
+      },
+      {
+        "player": "Marcos Cuenca",
+        "odds": 1.727
+      },
+      {
+        "player": "Amadou Coundoul",
+        "odds": 1.727
+      },
+      {
+        "player": "Iker Vadillo",
+        "odds": 1.833
+      },
+      {
+        "player": "Jawad El Yamiq",
+        "odds": 1.833
+      },
+      {
+        "player": "Lucas Terrer",
+        "odds": 1.833
+      },
+      {
+        "player": "Valery Fernandez",
+        "odds": 1.833
+      },
+      {
+        "player": "Yussif Saidu",
+        "odds": 1.833
+      },
+      {
+        "player": "Hugo Pinilla",
+        "odds": 1.833
+      },
+      {
+        "player": "Sebas Moyano",
+        "odds": 1.833
+      },
+      {
+        "player": "Cesar Gelabert",
+        "odds": 1.833
+      },
+      {
+        "player": "Juan Otero",
+        "odds": 1.833
+      },
+      {
+        "player": "Sinan Bakis",
+        "odds": 1.909
+      },
+      {
+        "player": "William Agada",
+        "odds": 1.909
+      },
+      {
+        "player": "Raul Gutierrez",
+        "odds": 2.0
+      },
+      {
+        "player": "Dani Gomez",
+        "odds": 2.0
+      },
+      {
+        "player": "Mario Soberon",
+        "odds": 2.0
+      },
+      {
+        "player": "Paulino de la Fuente",
+        "odds": 2.0
+      },
+      {
+        "player": "Alejandro Oyon",
+        "odds": 2.0
+      },
+      {
+        "player": "Antonio Moya",
+        "odds": 2.1
+      },
+      {
+        "player": "Mawuli Mensah",
+        "odds": 2.1
+      },
+      {
+        "player": "Alex Lozano",
+        "odds": 2.1
+      },
+      {
+        "player": "Roberto Gonzalez",
+        "odds": 2.2
+      },
+      {
+        "player": "Daniel Queipo",
+        "odds": 2.2
+      },
+      {
+        "player": "Kenan Kodro",
+        "odds": 2.25
+      },
+      {
+        "player": "Francho Serrano",
+        "odds": 2.25
+      },
+      {
+        "player": "Nikola Cumic",
+        "odds": 2.25
+      },
+      {
+        "player": "Andrés Ferrari",
+        "odds": 2.25
+      },
+      {
+        "player": "Miguel Conde",
+        "odds": 2.25
+      },
+      {
+        "player": "Keidi Bare",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 81.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 67.0,
+      "Primeros 10 minutos": 7.0,
+      "primeros 10 minutos": 11.0
+    }
+  }
+}

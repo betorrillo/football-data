@@ -1,0 +1,756 @@
+{
+  "meta": {
+    "id": "2026-05-15_newcastle-vs-west-ham",
+    "scraped_at": "2026-05-15T16:38:52.714167",
+    "league": "FA Barclaycard",
+    "league_code": "ENG1",
+    "home_team": "Newcastle",
+    "away_team": "West Ham",
+    "bet365_event_id": "192998821",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.364,
+      "draw_or_away": 1.667,
+      "home_or_away": 1.25
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.02,
+        "1.5": 1.167,
+        "2.5": 1.533,
+        "3.5": 2.3,
+        "4.5": 4.0,
+        "5.5": 7.0,
+        "6.5": 15.0,
+        "7.5": 26.0,
+        "8.5": 51.0
+      },
+      "under": {
+        "1.5": 19.0,
+        "2.5": 5.0,
+        "3.5": 2.5,
+        "4.5": 1.615,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.03,
+        "8.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "5.5": 1.03,
+        "6.5": 1.083,
+        "7.5": 1.167,
+        "8.5": 1.3,
+        "9.5": 1.533,
+        "10.5": 1.833,
+        "11.5": 2.375,
+        "12.5": 3.25,
+        "13.5": 4.333,
+        "14.5": 6.5,
+        "15.5": 10.0,
+        "16.5": 13.0,
+        "17.5": 17.0,
+        "18.5": 23.0
+      },
+      "under": {
+        "5.5": 21.0,
+        "6.5": 15.0,
+        "7.5": 8.0,
+        "8.5": 5.0,
+        "9.5": 3.4,
+        "10.5": 2.375,
+        "11.5": 1.833,
+        "12.5": 1.533,
+        "13.5": 1.333,
+        "14.5": 1.2,
+        "15.5": 1.111,
+        "16.5": 1.062,
+        "17.5": 1.03,
+        "18.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.3,
+        "1.5": 8.0,
+        "2.5": 23.0,
+        "3.5": 2.375,
+        "4.5": 3.75,
+        "5.5": 6.5,
+        "6.5": 11.0,
+        "7.5": 17.0,
+        "8.5": 26.0,
+        "9.5": 7.5,
+        "10.5": 12.0,
+        "11.5": 15.0,
+        "12.5": 23.0
+      },
+      "under": {
+        "1.5": 1.571,
+        "2.5": 1.071,
+        "3.5": 2.2,
+        "4.5": 1.533,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.04,
+        "8.5": 1.02,
+        "9.5": 1.167,
+        "10.5": 1.071,
+        "11.5": 1.04,
+        "12.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.75,
+        "1.5": 11.0,
+        "2.5": 29.0,
+        "3.5": 3.5,
+        "4.5": 6.5,
+        "5.5": 12.0,
+        "6.5": 19.0,
+        "7.5": 29.0,
+        "8.5": 11.0,
+        "9.5": 15.0,
+        "10.5": 23.0
+      },
+      "under": {
+        "1.5": 1.4,
+        "2.5": 1.05,
+        "3.5": 1.667,
+        "4.5": 1.286,
+        "5.5": 1.1,
+        "6.5": 1.04,
+        "7.5": 1.02,
+        "8.5": 1.091,
+        "9.5": 1.045,
+        "10.5": 1.025
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.5
+      },
+      "under": {
+        "4.5": 2.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 126.0,
+        "2.5": 3.75
+      },
+      "under": {
+        "1.5": 1.03,
+        "2.5": 1.909
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.375
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 2.75
+      }
+    },
+    "ht_ft": {
+      "Newcastle": 21.0,
+      "Empate": 15.0,
+      "West Ham": 5.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Yoane Wissa",
+        "odds": 2.4
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 2.6
+      },
+      {
+        "player": "William Osula",
+        "odds": 2.6
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 2.75
+      },
+      {
+        "player": "Callum Wilson",
+        "odds": 2.75
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 2.875
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 2.875
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 3.0
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 3.2
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 3.5
+      },
+      {
+        "player": "Pablo Felipe",
+        "odds": 3.5
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 3.75
+      },
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 3.75
+      },
+      {
+        "player": "Crysencio Summerville",
+        "odds": 4.0
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 4.333
+      },
+      {
+        "player": "Adama Traore",
+        "odds": 5.0
+      },
+      {
+        "player": "Jacob Ramsey",
+        "odds": 5.0
+      },
+      {
+        "player": "Tomas Soucek",
+        "odds": 5.0
+      },
+      {
+        "player": "Joelinton",
+        "odds": 5.0
+      },
+      {
+        "player": "Mohamadou Kante",
+        "odds": 5.5
+      },
+      {
+        "player": "Joe Willock",
+        "odds": 6.5
+      },
+      {
+        "player": "Sandro Tonali",
+        "odds": 6.5
+      },
+      {
+        "player": "Mateus Fernandes",
+        "odds": 7.0
+      },
+      {
+        "player": "El Hadji Diouf",
+        "odds": 8.5
+      },
+      {
+        "player": "Freddie Potts",
+        "odds": 8.5
+      },
+      {
+        "player": "Alex Murphy",
+        "odds": 9.5
+      },
+      {
+        "player": "Dan Burn",
+        "odds": 9.5
+      },
+      {
+        "player": "Kieran Trippier",
+        "odds": 9.5
+      },
+      {
+        "player": "Konstantinos Mavropanos",
+        "odds": 9.5
+      },
+      {
+        "player": "Lewis Hall",
+        "odds": 9.5
+      },
+      {
+        "player": "Malick Thiaw",
+        "odds": 9.5
+      },
+      {
+        "player": "Soungoutou Magassa",
+        "odds": 9.5
+      },
+      {
+        "player": "Ezra Mayers",
+        "odds": 11.0
+      },
+      {
+        "player": "Oliver Scarles",
+        "odds": 11.0
+      },
+      {
+        "player": "Sven Botman",
+        "odds": 11.0
+      },
+      {
+        "player": "Axel Disasi",
+        "odds": 13.0
+      },
+      {
+        "player": "Aaron Wan-Bissaka",
+        "odds": 17.0
+      },
+      {
+        "player": "Jean-Clair Todibo",
+        "odds": 17.0
+      },
+      {
+        "player": "Kyle Walker-Peters",
+        "odds": 17.0
+      },
+      {
+        "player": "Max Kilman",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 1.04
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 1.04
+      },
+      {
+        "player": "William Osula",
+        "odds": 1.04
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 1.05
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 1.071
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 1.071
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 1.083
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 1.1
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 1.1
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 1.111
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 1.111
+      },
+      {
+        "player": "Crysencio Summerville",
+        "odds": 1.111
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 1.111
+      },
+      {
+        "player": "Adama Traore",
+        "odds": 1.125
+      },
+      {
+        "player": "Callum Wilson",
+        "odds": 1.125
+      },
+      {
+        "player": "Jacob Ramsey",
+        "odds": 1.2
+      },
+      {
+        "player": "Joelinton",
+        "odds": 1.2
+      },
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 1.2
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 1.2
+      },
+      {
+        "player": "William Osula",
+        "odds": 1.2
+      },
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 1.222
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 1.222
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 1.25
+      },
+      {
+        "player": "William Osula",
+        "odds": 1.25
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 1.25
+      },
+      {
+        "player": "Mohamadou Kante",
+        "odds": 1.25
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 1.286
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 1.286
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 1.286
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 1.3
+      },
+      {
+        "player": "Joe Willock",
+        "odds": 1.333
+      },
+      {
+        "player": "Sandro Tonali",
+        "odds": 1.333
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 1.333
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 1.333
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 1.333
+      },
+      {
+        "player": "Pablo Felipe",
+        "odds": 1.333
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 1.333
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 1.333
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 1.364
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 1.364
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 1.364
+      },
+      {
+        "player": "El Hadji Diouf",
+        "odds": 1.364
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 1.364
+      },
+      {
+        "player": "Adama Traore",
+        "odds": 1.364
+      },
+      {
+        "player": "Crysencio Summerville",
+        "odds": 1.364
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 1.364
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 1.364
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 1.4
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 1.4
+      },
+      {
+        "player": "Tomas Soucek",
+        "odds": 1.4
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 1.4
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 1.444
+      },
+      {
+        "player": "William Osula",
+        "odds": 1.5
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 1.533
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 1.533
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 1.533
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 1.571
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 1.571
+      },
+      {
+        "player": "Callum Wilson",
+        "odds": 1.615
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 1.667
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 1.667
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 1.667
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 1.727
+      },
+      {
+        "player": "Adama Traore",
+        "odds": 1.833
+      },
+      {
+        "player": "Crysencio Summerville",
+        "odds": 1.833
+      },
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 1.909
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 2.0
+      },
+      {
+        "player": "Bruno Guimaraes",
+        "odds": 2.0
+      },
+      {
+        "player": "Jacob Ramsey",
+        "odds": 2.1
+      },
+      {
+        "player": "Joelinton",
+        "odds": 2.1
+      },
+      {
+        "player": "William Osula",
+        "odds": 2.1
+      },
+      {
+        "player": "Sean Neave",
+        "odds": 2.1
+      },
+      {
+        "player": "Pablo Felipe",
+        "odds": 2.1
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 2.2
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 2.2
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 2.2
+      },
+      {
+        "player": "William Osula",
+        "odds": 2.2
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 2.2
+      },
+      {
+        "player": "Anthony Gordon",
+        "odds": 2.25
+      },
+      {
+        "player": "Harvey Barnes",
+        "odds": 2.25
+      },
+      {
+        "player": "Yoane Wissa",
+        "odds": 2.25
+      },
+      {
+        "player": "Mohamadou Kante",
+        "odds": 2.25
+      },
+      {
+        "player": "Tomas Soucek",
+        "odds": 2.25
+      },
+      {
+        "player": "Callum Wilson",
+        "odds": 2.25
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 2.25
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 2.375
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 2.375
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 2.375
+      },
+      {
+        "player": "Callum Wilson",
+        "odds": 2.375
+      },
+      {
+        "player": "Keiber Lamadrid",
+        "odds": 2.375
+      },
+      {
+        "player": "Taty Castellanos",
+        "odds": 2.375
+      },
+      {
+        "player": "Joe Willock",
+        "odds": 2.5
+      },
+      {
+        "player": "Sandro Tonali",
+        "odds": 2.5
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 2.5
+      },
+      {
+        "player": "Anthony Elanga",
+        "odds": 2.5
+      },
+      {
+        "player": "Nick Woltemade",
+        "odds": 2.5
+      },
+      {
+        "player": "Jarrod Bowen",
+        "odds": 2.5
+      },
+      {
+        "player": "Jacob Murphy",
+        "odds": 2.625
+      },
+      {
+        "player": "Adama Traore",
+        "odds": 2.625
+      },
+      {
+        "player": "Crysencio Summerville",
+        "odds": 2.75
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 301.0,
+      "1ª mitad": 151.0,
+      "2ª mitad": 81.0,
+      "Primeros 10 minutos": 7.0,
+      "primeros 10 minutos": 126.0
+    }
+  }
+}

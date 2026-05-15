@@ -1,0 +1,775 @@
+{
+  "meta": {
+    "id": "2026-05-15_cultural-leonesa-vs-eibar",
+    "scraped_at": "2026-05-15T16:39:05.207699",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Cultural Leonesa",
+    "away_team": "Eibar",
+    "bet365_event_id": "193003623",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.5,
+      "draw_or_away": 1.444,
+      "home_or_away": 1.333
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.062,
+        "1.5": 1.333,
+        "2.5": 2.075,
+        "3.5": 3.75,
+        "4.5": 8.0,
+        "5.5": 17.0,
+        "6.5": 34.0
+      },
+      "under": {
+        "1.5": 10.0,
+        "2.5": 3.25,
+        "3.5": 1.727,
+        "4.5": 1.25,
+        "5.5": 1.083,
+        "6.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.071,
+        "6.5": 1.167,
+        "7.5": 1.333,
+        "8.5": 1.571,
+        "9.5": 1.909,
+        "10.5": 2.625,
+        "11.5": 3.5,
+        "12.5": 5.0,
+        "13.5": 8.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 21.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 9.0,
+        "7.5": 5.0,
+        "8.5": 3.25,
+        "9.5": 2.25,
+        "10.5": 1.8,
+        "11.5": 1.444,
+        "12.5": 1.286,
+        "13.5": 1.167,
+        "14.5": 1.083,
+        "15.5": 1.05,
+        "16.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 29.0,
+        "3.5": 3.2,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 9.0,
+        "9.5": 13.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.056,
+        "3.5": 1.727,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.125,
+        "9.5": 1.056,
+        "10.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.75,
+        "1.5": 11.0,
+        "2.5": 29.0,
+        "3.5": 3.75,
+        "4.5": 7.0,
+        "5.5": 13.0,
+        "6.5": 21.0,
+        "7.5": 7.0,
+        "8.5": 12.0,
+        "9.5": 17.0,
+        "10.5": 23.0
+      },
+      "under": {
+        "1.5": 1.4,
+        "2.5": 1.05,
+        "3.5": 1.615,
+        "4.5": 1.25,
+        "5.5": 1.091,
+        "6.5": 1.036,
+        "7.5": 1.182,
+        "8.5": 1.083,
+        "9.5": 1.04,
+        "10.5": 1.02
+      }
+    },
+    "ht_ft": {
+      "Cultural Leonesa": 29.0,
+      "Empate": 5.0,
+      "Eibar": 4.333
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Jon Bautista",
+        "odds": 2.5
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 3.1
+      },
+      {
+        "player": "Luis Chacon",
+        "odds": 3.1
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 3.1
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 3.5
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 3.5
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 3.5
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 3.6
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 3.75
+      },
+      {
+        "player": "Ruben Sobrino",
+        "odds": 4.0
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 4.333
+      },
+      {
+        "player": "Jon Magunazelaya",
+        "odds": 4.333
+      },
+      {
+        "player": "Hugo Garcia",
+        "odds": 4.5
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 4.5
+      },
+      {
+        "player": "Lucas Ribeiro Costa",
+        "odds": 4.5
+      },
+      {
+        "player": "Rafael Tresaco",
+        "odds": 5.0
+      },
+      {
+        "player": "Toni Villa",
+        "odds": 5.0
+      },
+      {
+        "player": "Ibai Asenjo",
+        "odds": 5.5
+      },
+      {
+        "player": "Javi Martinez",
+        "odds": 5.5
+      },
+      {
+        "player": "Marcos de la Riva",
+        "odds": 5.5
+      },
+      {
+        "player": "Nico Toca",
+        "odds": 5.5
+      },
+      {
+        "player": "Yayo Gonzalez",
+        "odds": 5.5
+      },
+      {
+        "player": "Ivan Calero",
+        "odds": 6.0
+      },
+      {
+        "player": "Javier Bicho",
+        "odds": 6.0
+      },
+      {
+        "player": "Selu Diallo",
+        "odds": 6.0
+      },
+      {
+        "player": "Aleix Garrido",
+        "odds": 7.0
+      },
+      {
+        "player": "Ander Madariaga",
+        "odds": 7.0
+      },
+      {
+        "player": "Marc Delgado",
+        "odds": 7.0
+      },
+      {
+        "player": "Roger Hinojo",
+        "odds": 7.0
+      },
+      {
+        "player": "Thiago Ojeda",
+        "odds": 7.0
+      },
+      {
+        "player": "Lander Olaetxea",
+        "odds": 7.5
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 8.5
+      },
+      {
+        "player": "Diaz Sergio Alvarez",
+        "odds": 8.5
+      },
+      {
+        "player": "Peru Nolaskoain",
+        "odds": 8.5
+      },
+      {
+        "player": "Daniel Leonardo Buta",
+        "odds": 9.5
+      },
+      {
+        "player": "Homam Ahmed",
+        "odds": 9.5
+      },
+      {
+        "player": "Sergio Cuello",
+        "odds": 9.5
+      },
+      {
+        "player": "Rodri Suarez",
+        "odds": 10.0
+      },
+      {
+        "player": "Sergi Maestre",
+        "odds": 10.0
+      },
+      {
+        "player": "Matia Barzic",
+        "odds": 12.0
+      },
+      {
+        "player": "Oier Llorente",
+        "odds": 12.0
+      },
+      {
+        "player": "Carlos Luengo",
+        "odds": 13.0
+      },
+      {
+        "player": "Hodei Arrillaga",
+        "odds": 13.0
+      },
+      {
+        "player": "Juan Bernat",
+        "odds": 13.0
+      },
+      {
+        "player": "Marco Moreno",
+        "odds": 13.0
+      },
+      {
+        "player": "Nemanja Radoja",
+        "odds": 13.0
+      },
+      {
+        "player": "Quique Fornos",
+        "odds": 13.0
+      },
+      {
+        "player": "Sergio Cubero",
+        "odds": 13.0
+      },
+      {
+        "player": "Tomas Ribeiro",
+        "odds": 13.0
+      },
+      {
+        "player": "Victor Garcia Fernandez",
+        "odds": 13.0
+      },
+      {
+        "player": "Anaitz Arbilla",
+        "odds": 17.0
+      },
+      {
+        "player": "Aritz Arambarri",
+        "odds": 17.0
+      },
+      {
+        "player": "Eneko Satrustegui",
+        "odds": 17.0
+      },
+      {
+        "player": "Peru Rodriguez",
+        "odds": 17.0
+      },
+      {
+        "player": "Silos Jair Amador",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Luis Chacon",
+        "odds": 1.025
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 1.03
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 1.04
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.04
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 1.05
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.05
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 1.062
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 1.071
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 1.071
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 1.083
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 1.083
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 1.083
+      },
+      {
+        "player": "Javi Martinez",
+        "odds": 1.1
+      },
+      {
+        "player": "Ruben Sobrino",
+        "odds": 1.111
+      },
+      {
+        "player": "Lucas Ribeiro Costa",
+        "odds": 1.143
+      },
+      {
+        "player": "Luis Chacon",
+        "odds": 1.143
+      },
+      {
+        "player": "Hugo Garcia",
+        "odds": 1.143
+      },
+      {
+        "player": "Jon Magunazelaya",
+        "odds": 1.143
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 1.143
+      },
+      {
+        "player": "Ander Madariaga",
+        "odds": 1.167
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 1.167
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.167
+      },
+      {
+        "player": "Ivan Calero",
+        "odds": 1.182
+      },
+      {
+        "player": "Rafael Tresaco",
+        "odds": 1.2
+      },
+      {
+        "player": "Toni Villa",
+        "odds": 1.2
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 1.2
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 1.222
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 1.222
+      },
+      {
+        "player": "Marcos de la Riva",
+        "odds": 1.25
+      },
+      {
+        "player": "Nico Toca",
+        "odds": 1.25
+      },
+      {
+        "player": "Yayo Gonzalez",
+        "odds": 1.25
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 1.25
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 1.286
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 1.286
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 1.286
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.286
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 1.3
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 1.3
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 1.3
+      },
+      {
+        "player": "Javier Bicho",
+        "odds": 1.333
+      },
+      {
+        "player": "Selu Diallo",
+        "odds": 1.333
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 1.333
+      },
+      {
+        "player": "Javi Martinez",
+        "odds": 1.333
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 1.364
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 1.364
+      },
+      {
+        "player": "Ruben Sobrino",
+        "odds": 1.364
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 1.4
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 1.4
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 1.4
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.4
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Jon Bautista",
+        "odds": 1.222
+      },
+      {
+        "player": "Luis Chacon",
+        "odds": 1.333
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 1.4
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 1.5
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 1.5
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 1.571
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 1.571
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 1.571
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 1.571
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 1.615
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 1.667
+      },
+      {
+        "player": "Ruben Sobrino",
+        "odds": 1.727
+      },
+      {
+        "player": "Luis Chacon",
+        "odds": 1.8
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 1.8
+      },
+      {
+        "player": "Lucas Ribeiro Costa",
+        "odds": 1.833
+      },
+      {
+        "player": "Hugo Garcia",
+        "odds": 1.833
+      },
+      {
+        "player": "Javi Martinez",
+        "odds": 1.833
+      },
+      {
+        "player": "Jon Magunazelaya",
+        "odds": 1.833
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 1.909
+      },
+      {
+        "player": "Ivan Calero",
+        "odds": 2.0
+      },
+      {
+        "player": "Jon Bautista",
+        "odds": 2.0
+      },
+      {
+        "player": "Rafael Tresaco",
+        "odds": 2.1
+      },
+      {
+        "player": "Manu Justo",
+        "odds": 2.1
+      },
+      {
+        "player": "Toni Villa",
+        "odds": 2.1
+      },
+      {
+        "player": "Jose Corpas",
+        "odds": 2.1
+      },
+      {
+        "player": "Marcos de la Riva",
+        "odds": 2.25
+      },
+      {
+        "player": "Nico Toca",
+        "odds": 2.25
+      },
+      {
+        "player": "Yayo Gonzalez",
+        "odds": 2.25
+      },
+      {
+        "player": "Alejandro Morante",
+        "odds": 2.25
+      },
+      {
+        "player": "Diego Collado",
+        "odds": 2.25
+      },
+      {
+        "player": "Victor Moreno",
+        "odds": 2.25
+      },
+      {
+        "player": "Ander Madariaga",
+        "odds": 2.25
+      },
+      {
+        "player": "Xeber Alkain",
+        "odds": 2.25
+      },
+      {
+        "player": "Adu Ares",
+        "odds": 2.375
+      },
+      {
+        "player": "Javier Bicho",
+        "odds": 2.5
+      },
+      {
+        "player": "Selu Diallo",
+        "odds": 2.5
+      },
+      {
+        "player": "Luis Chacon",
+        "odds": 2.5
+      },
+      {
+        "player": "Ruben Sobrino",
+        "odds": 2.5
+      },
+      {
+        "player": "Jon Guruzeta",
+        "odds": 2.625
+      },
+      {
+        "player": "Jon Magunazelaya",
+        "odds": 2.625
+      },
+      {
+        "player": "Lucas Ribeiro Costa",
+        "odds": 2.75
+      },
+      {
+        "player": "Hugo Garcia",
+        "odds": 2.75
+      },
+      {
+        "player": "Javi Martinez",
+        "odds": 2.75
+      },
+      {
+        "player": "Roger Hinojo",
+        "odds": 3.0
+      },
+      {
+        "player": "Thiago Ojeda",
+        "odds": 3.0
+      },
+      {
+        "player": "Aleix Garrido",
+        "odds": 3.0
+      },
+      {
+        "player": "Alvaro Rodriguez",
+        "odds": 3.0
+      },
+      {
+        "player": "Marc Delgado",
+        "odds": 3.0
+      },
+      {
+        "player": "Peru Nolaskoain",
+        "odds": 3.0
+      },
+      {
+        "player": "Javier Marton",
+        "odds": 3.0
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 101.0,
+      "1ª mitad": 101.0,
+      "2ª mitad": 81.0,
+      "Primeros 10 minutos": 10.0,
+      "primeros 10 minutos": 10.0
+    }
+  }
+}

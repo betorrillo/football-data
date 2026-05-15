@@ -1,0 +1,763 @@
+{
+  "meta": {
+    "id": "2026-05-15_alaves-vs-oviedo",
+    "scraped_at": "2026-05-15T16:39:12.230226",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Alavés",
+    "away_team": "Real Oviedo",
+    "bet365_event_id": "193332417",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 1.909,
+      "home_or_draw": 1.286,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.05,
+        "1.5": 1.286,
+        "2.5": 1.909,
+        "3.5": 3.2,
+        "4.5": 6.0,
+        "5.5": 13.0,
+        "6.5": 26.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 11.0,
+        "2.5": 3.75,
+        "3.5": 1.909,
+        "4.5": 1.364,
+        "5.5": 1.125,
+        "6.5": 1.04,
+        "7.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.8,
+        "10.5": 2.25,
+        "11.5": 3.0,
+        "12.5": 4.333,
+        "13.5": 6.0,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 1.909,
+        "11.5": 1.571,
+        "12.5": 1.364,
+        "13.5": 1.2,
+        "14.5": 1.125,
+        "15.5": 1.062,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.4,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.75,
+        "4.5": 4.5,
+        "5.5": 8.0,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.5,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.952,
+        "4.5": 1.444,
+        "5.5": 1.182,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.1,
+        "10.5": 1.05,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 29.0,
+        "3.5": 4.0,
+        "4.5": 7.5,
+        "5.5": 13.0,
+        "6.5": 21.0,
+        "7.5": 8.0,
+        "8.5": 13.0,
+        "9.5": 19.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.571,
+        "4.5": 1.222,
+        "5.5": 1.083,
+        "6.5": 1.03,
+        "7.5": 1.167,
+        "8.5": 1.062,
+        "9.5": 1.036
+      }
+    },
+    "ht_ft": {
+      "Real Oviedo": 34.0,
+      "Empate": 13.0,
+      "Alavés": 3.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Lucas Boye",
+        "odds": 2.2
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 2.375
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 2.375
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 2.5
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 2.75
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 2.875
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 3.1
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 3.4
+      },
+      {
+        "player": "Thiago Borbas",
+        "odds": 3.4
+      },
+      {
+        "player": "Alex Fores",
+        "odds": 3.6
+      },
+      {
+        "player": "Denis Suarez",
+        "odds": 3.6
+      },
+      {
+        "player": "Calebe",
+        "odds": 3.6
+      },
+      {
+        "player": "Jon Guridi",
+        "odds": 3.6
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 3.6
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 4.333
+      },
+      {
+        "player": "Angel Hidalgo Perez",
+        "odds": 4.333
+      },
+      {
+        "player": "Haissem Hassan",
+        "odds": 4.333
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 4.333
+      },
+      {
+        "player": "Lander Pinillos",
+        "odds": 4.333
+      },
+      {
+        "player": "Thiago Fernandez",
+        "odds": 4.333
+      },
+      {
+        "player": "Alberto Reina",
+        "odds": 5.0
+      },
+      {
+        "player": "Luka Ilic",
+        "odds": 5.0
+      },
+      {
+        "player": "Santi Cazorla",
+        "odds": 5.0
+      },
+      {
+        "player": "Antonio Blanco",
+        "odds": 5.5
+      },
+      {
+        "player": "Oviemuno Ejaria",
+        "odds": 7.0
+      },
+      {
+        "player": "Carlos Ballestero",
+        "odds": 8.0
+      },
+      {
+        "player": "Carlos Protesoni",
+        "odds": 8.0
+      },
+      {
+        "player": "Jon Pacheco",
+        "odds": 8.0
+      },
+      {
+        "player": "Kwasi Sibo",
+        "odds": 8.0
+      },
+      {
+        "player": "Nahuel Tenaglia",
+        "odds": 8.0
+      },
+      {
+        "player": "Omar Falah",
+        "odds": 8.0
+      },
+      {
+        "player": "Santiago Colombatto",
+        "odds": 8.0
+      },
+      {
+        "player": "Facundo Garces",
+        "odds": 8.5
+      },
+      {
+        "player": "Nicolas Fonseca",
+        "odds": 8.5
+      },
+      {
+        "player": "Pablo Agudin",
+        "odds": 8.5
+      },
+      {
+        "player": "Ander Guevara",
+        "odds": 9.5
+      },
+      {
+        "player": "Egoitz Munoz",
+        "odds": 9.5
+      },
+      {
+        "player": "Leander Dendoncker",
+        "odds": 9.5
+      },
+      {
+        "player": "Victor Parada",
+        "odds": 9.5
+      },
+      {
+        "player": "Youseff Enriquez",
+        "odds": 9.5
+      },
+      {
+        "player": "Castro Jonny Otto",
+        "odds": 13.0
+      },
+      {
+        "player": "David Carmo",
+        "odds": 13.0
+      },
+      {
+        "player": "Javier Lopez",
+        "odds": 13.0
+      },
+      {
+        "player": "Marco Esteban",
+        "odds": 13.0
+      },
+      {
+        "player": "Nacho Vidal",
+        "odds": 13.0
+      },
+      {
+        "player": "Ville Koski",
+        "odds": 13.0
+      },
+      {
+        "player": "Dani Calvo",
+        "odds": 15.0
+      },
+      {
+        "player": "David Costas",
+        "odds": 15.0
+      },
+      {
+        "player": "Lucas Ahijado",
+        "odds": 15.0
+      },
+      {
+        "player": "Rahim Alhassane",
+        "odds": 15.0
+      },
+      {
+        "player": "Eric Bailly",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Federico Vinas",
+        "odds": 1.012
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.025
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.025
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.025
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.03
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 1.04
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 1.04
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 1.04
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 1.04
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 1.05
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 1.05
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.05
+      },
+      {
+        "player": "Angel Hidalgo Perez",
+        "odds": 1.062
+      },
+      {
+        "player": "Jon Guridi",
+        "odds": 1.062
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.062
+      },
+      {
+        "player": "Thiago Borbas",
+        "odds": 1.071
+      },
+      {
+        "player": "Alex Fores",
+        "odds": 1.083
+      },
+      {
+        "player": "Denis Suarez",
+        "odds": 1.083
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.083
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 1.1
+      },
+      {
+        "player": "Alberto Reina",
+        "odds": 1.111
+      },
+      {
+        "player": "Haissem Hassan",
+        "odds": 1.111
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 1.111
+      },
+      {
+        "player": "Thiago Fernandez",
+        "odds": 1.143
+      },
+      {
+        "player": "Lander Pinillos",
+        "odds": 1.143
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.143
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.143
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.143
+      },
+      {
+        "player": "Antonio Blanco",
+        "odds": 1.167
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.167
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.167
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.167
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.167
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 1.167
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.182
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.182
+      },
+      {
+        "player": "Luka Ilic",
+        "odds": 1.2
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 1.2
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 1.2
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 1.2
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 1.2
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.2
+      },
+      {
+        "player": "Santi Cazorla",
+        "odds": 1.222
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 1.222
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 1.222
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 1.222
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 1.222
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 1.222
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 1.25
+      },
+      {
+        "player": "Angel Hidalgo Perez",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Lucas Boye",
+        "odds": 1.125
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 1.25
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.286
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.286
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.333
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.364
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 1.4
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.4
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 1.444
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 1.5
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.5
+      },
+      {
+        "player": "Jon Guridi",
+        "odds": 1.533
+      },
+      {
+        "player": "Thiago Borbas",
+        "odds": 1.571
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 1.571
+      },
+      {
+        "player": "Alex Fores",
+        "odds": 1.615
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 1.615
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 1.615
+      },
+      {
+        "player": "Angel Hidalgo Perez",
+        "odds": 1.615
+      },
+      {
+        "player": "Denis Suarez",
+        "odds": 1.615
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 1.667
+      },
+      {
+        "player": "Lucas Boye",
+        "odds": 1.667
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 1.727
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.727
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.727
+      },
+      {
+        "player": "Haissem Hassan",
+        "odds": 1.833
+      },
+      {
+        "player": "Thiago Fernandez",
+        "odds": 1.833
+      },
+      {
+        "player": "Lander Pinillos",
+        "odds": 1.833
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.833
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.833
+      },
+      {
+        "player": "Antonio Martinez",
+        "odds": 1.833
+      },
+      {
+        "player": "Ibrahim Diabate",
+        "odds": 1.833
+      },
+      {
+        "player": "Alberto Reina",
+        "odds": 1.909
+      },
+      {
+        "player": "Antonio Blanco",
+        "odds": 1.909
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 1.909
+      },
+      {
+        "player": "Aitor Manas",
+        "odds": 1.909
+      },
+      {
+        "player": "Calebe",
+        "odds": 1.909
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 2.0
+      },
+      {
+        "player": "Mariano Diaz",
+        "odds": 2.0
+      },
+      {
+        "player": "Luka Ilic",
+        "odds": 2.1
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 2.1
+      },
+      {
+        "player": "Pablo Ibanez",
+        "odds": 2.1
+      },
+      {
+        "player": "Federico Vinas",
+        "odds": 2.2
+      },
+      {
+        "player": "Thiago Borbas",
+        "odds": 2.2
+      },
+      {
+        "player": "Carles Alena",
+        "odds": 2.2
+      },
+      {
+        "player": "Jon Guridi",
+        "odds": 2.2
+      },
+      {
+        "player": "Diego Morcillo",
+        "odds": 2.2
+      },
+      {
+        "player": "Alex Fores",
+        "odds": 2.25
+      },
+      {
+        "player": "Ilyas Chaira",
+        "odds": 2.25
+      },
+      {
+        "player": "Thiago Borbas",
+        "odds": 2.25
+      },
+      {
+        "player": "Abde Rebbach",
+        "odds": 2.25
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 301.0,
+      "encuentro": 151.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 301.0,
+      "Primeros 10 minutos": 201.0,
+      "primeros 10 minutos": 7.0
+    }
+  }
+}

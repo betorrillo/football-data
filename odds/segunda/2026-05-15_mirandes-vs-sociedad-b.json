@@ -1,0 +1,801 @@
+{
+  "meta": {
+    "id": "2026-05-15_mirandes-vs-sociedad-b",
+    "scraped_at": "2026-05-15T16:39:06.928721",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Mirandés",
+    "away_team": "Real Sociedad B",
+    "bet365_event_id": "193003648",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 1.667,
+      "home_or_draw": 1.364,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.222,
+        "2.5": 1.727,
+        "3.5": 2.75,
+        "4.5": 5.5,
+        "5.5": 11.0,
+        "6.5": 21.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 13.0,
+        "2.5": 4.0,
+        "3.5": 2.075,
+        "4.5": 1.4,
+        "5.5": 1.143,
+        "6.5": 1.05,
+        "7.5": 1.015
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.05,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.727,
+        "10.5": 2.2,
+        "11.5": 3.0,
+        "12.5": 4.0,
+        "13.5": 6.0,
+        "14.5": 9.0,
+        "15.5": 12.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 11.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 2.0,
+        "11.5": 1.615,
+        "12.5": 1.364,
+        "13.5": 1.222,
+        "14.5": 1.125,
+        "15.5": 1.071,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.5,
+        "1.5": 9.5,
+        "2.5": 26.0,
+        "3.5": 3.0,
+        "4.5": 5.0,
+        "5.5": 9.5,
+        "6.5": 15.0,
+        "7.5": 23.0,
+        "8.5": 7.5,
+        "9.5": 12.0,
+        "10.5": 17.0,
+        "11.5": 23.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.833,
+        "4.5": 1.364,
+        "5.5": 1.143,
+        "6.5": 1.056,
+        "7.5": 1.025,
+        "8.5": 1.167,
+        "9.5": 1.071,
+        "10.5": 1.036,
+        "11.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 11.0,
+        "2.5": 29.0,
+        "3.5": 3.25,
+        "4.5": 6.0,
+        "5.5": 11.0,
+        "6.5": 17.0,
+        "7.5": 29.0,
+        "8.5": 9.5,
+        "9.5": 15.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.05,
+        "3.5": 1.727,
+        "4.5": 1.3,
+        "5.5": 1.111,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.111,
+        "9.5": 1.05,
+        "10.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Real Sociedad B": 26.0,
+      "Empate": 13.0,
+      "Mirandés": 3.4
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Alberto Mari",
+        "odds": 1.952
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 2.4
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 2.4
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 2.6
+      },
+      {
+        "player": "Javier Hernández",
+        "odds": 2.6
+      },
+      {
+        "player": "Luna Carlos Fernandez",
+        "odds": 2.6
+      },
+      {
+        "player": "Julen Martinez",
+        "odds": 2.75
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 2.75
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 2.75
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 2.75
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 2.75
+      },
+      {
+        "player": "Ekain Orobengoa",
+        "odds": 3.0
+      },
+      {
+        "player": "Jakes Gorosabel",
+        "odds": 3.0
+      },
+      {
+        "player": "Mikel Rodriguez",
+        "odds": 3.25
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 3.6
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 3.6
+      },
+      {
+        "player": "Ali Houary",
+        "odds": 3.75
+      },
+      {
+        "player": "Iker Varela",
+        "odds": 3.75
+      },
+      {
+        "player": "Alex Marchal",
+        "odds": 4.0
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 4.5
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 4.5
+      },
+      {
+        "player": "Hugo Novoa",
+        "odds": 4.5
+      },
+      {
+        "player": "Thiago Helguera",
+        "odds": 4.5
+      },
+      {
+        "player": "Aaron Martin",
+        "odds": 4.75
+      },
+      {
+        "player": "Rafael Bauza",
+        "odds": 4.75
+      },
+      {
+        "player": "Alberto Dadie",
+        "odds": 5.5
+      },
+      {
+        "player": "Andrews Adjabeng",
+        "odds": 5.5
+      },
+      {
+        "player": "Dario Ramirez",
+        "odds": 5.5
+      },
+      {
+        "player": "Gorka Gorosabel",
+        "odds": 5.5
+      },
+      {
+        "player": "Jon Eceizabarrena",
+        "odds": 5.5
+      },
+      {
+        "player": "Pablo Perez",
+        "odds": 5.5
+      },
+      {
+        "player": "Sergio Gabriel",
+        "odds": 5.5
+      },
+      {
+        "player": "Mickael Malsa",
+        "odds": 6.0
+      },
+      {
+        "player": "Ibai Aguirre",
+        "odds": 7.0
+      },
+      {
+        "player": "Jorge Cabello",
+        "odds": 7.0
+      },
+      {
+        "player": "Silvi Clua",
+        "odds": 7.0
+      },
+      {
+        "player": "Joan Oleaga",
+        "odds": 7.5
+      },
+      {
+        "player": "Jon de Orue",
+        "odds": 7.5
+      },
+      {
+        "player": "Manuel Ruiz",
+        "odds": 7.5
+      },
+      {
+        "player": "Alex Lebarbier",
+        "odds": 9.5
+      },
+      {
+        "player": "Jon Garro",
+        "odds": 9.5
+      },
+      {
+        "player": "Pello Arana",
+        "odds": 9.5
+      },
+      {
+        "player": "Tomy Carbonell",
+        "odds": 9.5
+      },
+      {
+        "player": "Unax Larranaga",
+        "odds": 9.5
+      },
+      {
+        "player": "Hodei Alutiz",
+        "odds": 10.0
+      },
+      {
+        "player": "Iker Cordoba",
+        "odds": 10.0
+      },
+      {
+        "player": "Jon Balda",
+        "odds": 10.0
+      },
+      {
+        "player": "Martin Pascual",
+        "odds": 10.0
+      },
+      {
+        "player": "Adrian Pica",
+        "odds": 12.0
+      },
+      {
+        "player": "Anartz Segurola",
+        "odds": 12.0
+      },
+      {
+        "player": "Fernando Medrano",
+        "odds": 12.0
+      },
+      {
+        "player": "Iker Calderon",
+        "odds": 12.0
+      },
+      {
+        "player": "Inaki Ruperez",
+        "odds": 12.0
+      },
+      {
+        "player": "Juan Gutierrez",
+        "odds": 12.0
+      },
+      {
+        "player": "Sergio Postigo",
+        "odds": 12.0
+      },
+      {
+        "player": "Unax Agote",
+        "odds": 12.0
+      },
+      {
+        "player": "Kazunari Kita",
+        "odds": 15.0
+      },
+      {
+        "player": "Luken Beitia",
+        "odds": 15.0
+      },
+      {
+        "player": "Nikola Maras",
+        "odds": 15.0
+      },
+      {
+        "player": "Eneko Astigarraga",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Alberto Mari",
+        "odds": 1.012
+      },
+      {
+        "player": "Mikel Rodriguez",
+        "odds": 1.015
+      },
+      {
+        "player": "Javier Hernández",
+        "odds": 1.015
+      },
+      {
+        "player": "Luna Carlos Fernandez",
+        "odds": 1.015
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 1.025
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.03
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 1.04
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 1.04
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 1.04
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 1.04
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 1.04
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 1.04
+      },
+      {
+        "player": "Ekain Orobengoa",
+        "odds": 1.05
+      },
+      {
+        "player": "Jakes Gorosabel",
+        "odds": 1.05
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 1.062
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 1.071
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 1.083
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 1.1
+      },
+      {
+        "player": "Ali Houary",
+        "odds": 1.1
+      },
+      {
+        "player": "Iker Varela",
+        "odds": 1.1
+      },
+      {
+        "player": "Alberto Mari",
+        "odds": 1.1
+      },
+      {
+        "player": "Alex Marchal",
+        "odds": 1.111
+      },
+      {
+        "player": "Mikel Rodriguez",
+        "odds": 1.111
+      },
+      {
+        "player": "Rafael Bauza",
+        "odds": 1.111
+      },
+      {
+        "player": "Javier Hernández",
+        "odds": 1.111
+      },
+      {
+        "player": "Luna Carlos Fernandez",
+        "odds": 1.111
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 1.143
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 1.167
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 1.167
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.167
+      },
+      {
+        "player": "Hugo Novoa",
+        "odds": 1.167
+      },
+      {
+        "player": "Pablo Perez",
+        "odds": 1.167
+      },
+      {
+        "player": "Thiago Helguera",
+        "odds": 1.167
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 1.167
+      },
+      {
+        "player": "Aaron Martin",
+        "odds": 1.182
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.2
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 1.2
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 1.2
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 1.2
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 1.2
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 1.2
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 1.222
+      },
+      {
+        "player": "Ekain Orobengoa",
+        "odds": 1.222
+      },
+      {
+        "player": "Jakes Gorosabel",
+        "odds": 1.222
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 1.222
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 1.222
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 1.222
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 1.222
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 1.222
+      },
+      {
+        "player": "Alberto Dadie",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Alberto Mari",
+        "odds": 1.2
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 1.2
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 1.3
+      },
+      {
+        "player": "Javier Hernández",
+        "odds": 1.364
+      },
+      {
+        "player": "Mikel Rodriguez",
+        "odds": 1.4
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 1.4
+      },
+      {
+        "player": "Luna Carlos Fernandez",
+        "odds": 1.4
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 1.4
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 1.4
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 1.4
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 1.4
+      },
+      {
+        "player": "Ekain Orobengoa",
+        "odds": 1.444
+      },
+      {
+        "player": "Jakes Gorosabel",
+        "odds": 1.444
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.444
+      },
+      {
+        "player": "Alberto Mari",
+        "odds": 1.533
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 1.571
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 1.615
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 1.615
+      },
+      {
+        "player": "Ali Houary",
+        "odds": 1.667
+      },
+      {
+        "player": "Iker Varela",
+        "odds": 1.667
+      },
+      {
+        "player": "Alex Marchal",
+        "odds": 1.727
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 1.727
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 1.8
+      },
+      {
+        "player": "Mikel Rodriguez",
+        "odds": 1.833
+      },
+      {
+        "player": "Hugo Novoa",
+        "odds": 1.833
+      },
+      {
+        "player": "Thiago Helguera",
+        "odds": 1.833
+      },
+      {
+        "player": "Diego Sia",
+        "odds": 1.833
+      },
+      {
+        "player": "Javier Hernández",
+        "odds": 1.833
+      },
+      {
+        "player": "Luna Carlos Fernandez",
+        "odds": 1.833
+      },
+      {
+        "player": "Alberto Mari",
+        "odds": 1.909
+      },
+      {
+        "player": "Marcos Gracia",
+        "odds": 1.909
+      },
+      {
+        "player": "Salim El Jebari",
+        "odds": 1.909
+      },
+      {
+        "player": "Siren Diao",
+        "odds": 1.909
+      },
+      {
+        "player": "Toni Tamarit",
+        "odds": 1.909
+      },
+      {
+        "player": "Ekain Orobengoa",
+        "odds": 2.0
+      },
+      {
+        "player": "Jakes Gorosabel",
+        "odds": 2.0
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 2.0
+      },
+      {
+        "player": "Aaron Martin",
+        "odds": 2.0
+      },
+      {
+        "player": "Rafael Bauza",
+        "odds": 2.0
+      },
+      {
+        "player": "Unax del Cura",
+        "odds": 2.0
+      },
+      {
+        "player": "Pablo Perez",
+        "odds": 2.1
+      },
+      {
+        "player": "Alberto Dadie",
+        "odds": 2.25
+      },
+      {
+        "player": "Andrews Adjabeng",
+        "odds": 2.25
+      },
+      {
+        "player": "Dario Ramirez",
+        "odds": 2.25
+      },
+      {
+        "player": "Gorka Gorosabel",
+        "odds": 2.25
+      },
+      {
+        "player": "Jon Eceizabarrena",
+        "odds": 2.25
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 2.25
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 2.25
+      },
+      {
+        "player": "Sergio Gabriel",
+        "odds": 2.25
+      },
+      {
+        "player": "Gorka Carrera",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 67.0,
+      "1ª mitad": 101.0,
+      "2ª mitad": 23.0,
+      "Primeros 10 minutos": 10.0,
+      "primeros 10 minutos": 8.0
+    }
+  }
+}

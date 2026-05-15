@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "id": "2026-05-15_como-vs-parma",
+    "scraped_at": "2026-05-15T16:38:50.848783",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Como",
+    "away_team": "Parma",
+    "bet365_event_id": "193714563",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.05,
+      "draw_or_away": 3.75,
+      "home_or_away": 1.167
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.2,
+        "2.5": 1.615,
+        "3.5": 2.625,
+        "4.5": 4.5,
+        "5.5": 9.0,
+        "6.5": 19.0,
+        "7.5": 34.0
+      },
+      "under": {
+        "1.5": 13.0,
+        "2.5": 4.5,
+        "3.5": 2.3,
+        "4.5": 1.5,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.02
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.05,
+        "5.5": 1.111,
+        "6.5": 1.25,
+        "7.5": 1.444,
+        "8.5": 1.8,
+        "9.5": 2.25,
+        "10.5": 3.25,
+        "11.5": 4.333,
+        "12.5": 6.5,
+        "13.5": 10.0,
+        "14.5": 13.0,
+        "15.5": 19.0
+      },
+      "under": {
+        "4.5": 23.0,
+        "5.5": 11.0,
+        "6.5": 6.5,
+        "7.5": 3.75,
+        "8.5": 2.625,
+        "9.5": 1.909,
+        "10.5": 1.571,
+        "11.5": 1.333,
+        "12.5": 1.2,
+        "13.5": 1.111,
+        "14.5": 1.062,
+        "15.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.0,
+        "1.5": 6.0,
+        "2.5": 19.0,
+        "3.5": 34.0,
+        "4.5": 3.75,
+        "5.5": 6.5,
+        "6.5": 11.0,
+        "7.5": 17.0,
+        "8.5": 26.0,
+        "9.5": 6.0,
+        "10.5": 9.0,
+        "11.5": 13.0,
+        "12.5": 19.0,
+        "13.5": 26.0
+      },
+      "under": {
+        "1.5": 1.727,
+        "2.5": 1.111,
+        "3.5": 1.025,
+        "4.5": 1.571,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.045,
+        "8.5": 1.02,
+        "9.5": 1.222,
+        "10.5": 1.111,
+        "11.5": 1.056,
+        "12.5": 1.03,
+        "13.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 4.5,
+        "1.5": 23.0,
+        "2.5": 51.0,
+        "3.5": 11.0,
+        "4.5": 21.0,
+        "5.5": 13.0,
+        "6.5": 23.0
+      },
+      "under": {
+        "1.5": 1.182,
+        "2.5": 1.02,
+        "3.5": 1.143,
+        "4.5": 1.045,
+        "5.5": 1.111,
+        "6.5": 1.04
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 2.25
+      },
+      "under": {
+        "3.5": 2.375
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 126.0
+      },
+      "under": {
+        "1.5": 1.025
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 3.25
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.2
+      }
+    },
+    "ht_ft": {
+      "Como": 21.0,
+      "Empate": 23.0,
+      "Parma": 21.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.8
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 2.1
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 2.1
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 2.1
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 2.25
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 2.4
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 2.6
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 2.6
+      },
+      {
+        "player": "Carnicer Sergi Roberto",
+        "odds": 3.75
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 3.75
+      },
+      {
+        "player": "Mergim Vojvoda",
+        "odds": 3.75
+      },
+      {
+        "player": "Maxence Caqueret",
+        "odds": 4.0
+      },
+      {
+        "player": "Adrian Lahdo",
+        "odds": 4.333
+      },
+      {
+        "player": "Alberto Moreno",
+        "odds": 4.75
+      },
+      {
+        "player": "Mateo Pellegrino",
+        "odds": 5.5
+      },
+      {
+        "player": "Alex Valle",
+        "odds": 6.0
+      },
+      {
+        "player": "Jacobo Ramon",
+        "odds": 6.0
+      },
+      {
+        "player": "Maximo Perrone",
+        "odds": 6.0
+      },
+      {
+        "player": "Nesta Elphege",
+        "odds": 6.0
+      },
+      {
+        "player": "Gabriel Strefezza",
+        "odds": 6.5
+      },
+      {
+        "player": "Gaetano Oristanio",
+        "odds": 7.5
+      },
+      {
+        "player": "Ignace van der Brempt",
+        "odds": 7.5
+      },
+      {
+        "player": "Jacob Ondrejka",
+        "odds": 7.5
+      },
+      {
+        "player": "Marc-Oliver Kempf",
+        "odds": 7.5
+      },
+      {
+        "player": "Pontus Almqvist",
+        "odds": 7.5
+      },
+      {
+        "player": "Diego Carlos",
+        "odds": 7.5
+      },
+      {
+        "player": "Adrian Bernabe",
+        "odds": 9.0
+      },
+      {
+        "player": "Edoardo Goldaniga",
+        "odds": 9.0
+      },
+      {
+        "player": "Ivan Smolcic",
+        "odds": 9.0
+      },
+      {
+        "player": "Benjamin Cremaschi",
+        "odds": 10.0
+      },
+      {
+        "player": "Hans Nicolussi Caviglia",
+        "odds": 10.0
+      },
+      {
+        "player": "Oliver Sorensen",
+        "odds": 10.0
+      },
+      {
+        "player": "Sascha Britschgi",
+        "odds": 10.0
+      },
+      {
+        "player": "Christian Ordonez",
+        "odds": 12.0
+      },
+      {
+        "player": "Nahuel Estevez",
+        "odds": 12.0
+      },
+      {
+        "player": "Emanuele Valeri",
+        "odds": 15.0
+      },
+      {
+        "player": "Franco Carboni",
+        "odds": 17.0
+      },
+      {
+        "player": "Lautaro Valenti",
+        "odds": 17.0
+      },
+      {
+        "player": "Mandela Keita",
+        "odds": 17.0
+      },
+      {
+        "player": "Niakhate Ndiaye",
+        "odds": 17.0
+      },
+      {
+        "player": "Alessandro Circati",
+        "odds": 21.0
+      },
+      {
+        "player": "Enrico Del Prato",
+        "odds": 21.0
+      },
+      {
+        "player": "Mariano Troilo",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Assane Diao",
+        "odds": 1.01
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.015
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.015
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.015
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.02
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.025
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.03
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.04
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 1.05
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.05
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.062
+      },
+      {
+        "player": "Maxence Caqueret",
+        "odds": 1.071
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.071
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.083
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.083
+      },
+      {
+        "player": "Carnicer Sergi Roberto",
+        "odds": 1.1
+      },
+      {
+        "player": "Mergim Vojvoda",
+        "odds": 1.1
+      },
+      {
+        "player": "Alberto Moreno",
+        "odds": 1.111
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.111
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.111
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.111
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.111
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.125
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.125
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.125
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.143
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.143
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.167
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.167
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.167
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.167
+      },
+      {
+        "player": "Jacobo Ramon",
+        "odds": 1.182
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.2
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 1.2
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.222
+      },
+      {
+        "player": "Mateo Pellegrino",
+        "odds": 1.222
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 1.25
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.25
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.286
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.286
+      },
+      {
+        "player": "Maxence Caqueret",
+        "odds": 1.286
+      },
+      {
+        "player": "Jacob Ondrejka",
+        "odds": 1.286
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.3
+      },
+      {
+        "player": "Alex Valle",
+        "odds": 1.333
+      },
+      {
+        "player": "Maximo Perrone",
+        "odds": 1.333
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.333
+      },
+      {
+        "player": "Carnicer Sergi Roberto",
+        "odds": 1.333
+      },
+      {
+        "player": "Mergim Vojvoda",
+        "odds": 1.333
+      },
+      {
+        "player": "Gabriel Strefezza",
+        "odds": 1.333
+      },
+      {
+        "player": "Gaetano Oristanio",
+        "odds": 1.333
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.062
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.125
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.182
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.222
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.25
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.25
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.25
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.333
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.333
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.364
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 1.364
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.4
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.5
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.5
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 1.571
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.571
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.615
+      },
+      {
+        "player": "Carnicer Sergi Roberto",
+        "odds": 1.667
+      },
+      {
+        "player": "Mergim Vojvoda",
+        "odds": 1.667
+      },
+      {
+        "player": "Anastasios Douvikas",
+        "odds": 1.667
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.667
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.667
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 1.667
+      },
+      {
+        "player": "Maxence Caqueret",
+        "odds": 1.727
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 1.727
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.8
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 1.8
+      },
+      {
+        "player": "Alberto Moreno",
+        "odds": 1.833
+      },
+      {
+        "player": "Alvaro Morata",
+        "odds": 1.833
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 1.833
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 1.833
+      },
+      {
+        "player": "Samuele Pisati",
+        "odds": 2.0
+      },
+      {
+        "player": "Nicolas Kuhn",
+        "odds": 2.0
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 2.1
+      },
+      {
+        "player": "Mateo Pellegrino",
+        "odds": 2.1
+      },
+      {
+        "player": "Assane Diao",
+        "odds": 2.2
+      },
+      {
+        "player": "Jesus Rodriguez",
+        "odds": 2.2
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 2.2
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 2.2
+      },
+      {
+        "player": "Jacobo Ramon",
+        "odds": 2.25
+      },
+      {
+        "player": "Carnicer Sergi Roberto",
+        "odds": 2.375
+      },
+      {
+        "player": "Mergim Vojvoda",
+        "odds": 2.375
+      },
+      {
+        "player": "Lucas Da Cunha",
+        "odds": 2.375
+      },
+      {
+        "player": "Jacob Ondrejka",
+        "odds": 2.375
+      },
+      {
+        "player": "Alex Valle",
+        "odds": 2.5
+      },
+      {
+        "player": "Maximo Perrone",
+        "odds": 2.5
+      },
+      {
+        "player": "Martin Baturina",
+        "odds": 2.5
+      },
+      {
+        "player": "Maxence Caqueret",
+        "odds": 2.5
+      },
+      {
+        "player": "Nicolas Paz",
+        "odds": 2.5
+      },
+      {
+        "player": "Nesta Elphege",
+        "odds": 2.5
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 201.0,
+      "encuentro": 101.0,
+      "1ª mitad": 51.0,
+      "2ª mitad": 251.0,
+      "Primeros 10 minutos": 67.0,
+      "primeros 10 minutos": 17.0
+    }
+  }
+}

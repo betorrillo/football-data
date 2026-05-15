@@ -1,0 +1,765 @@
+{
+  "meta": {
+    "id": "2026-05-15_deportivo-de-la-coruna-vs-andorra",
+    "scraped_at": "2026-05-15T16:39:01.797344",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Deportivo de La Coruña",
+    "away_team": "FC Andorra",
+    "bet365_event_id": "193003629",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.2,
+      "draw_or_away": 2.15,
+      "home_or_away": 1.2
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.025,
+        "1.5": 1.143,
+        "2.5": 1.533,
+        "3.5": 2.2,
+        "4.5": 3.75,
+        "5.5": 7.0,
+        "6.5": 15.0,
+        "7.5": 29.0
+      },
+      "under": {
+        "1.5": 17.0,
+        "2.5": 5.5,
+        "3.5": 2.4,
+        "4.5": 1.615,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.03
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.286,
+        "8.5": 1.5,
+        "9.5": 1.833,
+        "10.5": 2.375,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.5,
+        "9.5": 2.5,
+        "10.5": 1.833,
+        "11.5": 1.533,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.5,
+        "1.5": 9.0,
+        "2.5": 23.0,
+        "3.5": 2.875,
+        "4.5": 4.75,
+        "5.5": 8.5,
+        "6.5": 15.0,
+        "7.5": 23.0,
+        "8.5": 6.5,
+        "9.5": 10.0,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.909,
+        "4.5": 1.4,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.2,
+        "9.5": 1.091,
+        "10.5": 1.045,
+        "11.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 29.0,
+        "3.5": 4.0,
+        "4.5": 7.5,
+        "5.5": 15.0,
+        "6.5": 21.0,
+        "7.5": 8.5,
+        "8.5": 13.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.533,
+        "4.5": 1.222,
+        "5.5": 1.071,
+        "6.5": 1.03,
+        "7.5": 1.143,
+        "8.5": 1.056,
+        "9.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Deportivo de La Coruña": 19.0,
+      "Empate": 15.0,
+      "FC Andorra": 7.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 2.1
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 2.25
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 2.25
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 2.4
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 2.6
+      },
+      {
+        "player": "David Mella",
+        "odds": 2.6
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 2.6
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 2.6
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 2.875
+      },
+      {
+        "player": "Lautaro de Leon",
+        "odds": 3.0
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 3.2
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 3.25
+      },
+      {
+        "player": "Luismi Cruz",
+        "odds": 3.5
+      },
+      {
+        "player": "Aingeru Olabarrieta",
+        "odds": 4.0
+      },
+      {
+        "player": "Josep Cerda",
+        "odds": 4.0
+      },
+      {
+        "player": "Min-Su Kim",
+        "odds": 4.0
+      },
+      {
+        "player": "Alex Calvo",
+        "odds": 4.333
+      },
+      {
+        "player": "Jastin Garcia",
+        "odds": 4.333
+      },
+      {
+        "player": "Diego Villares",
+        "odds": 5.0
+      },
+      {
+        "player": "Jose Angel Jurado",
+        "odds": 5.0
+      },
+      {
+        "player": "Noe Carrillo Collazo",
+        "odds": 5.0
+      },
+      {
+        "player": "Riki Rodriguez",
+        "odds": 5.0
+      },
+      {
+        "player": "Yeray Cabanzon",
+        "odds": 5.0
+      },
+      {
+        "player": "Alvaro Martin",
+        "odds": 5.5
+      },
+      {
+        "player": "Charlie Patino",
+        "odds": 5.5
+      },
+      {
+        "player": "Damian Canedo",
+        "odds": 5.5
+      },
+      {
+        "player": "Alberto Solis",
+        "odds": 6.5
+      },
+      {
+        "player": "Daniel Villahermosa",
+        "odds": 6.5
+      },
+      {
+        "player": "Enrique Teijo",
+        "odds": 7.0
+      },
+      {
+        "player": "Giacomo Quagliata",
+        "odds": 7.0
+      },
+      {
+        "player": "Joaquin Ximo Navarro",
+        "odds": 7.0
+      },
+      {
+        "player": "Jose Gragera",
+        "odds": 7.0
+      },
+      {
+        "player": "Theo Le Normand",
+        "odds": 7.0
+      },
+      {
+        "player": "Marc Domench",
+        "odds": 7.5
+      },
+      {
+        "player": "Adria Altimira",
+        "odds": 8.5
+      },
+      {
+        "player": "Efe Akman",
+        "odds": 8.5
+      },
+      {
+        "player": "Samuel Samu Fernandez",
+        "odds": 8.5
+      },
+      {
+        "player": "Sergio Escudero",
+        "odds": 8.5
+      },
+      {
+        "player": "Arnau Comas",
+        "odds": 9.5
+      },
+      {
+        "player": "Dani Barcia",
+        "odds": 9.5
+      },
+      {
+        "player": "Lucas Noubi",
+        "odds": 9.5
+      },
+      {
+        "player": "Miguel Loureiro",
+        "odds": 9.5
+      },
+      {
+        "player": "Sergio Molina",
+        "odds": 9.5
+      },
+      {
+        "player": "Alex Petxarroman",
+        "odds": 11.0
+      },
+      {
+        "player": "Antal Yaakobishvili",
+        "odds": 13.0
+      },
+      {
+        "player": "Gael Alonso",
+        "odds": 13.0
+      },
+      {
+        "player": "Marti Vila",
+        "odds": 13.0
+      },
+      {
+        "player": "Thomas Carrique",
+        "odds": 13.0
+      },
+      {
+        "player": "Diego Alende",
+        "odds": 17.0
+      },
+      {
+        "player": "Edgar Gonzalez",
+        "odds": 17.0
+      },
+      {
+        "player": "Imanol Garcia de Albeniz",
+        "odds": 17.0
+      },
+      {
+        "player": "Marc Bombardo",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "David Mella",
+        "odds": 1.01
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.01
+      },
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 1.015
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 1.015
+      },
+      {
+        "player": "Luismi Cruz",
+        "odds": 1.025
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 1.03
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 1.03
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.03
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 1.04
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 1.04
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.04
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 1.04
+      },
+      {
+        "player": "Lautaro de Leon",
+        "odds": 1.05
+      },
+      {
+        "player": "Min-Su Kim",
+        "odds": 1.062
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 1.071
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.071
+      },
+      {
+        "player": "David Mella",
+        "odds": 1.083
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.083
+      },
+      {
+        "player": "Jastin Garcia",
+        "odds": 1.083
+      },
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 1.111
+      },
+      {
+        "player": "Aingeru Olabarrieta",
+        "odds": 1.111
+      },
+      {
+        "player": "Josep Cerda",
+        "odds": 1.111
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 1.111
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.125
+      },
+      {
+        "player": "Riki Rodriguez",
+        "odds": 1.143
+      },
+      {
+        "player": "Luismi Cruz",
+        "odds": 1.143
+      },
+      {
+        "player": "Alex Calvo",
+        "odds": 1.143
+      },
+      {
+        "player": "Yeray Cabanzon",
+        "odds": 1.143
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 1.167
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 1.167
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 1.167
+      },
+      {
+        "player": "Alvaro Martin",
+        "odds": 1.167
+      },
+      {
+        "player": "Diego Villares",
+        "odds": 1.2
+      },
+      {
+        "player": "Joaquin Ximo Navarro",
+        "odds": 1.2
+      },
+      {
+        "player": "Jose Angel Jurado",
+        "odds": 1.2
+      },
+      {
+        "player": "Noe Carrillo Collazo",
+        "odds": 1.2
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 1.2
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 1.2
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 1.2
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 1.2
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 1.2
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 1.222
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 1.222
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 1.222
+      },
+      {
+        "player": "Lautaro de Leon",
+        "odds": 1.222
+      },
+      {
+        "player": "Charlie Patino",
+        "odds": 1.25
+      },
+      {
+        "player": "Damian Canedo",
+        "odds": 1.25
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.25
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.25
+      },
+      {
+        "player": "Theo Le Normand",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.167
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 1.2
+      },
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 1.222
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.222
+      },
+      {
+        "player": "David Mella",
+        "odds": 1.286
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 1.286
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 1.364
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 1.364
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 1.364
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 1.4
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.444
+      },
+      {
+        "player": "Lautaro de Leon",
+        "odds": 1.444
+      },
+      {
+        "player": "Luismi Cruz",
+        "odds": 1.5
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 1.533
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 1.571
+      },
+      {
+        "player": "Min-Su Kim",
+        "odds": 1.571
+      },
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 1.615
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 1.615
+      },
+      {
+        "player": "David Mella",
+        "odds": 1.667
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 1.667
+      },
+      {
+        "player": "Yeremay Hernandez",
+        "odds": 1.727
+      },
+      {
+        "player": "Aingeru Olabarrieta",
+        "odds": 1.727
+      },
+      {
+        "player": "Jastin Garcia",
+        "odds": 1.727
+      },
+      {
+        "player": "Josep Cerda",
+        "odds": 1.727
+      },
+      {
+        "player": "Bil Nsongo",
+        "odds": 1.833
+      },
+      {
+        "player": "Iker Vidal",
+        "odds": 1.833
+      },
+      {
+        "player": "Lopez Cristian Herrera",
+        "odds": 1.833
+      },
+      {
+        "player": "Alex Calvo",
+        "odds": 1.833
+      },
+      {
+        "player": "Yeray Cabanzon",
+        "odds": 1.833
+      },
+      {
+        "player": "Marc Cardona",
+        "odds": 1.833
+      },
+      {
+        "player": "Zakaria Eddahchouri",
+        "odds": 2.0
+      },
+      {
+        "player": "Juan Molina Stoichkov",
+        "odds": 2.0
+      },
+      {
+        "player": "Lautaro de Leon",
+        "odds": 2.0
+      },
+      {
+        "player": "Diego Villares",
+        "odds": 2.1
+      },
+      {
+        "player": "Jose Angel Jurado",
+        "odds": 2.1
+      },
+      {
+        "player": "Noe Carrillo Collazo",
+        "odds": 2.1
+      },
+      {
+        "player": "Riki Rodriguez",
+        "odds": 2.1
+      },
+      {
+        "player": "Samuele Mulattieri",
+        "odds": 2.1
+      },
+      {
+        "player": "Luismi Cruz",
+        "odds": 2.1
+      },
+      {
+        "player": "Alvaro Martin",
+        "odds": 2.1
+      },
+      {
+        "player": "Mario Soriano",
+        "odds": 2.2
+      },
+      {
+        "player": "Min-Su Kim",
+        "odds": 2.2
+      },
+      {
+        "player": "Charlie Patino",
+        "odds": 2.25
+      },
+      {
+        "player": "Damian Canedo",
+        "odds": 2.25
+      },
+      {
+        "player": "David Mella",
+        "odds": 2.25
+      },
+      {
+        "player": "Manuel Nieto",
+        "odds": 2.25
+      },
+      {
+        "player": "Joaquin Ximo Navarro",
+        "odds": 2.5
+      },
+      {
+        "player": "Aingeru Olabarrieta",
+        "odds": 2.5
+      },
+      {
+        "player": "Jastin Garcia",
+        "odds": 2.5
+      },
+      {
+        "player": "Josep Cerda",
+        "odds": 2.5
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 81.0,
+      "encuentro": 81.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 51.0,
+      "Primeros 10 minutos": 6.0,
+      "primeros 10 minutos": 11.0
+    }
+  }
+}

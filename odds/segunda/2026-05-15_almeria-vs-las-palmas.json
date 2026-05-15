@@ -1,0 +1,787 @@
+{
+  "meta": {
+    "id": "2026-05-15_almeria-vs-las-palmas",
+    "scraped_at": "2026-05-15T16:39:04.320175",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Almería",
+    "away_team": "Las Palmas",
+    "bet365_event_id": "193003584",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.286,
+      "draw_or_away": 1.727,
+      "home_or_away": 1.333
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.2,
+        "2.5": 1.727,
+        "3.5": 2.625,
+        "4.5": 5.0,
+        "5.5": 11.0,
+        "6.5": 21.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 13.0,
+        "2.5": 4.333,
+        "3.5": 2.075,
+        "4.5": 1.444,
+        "5.5": 1.167,
+        "6.5": 1.05,
+        "7.5": 1.015
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.03,
+        "5.5": 1.083,
+        "6.5": 1.2,
+        "7.5": 1.364,
+        "8.5": 1.667,
+        "9.5": 2.1,
+        "10.5": 2.75,
+        "11.5": 3.75,
+        "12.5": 5.5,
+        "13.5": 9.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 23.0,
+        "5.5": 15.0,
+        "6.5": 8.0,
+        "7.5": 4.333,
+        "8.5": 3.0,
+        "9.5": 2.1,
+        "10.5": 1.667,
+        "11.5": 1.4,
+        "12.5": 1.25,
+        "13.5": 1.143,
+        "14.5": 1.071,
+        "15.5": 1.04,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 26.0,
+        "3.5": 3.2,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 8.5,
+        "9.5": 13.0,
+        "10.5": 19.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.062,
+        "3.5": 1.727,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.143,
+        "9.5": 1.062,
+        "10.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.333,
+        "4.5": 8.0,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 9.0,
+        "8.5": 15.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.04,
+        "3.5": 1.533,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.03,
+        "7.5": 1.143,
+        "8.5": 1.056,
+        "9.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Almería": 21.0,
+      "Empate": 6.0,
+      "Las Palmas": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Leo Baptistao",
+        "odds": 2.25
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 2.4
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 2.4
+      },
+      {
+        "player": "Taisei Miyashiro",
+        "odds": 2.4
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 2.6
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 2.75
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 2.75
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 2.75
+      },
+      {
+        "player": "Elias Romero",
+        "odds": 3.1
+      },
+      {
+        "player": "Sandro Ramirez",
+        "odds": 3.1
+      },
+      {
+        "player": "Jesé Rodríguez",
+        "odds": 3.25
+      },
+      {
+        "player": "Estanis Pedrola",
+        "odds": 3.4
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 3.4
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 3.6
+      },
+      {
+        "player": "Houssam Kounia",
+        "odds": 3.6
+      },
+      {
+        "player": "Patrick Soko",
+        "odds": 3.6
+      },
+      {
+        "player": "Iker Bravo",
+        "odds": 3.75
+      },
+      {
+        "player": "Ale Garcia",
+        "odds": 4.0
+      },
+      {
+        "player": "Francisco Pejino",
+        "odds": 4.0
+      },
+      {
+        "player": "Thalys Henrique",
+        "odds": 4.0
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 4.0
+      },
+      {
+        "player": "Nicolas Benedetti",
+        "odds": 4.0
+      },
+      {
+        "player": "Ivan Gil",
+        "odds": 4.5
+      },
+      {
+        "player": "André Horta",
+        "odds": 5.5
+      },
+      {
+        "player": "Arnau Puigmal",
+        "odds": 5.5
+      },
+      {
+        "player": "Gui Guedes",
+        "odds": 5.5
+      },
+      {
+        "player": "Ivan Medina",
+        "odds": 5.5
+      },
+      {
+        "player": "Kirian Rodriguez",
+        "odds": 5.5
+      },
+      {
+        "player": "Manuel Fuster",
+        "odds": 5.5
+      },
+      {
+        "player": "Rafa Cruz",
+        "odds": 5.5
+      },
+      {
+        "player": "Stefan Dzodic",
+        "odds": 5.5
+      },
+      {
+        "player": "Jonathan Viera",
+        "odds": 6.0
+      },
+      {
+        "player": "Dion Lopy",
+        "odds": 7.0
+      },
+      {
+        "player": "Inaki Gonzalez",
+        "odds": 7.0
+      },
+      {
+        "player": "Hernandez Aridane",
+        "odds": 7.5
+      },
+      {
+        "player": "Iddrisu Baba",
+        "odds": 7.5
+      },
+      {
+        "player": "Alex Munoz",
+        "odds": 8.0
+      },
+      {
+        "player": "Enzo Loiodice",
+        "odds": 8.0
+      },
+      {
+        "player": "Lorenzo Amatucci",
+        "odds": 8.0
+      },
+      {
+        "player": "Federico Bonini",
+        "odds": 9.0
+      },
+      {
+        "player": "Pedro Cedillo",
+        "odds": 9.0
+      },
+      {
+        "player": "Carlos Navarro",
+        "odds": 10.0
+      },
+      {
+        "player": "Valentin Pezzolesi",
+        "odds": 10.0
+      },
+      {
+        "player": "Victor Villote",
+        "odds": 10.0
+      },
+      {
+        "player": "Victor Viti Rozada",
+        "odds": 10.0
+      },
+      {
+        "player": "Alex Centelles",
+        "odds": 12.0
+      },
+      {
+        "player": "Alex Suarez",
+        "odds": 12.0
+      },
+      {
+        "player": "Cristian Gutierrez",
+        "odds": 12.0
+      },
+      {
+        "player": "Daijiro Chirino",
+        "odds": 12.0
+      },
+      {
+        "player": "Enrique Clemente",
+        "odds": 12.0
+      },
+      {
+        "player": "Marcos Luna",
+        "odds": 12.0
+      },
+      {
+        "player": "Marvin Park",
+        "odds": 12.0
+      },
+      {
+        "player": "Rodrigo Ely",
+        "odds": 12.0
+      },
+      {
+        "player": "Sergio Barcia",
+        "odds": 12.0
+      },
+      {
+        "player": "Juan Chumi",
+        "odds": 15.0
+      },
+      {
+        "player": "Mika Marmol",
+        "odds": 15.0
+      },
+      {
+        "player": "Nelson Monte",
+        "odds": 15.0
+      },
+      {
+        "player": "Juan Herzog",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Taisei Miyashiro",
+        "odds": 1.012
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 1.015
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.015
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 1.02
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 1.025
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.03
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 1.03
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 1.04
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 1.04
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 1.04
+      },
+      {
+        "player": "Patrick Soko",
+        "odds": 1.05
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 1.05
+      },
+      {
+        "player": "Elias Romero",
+        "odds": 1.05
+      },
+      {
+        "player": "Nicolas Benedetti",
+        "odds": 1.05
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.062
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 1.062
+      },
+      {
+        "player": "Francisco Pejino",
+        "odds": 1.062
+      },
+      {
+        "player": "Ivan Gil",
+        "odds": 1.062
+      },
+      {
+        "player": "Jesé Rodríguez",
+        "odds": 1.062
+      },
+      {
+        "player": "Sandro Ramirez",
+        "odds": 1.062
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.071
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.071
+      },
+      {
+        "player": "Estanis Pedrola",
+        "odds": 1.071
+      },
+      {
+        "player": "Houssam Kounia",
+        "odds": 1.083
+      },
+      {
+        "player": "Thalys Henrique",
+        "odds": 1.083
+      },
+      {
+        "player": "Ale Garcia",
+        "odds": 1.083
+      },
+      {
+        "player": "Arnau Puigmal",
+        "odds": 1.1
+      },
+      {
+        "player": "Iker Bravo",
+        "odds": 1.1
+      },
+      {
+        "player": "Taisei Miyashiro",
+        "odds": 1.1
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 1.111
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 1.125
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 1.125
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 1.143
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 1.143
+      },
+      {
+        "player": "André Horta",
+        "odds": 1.167
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 1.167
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 1.167
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.167
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 1.167
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 1.182
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 1.2
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 1.2
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 1.2
+      },
+      {
+        "player": "Patrick Soko",
+        "odds": 1.2
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 1.222
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 1.222
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 1.222
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.222
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.222
+      },
+      {
+        "player": "Manuel Fuster",
+        "odds": 1.222
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.143
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.182
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 1.2
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 1.2
+      },
+      {
+        "player": "Taisei Miyashiro",
+        "odds": 1.286
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 1.364
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 1.4
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 1.4
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 1.4
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 1.4
+      },
+      {
+        "player": "Jesé Rodríguez",
+        "odds": 1.4
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.444
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.5
+      },
+      {
+        "player": "Elias Romero",
+        "odds": 1.5
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 1.5
+      },
+      {
+        "player": "Sandro Ramirez",
+        "odds": 1.5
+      },
+      {
+        "player": "Patrick Soko",
+        "odds": 1.533
+      },
+      {
+        "player": "Ivan Gil",
+        "odds": 1.533
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 1.571
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 1.571
+      },
+      {
+        "player": "Estanis Pedrola",
+        "odds": 1.571
+      },
+      {
+        "player": "Francisco Pejino",
+        "odds": 1.571
+      },
+      {
+        "player": "Houssam Kounia",
+        "odds": 1.615
+      },
+      {
+        "player": "Nicolas Benedetti",
+        "odds": 1.615
+      },
+      {
+        "player": "Jon Morcillo",
+        "odds": 1.667
+      },
+      {
+        "player": "Iker Bravo",
+        "odds": 1.667
+      },
+      {
+        "player": "Taisei Miyashiro",
+        "odds": 1.667
+      },
+      {
+        "player": "Thalys Henrique",
+        "odds": 1.727
+      },
+      {
+        "player": "Ale Garcia",
+        "odds": 1.727
+      },
+      {
+        "player": "Sergio Calvo Arribas",
+        "odds": 1.833
+      },
+      {
+        "player": "Adrian Embarba",
+        "odds": 1.833
+      },
+      {
+        "player": "Jesé Rodríguez",
+        "odds": 1.833
+      },
+      {
+        "player": "Hugo Martin",
+        "odds": 1.909
+      },
+      {
+        "player": "Ibrahima Kone",
+        "odds": 1.909
+      },
+      {
+        "player": "Luis Martins",
+        "odds": 1.909
+      },
+      {
+        "player": "Nico Melamed",
+        "odds": 1.909
+      },
+      {
+        "player": "André Horta",
+        "odds": 2.0
+      },
+      {
+        "player": "Arnau Puigmal",
+        "odds": 2.0
+      },
+      {
+        "player": "Leo Baptistao",
+        "odds": 2.0
+      },
+      {
+        "player": "Miguel De la Fuente",
+        "odds": 2.0
+      },
+      {
+        "player": "Kirian Rodriguez",
+        "odds": 2.1
+      },
+      {
+        "player": "Manuel Fuster",
+        "odds": 2.1
+      },
+      {
+        "player": "Elias Romero",
+        "odds": 2.1
+      },
+      {
+        "player": "Jeremia Recoba",
+        "odds": 2.1
+      },
+      {
+        "player": "Sandro Ramirez",
+        "odds": 2.1
+      },
+      {
+        "player": "Patrick Soko",
+        "odds": 2.2
+      },
+      {
+        "player": "Estanis Pedrola",
+        "odds": 2.2
+      },
+      {
+        "player": "Francisco Pejino",
+        "odds": 2.2
+      },
+      {
+        "player": "Ivan Gil",
+        "odds": 2.2
+      },
+      {
+        "player": "Gui Guedes",
+        "odds": 2.25
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 67.0,
+      "1ª mitad": 67.0,
+      "2ª mitad": 41.0,
+      "Primeros 10 minutos": 8.0,
+      "primeros 10 minutos": 10.0
+    }
+  }
+}

@@ -1,0 +1,760 @@
+{
+  "meta": {
+    "id": "2026-05-15_brentford-vs-crystal-palace",
+    "scraped_at": "2026-05-15T16:38:56.435791",
+    "league": "FA Barclaycard",
+    "league_code": "ENG1",
+    "home_team": "Brentford",
+    "away_team": "Crystal Palace",
+    "bet365_event_id": "192998805",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.182,
+      "draw_or_away": 2.15,
+      "home_or_away": 1.2
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.222,
+        "2.5": 1.667,
+        "3.5": 2.625,
+        "4.5": 5.0,
+        "5.5": 10.0,
+        "6.5": 19.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 4.333,
+        "3.5": 2.2,
+        "4.5": 1.5,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.02
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.286,
+        "8.5": 1.5,
+        "9.5": 1.833,
+        "10.5": 2.375,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.5,
+        "9.5": 2.5,
+        "10.5": 1.833,
+        "11.5": 1.533,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.625,
+        "4.5": 4.333,
+        "5.5": 8.0,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 5.5,
+        "9.5": 9.0,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.062,
+        "3.5": 2.0,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.03,
+        "8.5": 1.25,
+        "9.5": 1.125,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.5,
+        "4.5": 8.5,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 10.0,
+        "8.5": 15.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.04,
+        "3.5": 1.5,
+        "4.5": 1.182,
+        "5.5": 1.062,
+        "6.5": 1.025,
+        "7.5": 1.111,
+        "8.5": 1.045,
+        "9.5": 1.025
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.5
+      },
+      "under": {
+        "4.5": 2.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.0
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.2
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.75
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.375
+      }
+    },
+    "ht_ft": {
+      "Brentford": 21.0,
+      "Empate": 17.0,
+      "Crystal Palace": 8.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Igor Thiago",
+        "odds": 2.0
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 2.25
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 2.4
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 2.875
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 3.1
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 3.1
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 3.1
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 3.25
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 4.0
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 4.0
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 4.0
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 4.333
+      },
+      {
+        "player": "Ollie Shield",
+        "odds": 4.333
+      },
+      {
+        "player": "Josh Dasilva",
+        "odds": 4.75
+      },
+      {
+        "player": "Mikkel Damsgaard",
+        "odds": 4.75
+      },
+      {
+        "player": "Brennan Johnson",
+        "odds": 5.5
+      },
+      {
+        "player": "Yeremy Pino",
+        "odds": 5.5
+      },
+      {
+        "player": "Daichi Kamada",
+        "odds": 6.0
+      },
+      {
+        "player": "Justin Devenny",
+        "odds": 7.0
+      },
+      {
+        "player": "Daniel Muñoz",
+        "odds": 7.5
+      },
+      {
+        "player": "Mathias Jensen",
+        "odds": 7.5
+      },
+      {
+        "player": "Vitaly Janelt",
+        "odds": 7.5
+      },
+      {
+        "player": "Yegor Yarmolyuk",
+        "odds": 7.5
+      },
+      {
+        "player": "Ethan Pinnock",
+        "odds": 9.0
+      },
+      {
+        "player": "Joel Drakes-Thomas",
+        "odds": 9.0
+      },
+      {
+        "player": "Jordan Henderson",
+        "odds": 9.0
+      },
+      {
+        "player": "Kaden Rodney",
+        "odds": 9.0
+      },
+      {
+        "player": "Nathan Collins",
+        "odds": 9.0
+      },
+      {
+        "player": "Rio Cardines",
+        "odds": 9.0
+      },
+      {
+        "player": "Sepp van den Berg",
+        "odds": 9.0
+      },
+      {
+        "player": "Aaron Hickey",
+        "odds": 10.0
+      },
+      {
+        "player": "Kristoffer Ajer",
+        "odds": 10.0
+      },
+      {
+        "player": "Michael Kayode",
+        "odds": 10.0
+      },
+      {
+        "player": "Adam Wharton",
+        "odds": 12.0
+      },
+      {
+        "player": "Borna Sosa",
+        "odds": 12.0
+      },
+      {
+        "player": "Jefferson Lerma",
+        "odds": 12.0
+      },
+      {
+        "player": "Will Hughes",
+        "odds": 12.0
+      },
+      {
+        "player": "Chadi Riad",
+        "odds": 15.0
+      },
+      {
+        "player": "Chris Richards",
+        "odds": 15.0
+      },
+      {
+        "player": "Jaydee Canvot",
+        "odds": 15.0
+      },
+      {
+        "player": "Maxence Lacroix",
+        "odds": 15.0
+      },
+      {
+        "player": "Tyrick Mitchell",
+        "odds": 15.0
+      },
+      {
+        "player": "Nathaniel Clyne",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Kaye Furo",
+        "odds": 1.02
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.025
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.04
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 1.05
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 1.05
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 1.05
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.05
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 1.05
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 1.062
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 1.083
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.083
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 1.111
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 1.111
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.125
+      },
+      {
+        "player": "Yeremy Pino",
+        "odds": 1.125
+      },
+      {
+        "player": "Mikkel Damsgaard",
+        "odds": 1.143
+      },
+      {
+        "player": "Ollie Shield",
+        "odds": 1.143
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.143
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.167
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.167
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.167
+      },
+      {
+        "player": "Josh Dasilva",
+        "odds": 1.182
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.2
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.2
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 1.222
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 1.222
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 1.222
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 1.222
+      },
+      {
+        "player": "Brennan Johnson",
+        "odds": 1.25
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.25
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 1.25
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 1.286
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 1.286
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 1.286
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 1.286
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 1.286
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 1.3
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 1.3
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 1.3
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 1.3
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.3
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 1.3
+      },
+      {
+        "player": "Daichi Kamada",
+        "odds": 1.333
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 1.333
+      },
+      {
+        "player": "Mathias Jensen",
+        "odds": 1.364
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 1.364
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 1.364
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 1.364
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 1.4
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.4
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Igor Thiago",
+        "odds": 1.125
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.25
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.3
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.364
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.4
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 1.5
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 1.5
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 1.5
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.5
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 1.533
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 1.533
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 1.667
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.667
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.727
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 1.727
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 1.727
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 1.727
+      },
+      {
+        "player": "Mikkel Damsgaard",
+        "odds": 1.8
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 1.833
+      },
+      {
+        "player": "Ollie Shield",
+        "odds": 1.833
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 1.833
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.833
+      },
+      {
+        "player": "Yeremy Pino",
+        "odds": 1.909
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 1.909
+      },
+      {
+        "player": "Josh Dasilva",
+        "odds": 2.0
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 2.1
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 2.1
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 2.1
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 2.1
+      },
+      {
+        "player": "Kaye Furo",
+        "odds": 2.2
+      },
+      {
+        "player": "Dango Ouattara",
+        "odds": 2.2
+      },
+      {
+        "player": "Kevin Schade",
+        "odds": 2.2
+      },
+      {
+        "player": "Romelle Donovan",
+        "odds": 2.2
+      },
+      {
+        "player": "Jorgen Larsen",
+        "odds": 2.2
+      },
+      {
+        "player": "Chrisantus Uche",
+        "odds": 2.2
+      },
+      {
+        "player": "Brennan Johnson",
+        "odds": 2.25
+      },
+      {
+        "player": "Reiss Nelson",
+        "odds": 2.375
+      },
+      {
+        "player": "Daichi Kamada",
+        "odds": 2.5
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 2.5
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 2.5
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 2.625
+      },
+      {
+        "player": "Mikkel Damsgaard",
+        "odds": 2.625
+      },
+      {
+        "player": "Ollie Shield",
+        "odds": 2.625
+      },
+      {
+        "player": "Evann Guessand",
+        "odds": 2.625
+      },
+      {
+        "player": "Ismaila Sarr",
+        "odds": 2.625
+      },
+      {
+        "player": "Keane Lewis-Potter",
+        "odds": 2.75
+      },
+      {
+        "player": "Mikkel Damsgaard",
+        "odds": 2.75
+      },
+      {
+        "player": "Ollie Shield",
+        "odds": 2.75
+      },
+      {
+        "player": "Jean-Philippe Mateta",
+        "odds": 2.75
+      },
+      {
+        "player": "Igor Thiago",
+        "odds": 3.0
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 81.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 401.0,
+      "Primeros 10 minutos": 6.5,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}
