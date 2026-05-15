@@ -1,7 +1,7 @@
 {
   "generated": "2026-05-15",
   "total_fixtures": 87,
-  "fixtures_with_referee": 26,
+  "fixtures_with_referee": 28,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
@@ -486,11 +486,14 @@
           "home": "Bournemouth",
           "away": "Man City",
           "matchday": 37,
+          "referee": "Anthony Taylor",
           "cards_analysis": {
             "team_cards_avg": 4.1,
-            "blended_cards_prediction": 4.1,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
+            "ref_cards_per_match": 3.67,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 944,
+            "blended_cards_prediction": 3.88,
+            "cards_verdict": "MEDIO"
           },
           "home_goals_1h_avg": 0.64,
           "home_goals_2h_avg": 0.78,
@@ -503,11 +506,14 @@
           "home": "Chelsea",
           "away": "Tottenham",
           "matchday": 37,
+          "referee": "Stuart Attwell",
           "cards_analysis": {
             "team_cards_avg": 4.64,
-            "blended_cards_prediction": 4.64,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
+            "ref_cards_per_match": 3.74,
+            "ref_verdict": "MEDIO",
+            "ref_matches": 608,
+            "blended_cards_prediction": 4.19,
+            "cards_verdict": "MEDIO"
           },
           "home_goals_1h_avg": 0.53,
           "home_goals_2h_avg": 0.81,
