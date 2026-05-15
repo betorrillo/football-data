@@ -45,10 +45,10 @@ OFFICIAL_SOURCES = {
     "GER1": "bundesliga_dfb",
     "ENG1": "premier_pgmol",
     "ENG_FA": "premier_pgmol",  # FA Cup officials come from the PGMOL pool too
-    # "FRA1": "ligue1_lfp",          # to add
-    # "ESP1": "rfef_playwright",     # to add
-    # "ESP2": "rfef_playwright",     # to add
-    # "POR1": "primeira_aggregator", # to add
+    "POR1": "primeira_record",
+    "ESP1": "rfef_playwright",
+    "ESP2": "rfef_playwright",
+    # "FRA1": "ligue1_lfp",          # API already covers L1; skip
 }
 
 

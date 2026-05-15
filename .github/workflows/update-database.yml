@@ -39,6 +39,23 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
+
+      - name: Install Playwright browser
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: python -m playwright install --with-deps chromium
 
       - name: Update matches
         if: contains(fromJSON('["all","matches"]'), github.event.inputs.scope || 'all')
@@ -124,6 +141,11 @@ jobs:
         run: |
           echo "--- Building agent bundle ---"
           python3 scripts/build_agent_bundle.py
+
+      - name: Validate pipeline output
+        run: |
+          echo "--- Validating per-match files vs manifest ---"
+          python3 scripts/validate_pipeline.py || echo "⚠️ Validation reported gaps (non-blocking)"
 
       - name: Commit and push changes
         run: |
