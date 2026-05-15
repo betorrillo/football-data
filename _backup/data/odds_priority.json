@@ -1,0 +1,6082 @@
+{
+  "match": "Barcelona vs Espanyol",
+  "home": "Barcelona",
+  "away": "Espanyol",
+  "competition": "España - La Liga",
+  "datetime": "11 abr 18:30",
+  "url": "https://www.bet365.com/#/AC/B1/C1/D8/E191744490/F3/I99/P36081/H1/",
+  "scraped_at": "2026-04-11T17:00:51.965083",
+  "markets": {
+    "Resultado": {
+      "default": [
+        {
+          "odds": 1.36,
+          "selection": "Encuentro",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.72,
+          "selection": "1ª mitad",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.61,
+          "selection": "2ª mitad",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 4.75,
+          "selection": "10 minutos",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 5.25,
+          "selection": "Encuentro",
+          "column": "Empate"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1ª mitad",
+          "column": "Empate"
+        },
+        {
+          "odds": 3.1,
+          "selection": "2ª mitad",
+          "column": "Empate"
+        },
+        {
+          "odds": 1.22,
+          "selection": "10 minutos",
+          "column": "Empate"
+        },
+        {
+          "odds": 7.5,
+          "selection": "Encuentro",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 6.5,
+          "selection": "1ª mitad",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 6,
+          "selection": "2ª mitad",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 11,
+          "selection": "10 minutos",
+          "column": "Espanyol"
+        }
+      ]
+    },
+    "Ambos equipos anotarán": {
+      "default": [
+        {
+          "odds": 1.66,
+          "selection": "Encuentro",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "1ª mitad",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.75,
+          "selection": "2ª mitad",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.1,
+          "selection": "Encuentro",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "1ª mitad",
+          "column": "No"
+        },
+        {
+          "odds": 1.4,
+          "selection": "2ª mitad",
+          "column": "No"
+        }
+      ]
+    },
+    "Doble oportunidad": {
+      "default": [
+        {
+          "odds": 1.1,
+          "selection": "Barcelona o Empate"
+        },
+        {
+          "odds": 3,
+          "selection": "Empate o Espanyol"
+        },
+        {
+          "odds": 1.16,
+          "selection": "Barcelona o Espanyol"
+        }
+      ]
+    },
+    "Total de goles": {
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 1.25,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.3,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.6,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.62,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.6,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.57,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.14,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "4 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 1.05,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "5 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 34,
+          "selection": "6 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.4,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "5 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "6 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.72,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "selection": "4 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "selection": "5 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "6 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 1.4,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 21,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.071,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.015,
+          "selection": "4 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Primeros 10 minutos": [
+        {
+          "odds": 5,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 51,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.16,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.16,
+          "selection": "1 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.12,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 34,
+          "selection": "5 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 6,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.25,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.4,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "5 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.36,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.11,
+          "selection": "4 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "5 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 1.02,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 6,
+          "selection": "5 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "6 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 21,
+          "selection": "7 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "8 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "5 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "6 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "7 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 26,
+          "selection": "8 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 6,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.75,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.8,
+          "selection": "4 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.33,
+          "selection": "5 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "6 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "7 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.015,
+          "selection": "8 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.22,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "4 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "5 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "4 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 29,
+          "selection": "5 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.72,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "selection": "3 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "4 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.01,
+          "selection": "5 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / Primeros 10 minutos": [
+        {
+          "odds": 3.75,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.25,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.25,
+          "selection": "1 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 2.2,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 8.5,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 67,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.87,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 34,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.61,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.071,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.01,
+          "selection": "3 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.5,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.5,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "3 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.4,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "3 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 2.62,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "2 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.2,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "2 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.44,
+          "selection": "1 goles",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.04,
+          "selection": "2 goles",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Primeros 10 minutos": [
+        {
+          "odds": 11,
+          "selection": "0 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 151,
+          "selection": "1 goles",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "0 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "1 goles",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.04,
+          "selection": "1 goles",
+          "column": "Menos de"
+        }
+      ]
+    },
+    "Goles - Intervalo": {
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 3.25,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.83,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.36,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.16,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.071,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.25,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.57,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.2,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.25,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.72,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.75,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.25,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.83,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 5,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 9,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.57,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.25,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4.33,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.57,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.4,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.57,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.61,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.25,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.22,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.22,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.37,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.1,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.5,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.2,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.25,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.75,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.53,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.66,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.72,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.72,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.18,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.3,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.18,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.14,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.12,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.1,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.72,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.66,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.61,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.25,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 7,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 6.5,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 17,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.4,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4.5,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 5.5,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 6,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.66,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.1,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.2,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.33,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.36,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.1,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.11,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.025,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.18,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.1,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.062,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.9,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.62,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.2,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 9,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4.5,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 7,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 10,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.8,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.44,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.61,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.72,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.071,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.18,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.1,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.062,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.9,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.62,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.2,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 9,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4.5,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 7,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 10,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.8,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.44,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.61,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.72,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.071,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.18,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.1,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.062,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.9,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.4,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.62,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2.2,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.33,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 9,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 4.5,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 7,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 10,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.8,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.75,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.44,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.61,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.72,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.2,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.071,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.57,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 101,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.25,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.001,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.57,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 101,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.25,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.001,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ],
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 1.72,
+          "selection": "1-2 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.57,
+          "selection": "1-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.53,
+          "selection": "1-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.5,
+          "selection": "1-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2-3 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 3.5,
+          "selection": "2-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-4 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 11,
+          "selection": "3-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-5 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 29,
+          "selection": "4-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 101,
+          "selection": "5-6 goles",
+          "column": "Sí"
+        },
+        {
+          "odds": 2,
+          "selection": "1-2 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.25,
+          "selection": "1-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.37,
+          "selection": "1-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.25,
+          "selection": "2-3 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.28,
+          "selection": "2-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-4 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.05,
+          "selection": "3-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-5 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.006,
+          "selection": "4-6 goles",
+          "column": "No"
+        },
+        {
+          "odds": 1.001,
+          "selection": "5-6 goles",
+          "column": "No"
+        }
+      ]
+    },
+    "Córners": {
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 1.04,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.18,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.57,
+          "selection": "9 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "selection": "10 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "11 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "selection": "12 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.5,
+          "selection": "13 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "selection": "14 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 10,
+          "selection": "15 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "16 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "17 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 23,
+          "selection": "18 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "9 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "10 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "11 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "12 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "13 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "14 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "15 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "16 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "17 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 34,
+          "selection": "18 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 13,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 7,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.5,
+          "selection": "8 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "selection": "9 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.25,
+          "selection": "10 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.8,
+          "selection": "11 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "selection": "12 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.3,
+          "selection": "13 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.18,
+          "selection": "14 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "15 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "selection": "16 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "17 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.02,
+          "selection": "18 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.025,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.3,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.66,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.37,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.5,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 9.5,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "9 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 23,
+          "selection": "10 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9.5,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "9 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "10 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 41,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 15,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.1,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.53,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.28,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "8 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "9 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "10 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.02,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.062,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.22,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.5,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.87,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 12,
+          "selection": "9 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "10 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "11 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "9 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "10 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 26,
+          "selection": "11 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 41,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 19,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 8,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 4,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.72,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "selection": "8 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "selection": "9 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.04,
+          "selection": "10 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.02,
+          "selection": "11 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / Primeros 10 minutos": [
+        {
+          "odds": 1.5,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 10,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.6,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.3,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "selection": "3 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 1.062,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.14,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.3,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.53,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "selection": "9 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.75,
+          "selection": "10 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "selection": "11 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "12 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "13 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "14 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "9 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "10 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "11 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "12 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "13 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 26,
+          "selection": "14 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 10,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.4,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.37,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.8,
+          "selection": "8 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "selection": "9 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.28,
+          "selection": "10 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.16,
+          "selection": "11 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "selection": "12 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.045,
+          "selection": "13 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "14 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 1.02,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.5,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 7.5,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9.5,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 6,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.87,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.83,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.18,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.071,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.035,
+          "selection": "8 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 1.02,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.09,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.8,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.6,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "8 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 23,
+          "selection": "9 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "8 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 26,
+          "selection": "9 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.1,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.95,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.22,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "7 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.045,
+          "selection": "8 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.02,
+          "selection": "9 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Primeros 10 minutos": [
+        {
+          "odds": 1.83,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.83,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.87,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.83,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.16,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "3 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.062,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.28,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.83,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 9,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "6 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "7 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 10,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9.5,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "6 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "7 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.83,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.16,
+          "selection": "5 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.071,
+          "selection": "6 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "7 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 1.36,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 12,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 23,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.87,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.1,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.87,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.035,
+          "selection": "4 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 1.28,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.1,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 8.5,
+          "selection": "3 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "4 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "5 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.5,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.25,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "3 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "4 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "5 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.5,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.61,
+          "selection": "2 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "selection": "3 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "selection": "4 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "5 córners",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Primeros 10 minutos": [
+        {
+          "odds": 4,
+          "selection": "0 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 21,
+          "selection": "1 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "2 córners",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.22,
+          "selection": "0 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "1 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "2 córners",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.22,
+          "selection": "1 córners",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "2 córners",
+          "column": "Menos de"
+        }
+      ]
+    },
+    "Tarjetas": {
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 1.04,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.14,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.72,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "selection": "6 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6,
+          "selection": "7 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "8 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "9 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "10 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "6 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "7 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "8 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "9 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 23,
+          "selection": "10 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 26,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 13,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 3,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "selection": "6 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "selection": "7 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "8 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "9 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.02,
+          "selection": "10 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.2,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 8.5,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 34,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.6,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.83,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.02,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.04,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.2,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.57,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.3,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "6 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 21,
+          "selection": "7 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.5,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 12,
+          "selection": "6 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "7 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.37,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.57,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.09,
+          "selection": "6 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.035,
+          "selection": "7 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / Primeros 10 minutos": [
+        {
+          "odds": 6,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.12,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6.5,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.12,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 1.12,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.57,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 17,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 41,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.5,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9.5,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 19,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.25,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.36,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.11,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 2,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.72,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.87,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 7.5,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.72,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 1.36,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 19,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 34,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.75,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.75,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 21,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.025,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Primeros 10 minutos": [
+        {
+          "odds": 15,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 101,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.03,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.04,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.18,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 11,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 23,
+          "selection": "6 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 13,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 6,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 8.5,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 15,
+          "selection": "6 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 13,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.5,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.16,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "selection": "6 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 1.44,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 3.2,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 10,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 26,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.62,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.33,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 11,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 2.62,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.33,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.055,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 1.14,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 2.87,
+          "selection": "2 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "selection": "3 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 15,
+          "selection": "4 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 29,
+          "selection": "5 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.6,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 3.25,
+          "selection": "2 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 4.75,
+          "selection": "3 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 9.5,
+          "selection": "4 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 17,
+          "selection": "5 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 5.5,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.3,
+          "selection": "2 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "selection": "3 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "selection": "4 tarjetas",
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.03,
+          "selection": "5 tarjetas",
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Primeros 10 minutos": [
+        {
+          "odds": 9,
+          "selection": "0 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 51,
+          "selection": "1 tarjetas",
+          "column": "Más de"
+        },
+        {
+          "odds": 1.071,
+          "selection": "0 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 10,
+          "selection": "1 tarjetas",
+          "column": "Exactamente"
+        },
+        {
+          "odds": 1.071,
+          "selection": "1 tarjetas",
+          "column": "Menos de"
+        }
+      ]
+    },
+    "Ambos equipos recibirán tarjetas": {
+      "default": [
+        {
+          "odds": 1.18,
+          "selection": "una tarjeta",
+          "column": "Sí"
+        },
+        {
+          "odds": 1.83,
+          "selection": "2 tarjetas o más",
+          "column": "Sí"
+        },
+        {
+          "odds": 51,
+          "selection": "una tarjeta roja",
+          "column": "Sí"
+        },
+        {
+          "odds": 4.5,
+          "selection": "una tarjeta",
+          "column": "No"
+        },
+        {
+          "odds": 1.83,
+          "selection": "2 tarjetas o más",
+          "column": "No"
+        },
+        {
+          "odds": 1.002,
+          "selection": "una tarjeta roja",
+          "column": "No"
+        }
+      ]
+    },
+    "Equipo - Mayor número": {
+      "default": [
+        {
+          "odds": 4.33,
+          "selection": "Tarjetas",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.1,
+          "selection": "Córners",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.11,
+          "selection": "Remates a puerta",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.062,
+          "selection": "Remates",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 4.33,
+          "selection": "Tarjetas",
+          "column": "Empate"
+        },
+        {
+          "odds": 13,
+          "selection": "Córners",
+          "column": "Empate"
+        },
+        {
+          "odds": 12,
+          "selection": "Remates a puerta",
+          "column": "Empate"
+        },
+        {
+          "odds": 29,
+          "selection": "Remates",
+          "column": "Empate"
+        },
+        {
+          "odds": 1.57,
+          "selection": "Tarjetas",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 7.5,
+          "selection": "Córners",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 8,
+          "selection": "Remates a puerta",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 11,
+          "selection": "Remates",
+          "column": "Espanyol"
+        }
+      ]
+    },
+    "Paradas del portero": {
+      "default": [
+        {
+          "odds": 1.11,
+          "selection": "Joan Garcia"
+        },
+        {
+          "odds": 1.57,
+          "selection": "Joan Garcia"
+        },
+        {
+          "odds": 2.62,
+          "selection": "Joan Garcia"
+        },
+        {
+          "odds": 5.5,
+          "selection": "Joan Garcia"
+        }
+      ]
+    },
+    "Total - Remates a puerta": {
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 1.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.72,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.14,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.14,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.062,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 1.062,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.16,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.22,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 1.14,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 1.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.22,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.14,
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.83,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.83,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ]
+    },
+    "Total - Remates": {
+      "Espanyol / 2ª mitad": [
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.83,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.83,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / Encuentro": [
+        {
+          "odds": 1.22,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ],
+      "Espanyol / 1ª mitad": [
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.14,
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 2ª mitad": [
+        {
+          "odds": 1.062,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / Encuentro": [
+        {
+          "odds": 1.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "column": "Más de"
+        },
+        {
+          "odds": 2,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Más de"
+        },
+        {
+          "odds": 7,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.72,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.14,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.083,
+          "column": "Menos de"
+        }
+      ],
+      "Ambos equipos / 1ª mitad": [
+        {
+          "odds": 1.14,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.36,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 2ª mitad": [
+        {
+          "odds": 1.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.8,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Más de"
+        },
+        {
+          "odds": 4.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 6.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.9,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.1,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / Encuentro": [
+        {
+          "odds": 1.062,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.16,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.33,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.61,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.75,
+          "column": "Más de"
+        },
+        {
+          "odds": 4,
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Más de"
+        },
+        {
+          "odds": 8,
+          "column": "Menos de"
+        },
+        {
+          "odds": 4.5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 3.25,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.2,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.4,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.22,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.062,
+          "column": "Menos de"
+        }
+      ],
+      "Barcelona / 1ª mitad": [
+        {
+          "odds": 1.14,
+          "column": "Más de"
+        },
+        {
+          "odds": 1.44,
+          "column": "Más de"
+        },
+        {
+          "odds": 2.1,
+          "column": "Más de"
+        },
+        {
+          "odds": 3.4,
+          "column": "Más de"
+        },
+        {
+          "odds": 5.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 8.5,
+          "column": "Más de"
+        },
+        {
+          "odds": 5,
+          "column": "Menos de"
+        },
+        {
+          "odds": 2.62,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.66,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.3,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.12,
+          "column": "Menos de"
+        },
+        {
+          "odds": 1.05,
+          "column": "Menos de"
+        }
+      ]
+    },
+    "Descanso/Resultado final": {
+      "default": [
+        {
+          "odds": 1.9,
+          "selection": "Barcelona - Barcelona"
+        },
+        {
+          "odds": 17,
+          "selection": "Barcelona - Empate"
+        },
+        {
+          "odds": 41,
+          "selection": "Barcelona - Espanyol"
+        },
+        {
+          "odds": 4.33,
+          "selection": "Empate - Barcelona"
+        },
+        {
+          "odds": 8.5,
+          "selection": "Empate - Empate"
+        },
+        {
+          "odds": 17,
+          "selection": "Empate - Espanyol"
+        },
+        {
+          "odds": 17,
+          "selection": "Espanyol - Barcelona"
+        },
+        {
+          "odds": 19,
+          "selection": "Espanyol - Empate"
+        },
+        {
+          "odds": 13,
+          "selection": "Espanyol - Espanyol"
+        }
+      ]
+    },
+    "Marcador": {
+      "default": [
+        {
+          "odds": 11,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 8.5,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 9,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 10,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 10,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 21,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 15,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 15,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 29,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 51,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 29,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 29,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 41,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 81,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 251,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 51,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 51,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 81,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 151,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 81,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 81,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 151,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 201,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 201,
+          "column": "Barcelona"
+        },
+        {
+          "odds": 21,
+          "column": "Empate"
+        },
+        {
+          "odds": 10,
+          "column": "Empate"
+        },
+        {
+          "odds": 15,
+          "column": "Empate"
+        },
+        {
+          "odds": 41,
+          "column": "Empate"
+        },
+        {
+          "odds": 151,
+          "column": "Empate"
+        },
+        {
+          "odds": 26,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 41,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 21,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 81,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 51,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 41,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 251,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 126,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 101,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 101,
+          "column": "Espanyol"
+        },
+        {
+          "odds": 351,
+          "column": "Espanyol"
+        }
+      ]
+    },
+    "Mitad con el mayor número de goles": {
+      "default": [
+        {
+          "odds": 2.87,
+          "selection": "1ª mitad"
+        },
+        {
+          "odds": 2,
+          "selection": "2ª mitad"
+        },
+        {
+          "odds": 4,
+          "selection": "Ninguna mitad (empate)"
+        }
+      ]
+    },
+    "Margen de victoria": {
+      "default": [
+        {
+          "odds": 1.9,
+          "selection": "2 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 3.2,
+          "selection": "3 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 6,
+          "selection": "4 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 12,
+          "selection": "5 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 26,
+          "selection": "6 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 51,
+          "selection": "7 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 151,
+          "selection": "8 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 201,
+          "selection": "9 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 1.8,
+          "selection": "1 gol",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 3.1,
+          "selection": "2 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 6,
+          "selection": "3 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 12,
+          "selection": "4 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 26,
+          "selection": "5 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 51,
+          "selection": "6 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 151,
+          "selection": "7 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 201,
+          "selection": "8 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 17,
+          "selection": "2 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 41,
+          "selection": "3 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 201,
+          "selection": "4 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 301,
+          "selection": "5 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 4,
+          "selection": "6 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 4.33,
+          "selection": "7 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 6,
+          "selection": "8 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 9.5,
+          "selection": "9 goles o más",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 19,
+          "selection": "1 gol",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 41,
+          "selection": "2 goles",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 81,
+          "selection": "3 goles",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 201,
+          "selection": "4 goles",
+          "column": "Barcelona"
+        },
+        {
+          "odds": 3.1,
+          "selection": "5 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 4,
+          "selection": "6 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 5.5,
+          "selection": "7 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 9.5,
+          "selection": "8 goles",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 19,
+          "selection": "2 goles o más",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 41,
+          "selection": "3 goles o más",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 81,
+          "selection": "4 goles o más",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 201,
+          "selection": "5 goles o más",
+          "column": "Cualquier equipo"
+        },
+        {
+          "odds": 10,
+          "selection": "6 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 23,
+          "selection": "7 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 67,
+          "selection": "8 goles o más",
+          "column": "Espanyol"
+        },
+        {
+          "odds": 251,
+          "selection": "9 goles o más",
+          "column": "Espanyol"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_odds": 1230,
+    "total_markets": 16,
+    "market_names": [
+      "Resultado",
+      "Ambos equipos anotarán",
+      "Doble oportunidad",
+      "Total de goles",
+      "Goles - Intervalo",
+      "Córners",
+      "Tarjetas",
+      "Ambos equipos recibirán tarjetas",
+      "Equipo - Mayor número",
+      "Paradas del portero",
+      "Total - Remates a puerta",
+      "Total - Remates",
+      "Descanso/Resultado final",
+      "Marcador",
+      "Mitad con el mayor número de goles",
+      "Margen de victoria"
+    ]
+  }
+}
