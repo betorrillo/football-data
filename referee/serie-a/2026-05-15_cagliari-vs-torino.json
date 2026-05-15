@@ -4,64 +4,28 @@
   "away": "Torino",
   "league": "ITA1",
   "date": "2026-05-15",
-  "mode": "pool",
-  "note": "No per-match referee assignment available from API source. Listing the top-5 most-active referees of the competition.",
-  "referee_pool": [
-    {
-      "name": "Daniele Doveri",
-      "career_matches": 576,
-      "career_yc": 2368,
-      "career_rc": 128,
-      "career_pk": 186,
-      "career_yc_per_match": 4.11,
-      "career_rc_per_match": 0.22,
-      "career_total_cards_per_match": 4.33,
-      "verdict": "MEDIO"
-    },
-    {
-      "name": "Davide Massa",
-      "career_matches": 524,
-      "career_yc": 2513,
-      "career_rc": 132,
-      "career_pk": 169,
-      "career_yc_per_match": 4.8,
-      "career_rc_per_match": 0.25,
-      "career_total_cards_per_match": 5.05,
-      "verdict": "MUY ALTO"
-    },
-    {
-      "name": "Marco Guida",
-      "career_matches": 485,
-      "career_yc": 2311,
-      "career_rc": 122,
-      "career_pk": 172,
-      "career_yc_per_match": 4.76,
-      "career_rc_per_match": 0.25,
-      "career_total_cards_per_match": 5.02,
-      "verdict": "MUY ALTO"
-    },
-    {
-      "name": "Maurizio Mariani",
-      "career_matches": 448,
-      "career_yc": 2007,
-      "career_rc": 138,
-      "career_pk": 148,
-      "career_yc_per_match": 4.48,
-      "career_rc_per_match": 0.31,
-      "career_total_cards_per_match": 4.79,
-      "verdict": "ALTO"
-    },
-    {
-      "name": "Marco Di Bello",
-      "career_matches": 429,
-      "career_yc": 1857,
-      "career_rc": 105,
-      "career_pk": 161,
-      "career_yc_per_match": 4.33,
-      "career_rc_per_match": 0.24,
-      "career_total_cards_per_match": 4.57,
-      "verdict": "ALTO"
-    }
-  ],
-  "generated": "2026-05-15T19:41:13Z"
+  "mode": "assigned_official",
+  "referee": {
+    "name": "ARENA",
+    "nationality": null,
+    "matched": true,
+    "career_matches": 125,
+    "career_yc": 617,
+    "career_rc": 29,
+    "career_pk": 26,
+    "career_yc_per_match": 4.94,
+    "career_rc_per_match": 0.23,
+    "career_pk_per_match": 0.21,
+    "career_total_cards_per_match": 5.17,
+    "verdict": "MUY ALTO"
+  },
+  "var": "GHERSINI",
+  "official_source": {
+    "url": "https://www.aia-figc.it/news/serie-a-enilive-designazioni-37a-giornata-27391/",
+    "home_as_published": "Cagliari",
+    "away_as_published": "Torino",
+    "kickoff_time": "20:45",
+    "date_as_published": null
+  },
+  "generated": "2026-05-15T20:12:11Z"
 }

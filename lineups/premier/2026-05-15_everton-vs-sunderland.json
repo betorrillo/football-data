@@ -4,12 +4,27 @@
   "away": "Sunderland",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Jarrad Branthwaite",
+      "position": "Centre-Back",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Jack Grealish",
+      "position": "Left Winger",
+      "injury": "Foot surgery",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Simon Moore",

@@ -4,7 +4,7 @@
   "away": "Valencia",
   "league": "ESP1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -18,5 +18,41 @@
       "status": "out"
     }
   ],
-  "away_injuries": []
+  "away_injuries": [
+    {
+      "player": "Julen Agirrezabala",
+      "position": "Goalkeeper",
+      "injury": "Meniscus tear",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Dimitri Foulquier",
+      "position": "Right-Back",
+      "injury": "Knee injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Thierry Correia",
+      "position": "Right-Back",
+      "injury": "Muscle injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Mouctar Diakhaby",
+      "position": "Centre-Back",
+      "injury": "Muscle injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "José Copete",
+      "position": "Centre-Back",
+      "injury": "Meniscus tear",
+      "since": "",
+      "status": "out"
+    }
+  ]
 }

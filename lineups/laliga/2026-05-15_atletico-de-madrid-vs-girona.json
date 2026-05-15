@@ -4,7 +4,7 @@
   "away": "Girona",
   "league": "ESP1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -32,5 +32,34 @@
       "status": "out"
     }
   ],
-  "away_injuries": []
+  "away_injuries": [
+    {
+      "player": "Juan Carlos",
+      "position": "Goalkeeper",
+      "injury": "Knee injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Marc-André ter Stegen",
+      "position": "Goalkeeper",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Portu",
+      "position": "Right Winger",
+      "injury": "Torn knee ligaments",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Vladyslav Vanat",
+      "position": "Centre-Forward",
+      "injury": "Torn thigh muscle",
+      "since": "",
+      "status": "out"
+    }
+  ]
 }

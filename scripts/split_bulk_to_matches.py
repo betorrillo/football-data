@@ -356,8 +356,9 @@ def main():
         if os.path.exists(ref_path):
             try:
                 ref_data = json.load(open(ref_path))
-                mode = ref_data.get("mode")
-                if mode == "assigned":
+                mode = ref_data.get("mode", "")
+                if mode.startswith("assigned"):
+                    # assigned, assigned_official, assigned_official_order_swapped
                     available.append("referee")
                 elif mode == "pool":
                     available.append("referee_pool")

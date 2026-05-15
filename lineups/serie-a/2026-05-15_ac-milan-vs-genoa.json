@@ -4,7 +4,7 @@
   "away": "Genoa",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -25,5 +25,34 @@
       "status": "out"
     }
   ],
-  "away_injuries": []
+  "away_injuries": [
+    {
+      "player": "Benjamin Siegrist",
+      "position": "Goalkeeper",
+      "injury": "unknown injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Sebastian Otoa",
+      "position": "Centre-Back",
+      "injury": "Muscle fatigue",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Maxwel Cornet",
+      "position": "Left Winger",
+      "injury": "Muscle fatigue",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Junior Messias",
+      "position": "Right Winger",
+      "injury": "Adductor injury",
+      "since": "",
+      "status": "out"
+    }
+  ]
 }

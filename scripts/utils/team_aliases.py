@@ -98,7 +98,7 @@ ALIASES = {
     "Juventus": ["Juve", "Juventus FC"],
     "Bologna": ["Bolonia", "Bologna FC 1909"],
     "Parma": ["Parma Calcio", "Parma Calcio 1913"],
-    "Verona": ["Hellas Verona"],
+    "Verona": ["Hellas Verona", "H. Verona", "H Verona"],
     "Atalanta": ["Atalanta BC"],
     "Cagliari": ["Cagliari Calcio"],
     "Torino": ["Torino FC"],
@@ -136,19 +136,89 @@ ALIASES = {
     "AVS": ["AVS Futebol SAD"],
 }
 
-# Build reverse lookup: alias -> canonical name
+import re
+import unicodedata
+
+# Build reverse lookup: alias -> canonical name (key is lowercased + diacritics-stripped)
 _ALIAS_MAP = {}
+
+
+def _strip_diacritics(s):
+    """Remove combining marks (turn 'Alavés' -> 'Alaves', 'Köln' -> 'Koln')."""
+    return "".join(
+        c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)
+    )
+
+
+def _key(s):
+    """Lookup key: lowercase, diacritics-stripped, whitespace-collapsed."""
+    s = _strip_diacritics(s).lower().strip()
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+
 for canonical, variants in ALIASES.items():
-    _ALIAS_MAP[canonical.lower()] = canonical
+    _ALIAS_MAP[_key(canonical)] = canonical
     for v in variants:
-        _ALIAS_MAP[v.lower()] = canonical
+        _ALIAS_MAP[_key(v)] = canonical
+
+# Tokens to strip when the direct lookup fails. Pure noise on club names
+# from various data sources: legal forms, founding years, club abbreviations.
+# Order matters: longer multi-word forms first.
+_SUFFIX_TOKENS = [
+    # Multi-word + dotted
+    r"\bC\.\s*D\.",  # "C.D." (with internal dot)
+    r"\bF\.\s*C\.",
+    r"\bA\.\s*S\.",
+    r"\bU\.\s*S\.",
+    # Four-digit founding years (e.g. "FC St. Pauli 1910", "Bologna FC 1909")
+    r"\b(?:18|19|20)\d{2}\b",
+    # Compact club-form abbreviations (anywhere)
+    r"\b(?:FC|AFC|CF|BC|SC|SV|VfB|VfL|FSV|RB|AS|AC|SSC|SS|US|GD|UD|CD|SD|GNK|OSC|"
+    r"AJ|RC|TSG|SG|FK|KSV|FCV|AFC|RCD|GFC|CFC|EC|EFC|ACF|SD|CP)\b",
+    # Italian/Spanish/Portuguese descriptors
+    r"\b(?:Calcio|Sporting Club(?:e)?|Sporting Clube de|Hellas|Real Sporting de?|"
+    r"Futebol Clube|Clube de Futebol)\b",
+    # Common English-noise suffixes that survive league prefixes
+    r"\b(?:Hotspur|United|Wanderers|Albion|Town|City|Athletic|FC|Football Club)\b",
+]
+_SUFFIX_RE = re.compile("|".join(_SUFFIX_TOKENS), re.IGNORECASE)
+# Leading numeric prefixes like "1. FC Köln" or "1899 Hoffenheim"
+_LEADING_NUM_PREFIX_RE = re.compile(r"^(?:\d+\.\s*|\d{4}\s+)")
+
+
+def _aggressive_clean(name):
+    """Strip founding years, legal forms, club-tag tokens. Used only as fallback."""
+    s = _LEADING_NUM_PREFIX_RE.sub("", name)
+    s = _SUFFIX_RE.sub(" ", s)
+    s = re.sub(r"[.,&]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 
 def normalize_team(name):
-    """Return canonical team name, or the original if no alias is found."""
+    """Return canonical team name, or the original if no alias resolves.
+
+    Lookup is tolerant to: case, diacritics, internal whitespace. If the
+    direct lookup fails, we retry after aggressive suffix/prefix stripping —
+    this is what catches names like 'Aston Villa FC' or 'Atalanta BC' that
+    appear in API/scraping sources but aren't worth enumerating as aliases.
+    """
     if not name:
         return name
-    return _ALIAS_MAP.get(name.lower().strip(), name)
+    k = _key(name)
+    if k in _ALIAS_MAP:
+        return _ALIAS_MAP[k]
+    # Fallback: strip suffix tokens and try again
+    cleaned = _aggressive_clean(name)
+    if cleaned and cleaned != name:
+        k2 = _key(cleaned)
+        if k2 in _ALIAS_MAP:
+            return _ALIAS_MAP[k2]
+        # Last resort: return the cleaned form (so downstream lookups are at
+        # least consistent across sources, even if no canonical was found)
+        return cleaned
+    return name
 
 
 def teams_match(name_a, name_b):

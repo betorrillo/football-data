@@ -4,12 +4,34 @@
   "away": "Wolverhampton",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Alex Iwobi",
+      "position": "Left Winger",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Raúl Jiménez",
+      "position": "Centre-Forward",
+      "injury": "Knock",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Ryan Sessegnon",
+      "position": "Left-Back",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Sam Johnstone",

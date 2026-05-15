@@ -2,19 +2,27 @@
 """
 Build per-match referee files for the Franken agent.
 
-Strategy:
-  1. Primary: look up the assigned referee from football-data.org API output
-     (data/api/fixtures_api_*.json). Match by (date, {home_norm, away_norm}).
-  2. If the referee is known and exists in referees/all_referees_*.json,
-     attach full career stats.
-  3. If no assignment is available (LaLiga/Serie A/Segunda are typically not
-     covered), emit a `referee_pool` listing the top-N most-active referees
-     of that competition with their stats — useful even without exact match.
+Strategy (in order of preference):
+  1. **Official source per league** (referee_sources/*): scrape the
+     federation/league site for that matchweek's designations. Match by
+     ordered (home_norm, away_norm). Highest confidence.
+       - Serie A:    AIA-FIGC (aia-figc.it)
+       - (more leagues to be added: DFB, LFP, PGMOL, RFEF, FPF)
+  2. **football-data.org API** fallback: cross-source confirmation. Match
+     by (date, frozenset({home, away})) using relaxed_normalize.
+  3. **Pool**: top-N most-active referees of the competition with full
+     career stats — useful even without exact assignment.
+
+Output `mode` is one of:
+  - "assigned_official"  -> from a federation source, order-confirmed
+  - "assigned_official_order_swapped" -> federation confirms a fixture
+       with reversed home/away vs the manifest (flag: bet365 scraper may
+       have swapped them — agent should treat home/away cautiously)
+  - "assigned"           -> from the API fallback
+  - "pool"               -> top-5 league candidates
 
 Generates:
   referee/{league_dir}/{match_id}.json
-
-Each file declares `mode` = "assigned" or "pool" so the agent knows what it got.
 
 Usage:
   python3 scripts/build_referee.py
@@ -29,6 +37,62 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from utils.team_aliases import normalize_team
+
+# Map odds league_code -> module name in referee_sources/.
+# If a league isn't here, we skip the official-source step for it.
+OFFICIAL_SOURCES = {
+    "ITA1": "seriea_aia",
+    # "GER1": "bundesliga_dfb",     # to add
+    # "FRA1": "ligue1_lfp",          # to add
+    # "ENG1": "premier_pgmol",       # to add
+    # "ENG_FA": "premier_pgmol",     # FA Cup uses PL referees
+    # "ESP1": "rfef_playwright",     # to add
+    # "ESP2": "rfef_playwright",     # to add
+    # "POR1": "primeira_aggregator", # to add
+}
+
+
+def load_official_sources():
+    """Pre-fetch every official source once and build ordered lookups."""
+    out = {}
+    for league_code, mod_name in OFFICIAL_SOURCES.items():
+        try:
+            mod = __import__(
+                f"referee_sources.{mod_name}",
+                fromlist=["fetch_designations"],
+            )
+            designations = mod.fetch_designations()
+            ordered = {
+                (normalize_team(d["home"]), normalize_team(d["away"])): d
+                for d in designations
+            }
+            out[league_code] = ordered
+            print(f"  Official [{league_code}] {mod_name}: {len(designations)} designations")
+        except Exception as e:
+            print(f"  Official [{league_code}] {mod_name} FAILED: {e}")
+            out[league_code] = {}
+    return out
+
+
+def find_official(home_raw, away_raw, league_code, official_lookup):
+    """Look up an official designation; return (designation, confidence).
+
+    Confidence values:
+      - "high"            : ordered match
+      - "order_swapped"   : same pair but home/away inverted vs manifest
+                            (bet365 scraper may have swapped them)
+      - None              : no match
+    """
+    pool = official_lookup.get(league_code) or {}
+    if not pool:
+        return None, None
+    h = normalize_team(home_raw)
+    a = normalize_team(away_raw)
+    if (h, a) in pool:
+        return pool[(h, a)], "high"
+    if (a, h) in pool:
+        return pool[(a, h)], "order_swapped"
+    return None, None
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ODDS_DIR = os.path.join(BASE_DIR, "odds")
@@ -186,8 +250,11 @@ def main():
     print("Build per-match referee files")
     print("=" * 60)
 
+    print("\nLoading official sources...")
+    official_lookup = load_official_sources()
+
     api_lookup = build_api_referee_lookup()
-    print(f"  API assignments loaded: {len(api_lookup) // 2 if api_lookup else 0} unique (indexed twice)")
+    print(f"\n  API assignments loaded: {len(api_lookup) // 2 if api_lookup else 0} unique (indexed twice)")
 
     stats_by_name, refs_by_league = build_referee_stats_lookup()
     print(f"  Referee stats: {len(stats_by_name)} name keys, {len(refs_by_league)} leagues")
@@ -195,7 +262,9 @@ def main():
     manifest = json.load(open(os.path.join(ODDS_DIR, "manifest.json")))
     upcoming = manifest.get("matches_upcoming", [])
 
-    assigned_count = 0
+    official_count = 0
+    swapped_count = 0
+    api_count = 0
     pool_count = 0
 
     for m in upcoming:
@@ -205,33 +274,74 @@ def main():
         league_dir = m["urls"]["odds"].split("/odds/")[1].split("/")[0]
         ref_key = LEAGUE_CODE_TO_REF_KEY.get(league_code)
 
-        h = normalize_team(m["home"])
-        a = normalize_team(m["away"])
-        hr = relaxed_normalize(m["home"])
-        ar = relaxed_normalize(m["away"])
+        payload = None
 
-        ref_entry = (
-            api_lookup.get((date, frozenset({h, a})))
-            or api_lookup.get((date, frozenset({hr, ar})))
-        )
-
-        if ref_entry:
-            assigned = attach_stats(ref_entry, stats_by_name)
+        # 1) Official source (highest priority)
+        official, conf = find_official(m["home"], m["away"], league_code, official_lookup)
+        if official:
+            # The federation publishes the referee name (often surname-only,
+            # ALL CAPS). Stats lookup uses full names; we still try the surname.
+            ref_name = official.get("referee", "")
+            stub = {"name": ref_name, "nationality": None}
+            assigned = attach_stats(stub, stats_by_name)
+            mode = "assigned_official" if conf == "high" else "assigned_official_order_swapped"
             payload = {
                 "match_id": match_id,
                 "home": m["home"],
                 "away": m["away"],
                 "league": league_code,
                 "date": date,
-                "mode": "assigned",
+                "mode": mode,
                 "referee": assigned,
+                "var": official.get("var"),
+                "official_source": {
+                    "url": official.get("source_url"),
+                    "home_as_published": official.get("home"),
+                    "away_as_published": official.get("away"),
+                    "kickoff_time": official.get("kickoff_time"),
+                    "date_as_published": official.get("date"),
+                },
                 "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             }
-            assigned_count += 1
-        else:
+            if conf == "order_swapped":
+                payload["warning"] = (
+                    "Official federation source has home/away REVERSED versus this manifest. "
+                    "The bet365 odds scraper may have swapped them. "
+                    "Trust the order in official_source.home_as_published / away_as_published "
+                    "when assigning home advantage."
+                )
+                swapped_count += 1
+            else:
+                official_count += 1
+
+        # 2) API fallback
+        if payload is None:
+            h = normalize_team(m["home"])
+            a = normalize_team(m["away"])
+            hr = relaxed_normalize(m["home"])
+            ar = relaxed_normalize(m["away"])
+            ref_entry = (
+                api_lookup.get((date, frozenset({h, a})))
+                or api_lookup.get((date, frozenset({hr, ar})))
+            )
+            if ref_entry:
+                assigned = attach_stats(ref_entry, stats_by_name)
+                payload = {
+                    "match_id": match_id,
+                    "home": m["home"],
+                    "away": m["away"],
+                    "league": league_code,
+                    "date": date,
+                    "mode": "assigned",
+                    "referee": assigned,
+                    "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                }
+                api_count += 1
+
+        # 3) Pool fallback
+        if payload is None:
             pool = build_pool(refs_by_league.get(ref_key, []), POOL_SIZE) if ref_key else []
             if not pool:
-                # nothing to write
                 continue
             payload = {
                 "match_id": match_id,
@@ -241,7 +351,7 @@ def main():
                 "date": date,
                 "mode": "pool",
                 "note": (
-                    "No per-match referee assignment available from API source. "
+                    "No per-match referee assignment from official or API source. "
                     f"Listing the top-{POOL_SIZE} most-active referees of the competition."
                 ),
                 "referee_pool": pool,
@@ -255,9 +365,11 @@ def main():
             json.dump(payload, f, indent=2, ensure_ascii=False)
 
     print(f"\nResults:")
-    print(f"  Assigned referee: {assigned_count}")
-    print(f"  Pool fallback:    {pool_count}")
-    print(f"  Total written:    {assigned_count + pool_count} / {len(upcoming)}")
+    print(f"  Official source (high confidence): {official_count}")
+    print(f"  Official source (ORDER SWAPPED ⚠): {swapped_count}")
+    print(f"  API fallback:                      {api_count}")
+    print(f"  Pool fallback:                     {pool_count}")
+    print(f"  Total written: {official_count + swapped_count + api_count + pool_count} / {len(upcoming)}")
     print("Done!")
 
 

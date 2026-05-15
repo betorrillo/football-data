@@ -4,12 +4,62 @@
   "away": "Aston Villa",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Alisson",
+      "position": "Goalkeeper",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Mohamed Salah",
+      "position": "Right Winger",
+      "injury": "Thigh problems",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Florian Wirtz",
+      "position": "Attacking Midfield",
+      "injury": "Unknown",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Giovanni Leoni",
+      "position": "Centre-Back",
+      "injury": "Cruciate ligament tear",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Wataru Endo",
+      "position": "Defensive Midfield",
+      "injury": "Ankle ligament tear",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Conor Bradley",
+      "position": "Right-Back",
+      "injury": "Knee surgery",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Hugo Ekitiké",
+      "position": "Centre-Forward",
+      "injury": "Achilles tendon rupture",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Amadou Onana",

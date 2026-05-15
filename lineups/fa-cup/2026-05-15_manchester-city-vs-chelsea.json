@@ -4,7 +4,7 @@
   "away": "Chelsea",
   "league": "ENG_FA",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -18,5 +18,48 @@
       "status": "out"
     }
   ],
-  "away_injuries": []
+  "away_injuries": [
+    {
+      "player": "Robert Sánchez",
+      "position": "Goalkeeper",
+      "injury": "Unknown",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Pedro Neto",
+      "position": "Right Winger",
+      "injury": "unknown injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Jamie Gittens",
+      "position": "Left Winger",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Caleb Wiley",
+      "position": "Left-Back",
+      "injury": "Adductor injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Alejandro Garnacho",
+      "position": "Left Winger",
+      "injury": "unknown injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Estêvão",
+      "position": "Right Winger",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    }
+  ]
 }

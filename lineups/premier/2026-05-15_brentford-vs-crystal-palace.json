@@ -4,12 +4,34 @@
   "away": "Crystal Palace",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T19:42:44Z",
+  "generated": "2026-05-15T20:12:38Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Jordan Henderson",
+      "position": "Defensive Midfield",
+      "injury": "Knock",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Antoni Milambo",
+      "position": "Attacking Midfield",
+      "injury": "Cruciate ligament tear",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Fábio Carvalho",
+      "position": "Attacking Midfield",
+      "injury": "Cruciate ligament tear",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Caleb Kporha",
