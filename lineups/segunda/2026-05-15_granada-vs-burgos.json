@@ -1,7 +1,7 @@
 {
-  "match_id": "2026-05-15_leganes-vs-huesca",
-  "home": "Leganés",
-  "away": "Huesca",
+  "match_id": "2026-05-15_granada-vs-burgos",
+  "home": "Granada",
+  "away": "Burgos",
   "league": "ESP2",
   "date": "2026-05-15",
   "generated": "2026-05-15T19:18:41Z",
@@ -9,14 +9,14 @@
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
-  "away_injuries": [
+  "home_injuries": [
     {
-      "player": "Diego Aznar",
-      "position": "Centre-Forward",
-      "injury": "Knee injury",
+      "player": "Luca Zidane",
+      "position": "Goalkeeper",
+      "injury": "Unknown",
       "since": "",
       "status": "out"
     }
-  ]
+  ],
+  "away_injuries": []
 }
