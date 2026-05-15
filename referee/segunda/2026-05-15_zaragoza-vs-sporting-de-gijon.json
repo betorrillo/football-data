@@ -1,0 +1,67 @@
+{
+  "match_id": "2026-05-15_zaragoza-vs-sporting-de-gijon",
+  "home": "Real Zaragoza",
+  "away": "Sporting de Gijón",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "mode": "pool",
+  "note": "No per-match referee assignment available from API source. Listing the top-5 most-active referees of the competition.",
+  "referee_pool": [
+    {
+      "name": "Dámaso Arcediano Monescillo",
+      "career_matches": 520,
+      "career_yc": 2804,
+      "career_rc": 152,
+      "career_pk": 168,
+      "career_yc_per_match": 5.39,
+      "career_rc_per_match": 0.29,
+      "career_total_cards_per_match": 5.68,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Saúl Ais Reig",
+      "career_matches": 386,
+      "career_yc": 1796,
+      "career_rc": 76,
+      "career_pk": 106,
+      "career_yc_per_match": 4.65,
+      "career_rc_per_match": 0.2,
+      "career_total_cards_per_match": 4.85,
+      "verdict": "ALTO"
+    },
+    {
+      "name": "Álvaro Moreno Aragón",
+      "career_matches": 312,
+      "career_yc": 1588,
+      "career_rc": 124,
+      "career_pk": 125,
+      "career_yc_per_match": 5.09,
+      "career_rc_per_match": 0.4,
+      "career_total_cards_per_match": 5.49,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Jon Ander González Esteban",
+      "career_matches": 311,
+      "career_yc": 1410,
+      "career_rc": 102,
+      "career_pk": 90,
+      "career_yc_per_match": 4.53,
+      "career_rc_per_match": 0.33,
+      "career_total_cards_per_match": 4.86,
+      "verdict": "ALTO"
+    },
+    {
+      "name": "Rafael Sánchez López",
+      "career_matches": 218,
+      "career_yc": 1056,
+      "career_rc": 65,
+      "career_pk": 57,
+      "career_yc_per_match": 4.84,
+      "career_rc_per_match": 0.3,
+      "career_total_cards_per_match": 5.14,
+      "verdict": "MUY ALTO"
+    }
+  ],
+  "generated": "2026-05-15T19:41:13Z"
+}

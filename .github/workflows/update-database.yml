@@ -110,6 +110,11 @@ jobs:
           echo "--- Building H2H per-match ---"
           python3 scripts/build_h2h.py || echo "⚠️ H2H failed (non-blocking)"
 
+      - name: Build referee per-match
+        run: |
+          echo "--- Building referee per-match ---"
+          python3 scripts/build_referee.py || echo "⚠️ Referee build failed (non-blocking)"
+
       - name: Split bulk data to per-match files
         run: |
           echo "--- Splitting bulk to per-match ---"

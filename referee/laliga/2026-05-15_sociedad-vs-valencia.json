@@ -1,0 +1,67 @@
+{
+  "match_id": "2026-05-15_sociedad-vs-valencia",
+  "home": "Real Sociedad",
+  "away": "Valencia",
+  "league": "ESP1",
+  "date": "2026-05-15",
+  "mode": "pool",
+  "note": "No per-match referee assignment available from API source. Listing the top-5 most-active referees of the competition.",
+  "referee_pool": [
+    {
+      "name": "Jesús Gil Manzano",
+      "career_matches": 639,
+      "career_yc": 3455,
+      "career_rc": 200,
+      "career_pk": 240,
+      "career_yc_per_match": 5.41,
+      "career_rc_per_match": 0.31,
+      "career_total_cards_per_match": 5.72,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Alejandro Hernández Hernández",
+      "career_matches": 618,
+      "career_yc": 3464,
+      "career_rc": 208,
+      "career_pk": 204,
+      "career_yc_per_match": 5.61,
+      "career_rc_per_match": 0.34,
+      "career_total_cards_per_match": 5.94,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Juan Martínez Munuera",
+      "career_matches": 578,
+      "career_yc": 2732,
+      "career_rc": 108,
+      "career_pk": 170,
+      "career_yc_per_match": 4.73,
+      "career_rc_per_match": 0.19,
+      "career_total_cards_per_match": 4.91,
+      "verdict": "ALTO"
+    },
+    {
+      "name": "De Burgos Bengoetxea",
+      "career_matches": 540,
+      "career_yc": 2541,
+      "career_rc": 107,
+      "career_pk": 150,
+      "career_yc_per_match": 4.71,
+      "career_rc_per_match": 0.2,
+      "career_total_cards_per_match": 4.9,
+      "verdict": "ALTO"
+    },
+    {
+      "name": "José María Sánchez Martínez",
+      "career_matches": 523,
+      "career_yc": 2887,
+      "career_rc": 128,
+      "career_pk": 156,
+      "career_yc_per_match": 5.52,
+      "career_rc_per_match": 0.24,
+      "career_total_cards_per_match": 5.76,
+      "verdict": "MUY ALTO"
+    }
+  ],
+  "generated": "2026-05-15T19:41:13Z"
+}

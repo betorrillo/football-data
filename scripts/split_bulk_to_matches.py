@@ -351,15 +351,19 @@ def main():
             lineup_count += 1
             available.append("lineups")
 
-        # --- REFEREE ---
-        ref_data = generate_referee(meta, referee_lookup)
-        if ref_data:
-            out_path = os.path.join(BASE_DIR, "referee", league_dir, f"{match_id}.json")
-            ensure_dir(out_path)
-            with open(out_path, "w") as f:
-                json.dump(ref_data, f, indent=2, ensure_ascii=False)
-            referee_count += 1
-            available.append("referee")
+        # --- REFEREE (generated separately by build_referee.py; just detect presence) ---
+        ref_path = os.path.join(BASE_DIR, "referee", league_dir, f"{match_id}.json")
+        if os.path.exists(ref_path):
+            try:
+                ref_data = json.load(open(ref_path))
+                mode = ref_data.get("mode")
+                if mode == "assigned":
+                    available.append("referee")
+                elif mode == "pool":
+                    available.append("referee_pool")
+                referee_count += 1
+            except Exception:
+                pass
 
         # --- H2H (generated separately by build_h2h.py; just detect presence) ---
         h2h_path = os.path.join(BASE_DIR, "h2h", league_dir, f"{match_id}.json")
