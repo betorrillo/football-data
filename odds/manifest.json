@@ -1,17 +1,46 @@
 {
-  "scraped_at": "2026-05-15T16:40:36.790493",
-  "scraper_version": "4.0",
-  "base_url": "https://raw.githubusercontent.com/betorrillo/football-data/main",
-  "total_matches": 40,
-  "matches": [
+  "updated": "2026-05-15T16:38:13Z",
+  "total_upcoming": 40,
+  "note": "Dos sets de URLs: urls (raw.githubusercontent, JSON directo) y urls_blob (github.com/blob, fallback HTML). Probar urls primero. Campo available indica que datos existen.",
+  "data_types": {
+    "odds": "Cuotas pre-match bet365 (20 mercados, formato limpio)",
+    "context": "Estadisticas de equipo, forma, posicion liga (PENDIENTE)",
+    "lineups": "Alineaciones probables y titulares (PENDIENTE)",
+    "referee": "Historial y tendencias del arbitro (PENDIENTE)",
+    "h2h": "Historial head-to-head entre equipos (PENDIENTE)"
+  },
+  "leagues": {
+    "ENG_FA": {
+      "name": "FA Cup",
+      "count": 1
+    },
+    "ESP1": {
+      "name": "La Liga",
+      "count": 10
+    },
+    "ENG1": {
+      "name": "Premier League",
+      "count": 8
+    },
+    "ESP2": {
+      "name": "Segunda Division",
+      "count": 11
+    },
+    "ITA1": {
+      "name": "Serie A",
+      "count": 10
+    }
+  },
+  "matches_upcoming": [
     {
-      "id": "2026-05-15_arsenal-vs-burnley",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Arsenal",
-      "away_team": "Burnley",
-      "bet365_event_id": "192998796",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_arsenal-vs-burnley.json",
+      "match_id": "2026-05-15_manchester-city-vs-chelsea",
+      "home": "Manchester City",
+      "away": "Chelsea",
+      "league": "ENG_FA",
+      "league_name": "FA Cup",
+      "date": "2026-05-15",
+      "bet365_id": "193663388",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -27,16 +56,423 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/fa-cup/2026-05-15_manchester-city-vs-chelsea.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/fa-cup/2026-05-15_manchester-city-vs-chelsea.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_liverpool-vs-aston-villa",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Liverpool",
-      "away_team": "Aston Villa",
-      "bet365_event_id": "192998799",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_liverpool-vs-aston-villa.json",
+      "match_id": "2026-05-15_alaves-vs-oviedo",
+      "home": "Alavés",
+      "away": "Real Oviedo",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332417",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_alaves-vs-oviedo.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_alaves-vs-oviedo.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_alaves-vs-oviedo.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_athletic-club-vs-celta-de-vigo",
+      "home": "Athletic Club",
+      "away": "Celta de Vigo",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332391",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_atletico-de-madrid-vs-girona",
+      "home": "Atlético de Madrid",
+      "away": "Girona",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332394",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_atletico-de-madrid-vs-girona.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_atletico-de-madrid-vs-girona.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_barcelona-vs-betis",
+      "home": "Barcelona",
+      "away": "Real Betis",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332405",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_barcelona-vs-betis.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_barcelona-vs-betis.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_barcelona-vs-betis.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_barcelona-vs-betis.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_barcelona-vs-betis.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_barcelona-vs-betis.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_barcelona-vs-betis.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_barcelona-vs-betis.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_barcelona-vs-betis.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_barcelona-vs-betis.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_elche-vs-getafe",
+      "home": "Elche",
+      "away": "Getafe",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332402",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_elche-vs-getafe.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_elche-vs-getafe.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_elche-vs-getafe.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_elche-vs-getafe.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_elche-vs-getafe.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_elche-vs-getafe.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_elche-vs-getafe.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_elche-vs-getafe.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_elche-vs-getafe.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_elche-vs-getafe.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_levante-vs-mallorca",
+      "home": "Levante",
+      "away": "Mallorca",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332408",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_levante-vs-mallorca.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_levante-vs-mallorca.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_levante-vs-mallorca.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_levante-vs-mallorca.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_levante-vs-mallorca.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_levante-vs-mallorca.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_levante-vs-mallorca.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_levante-vs-mallorca.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_levante-vs-mallorca.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_levante-vs-mallorca.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_madrid-vs-sevilla",
+      "home": "Real Madrid",
+      "away": "Sevilla",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332428",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_madrid-vs-sevilla.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_madrid-vs-sevilla.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_madrid-vs-sevilla.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_osasuna-vs-espanyol",
+      "home": "Osasuna",
+      "away": "Espanyol",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332397",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_osasuna-vs-espanyol.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_osasuna-vs-espanyol.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_osasuna-vs-espanyol.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_rayo-vallecano-vs-villarreal",
+      "home": "Rayo Vallecano",
+      "away": "Villarreal",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332411",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_sociedad-vs-valencia",
+      "home": "Real Sociedad",
+      "away": "Valencia",
+      "league": "ESP1",
+      "league_name": "La Liga",
+      "date": "2026-05-15",
+      "bet365_id": "193332423",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/laliga/2026-05-15_sociedad-vs-valencia.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/laliga/2026-05-15_sociedad-vs-valencia.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_sociedad-vs-valencia.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_arsenal-vs-burnley",
+      "home": "Arsenal",
+      "away": "Burnley",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998796",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -52,16 +488,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_arsenal-vs-burnley.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_arsenal-vs-burnley.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_arsenal-vs-burnley.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_arsenal-vs-burnley.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_arsenal-vs-burnley.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_arsenal-vs-burnley.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_arsenal-vs-burnley.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_arsenal-vs-burnley.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_arsenal-vs-burnley.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_arsenal-vs-burnley.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_brentford-vs-crystal-palace",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Brentford",
-      "away_team": "Crystal Palace",
-      "bet365_event_id": "192998805",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_brentford-vs-crystal-palace.json",
+      "match_id": "2026-05-15_brentford-vs-crystal-palace",
+      "home": "Brentford",
+      "away": "Crystal Palace",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998805",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -77,16 +530,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_brentford-vs-crystal-palace.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_brentford-vs-crystal-palace.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_brentford-vs-crystal-palace.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_everton-vs-sunderland",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Everton",
-      "away_team": "Sunderland",
-      "bet365_event_id": "192998811",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_everton-vs-sunderland.json",
+      "match_id": "2026-05-15_brighton-vs-leeds",
+      "home": "Brighton",
+      "away": "Leeds",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998813",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -102,16 +572,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_brighton-vs-leeds.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_brighton-vs-leeds.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_brighton-vs-leeds.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_brighton-vs-leeds.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_brighton-vs-leeds.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_brighton-vs-leeds.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_brighton-vs-leeds.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_brighton-vs-leeds.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_brighton-vs-leeds.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_brighton-vs-leeds.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_brighton-vs-leeds",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Brighton",
-      "away_team": "Leeds",
-      "bet365_event_id": "192998813",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_brighton-vs-leeds.json",
+      "match_id": "2026-05-15_everton-vs-sunderland",
+      "home": "Everton",
+      "away": "Sunderland",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998811",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -127,16 +614,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_everton-vs-sunderland.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_everton-vs-sunderland.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_everton-vs-sunderland.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_everton-vs-sunderland.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_everton-vs-sunderland.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_everton-vs-sunderland.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_everton-vs-sunderland.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_everton-vs-sunderland.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_everton-vs-sunderland.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_everton-vs-sunderland.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_manchester-united-vs-nottingham-forest",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Manchester United",
-      "away_team": "Nottingham Forest",
-      "bet365_event_id": "192998816",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+      "match_id": "2026-05-15_fulham-vs-wolverhampton",
+      "home": "Fulham",
+      "away": "Wolverhampton",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998829",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -152,16 +656,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_fulham-vs-wolverhampton.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_fulham-vs-wolverhampton.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_fulham-vs-wolverhampton.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_newcastle-vs-west-ham",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Newcastle",
-      "away_team": "West Ham",
-      "bet365_event_id": "192998821",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_newcastle-vs-west-ham.json",
+      "match_id": "2026-05-15_liverpool-vs-aston-villa",
+      "home": "Liverpool",
+      "away": "Aston Villa",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998799",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -177,16 +698,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_liverpool-vs-aston-villa.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_liverpool-vs-aston-villa.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_liverpool-vs-aston-villa.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_fulham-vs-wolverhampton",
-      "league": "FA Barclaycard",
-      "league_code": "ENG1",
-      "home_team": "Fulham",
-      "away_team": "Wolverhampton",
-      "bet365_event_id": "192998829",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_fulham-vs-wolverhampton.json",
+      "match_id": "2026-05-15_manchester-united-vs-nottingham-forest",
+      "home": "Manchester United",
+      "away": "Nottingham Forest",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998816",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -202,38 +740,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_manchester-united-vs-nottingham-forest.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_manchester-united-vs-nottingham-forest.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_manchester-united-vs-nottingham-forest.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_almeria-vs-las-palmas",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Almería",
-      "away_team": "Las Palmas",
-      "bet365_event_id": "193003584",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_almeria-vs-las-palmas.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_castellon-vs-cadiz",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "CD Castellón",
-      "away_team": "Cádiz",
-      "bet365_event_id": "193003587",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_castellon-vs-cadiz.json",
+      "match_id": "2026-05-15_newcastle-vs-west-ham",
+      "home": "Newcastle",
+      "away": "West Ham",
+      "league": "ENG1",
+      "league_name": "Premier League",
+      "date": "2026-05-15",
+      "bet365_id": "192998821",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -249,16 +782,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/premier/2026-05-15_newcastle-vs-west-ham.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/premier/2026-05-15_newcastle-vs-west-ham.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_newcastle-vs-west-ham.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_malaga-c-f-vs-ad-ceuta",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Málaga C.F.",
-      "away_team": "AD Ceuta",
-      "bet365_event_id": "193003594",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+      "match_id": "2026-05-15_almeria-vs-las-palmas",
+      "home": "Almería",
+      "away": "Las Palmas",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003584",
+      "markets_count": 10,
       "markets_available": [
         "corners_away",
         "corners_home",
@@ -271,415 +821,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 10
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_almeria-vs-las-palmas.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_almeria-vs-las-palmas.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_almeria-vs-las-palmas.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_cordoba-vs-albacete-balompie",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Córdoba",
-      "away_team": "Albacete Balompié",
-      "bet365_event_id": "193003610",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
-      "markets_available": [
-        "cards_away",
-        "cards_home",
-        "cards_total",
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 13
-    },
-    {
-      "id": "2026-05-15_cultural-leonesa-vs-eibar",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Cultural Leonesa",
-      "away_team": "Eibar",
-      "bet365_event_id": "193003623",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_deportivo-de-la-coruna-vs-andorra",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Deportivo de La Coruña",
-      "away_team": "FC Andorra",
-      "bet365_event_id": "193003629",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_granada-vs-burgos",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Granada",
-      "away_team": "Burgos",
-      "bet365_event_id": "193003635",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_granada-vs-burgos.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_leganes-vs-huesca",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Leganés",
-      "away_team": "Huesca",
-      "bet365_event_id": "193003640",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_leganes-vs-huesca.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_racing-santander-vs-valladolid",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Racing Santander",
-      "away_team": "Valladolid",
-      "bet365_event_id": "193003644",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_racing-santander-vs-valladolid.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_mirandes-vs-sociedad-b",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Mirandés",
-      "away_team": "Real Sociedad B",
-      "bet365_event_id": "193003648",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_zaragoza-vs-sporting-de-gijon",
-      "league": "Spain Segunda",
-      "league_code": "ESP2",
-      "home_team": "Real Zaragoza",
-      "away_team": "Sporting de Gijón",
-      "bet365_event_id": "193003652",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_athletic-club-vs-celta-de-vigo",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Athletic Club",
-      "away_team": "Celta de Vigo",
-      "bet365_event_id": "193332391",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_atletico-de-madrid-vs-girona",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Atlético de Madrid",
-      "away_team": "Girona",
-      "bet365_event_id": "193332394",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_atletico-de-madrid-vs-girona.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_osasuna-vs-espanyol",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Osasuna",
-      "away_team": "Espanyol",
-      "bet365_event_id": "193332397",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_osasuna-vs-espanyol.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_elche-vs-getafe",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Elche",
-      "away_team": "Getafe",
-      "bet365_event_id": "193332402",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_elche-vs-getafe.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_barcelona-vs-betis",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Barcelona",
-      "away_team": "Real Betis",
-      "bet365_event_id": "193332405",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_barcelona-vs-betis.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_levante-vs-mallorca",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Levante",
-      "away_team": "Mallorca",
-      "bet365_event_id": "193332408",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_levante-vs-mallorca.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_rayo-vallecano-vs-villarreal",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Rayo Vallecano",
-      "away_team": "Villarreal",
-      "bet365_event_id": "193332411",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_alaves-vs-oviedo",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Alavés",
-      "away_team": "Real Oviedo",
-      "bet365_event_id": "193332417",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_alaves-vs-oviedo.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_sociedad-vs-valencia",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Real Sociedad",
-      "away_team": "Valencia",
-      "bet365_event_id": "193332423",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_sociedad-vs-valencia.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_madrid-vs-sevilla",
-      "league": "Spanish Primera",
-      "league_code": "ESP1",
-      "home_team": "Real Madrid",
-      "away_team": "Sevilla",
-      "bet365_event_id": "193332428",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/laliga/2026-05-15_madrid-vs-sevilla.json",
-      "markets_available": [
-        "corners_away",
-        "corners_home",
-        "corners_total",
-        "double_chance",
-        "ht_ft",
-        "player_anytime_scorer",
-        "player_shots",
-        "player_shots_on_target",
-        "total_goals",
-        "winning_margin"
-      ],
-      "markets_count": 10
-    },
-    {
-      "id": "2026-05-15_manchester-city-vs-chelsea",
-      "league": "FA Cup",
-      "league_code": "ENG_FA",
-      "home_team": "Manchester City",
-      "away_team": "Chelsea",
-      "bet365_event_id": "193663388",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/fa-cup/2026-05-15_manchester-city-vs-chelsea.json",
+      "match_id": "2026-05-15_castellon-vs-cadiz",
+      "home": "CD Castellón",
+      "away": "Cádiz",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003587",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -695,16 +863,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_castellon-vs-cadiz.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_castellon-vs-cadiz.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_castellon-vs-cadiz.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_roma-vs-lazio",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Roma",
-      "away_team": "Lazio",
-      "bet365_event_id": "193714553",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_roma-vs-lazio.json",
+      "match_id": "2026-05-15_cordoba-vs-albacete-balompie",
+      "home": "Córdoba",
+      "away": "Albacete Balompié",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003610",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -720,16 +905,345 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_cordoba-vs-albacete-balompie.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_cordoba-vs-albacete-balompie.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_cordoba-vs-albacete-balompie.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_atalanta-vs-bolonia",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Atalanta",
-      "away_team": "Bolonia",
-      "bet365_event_id": "193714557",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+      "match_id": "2026-05-15_cultural-leonesa-vs-eibar",
+      "home": "Cultural Leonesa",
+      "away": "Eibar",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003623",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_cultural-leonesa-vs-eibar.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_cultural-leonesa-vs-eibar.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_cultural-leonesa-vs-eibar.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_deportivo-de-la-coruna-vs-andorra",
+      "home": "Deportivo de La Coruña",
+      "away": "FC Andorra",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003629",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_granada-vs-burgos",
+      "home": "Granada",
+      "away": "Burgos",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003635",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_granada-vs-burgos.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_granada-vs-burgos.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_granada-vs-burgos.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_granada-vs-burgos.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_granada-vs-burgos.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_granada-vs-burgos.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_granada-vs-burgos.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_granada-vs-burgos.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_granada-vs-burgos.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_granada-vs-burgos.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_leganes-vs-huesca",
+      "home": "Leganés",
+      "away": "Huesca",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003640",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_leganes-vs-huesca.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_leganes-vs-huesca.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_leganes-vs-huesca.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_leganes-vs-huesca.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_leganes-vs-huesca.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_leganes-vs-huesca.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_leganes-vs-huesca.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_leganes-vs-huesca.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_leganes-vs-huesca.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_leganes-vs-huesca.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_malaga-c-f-vs-ad-ceuta",
+      "home": "Málaga C.F.",
+      "away": "AD Ceuta",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003594",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_mirandes-vs-sociedad-b",
+      "home": "Mirandés",
+      "away": "Real Sociedad B",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003648",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_mirandes-vs-sociedad-b.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_mirandes-vs-sociedad-b.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_mirandes-vs-sociedad-b.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_racing-santander-vs-valladolid",
+      "home": "Racing Santander",
+      "away": "Valladolid",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003644",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_racing-santander-vs-valladolid.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_racing-santander-vs-valladolid.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_racing-santander-vs-valladolid.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_zaragoza-vs-sporting-de-gijon",
+      "home": "Real Zaragoza",
+      "away": "Sporting de Gijón",
+      "league": "ESP2",
+      "league_name": "Segunda Division",
+      "date": "2026-05-15",
+      "bet365_id": "193003652",
+      "markets_count": 10,
+      "markets_available": [
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_ac-milan-vs-genoa",
+      "home": "AC Milan",
+      "away": "Genoa",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714565",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -745,16 +1259,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_ac-milan-vs-genoa.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_ac-milan-vs-genoa.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_cagliari-vs-torino",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Cagliari",
-      "away_team": "Torino",
-      "bet365_event_id": "193714559",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_cagliari-vs-torino.json",
+      "match_id": "2026-05-15_atalanta-vs-bolonia",
+      "home": "Atalanta",
+      "away": "Bolonia",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714557",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -770,16 +1301,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_atalanta-vs-bolonia.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_atalanta-vs-bolonia.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_atalanta-vs-bolonia.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_como-vs-parma",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Como",
-      "away_team": "Parma",
-      "bet365_event_id": "193714563",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_como-vs-parma.json",
+      "match_id": "2026-05-15_cagliari-vs-torino",
+      "home": "Cagliari",
+      "away": "Torino",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714559",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -795,16 +1343,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_cagliari-vs-torino.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_cagliari-vs-torino.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_cagliari-vs-torino.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_ac-milan-vs-genoa",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "AC Milan",
-      "away_team": "Genoa",
-      "bet365_event_id": "193714565",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_ac-milan-vs-genoa.json",
+      "match_id": "2026-05-15_como-vs-parma",
+      "home": "Como",
+      "away": "Parma",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714563",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -820,16 +1385,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_como-vs-parma.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_como-vs-parma.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_como-vs-parma.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_como-vs-parma.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_como-vs-parma.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_como-vs-parma.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_como-vs-parma.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_como-vs-parma.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_como-vs-parma.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_como-vs-parma.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_inter-de-milan-vs-verona",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Inter de Milán",
-      "away_team": "Verona",
-      "bet365_event_id": "193714568",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+      "match_id": "2026-05-15_inter-de-milan-vs-verona",
+      "home": "Inter de Milán",
+      "away": "Verona",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714568",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -845,16 +1427,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_inter-de-milan-vs-verona.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_inter-de-milan-vs-verona.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_inter-de-milan-vs-verona.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_juventus-vs-fiorentina",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Juventus",
-      "away_team": "Fiorentina",
-      "bet365_event_id": "193714573",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+      "match_id": "2026-05-15_juventus-vs-fiorentina",
+      "home": "Juventus",
+      "away": "Fiorentina",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714573",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -870,16 +1469,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_juventus-vs-fiorentina.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_juventus-vs-fiorentina.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_juventus-vs-fiorentina.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_napoles-vs-pisa",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Nápoles",
-      "away_team": "Pisa",
-      "bet365_event_id": "193714575",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_napoles-vs-pisa.json",
+      "match_id": "2026-05-15_napoles-vs-pisa",
+      "home": "Nápoles",
+      "away": "Pisa",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714575",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -895,16 +1511,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_napoles-vs-pisa.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_napoles-vs-pisa.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_napoles-vs-pisa.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_sassuolo-vs-lecce",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Sassuolo",
-      "away_team": "Lecce",
-      "bet365_event_id": "193714578",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+      "match_id": "2026-05-15_roma-vs-lazio",
+      "home": "Roma",
+      "away": "Lazio",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714553",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -920,16 +1553,33 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_roma-vs-lazio.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_roma-vs-lazio.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_roma-vs-lazio.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_roma-vs-lazio.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_roma-vs-lazio.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_roma-vs-lazio.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_roma-vs-lazio.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_roma-vs-lazio.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_roma-vs-lazio.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_roma-vs-lazio.json"
+      },
+      "available": [
+        "odds"
+      ]
     },
     {
-      "id": "2026-05-15_udinese-vs-cremonese",
-      "league": "Italy Serie A",
-      "league_code": "ITA1",
-      "home_team": "Udinese",
-      "away_team": "Cremonese",
-      "bet365_event_id": "193714583",
-      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_udinese-vs-cremonese.json",
+      "match_id": "2026-05-15_sassuolo-vs-lecce",
+      "home": "Sassuolo",
+      "away": "Lecce",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714578",
+      "markets_count": 13,
       "markets_available": [
         "cards_away",
         "cards_home",
@@ -945,101 +1595,159 @@
         "total_goals",
         "winning_margin"
       ],
-      "markets_count": 13
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_sassuolo-vs-lecce.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_sassuolo-vs-lecce.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_sassuolo-vs-lecce.json"
+      },
+      "available": [
+        "odds"
+      ]
+    },
+    {
+      "match_id": "2026-05-15_udinese-vs-cremonese",
+      "home": "Udinese",
+      "away": "Cremonese",
+      "league": "ITA1",
+      "league_name": "Serie A",
+      "date": "2026-05-15",
+      "bet365_id": "193714583",
+      "markets_count": 13,
+      "markets_available": [
+        "cards_away",
+        "cards_home",
+        "cards_total",
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "double_chance",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "total_goals",
+        "winning_margin"
+      ],
+      "urls": {
+        "odds": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "context": "https://raw.githubusercontent.com/betorrillo/football-data/main/context/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "lineups": "https://raw.githubusercontent.com/betorrillo/football-data/main/lineups/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "referee": "https://raw.githubusercontent.com/betorrillo/football-data/main/referee/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "h2h": "https://raw.githubusercontent.com/betorrillo/football-data/main/h2h/serie-a/2026-05-15_udinese-vs-cremonese.json"
+      },
+      "urls_blob": {
+        "odds": "https://github.com/betorrillo/football-data/blob/main/odds/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "context": "https://github.com/betorrillo/football-data/blob/main/context/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "lineups": "https://github.com/betorrillo/football-data/blob/main/lineups/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "referee": "https://github.com/betorrillo/football-data/blob/main/referee/serie-a/2026-05-15_udinese-vs-cremonese.json",
+        "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_udinese-vs-cremonese.json"
+      },
+      "available": [
+        "odds"
+      ]
     }
   ],
-  "matches_by_league": {
+  "by_league": {
+    "ENG_FA": [
+      "2026-05-15_manchester-city-vs-chelsea"
+    ],
+    "ESP1": [
+      "2026-05-15_alaves-vs-oviedo",
+      "2026-05-15_athletic-club-vs-celta-de-vigo",
+      "2026-05-15_atletico-de-madrid-vs-girona",
+      "2026-05-15_barcelona-vs-betis",
+      "2026-05-15_elche-vs-getafe",
+      "2026-05-15_levante-vs-mallorca",
+      "2026-05-15_madrid-vs-sevilla",
+      "2026-05-15_osasuna-vs-espanyol",
+      "2026-05-15_rayo-vallecano-vs-villarreal",
+      "2026-05-15_sociedad-vs-valencia"
+    ],
     "ENG1": [
       "2026-05-15_arsenal-vs-burnley",
-      "2026-05-15_liverpool-vs-aston-villa",
       "2026-05-15_brentford-vs-crystal-palace",
-      "2026-05-15_everton-vs-sunderland",
       "2026-05-15_brighton-vs-leeds",
+      "2026-05-15_everton-vs-sunderland",
+      "2026-05-15_fulham-vs-wolverhampton",
+      "2026-05-15_liverpool-vs-aston-villa",
       "2026-05-15_manchester-united-vs-nottingham-forest",
-      "2026-05-15_newcastle-vs-west-ham",
-      "2026-05-15_fulham-vs-wolverhampton"
+      "2026-05-15_newcastle-vs-west-ham"
     ],
     "ESP2": [
       "2026-05-15_almeria-vs-las-palmas",
       "2026-05-15_castellon-vs-cadiz",
-      "2026-05-15_malaga-c-f-vs-ad-ceuta",
       "2026-05-15_cordoba-vs-albacete-balompie",
       "2026-05-15_cultural-leonesa-vs-eibar",
       "2026-05-15_deportivo-de-la-coruna-vs-andorra",
       "2026-05-15_granada-vs-burgos",
       "2026-05-15_leganes-vs-huesca",
-      "2026-05-15_racing-santander-vs-valladolid",
+      "2026-05-15_malaga-c-f-vs-ad-ceuta",
       "2026-05-15_mirandes-vs-sociedad-b",
+      "2026-05-15_racing-santander-vs-valladolid",
       "2026-05-15_zaragoza-vs-sporting-de-gijon"
     ],
-    "ESP1": [
-      "2026-05-15_athletic-club-vs-celta-de-vigo",
-      "2026-05-15_atletico-de-madrid-vs-girona",
-      "2026-05-15_osasuna-vs-espanyol",
-      "2026-05-15_elche-vs-getafe",
-      "2026-05-15_barcelona-vs-betis",
-      "2026-05-15_levante-vs-mallorca",
-      "2026-05-15_rayo-vallecano-vs-villarreal",
-      "2026-05-15_alaves-vs-oviedo",
-      "2026-05-15_sociedad-vs-valencia",
-      "2026-05-15_madrid-vs-sevilla"
-    ],
-    "ENG_FA": [
-      "2026-05-15_manchester-city-vs-chelsea"
-    ],
     "ITA1": [
-      "2026-05-15_roma-vs-lazio",
+      "2026-05-15_ac-milan-vs-genoa",
       "2026-05-15_atalanta-vs-bolonia",
       "2026-05-15_cagliari-vs-torino",
       "2026-05-15_como-vs-parma",
-      "2026-05-15_ac-milan-vs-genoa",
       "2026-05-15_inter-de-milan-vs-verona",
       "2026-05-15_juventus-vs-fiorentina",
       "2026-05-15_napoles-vs-pisa",
+      "2026-05-15_roma-vs-lazio",
       "2026-05-15_sassuolo-vs-lecce",
       "2026-05-15_udinese-vs-cremonese"
     ]
   },
-  "matches_by_date": {
+  "by_date": {
     "2026-05-15": [
+      "2026-05-15_manchester-city-vs-chelsea",
+      "2026-05-15_alaves-vs-oviedo",
+      "2026-05-15_athletic-club-vs-celta-de-vigo",
+      "2026-05-15_atletico-de-madrid-vs-girona",
+      "2026-05-15_barcelona-vs-betis",
+      "2026-05-15_elche-vs-getafe",
+      "2026-05-15_levante-vs-mallorca",
+      "2026-05-15_madrid-vs-sevilla",
+      "2026-05-15_osasuna-vs-espanyol",
+      "2026-05-15_rayo-vallecano-vs-villarreal",
+      "2026-05-15_sociedad-vs-valencia",
       "2026-05-15_arsenal-vs-burnley",
-      "2026-05-15_liverpool-vs-aston-villa",
       "2026-05-15_brentford-vs-crystal-palace",
-      "2026-05-15_everton-vs-sunderland",
       "2026-05-15_brighton-vs-leeds",
+      "2026-05-15_everton-vs-sunderland",
+      "2026-05-15_fulham-vs-wolverhampton",
+      "2026-05-15_liverpool-vs-aston-villa",
       "2026-05-15_manchester-united-vs-nottingham-forest",
       "2026-05-15_newcastle-vs-west-ham",
-      "2026-05-15_fulham-vs-wolverhampton",
       "2026-05-15_almeria-vs-las-palmas",
       "2026-05-15_castellon-vs-cadiz",
-      "2026-05-15_malaga-c-f-vs-ad-ceuta",
       "2026-05-15_cordoba-vs-albacete-balompie",
       "2026-05-15_cultural-leonesa-vs-eibar",
       "2026-05-15_deportivo-de-la-coruna-vs-andorra",
       "2026-05-15_granada-vs-burgos",
       "2026-05-15_leganes-vs-huesca",
-      "2026-05-15_racing-santander-vs-valladolid",
+      "2026-05-15_malaga-c-f-vs-ad-ceuta",
       "2026-05-15_mirandes-vs-sociedad-b",
+      "2026-05-15_racing-santander-vs-valladolid",
       "2026-05-15_zaragoza-vs-sporting-de-gijon",
-      "2026-05-15_athletic-club-vs-celta-de-vigo",
-      "2026-05-15_atletico-de-madrid-vs-girona",
-      "2026-05-15_osasuna-vs-espanyol",
-      "2026-05-15_elche-vs-getafe",
-      "2026-05-15_barcelona-vs-betis",
-      "2026-05-15_levante-vs-mallorca",
-      "2026-05-15_rayo-vallecano-vs-villarreal",
-      "2026-05-15_alaves-vs-oviedo",
-      "2026-05-15_sociedad-vs-valencia",
-      "2026-05-15_madrid-vs-sevilla",
-      "2026-05-15_manchester-city-vs-chelsea",
-      "2026-05-15_roma-vs-lazio",
+      "2026-05-15_ac-milan-vs-genoa",
       "2026-05-15_atalanta-vs-bolonia",
       "2026-05-15_cagliari-vs-torino",
       "2026-05-15_como-vs-parma",
-      "2026-05-15_ac-milan-vs-genoa",
       "2026-05-15_inter-de-milan-vs-verona",
       "2026-05-15_juventus-vs-fiorentina",
       "2026-05-15_napoles-vs-pisa",
+      "2026-05-15_roma-vs-lazio",
       "2026-05-15_sassuolo-vs-lecce",
       "2026-05-15_udinese-vs-cremonese"
     ]
