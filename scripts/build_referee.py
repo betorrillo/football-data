@@ -42,10 +42,10 @@ from utils.team_aliases import normalize_team
 # If a league isn't here, we skip the official-source step for it.
 OFFICIAL_SOURCES = {
     "ITA1": "seriea_aia",
-    # "GER1": "bundesliga_dfb",     # to add
+    "GER1": "bundesliga_dfb",
+    "ENG1": "premier_pgmol",
+    "ENG_FA": "premier_pgmol",  # FA Cup officials come from the PGMOL pool too
     # "FRA1": "ligue1_lfp",          # to add
-    # "ENG1": "premier_pgmol",       # to add
-    # "ENG_FA": "premier_pgmol",     # FA Cup uses PL referees
     # "ESP1": "rfef_playwright",     # to add
     # "ESP2": "rfef_playwright",     # to add
     # "POR1": "primeira_aggregator", # to add
@@ -74,25 +74,37 @@ def load_official_sources():
     return out
 
 
-def find_official(home_raw, away_raw, league_code, official_lookup):
-    """Look up an official designation; return (designation, confidence).
+def find_official(home_raw, away_raw, manifest_date, league_code, official_lookup):
+    """Look up an official designation; return (designation, confidence, flags).
 
-    Confidence values:
-      - "high"            : ordered match
-      - "order_swapped"   : same pair but home/away inverted vs manifest
-                            (bet365 scraper may have swapped them)
-      - None              : no match
+    confidence:
+      - "high"          : ordered match
+      - "order_swapped" : same pair but home/away inverted in the manifest
+      - None            : no match
+
+    flags: list of strings, may include:
+      - "date_drift"    : the official source publishes a different date
+                          for this fixture than the manifest
     """
     pool = official_lookup.get(league_code) or {}
     if not pool:
-        return None, None
+        return None, None, []
     h = normalize_team(home_raw)
     a = normalize_team(away_raw)
+    flags = []
+    entry = None
+    confidence = None
     if (h, a) in pool:
-        return pool[(h, a)], "high"
-    if (a, h) in pool:
-        return pool[(a, h)], "order_swapped"
-    return None, None
+        entry = pool[(h, a)]
+        confidence = "high"
+    elif (a, h) in pool:
+        entry = pool[(a, h)]
+        confidence = "order_swapped"
+    if entry:
+        src_date = entry.get("date")
+        if src_date and manifest_date and src_date != manifest_date:
+            flags.append("date_drift")
+    return entry, confidence, flags
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ODDS_DIR = os.path.join(BASE_DIR, "odds")
@@ -277,7 +289,9 @@ def main():
         payload = None
 
         # 1) Official source (highest priority)
-        official, conf = find_official(m["home"], m["away"], league_code, official_lookup)
+        official, conf, flags = find_official(
+            m["home"], m["away"], date, league_code, official_lookup
+        )
         if official:
             # The federation publishes the referee name (often surname-only,
             # ALL CAPS). Stats lookup uses full names; we still try the surname.
@@ -301,18 +315,28 @@ def main():
                     "kickoff_time": official.get("kickoff_time"),
                     "date_as_published": official.get("date"),
                 },
+                "flags": flags,
                 "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             }
+            warnings = []
             if conf == "order_swapped":
-                payload["warning"] = (
+                warnings.append(
                     "Official federation source has home/away REVERSED versus this manifest. "
-                    "The bet365 odds scraper may have swapped them. "
-                    "Trust the order in official_source.home_as_published / away_as_published "
-                    "when assigning home advantage."
+                    "The bet365 odds scraper may have swapped them. Trust the order in "
+                    "official_source.home_as_published / away_as_published."
                 )
                 swapped_count += 1
             else:
                 official_count += 1
+            if "date_drift" in flags:
+                warnings.append(
+                    f"Date mismatch: manifest says {date}, "
+                    f"official source publishes {official.get('date')}. "
+                    "Same fixture (same ordered teams), different scheduled date — "
+                    "could be a manifest scraping artifact or a fixture postponement."
+                )
+            if warnings:
+                payload["warning"] = " ".join(warnings)
 
         # 2) API fallback
         if payload is None:

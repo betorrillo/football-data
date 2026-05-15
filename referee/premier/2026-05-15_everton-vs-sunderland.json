@@ -4,64 +4,32 @@
   "away": "Sunderland",
   "league": "ENG1",
   "date": "2026-05-15",
-  "mode": "pool",
-  "note": "No per-match referee assignment from official or API source. Listing the top-5 most-active referees of the competition.",
-  "referee_pool": [
-    {
-      "name": "Anthony Taylor",
-      "career_matches": 944,
-      "career_yc": 3318,
-      "career_rc": 149,
-      "career_pk": 286,
-      "career_yc_per_match": 3.51,
-      "career_rc_per_match": 0.16,
-      "career_total_cards_per_match": 3.67,
-      "verdict": "MEDIO"
-    },
-    {
-      "name": "Michael Oliver",
-      "career_matches": 939,
-      "career_yc": 3068,
-      "career_rc": 128,
-      "career_pk": 285,
-      "career_yc_per_match": 3.27,
-      "career_rc_per_match": 0.14,
-      "career_total_cards_per_match": 3.4,
-      "verdict": "BAJO"
-    },
-    {
-      "name": "Craig Pawson",
-      "career_matches": 695,
-      "career_yc": 2469,
-      "career_rc": 96,
-      "career_pk": 157,
-      "career_yc_per_match": 3.55,
-      "career_rc_per_match": 0.14,
-      "career_total_cards_per_match": 3.69,
-      "verdict": "MEDIO"
-    },
-    {
-      "name": "Stuart Attwell",
-      "career_matches": 608,
-      "career_yc": 2192,
-      "career_rc": 84,
-      "career_pk": 130,
-      "career_yc_per_match": 3.61,
-      "career_rc_per_match": 0.14,
-      "career_total_cards_per_match": 3.74,
-      "verdict": "MEDIO"
-    },
-    {
-      "name": "Simon Hooper",
-      "career_matches": 551,
-      "career_yc": 1848,
-      "career_rc": 62,
-      "career_pk": 125,
-      "career_yc_per_match": 3.35,
-      "career_rc_per_match": 0.11,
-      "career_total_cards_per_match": 3.47,
-      "verdict": "BAJO"
-    }
+  "mode": "assigned_official",
+  "referee": {
+    "name": "John Brooks",
+    "nationality": null,
+    "matched": true,
+    "career_matches": 287,
+    "career_yc": 1100,
+    "career_rc": 33,
+    "career_pk": 71,
+    "career_yc_per_match": 3.83,
+    "career_rc_per_match": 0.11,
+    "career_pk_per_match": 0.25,
+    "career_total_cards_per_match": 3.95,
+    "verdict": "MEDIO"
+  },
+  "var": "Tony Harrington",
+  "official_source": {
+    "url": "https://referee-equipment.com/blogs/the-ah-blog/premier-league-referee-appointments-matchweek-37-2025-26",
+    "home_as_published": "Everton",
+    "away_as_published": "Sunderland AFC",
+    "kickoff_time": null,
+    "date_as_published": "2026-05-17"
+  },
+  "flags": [
+    "date_drift"
   ],
-  "generated": "2026-05-15T20:12:11Z"
+  "generated": "2026-05-15T20:21:54Z",
+  "warning": "Date mismatch: manifest says 2026-05-15, official source publishes 2026-05-17. Same fixture (same ordered teams), different scheduled date — could be a manifest scraping artifact or a fixture postponement."
 }

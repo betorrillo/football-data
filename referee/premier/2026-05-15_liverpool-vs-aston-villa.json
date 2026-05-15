@@ -4,10 +4,10 @@
   "away": "Aston Villa",
   "league": "ENG1",
   "date": "2026-05-15",
-  "mode": "assigned",
+  "mode": "assigned_official_order_swapped",
   "referee": {
-    "name": "Chris Kavanagh",
-    "nationality": "England",
+    "name": "Christopher Kavanagh",
+    "nationality": null,
     "matched": true,
     "career_matches": 501,
     "career_yc": 1801,
@@ -19,5 +19,15 @@
     "career_total_cards_per_match": 3.72,
     "verdict": "MEDIO"
   },
-  "generated": "2026-05-15T20:12:11Z"
+  "var": "Neil Davies",
+  "official_source": {
+    "url": "https://referee-equipment.com/blogs/the-ah-blog/premier-league-referee-appointments-matchweek-37-2025-26",
+    "home_as_published": "Aston Villa",
+    "away_as_published": "Liverpool",
+    "kickoff_time": null,
+    "date_as_published": "2026-05-15"
+  },
+  "flags": [],
+  "generated": "2026-05-15T20:21:54Z",
+  "warning": "Official federation source has home/away REVERSED versus this manifest. The bet365 odds scraper may have swapped them. Trust the order in official_source.home_as_published / away_as_published."
 }
