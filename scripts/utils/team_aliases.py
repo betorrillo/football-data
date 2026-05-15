@@ -30,9 +30,11 @@ ALIASES = {
     "Granada": ["Granada CF"],
 
     # === Segunda Division ===
+    "Alaves": ["Alavés", "Deportivo Alavés"],
     "Albacete": ["Albacete Balompié", "Albacete BP"],
     "Almeria": ["UD Almería", "Almería"],
     "Andorra": ["FC Andorra"],
+    "Leganes": ["Leganés", "CD Leganés"],
     "Burgos": ["Burgos CF"],
     "Cadiz": ["Cádiz CF", "Cádiz"],
     "Cartagena": ["FC Cartagena"],

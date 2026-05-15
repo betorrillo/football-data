@@ -105,6 +105,11 @@ jobs:
           echo "--- Building fixture predictions ---"
           python3 scripts/build_fixture_predictions.py || echo "⚠️ Fixture predictions failed (non-blocking)"
 
+      - name: Build H2H per-match
+        run: |
+          echo "--- Building H2H per-match ---"
+          python3 scripts/build_h2h.py || echo "⚠️ H2H failed (non-blocking)"
+
       - name: Split bulk data to per-match files
         run: |
           echo "--- Splitting bulk to per-match ---"

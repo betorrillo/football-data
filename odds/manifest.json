@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-15T19:18:41Z",
+  "updated": "2026-05-15T19:35:55Z",
   "total_upcoming": 40,
   "note": "Dos sets de URLs: urls (raw.githubusercontent, JSON directo) y urls_blob (github.com/blob, fallback HTML). Probar urls primero. Campo available indica que datos existen.",
   "data_types": {
     "odds": "Cuotas pre-match bet365 (20 mercados, formato limpio)",
-    "context": "Estadisticas de equipo, forma, posicion liga (PENDIENTE)",
-    "lineups": "Alineaciones probables y titulares (PENDIENTE)",
+    "context": "Estadisticas de equipo, forma, xG, cards",
+    "lineups": "Alineaciones probables, perfiles y lesiones",
     "referee": "Historial y tendencias del arbitro (PENDIENTE)",
-    "h2h": "Historial head-to-head entre equipos (PENDIENTE)"
+    "h2h": "Historial head-to-head ultimas 5 temporadas + agregados"
   },
   "leagues": {
     "ENG_FA": {
@@ -73,7 +73,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -113,7 +114,8 @@
       },
       "available": [
         "odds",
-        "context"
+        "context",
+        "h2h"
       ]
     },
     {
@@ -154,7 +156,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -195,7 +198,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -236,7 +240,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -276,7 +281,8 @@
       },
       "available": [
         "odds",
-        "context"
+        "context",
+        "h2h"
       ]
     },
     {
@@ -317,7 +323,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -358,7 +365,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -399,7 +407,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -440,7 +449,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -481,7 +491,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -525,7 +536,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -569,7 +581,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -613,7 +626,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -657,7 +671,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -701,7 +716,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -745,7 +761,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -789,7 +806,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -833,7 +851,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -874,7 +893,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -918,7 +938,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -962,7 +983,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1002,7 +1024,8 @@
       },
       "available": [
         "odds",
-        "context"
+        "context",
+        "h2h"
       ]
     },
     {
@@ -1043,7 +1066,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1084,7 +1108,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1125,7 +1150,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1166,7 +1192,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1207,7 +1234,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1248,7 +1276,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1289,7 +1318,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1333,7 +1363,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1377,7 +1408,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1421,7 +1453,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1465,7 +1498,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1509,7 +1543,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1553,7 +1588,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1597,7 +1633,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1641,7 +1678,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1685,7 +1723,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     },
     {
@@ -1729,7 +1768,8 @@
       "available": [
         "odds",
         "context",
-        "lineups"
+        "lineups",
+        "h2h"
       ]
     }
   ],

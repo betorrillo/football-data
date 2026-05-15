@@ -361,6 +361,16 @@ def main():
             referee_count += 1
             available.append("referee")
 
+        # --- H2H (generated separately by build_h2h.py; just detect presence) ---
+        h2h_path = os.path.join(BASE_DIR, "h2h", league_dir, f"{match_id}.json")
+        if os.path.exists(h2h_path):
+            try:
+                h2h_data = json.load(open(h2h_path))
+                if h2h_data.get("h2h_count", 0) > 0:
+                    available.append("h2h")
+            except Exception:
+                pass
+
         # Update manifest entry
         match["available"] = available
 

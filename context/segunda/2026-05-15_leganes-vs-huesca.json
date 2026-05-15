@@ -4,7 +4,71 @@
   "away": "Huesca",
   "league": "ESP2",
   "date": "2026-05-15",
-  "home_stats": null,
+  "home_stats": {
+    "team": "Leganes",
+    "mp": 39,
+    "w": 10,
+    "d": 12,
+    "l": 17,
+    "gf": 42,
+    "ga": 48,
+    "gd": -6,
+    "pts": 42,
+    "avg": {
+      "gf": 1.08,
+      "ga": 1.23,
+      "corners_for": 4.69,
+      "corners_against": 4.85,
+      "total_corners": 9.54,
+      "shots": 12.05,
+      "shots_against": 12.56,
+      "shots_target": 4.08,
+      "shots_target_against": 4.36,
+      "fouls": 12.64,
+      "fouls_against": 14.46,
+      "yellows": 2.82,
+      "opponent_yellows": 2.23,
+      "total_match_cards": 5.05
+    },
+    "avg_home": {
+      "gf": 1.16,
+      "ga": 1.21,
+      "corners_for": 5.84,
+      "corners_against": 4.32,
+      "over_25_pct": 42.1
+    },
+    "avg_away": {
+      "gf": 1.0,
+      "ga": 1.25,
+      "corners_for": 3.6,
+      "corners_against": 5.35,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 71.8,
+      "over_25": 46.2,
+      "over_35": 15.4,
+      "btts": 51.3,
+      "clean_sheet": 28.2,
+      "failed_to_score": 35.9
+    },
+    "avg_ht": {
+      "gf_1h": 0.41,
+      "ga_1h": 0.49,
+      "gf_2h": 0.67,
+      "ga_2h": 0.74,
+      "total_1h": 0.9,
+      "total_2h": 1.41
+    },
+    "pct_ht": {
+      "over_05_1h": 64.1,
+      "over_15_1h": 23.1,
+      "over_05_2h": 71.8,
+      "over_15_2h": 43.6,
+      "btts_1h": 17.9,
+      "btts_2h": 28.2
+    }
+  },
   "away_stats": {
     "team": "Huesca",
     "mp": 39,
@@ -70,5 +134,5 @@
       "btts_2h": 33.3
     }
   },
-  "generated": "2026-05-15T19:18:41Z"
+  "generated": "2026-05-15T19:35:55Z"
 }
