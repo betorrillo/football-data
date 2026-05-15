@@ -105,6 +105,11 @@ jobs:
           echo "--- Building fixture predictions ---"
           python3 scripts/build_fixture_predictions.py || echo "⚠️ Fixture predictions failed (non-blocking)"
 
+      - name: Split bulk data to per-match files
+        run: |
+          echo "--- Splitting bulk to per-match ---"
+          python3 scripts/split_bulk_to_matches.py || echo "⚠️ Split failed (non-blocking)"
+
       - name: Build agent bundle
         run: |
           echo "--- Building agent bundle ---"
