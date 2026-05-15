@@ -27,17 +27,26 @@ ALIASES = {
     "Vallecano": ["Rayo Vallecano", "Rayo"],
 
     # === Segunda Division ===
+    "Albacete": ["Albacete Balompié", "Albacete BP"],
     "Almeria": ["UD Almería", "Almería"],
+    "Andorra": ["FC Andorra"],
     "Burgos": ["Burgos CF"],
     "Cadiz": ["Cádiz CF", "Cádiz"],
     "Cartagena": ["FC Cartagena"],
     "Castellon": ["CD Castellón", "Castellón"],
+    "Ceuta": ["AD Ceuta"],
+    "Cordoba": ["Córdoba", "Córdoba CF"],
+    "Cultural Leonesa": ["Cultural y Deportiva Leonesa", "Cultural"],
     "Eibar": ["SD Eibar"],
     "Elche": ["Elche CF"],
     "Ferrol": ["Racing de Ferrol", "Racing Ferrol"],
     "Huesca": ["SD Huesca"],
+    "La Coruna": ["Deportivo La Coruña", "Deportivo", "RC Deportivo", "Deportivo de La Coruña"],
+    "Malaga": ["Málaga", "Málaga CF", "Málaga C.F."],
     "Mirandes": ["CD Mirandés", "Mirandés"],
     "Oviedo": ["Real Oviedo"],
+    "Santander": ["Racing Santander", "Racing de Santander"],
+    "Sociedad B": ["Real Sociedad B", "Real Sociedad II"],
     "Sp Gijon": ["Sporting Gijón", "Sporting de Gijón", "Real Sporting"],
     "Tenerife": ["CD Tenerife"],
     "Zaragoza": ["Real Zaragoza"],
@@ -54,6 +63,9 @@ ALIASES = {
     "Brighton": ["Brighton & Hove Albion", "Brighton and Hove Albion"],
     "Leicester": ["Leicester City"],
     "Ipswich": ["Ipswich Town"],
+    "Leeds": ["Leeds United", "Leeds Utd"],
+    "Sunderland": ["Sunderland AFC"],
+    "Burnley": ["Burnley FC"],
 
     # === Bundesliga ===
     "Dortmund": ["Borussia Dortmund", "BVB"],
@@ -73,12 +85,13 @@ ALIASES = {
     "Holstein Kiel": ["Holstein", "KSV Holstein"],
 
     # === Serie A ===
-    "AC Milan": ["Milan"],
-    "Inter": ["Inter Milan", "Internazionale", "FC Internazionale"],
-    "Napoli": ["SSC Napoli"],
+    "Milan": ["AC Milan", "AC Milán"],
+    "Inter": ["Inter Milan", "Internazionale", "FC Internazionale", "Inter de Milán", "Inter de Milan"],
+    "Napoli": ["SSC Napoli", "Nápoles"],
     "Roma": ["AS Roma"],
     "Lazio": ["SS Lazio"],
     "Juventus": ["Juve"],
+    "Bologna": ["Bolonia"],
     "Parma": ["Parma Calcio", "Parma Calcio 1913"],
     "Verona": ["Hellas Verona"],
 

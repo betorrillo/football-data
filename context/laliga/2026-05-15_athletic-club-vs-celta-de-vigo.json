@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_athletic-club-vs-celta-de-vigo",
+  "home": "Athletic Club",
+  "away": "Celta de Vigo",
+  "league": "ESP1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Ath Bilbao",
+    "mp": 36,
+    "w": 13,
+    "d": 5,
+    "l": 18,
+    "gf": 40,
+    "ga": 53,
+    "gd": -13,
+    "pts": 44,
+    "avg": {
+      "gf": 1.11,
+      "ga": 1.47,
+      "corners_for": 5.92,
+      "corners_against": 4.0,
+      "total_corners": 9.92,
+      "shots": 13.53,
+      "shots_against": 9.58,
+      "shots_target": 4.44,
+      "shots_target_against": 4.19,
+      "fouls": 13.5,
+      "fouls_against": 10.92,
+      "yellows": 2.19,
+      "opponent_yellows": 2.0,
+      "total_match_cards": 4.19
+    },
+    "avg_home": {
+      "gf": 1.17,
+      "ga": 1.11,
+      "corners_for": 6.39,
+      "corners_against": 3.89,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 1.06,
+      "ga": 1.83,
+      "corners_for": 5.44,
+      "corners_against": 4.11,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 47.2,
+      "over_35": 19.4,
+      "btts": 50.0,
+      "clean_sheet": 16.7,
+      "failed_to_score": 36.1
+    },
+    "avg_ht": {
+      "gf_1h": 0.47,
+      "ga_1h": 0.53,
+      "gf_2h": 0.64,
+      "ga_2h": 0.94,
+      "total_1h": 1.0,
+      "total_2h": 1.58
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 30.6,
+      "over_05_2h": 88.9,
+      "over_15_2h": 38.9,
+      "btts_1h": 11.1,
+      "btts_2h": 22.2
+    },
+    "xg": 47.9,
+    "xga": 40.5,
+    "xg_diff": -7.9,
+    "xga_diff": 9.5,
+    "yellow_cards_total": 69,
+    "red_cards_total": null,
+    "yc_per_match": 2.03
+  },
+  "away_stats": {
+    "team": "Celta",
+    "mp": 36,
+    "w": 13,
+    "d": 11,
+    "l": 12,
+    "gf": 51,
+    "ga": 47,
+    "gd": 4,
+    "pts": 50,
+    "avg": {
+      "gf": 1.42,
+      "ga": 1.31,
+      "corners_for": 3.89,
+      "corners_against": 4.64,
+      "total_corners": 8.53,
+      "shots": 10.22,
+      "shots_against": 12.28,
+      "shots_target": 4.11,
+      "shots_target_against": 4.14,
+      "fouls": 11.72,
+      "fouls_against": 12.17,
+      "yellows": 1.94,
+      "opponent_yellows": 2.31,
+      "total_match_cards": 4.25
+    },
+    "avg_home": {
+      "gf": 1.56,
+      "ga": 1.56,
+      "corners_for": 4.56,
+      "corners_against": 3.89,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 1.28,
+      "ga": 1.06,
+      "corners_for": 3.22,
+      "corners_against": 5.39,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 80.6,
+      "over_25": 47.2,
+      "over_35": 25.0,
+      "btts": 63.9,
+      "clean_sheet": 25.0,
+      "failed_to_score": 16.7
+    },
+    "avg_ht": {
+      "gf_1h": 0.5,
+      "ga_1h": 0.58,
+      "gf_2h": 0.92,
+      "ga_2h": 0.72,
+      "total_1h": 1.08,
+      "total_2h": 1.64
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 25.0,
+      "over_05_2h": 91.7,
+      "over_15_2h": 50.0,
+      "btts_1h": 16.7,
+      "btts_2h": 27.8
+    },
+    "xg": 46.2,
+    "xga": 45.4,
+    "xg_diff": 1.8,
+    "xga_diff": -1.4,
+    "yellow_cards_total": 68,
+    "red_cards_total": null,
+    "yc_per_match": 2.0
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

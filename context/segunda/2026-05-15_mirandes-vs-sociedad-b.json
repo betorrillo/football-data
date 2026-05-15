@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-15_mirandes-vs-sociedad-b",
+  "home": "Mirandés",
+  "away": "Real Sociedad B",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Mirandes",
+    "mp": 39,
+    "w": 9,
+    "d": 9,
+    "l": 21,
+    "gf": 42,
+    "ga": 65,
+    "gd": -23,
+    "pts": 36,
+    "avg": {
+      "gf": 1.08,
+      "ga": 1.67,
+      "corners_for": 4.41,
+      "corners_against": 5.0,
+      "total_corners": 9.41,
+      "shots": 12.46,
+      "shots_against": 14.82,
+      "shots_target": 4.15,
+      "shots_target_against": 5.1,
+      "fouls": 14.85,
+      "fouls_against": 13.31,
+      "yellows": 2.95,
+      "opponent_yellows": 2.31,
+      "total_match_cards": 5.26
+    },
+    "avg_home": {
+      "gf": 0.95,
+      "ga": 1.5,
+      "corners_for": 5.3,
+      "corners_against": 4.5,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 1.21,
+      "ga": 1.84,
+      "corners_for": 3.47,
+      "corners_against": 5.53,
+      "over_25_pct": 63.2
+    },
+    "pct": {
+      "over_15": 76.9,
+      "over_25": 56.4,
+      "over_35": 28.2,
+      "btts": 64.1,
+      "clean_sheet": 7.7,
+      "failed_to_score": 33.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.46,
+      "ga_1h": 0.77,
+      "gf_2h": 0.62,
+      "ga_2h": 0.9,
+      "total_1h": 1.23,
+      "total_2h": 1.51
+    },
+    "pct_ht": {
+      "over_05_1h": 82.1,
+      "over_15_1h": 35.9,
+      "over_05_2h": 74.4,
+      "over_15_2h": 53.8,
+      "btts_1h": 23.1,
+      "btts_2h": 30.8
+    }
+  },
+  "away_stats": {
+    "team": "Sociedad B",
+    "mp": 39,
+    "w": 12,
+    "d": 9,
+    "l": 18,
+    "gf": 48,
+    "ga": 55,
+    "gd": -7,
+    "pts": 45,
+    "avg": {
+      "gf": 1.23,
+      "ga": 1.41,
+      "corners_for": 3.64,
+      "corners_against": 5.54,
+      "total_corners": 9.18,
+      "shots": 12.67,
+      "shots_against": 15.21,
+      "shots_target": 4.36,
+      "shots_target_against": 4.49,
+      "fouls": 17.08,
+      "fouls_against": 12.51,
+      "yellows": 3.41,
+      "opponent_yellows": 2.85,
+      "total_match_cards": 6.26
+    },
+    "avg_home": {
+      "gf": 1.37,
+      "ga": 1.26,
+      "corners_for": 3.63,
+      "corners_against": 5.05,
+      "over_25_pct": 47.4
+    },
+    "avg_away": {
+      "gf": 1.1,
+      "ga": 1.55,
+      "corners_for": 3.65,
+      "corners_against": 6.0,
+      "over_25_pct": 40.0
+    },
+    "pct": {
+      "over_15": 66.7,
+      "over_25": 43.6,
+      "over_35": 23.1,
+      "btts": 48.7,
+      "clean_sheet": 25.6,
+      "failed_to_score": 33.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.51,
+      "ga_1h": 0.67,
+      "gf_2h": 0.72,
+      "ga_2h": 0.74,
+      "total_1h": 1.18,
+      "total_2h": 1.46
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 35.9,
+      "over_05_2h": 74.4,
+      "over_15_2h": 46.2,
+      "btts_1h": 25.6,
+      "btts_2h": 30.8
+    }
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

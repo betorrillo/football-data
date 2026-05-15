@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-15_cordoba-vs-albacete-balompie",
+  "home": "Córdoba",
+  "away": "Albacete Balompié",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Cordoba",
+    "mp": 39,
+    "w": 17,
+    "d": 9,
+    "l": 13,
+    "gf": 55,
+    "ga": 56,
+    "gd": -1,
+    "pts": 60,
+    "avg": {
+      "gf": 1.41,
+      "ga": 1.44,
+      "corners_for": 6.0,
+      "corners_against": 4.33,
+      "total_corners": 10.33,
+      "shots": 15.44,
+      "shots_against": 11.33,
+      "shots_target": 5.23,
+      "shots_target_against": 4.46,
+      "fouls": 15.92,
+      "fouls_against": 14.59,
+      "yellows": 2.64,
+      "opponent_yellows": 2.72,
+      "total_match_cards": 5.36
+    },
+    "avg_home": {
+      "gf": 1.37,
+      "ga": 1.32,
+      "corners_for": 6.21,
+      "corners_against": 3.26,
+      "over_25_pct": 52.6
+    },
+    "avg_away": {
+      "gf": 1.45,
+      "ga": 1.55,
+      "corners_for": 5.8,
+      "corners_against": 5.35,
+      "over_25_pct": 70.0
+    },
+    "pct": {
+      "over_15": 79.5,
+      "over_25": 61.5,
+      "over_35": 35.9,
+      "btts": 66.7,
+      "clean_sheet": 23.1,
+      "failed_to_score": 17.9
+    },
+    "avg_ht": {
+      "gf_1h": 0.54,
+      "ga_1h": 0.72,
+      "gf_2h": 0.87,
+      "ga_2h": 0.72,
+      "total_1h": 1.26,
+      "total_2h": 1.59
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 43.6,
+      "over_05_2h": 71.8,
+      "over_15_2h": 46.2,
+      "btts_1h": 25.6,
+      "btts_2h": 38.5
+    }
+  },
+  "away_stats": {
+    "team": "Albacete",
+    "mp": 39,
+    "w": 14,
+    "d": 11,
+    "l": 14,
+    "gf": 51,
+    "ga": 52,
+    "gd": -1,
+    "pts": 53,
+    "avg": {
+      "gf": 1.31,
+      "ga": 1.33,
+      "corners_for": 5.05,
+      "corners_against": 5.36,
+      "total_corners": 10.41,
+      "shots": 12.95,
+      "shots_against": 13.31,
+      "shots_target": 4.33,
+      "shots_target_against": 4.41,
+      "fouls": 11.36,
+      "fouls_against": 10.9,
+      "yellows": 2.18,
+      "opponent_yellows": 2.21,
+      "total_match_cards": 4.38
+    },
+    "avg_home": {
+      "gf": 1.35,
+      "ga": 1.55,
+      "corners_for": 5.35,
+      "corners_against": 4.7,
+      "over_25_pct": 55.0
+    },
+    "avg_away": {
+      "gf": 1.26,
+      "ga": 1.11,
+      "corners_for": 4.74,
+      "corners_against": 6.05,
+      "over_25_pct": 42.1
+    },
+    "pct": {
+      "over_15": 69.2,
+      "over_25": 48.7,
+      "over_35": 28.2,
+      "btts": 56.4,
+      "clean_sheet": 35.9,
+      "failed_to_score": 20.5
+    },
+    "avg_ht": {
+      "gf_1h": 0.41,
+      "ga_1h": 0.59,
+      "gf_2h": 0.9,
+      "ga_2h": 0.74,
+      "total_1h": 1.0,
+      "total_2h": 1.64
+    },
+    "pct_ht": {
+      "over_05_1h": 64.1,
+      "over_15_1h": 28.2,
+      "over_05_2h": 82.1,
+      "over_15_2h": 46.2,
+      "btts_1h": 12.8,
+      "btts_2h": 25.6
+    }
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

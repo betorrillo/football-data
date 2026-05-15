@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_liverpool-vs-aston-villa",
+  "home": "Liverpool",
+  "away": "Aston Villa",
+  "league": "ENG1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Liverpool",
+    "mp": 36,
+    "w": 17,
+    "d": 8,
+    "l": 11,
+    "gf": 60,
+    "ga": 48,
+    "gd": 12,
+    "pts": 59,
+    "avg": {
+      "gf": 1.67,
+      "ga": 1.33,
+      "corners_for": 5.81,
+      "corners_against": 4.47,
+      "total_corners": 10.28,
+      "shots": 15.22,
+      "shots_against": 11.39,
+      "shots_target": 4.5,
+      "shots_target_against": 3.94,
+      "fouls": 10.14,
+      "fouls_against": 10.64,
+      "yellows": 1.5,
+      "opponent_yellows": 1.92,
+      "total_match_cards": 3.42
+    },
+    "avg_home": {
+      "gf": 1.83,
+      "ga": 1.06,
+      "corners_for": 5.83,
+      "corners_against": 4.94,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 1.5,
+      "ga": 1.61,
+      "corners_for": 5.78,
+      "corners_against": 4.0,
+      "over_25_pct": 72.2
+    },
+    "pct": {
+      "over_15": 83.3,
+      "over_25": 61.1,
+      "over_35": 27.8,
+      "btts": 66.7,
+      "clean_sheet": 27.8,
+      "failed_to_score": 11.1
+    },
+    "avg_ht": {
+      "gf_1h": 0.67,
+      "ga_1h": 0.44,
+      "gf_2h": 1.0,
+      "ga_2h": 0.89,
+      "total_1h": 1.11,
+      "total_2h": 1.89
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 33.3,
+      "over_05_2h": 88.9,
+      "over_15_2h": 55.6,
+      "btts_1h": 13.9,
+      "btts_2h": 47.2
+    },
+    "xg": 58.9,
+    "xga": 46.1,
+    "xg_diff": 1.1,
+    "xga_diff": 1.9,
+    "yellow_cards_total": 52,
+    "red_cards_total": 1,
+    "yc_per_match": 1.44
+  },
+  "away_stats": {
+    "team": "Aston Villa",
+    "mp": 36,
+    "w": 17,
+    "d": 8,
+    "l": 11,
+    "gf": 50,
+    "ga": 46,
+    "gd": 4,
+    "pts": 59,
+    "avg": {
+      "gf": 1.39,
+      "ga": 1.28,
+      "corners_for": 5.31,
+      "corners_against": 4.69,
+      "total_corners": 10.0,
+      "shots": 12.69,
+      "shots_against": 12.72,
+      "shots_target": 4.33,
+      "shots_target_against": 4.44,
+      "fouls": 10.08,
+      "fouls_against": 13.28,
+      "yellows": 1.53,
+      "opponent_yellows": 2.44,
+      "total_match_cards": 3.97
+    },
+    "avg_home": {
+      "gf": 1.56,
+      "ga": 1.11,
+      "corners_for": 5.61,
+      "corners_against": 4.72,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 1.22,
+      "ga": 1.44,
+      "corners_for": 5.0,
+      "corners_against": 4.67,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 50.0,
+      "over_35": 27.8,
+      "btts": 55.6,
+      "clean_sheet": 25.0,
+      "failed_to_score": 27.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.56,
+      "ga_1h": 0.61,
+      "gf_2h": 0.83,
+      "ga_2h": 0.67,
+      "total_1h": 1.17,
+      "total_2h": 1.5
+    },
+    "pct_ht": {
+      "over_05_1h": 72.2,
+      "over_15_1h": 30.6,
+      "over_05_2h": 77.8,
+      "over_15_2h": 47.2,
+      "btts_1h": 25.0,
+      "btts_2h": 25.0
+    },
+    "xg": 46.5,
+    "xga": 50.4,
+    "xg_diff": 1.5,
+    "xga_diff": -6.4,
+    "yellow_cards_total": 56,
+    "red_cards_total": 1,
+    "yc_per_match": 1.6
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

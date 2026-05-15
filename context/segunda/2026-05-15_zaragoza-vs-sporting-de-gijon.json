@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-15_zaragoza-vs-sporting-de-gijon",
+  "home": "Real Zaragoza",
+  "away": "Sporting de Gijón",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Zaragoza",
+    "mp": 39,
+    "w": 8,
+    "d": 11,
+    "l": 20,
+    "gf": 33,
+    "ga": 53,
+    "gd": -20,
+    "pts": 35,
+    "avg": {
+      "gf": 0.85,
+      "ga": 1.36,
+      "corners_for": 4.92,
+      "corners_against": 5.26,
+      "total_corners": 10.18,
+      "shots": 12.33,
+      "shots_against": 12.28,
+      "shots_target": 3.74,
+      "shots_target_against": 4.54,
+      "fouls": 13.18,
+      "fouls_against": 15.49,
+      "yellows": 3.13,
+      "opponent_yellows": 3.08,
+      "total_match_cards": 6.21
+    },
+    "avg_home": {
+      "gf": 0.89,
+      "ga": 1.37,
+      "corners_for": 4.63,
+      "corners_against": 5.32,
+      "over_25_pct": 36.8
+    },
+    "avg_away": {
+      "gf": 0.8,
+      "ga": 1.35,
+      "corners_for": 5.2,
+      "corners_against": 5.2,
+      "over_25_pct": 30.0
+    },
+    "pct": {
+      "over_15": 64.1,
+      "over_25": 33.3,
+      "over_35": 17.9,
+      "btts": 48.7,
+      "clean_sheet": 20.5,
+      "failed_to_score": 38.5
+    },
+    "avg_ht": {
+      "gf_1h": 0.31,
+      "ga_1h": 0.49,
+      "gf_2h": 0.54,
+      "ga_2h": 0.87,
+      "total_1h": 0.79,
+      "total_2h": 1.41
+    },
+    "pct_ht": {
+      "over_05_1h": 56.4,
+      "over_15_1h": 23.1,
+      "over_05_2h": 76.9,
+      "over_15_2h": 38.5,
+      "btts_1h": 15.4,
+      "btts_2h": 25.6
+    }
+  },
+  "away_stats": {
+    "team": "Sp Gijon",
+    "mp": 39,
+    "w": 15,
+    "d": 7,
+    "l": 17,
+    "gf": 52,
+    "ga": 51,
+    "gd": 1,
+    "pts": 52,
+    "avg": {
+      "gf": 1.33,
+      "ga": 1.31,
+      "corners_for": 4.64,
+      "corners_against": 5.28,
+      "total_corners": 9.92,
+      "shots": 11.46,
+      "shots_against": 13.1,
+      "shots_target": 4.36,
+      "shots_target_against": 4.36,
+      "fouls": 11.67,
+      "fouls_against": 10.62,
+      "yellows": 2.38,
+      "opponent_yellows": 2.62,
+      "total_match_cards": 5.0
+    },
+    "avg_home": {
+      "gf": 1.6,
+      "ga": 1.05,
+      "corners_for": 5.3,
+      "corners_against": 4.9,
+      "over_25_pct": 55.0
+    },
+    "avg_away": {
+      "gf": 1.05,
+      "ga": 1.58,
+      "corners_for": 3.95,
+      "corners_against": 5.68,
+      "over_25_pct": 47.4
+    },
+    "pct": {
+      "over_15": 64.1,
+      "over_25": 51.3,
+      "over_35": 28.2,
+      "btts": 56.4,
+      "clean_sheet": 28.2,
+      "failed_to_score": 20.5
+    },
+    "avg_ht": {
+      "gf_1h": 0.59,
+      "ga_1h": 0.54,
+      "gf_2h": 0.74,
+      "ga_2h": 0.77,
+      "total_1h": 1.13,
+      "total_2h": 1.51
+    },
+    "pct_ht": {
+      "over_05_1h": 69.2,
+      "over_15_1h": 25.6,
+      "over_05_2h": 82.1,
+      "over_15_2h": 43.6,
+      "btts_1h": 23.1,
+      "btts_2h": 25.6
+    }
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T16:38:13Z",
+  "updated": "2026-05-15T18:42:21Z",
   "total_upcoming": 40,
   "note": "Dos sets de URLs: urls (raw.githubusercontent, JSON directo) y urls_blob (github.com/blob, fallback HTML). Probar urls primero. Campo available indica que datos existen.",
   "data_types": {
@@ -71,7 +71,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/fa-cup/2026-05-15_manchester-city-vs-chelsea.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -110,7 +112,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_alaves-vs-oviedo.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -149,7 +152,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_athletic-club-vs-celta-de-vigo.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -188,7 +193,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_atletico-de-madrid-vs-girona.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -227,7 +234,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_barcelona-vs-betis.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -266,7 +275,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_elche-vs-getafe.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -305,7 +315,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_levante-vs-mallorca.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -344,7 +356,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_madrid-vs-sevilla.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -383,7 +397,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_osasuna-vs-espanyol.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -422,7 +437,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_rayo-vallecano-vs-villarreal.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -461,7 +477,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/laliga/2026-05-15_sociedad-vs-valencia.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -503,7 +521,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_arsenal-vs-burnley.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -545,7 +565,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_brentford-vs-crystal-palace.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -587,7 +609,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_brighton-vs-leeds.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -629,7 +653,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_everton-vs-sunderland.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -671,7 +697,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_fulham-vs-wolverhampton.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -713,7 +741,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_liverpool-vs-aston-villa.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -755,7 +785,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_manchester-united-vs-nottingham-forest.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -797,7 +829,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/premier/2026-05-15_newcastle-vs-west-ham.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -836,7 +870,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_almeria-vs-las-palmas.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -878,7 +913,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_castellon-vs-cadiz.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -920,7 +957,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_cordoba-vs-albacete-balompie.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -959,7 +998,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_cultural-leonesa-vs-eibar.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -998,7 +1038,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_deportivo-de-la-coruna-vs-andorra.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1037,7 +1079,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_granada-vs-burgos.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -1076,7 +1119,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_leganes-vs-huesca.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1115,7 +1160,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_malaga-c-f-vs-ad-ceuta.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1154,7 +1201,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_mirandes-vs-sociedad-b.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1193,7 +1242,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_racing-santander-vs-valladolid.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1232,7 +1283,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/segunda/2026-05-15_zaragoza-vs-sporting-de-gijon.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1274,7 +1327,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_ac-milan-vs-genoa.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1316,7 +1371,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_atalanta-vs-bolonia.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -1358,7 +1414,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_cagliari-vs-torino.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -1400,7 +1457,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_como-vs-parma.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1442,7 +1501,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_inter-de-milan-vs-verona.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1484,7 +1545,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_juventus-vs-fiorentina.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -1526,7 +1588,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_napoles-vs-pisa.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1568,7 +1632,9 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_roma-vs-lazio.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context",
+        "lineups"
       ]
     },
     {
@@ -1610,7 +1676,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_sassuolo-vs-lecce.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     },
     {
@@ -1652,7 +1719,8 @@
         "h2h": "https://github.com/betorrillo/football-data/blob/main/h2h/serie-a/2026-05-15_udinese-vs-cremonese.json"
       },
       "available": [
-        "odds"
+        "odds",
+        "context"
       ]
     }
   ],

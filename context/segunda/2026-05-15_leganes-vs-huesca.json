@@ -1,0 +1,74 @@
+{
+  "match_id": "2026-05-15_leganes-vs-huesca",
+  "home": "Leganés",
+  "away": "Huesca",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "home_stats": null,
+  "away_stats": {
+    "team": "Huesca",
+    "mp": 39,
+    "w": 9,
+    "d": 9,
+    "l": 21,
+    "gf": 40,
+    "ga": 61,
+    "gd": -21,
+    "pts": 36,
+    "avg": {
+      "gf": 1.03,
+      "ga": 1.56,
+      "corners_for": 4.54,
+      "corners_against": 5.15,
+      "total_corners": 9.69,
+      "shots": 10.92,
+      "shots_against": 12.95,
+      "shots_target": 3.21,
+      "shots_target_against": 4.64,
+      "fouls": 12.64,
+      "fouls_against": 12.97,
+      "yellows": 2.44,
+      "opponent_yellows": 2.38,
+      "total_match_cards": 4.82
+    },
+    "avg_home": {
+      "gf": 1.15,
+      "ga": 1.15,
+      "corners_for": 5.3,
+      "corners_against": 4.9,
+      "over_25_pct": 40.0
+    },
+    "avg_away": {
+      "gf": 0.89,
+      "ga": 2.0,
+      "corners_for": 3.74,
+      "corners_against": 5.42,
+      "over_25_pct": 52.6
+    },
+    "pct": {
+      "over_15": 71.8,
+      "over_25": 46.2,
+      "over_35": 20.5,
+      "btts": 59.0,
+      "clean_sheet": 23.1,
+      "failed_to_score": 23.1
+    },
+    "avg_ht": {
+      "gf_1h": 0.38,
+      "ga_1h": 0.72,
+      "gf_2h": 0.64,
+      "ga_2h": 0.85,
+      "total_1h": 1.1,
+      "total_2h": 1.49
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 28.2,
+      "over_05_2h": 79.5,
+      "over_15_2h": 46.2,
+      "btts_1h": 17.9,
+      "btts_2h": 33.3
+    }
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

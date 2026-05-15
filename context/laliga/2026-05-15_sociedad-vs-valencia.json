@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_sociedad-vs-valencia",
+  "home": "Real Sociedad",
+  "away": "Valencia",
+  "league": "ESP1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Sociedad",
+    "mp": 36,
+    "w": 11,
+    "d": 12,
+    "l": 13,
+    "gf": 55,
+    "ga": 56,
+    "gd": -1,
+    "pts": 45,
+    "avg": {
+      "gf": 1.53,
+      "ga": 1.56,
+      "corners_for": 5.64,
+      "corners_against": 4.61,
+      "total_corners": 10.25,
+      "shots": 12.61,
+      "shots_against": 13.86,
+      "shots_target": 4.67,
+      "shots_target_against": 4.31,
+      "fouls": 14.19,
+      "fouls_against": 12.39,
+      "yellows": 2.25,
+      "opponent_yellows": 2.5,
+      "total_match_cards": 4.75
+    },
+    "avg_home": {
+      "gf": 1.89,
+      "ga": 1.5,
+      "corners_for": 6.11,
+      "corners_against": 4.61,
+      "over_25_pct": 72.2
+    },
+    "avg_away": {
+      "gf": 1.17,
+      "ga": 1.61,
+      "corners_for": 5.17,
+      "corners_against": 4.61,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 80.6,
+      "over_25": 58.3,
+      "over_35": 41.7,
+      "btts": 77.8,
+      "clean_sheet": 8.3,
+      "failed_to_score": 13.9
+    },
+    "avg_ht": {
+      "gf_1h": 0.64,
+      "ga_1h": 0.72,
+      "gf_2h": 0.89,
+      "ga_2h": 0.83,
+      "total_1h": 1.36,
+      "total_2h": 1.72
+    },
+    "pct_ht": {
+      "over_05_1h": 80.6,
+      "over_15_1h": 36.1,
+      "over_05_2h": 86.1,
+      "over_15_2h": 50.0,
+      "btts_1h": 25.0,
+      "btts_2h": 38.9
+    },
+    "xg": 51.3,
+    "xga": 50.5,
+    "xg_diff": 0.7,
+    "xga_diff": 2.5,
+    "yellow_cards_total": 71,
+    "red_cards_total": null,
+    "yc_per_match": 2.09
+  },
+  "away_stats": {
+    "team": "Valencia",
+    "mp": 36,
+    "w": 11,
+    "d": 10,
+    "l": 15,
+    "gf": 39,
+    "ga": 51,
+    "gd": -12,
+    "pts": 43,
+    "avg": {
+      "gf": 1.08,
+      "ga": 1.42,
+      "corners_for": 5.11,
+      "corners_against": 4.75,
+      "total_corners": 9.86,
+      "shots": 11.58,
+      "shots_against": 11.92,
+      "shots_target": 3.08,
+      "shots_target_against": 4.22,
+      "fouls": 12.14,
+      "fouls_against": 12.17,
+      "yellows": 1.92,
+      "opponent_yellows": 2.31,
+      "total_match_cards": 4.22
+    },
+    "avg_home": {
+      "gf": 1.33,
+      "ga": 1.22,
+      "corners_for": 5.94,
+      "corners_against": 4.11,
+      "over_25_pct": 33.3
+    },
+    "avg_away": {
+      "gf": 0.83,
+      "ga": 1.61,
+      "corners_for": 4.28,
+      "corners_against": 5.39,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 77.8,
+      "over_25": 38.9,
+      "over_35": 19.4,
+      "btts": 52.8,
+      "clean_sheet": 25.0,
+      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+      "gf_1h": 0.28,
+      "ga_1h": 0.47,
+      "gf_2h": 0.81,
+      "ga_2h": 0.94,
+      "total_1h": 0.75,
+      "total_2h": 1.75
+    },
+    "pct_ht": {
+      "over_05_1h": 55.6,
+      "over_15_1h": 13.9,
+      "over_05_2h": 83.3,
+      "over_15_2h": 55.6,
+      "btts_1h": 8.3,
+      "btts_2h": 36.1
+    },
+    "xg": 45.2,
+    "xga": 46.6,
+    "xg_diff": -8.2,
+    "xga_diff": 3.4,
+    "yellow_cards_total": 66,
+    "red_cards_total": null,
+    "yc_per_match": 1.94
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

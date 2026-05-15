@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_inter-de-milan-vs-verona",
+  "home": "Inter de Milán",
+  "away": "Verona",
+  "league": "ITA1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Inter",
+    "mp": 36,
+    "w": 27,
+    "d": 4,
+    "l": 5,
+    "gf": 85,
+    "ga": 31,
+    "gd": 54,
+    "pts": 85,
+    "avg": {
+      "gf": 2.36,
+      "ga": 0.86,
+      "corners_for": 6.31,
+      "corners_against": 2.97,
+      "total_corners": 9.28,
+      "shots": 17.28,
+      "shots_against": 8.97,
+      "shots_target": 6.06,
+      "shots_target_against": 2.86,
+      "fouls": 13.22,
+      "fouls_against": 10.94,
+      "yellows": 1.69,
+      "opponent_yellows": 1.69,
+      "total_match_cards": 3.39
+    },
+    "avg_home": {
+      "gf": 2.72,
+      "ga": 0.83,
+      "corners_for": 7.22,
+      "corners_against": 3.0,
+      "over_25_pct": 66.7
+    },
+    "avg_away": {
+      "gf": 2.0,
+      "ga": 0.89,
+      "corners_for": 5.39,
+      "corners_against": 2.94,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 83.3,
+      "over_25": 55.6,
+      "over_35": 36.1,
+      "btts": 44.4,
+      "clean_sheet": 50.0,
+      "failed_to_score": 5.6
+    },
+    "avg_ht": {
+      "gf_1h": 1.0,
+      "ga_1h": 0.39,
+      "gf_2h": 1.36,
+      "ga_2h": 0.47,
+      "total_1h": 1.39,
+      "total_2h": 1.83
+    },
+    "pct_ht": {
+      "over_05_1h": 80.6,
+      "over_15_1h": 38.9,
+      "over_05_2h": 86.1,
+      "over_15_2h": 50.0,
+      "btts_1h": 22.2,
+      "btts_2h": 27.8
+    },
+    "xg": 72.7,
+    "xga": 32.4,
+    "xg_diff": 9.3,
+    "xga_diff": -1.4,
+    "yellow_cards_total": 61,
+    "red_cards_total": 0,
+    "yc_per_match": 1.74
+  },
+  "away_stats": {
+    "team": "Verona",
+    "mp": 36,
+    "w": 3,
+    "d": 11,
+    "l": 22,
+    "gf": 24,
+    "ga": 58,
+    "gd": -34,
+    "pts": 20,
+    "avg": {
+      "gf": 0.67,
+      "ga": 1.61,
+      "corners_for": 3.94,
+      "corners_against": 4.92,
+      "total_corners": 8.86,
+      "shots": 11.14,
+      "shots_against": 13.28,
+      "shots_target": 3.69,
+      "shots_target_against": 4.08,
+      "fouls": 15.94,
+      "fouls_against": 9.67,
+      "yellows": 2.33,
+      "opponent_yellows": 1.56,
+      "total_match_cards": 3.89
+    },
+    "avg_home": {
+      "gf": 0.67,
+      "ga": 1.44,
+      "corners_for": 4.78,
+      "corners_against": 3.89,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 0.67,
+      "ga": 1.78,
+      "corners_for": 3.11,
+      "corners_against": 5.94,
+      "over_25_pct": 61.1
+    },
+    "pct": {
+      "over_15": 66.7,
+      "over_25": 52.8,
+      "over_35": 22.2,
+      "btts": 47.2,
+      "clean_sheet": 16.7,
+      "failed_to_score": 52.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.42,
+      "ga_1h": 0.67,
+      "gf_2h": 0.25,
+      "ga_2h": 0.94,
+      "total_1h": 1.08,
+      "total_2h": 1.19
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 36.1,
+      "over_05_2h": 75.0,
+      "over_15_2h": 38.9,
+      "btts_1h": 22.2,
+      "btts_2h": 19.4
+    },
+    "xg": 34.3,
+    "xga": 46.4,
+    "xg_diff": -10.3,
+    "xga_diff": 10.6,
+    "yellow_cards_total": 77,
+    "red_cards_total": 4,
+    "yc_per_match": 2.2
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

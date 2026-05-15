@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_barcelona-vs-betis",
+  "home": "Barcelona",
+  "away": "Real Betis",
+  "league": "ESP1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Barcelona",
+    "mp": 36,
+    "w": 30,
+    "d": 1,
+    "l": 5,
+    "gf": 91,
+    "ga": 32,
+    "gd": 59,
+    "pts": 91,
+    "avg": {
+      "gf": 2.53,
+      "ga": 0.89,
+      "corners_for": 6.89,
+      "corners_against": 4.36,
+      "total_corners": 11.25,
+      "shots": 18.5,
+      "shots_against": 8.92,
+      "shots_target": 6.78,
+      "shots_target_against": 3.44,
+      "fouls": 9.58,
+      "fouls_against": 12.08,
+      "yellows": 1.58,
+      "opponent_yellows": 2.5,
+      "total_match_cards": 4.08
+    },
+    "avg_home": {
+      "gf": 3.0,
+      "ga": 0.5,
+      "corners_for": 7.17,
+      "corners_against": 4.0,
+      "over_25_pct": 77.8
+    },
+    "avg_away": {
+      "gf": 2.06,
+      "ga": 1.28,
+      "corners_for": 6.61,
+      "corners_against": 4.72,
+      "over_25_pct": 66.7
+    },
+    "pct": {
+      "over_15": 88.9,
+      "over_25": 72.2,
+      "over_35": 38.9,
+      "btts": 55.6,
+      "clean_sheet": 41.7,
+      "failed_to_score": 2.8
+    },
+    "avg_ht": {
+      "gf_1h": 1.19,
+      "ga_1h": 0.56,
+      "gf_2h": 1.33,
+      "ga_2h": 0.33,
+      "total_1h": 1.75,
+      "total_2h": 1.67
+    },
+    "pct_ht": {
+      "over_05_1h": 83.3,
+      "over_15_1h": 55.6,
+      "over_05_2h": 86.1,
+      "over_15_2h": 47.2,
+      "btts_1h": 33.3,
+      "btts_2h": 19.4
+    },
+    "xg": 86.2,
+    "xga": 42.5,
+    "xg_diff": 2.8,
+    "xga_diff": -11.5,
+    "yellow_cards_total": 52,
+    "red_cards_total": null,
+    "yc_per_match": 1.53
+  },
+  "away_stats": {
+    "team": "Betis",
+    "mp": 36,
+    "w": 14,
+    "d": 15,
+    "l": 7,
+    "gf": 56,
+    "ga": 44,
+    "gd": 12,
+    "pts": 57,
+    "avg": {
+      "gf": 1.56,
+      "ga": 1.22,
+      "corners_for": 4.53,
+      "corners_against": 5.03,
+      "total_corners": 9.56,
+      "shots": 14.31,
+      "shots_against": 12.19,
+      "shots_target": 4.81,
+      "shots_target_against": 4.31,
+      "fouls": 10.69,
+      "fouls_against": 13.36,
+      "yellows": 2.0,
+      "opponent_yellows": 2.42,
+      "total_match_cards": 4.42
+    },
+    "avg_home": {
+      "gf": 1.78,
+      "ga": 1.0,
+      "corners_for": 4.67,
+      "corners_against": 4.33,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 1.33,
+      "ga": 1.44,
+      "corners_for": 4.39,
+      "corners_against": 5.72,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 88.9,
+      "over_25": 50.0,
+      "over_35": 25.0,
+      "btts": 66.7,
+      "clean_sheet": 27.8,
+      "failed_to_score": 11.1
+    },
+    "avg_ht": {
+      "gf_1h": 0.69,
+      "ga_1h": 0.69,
+      "gf_2h": 0.86,
+      "ga_2h": 0.53,
+      "total_1h": 1.39,
+      "total_2h": 1.39
+    },
+    "pct_ht": {
+      "over_05_1h": 80.6,
+      "over_15_1h": 44.4,
+      "over_05_2h": 72.2,
+      "over_15_2h": 41.7,
+      "btts_1h": 22.2,
+      "btts_2h": 25.0
+    },
+    "xg": 51.9,
+    "xga": 42.4,
+    "xg_diff": 0.1,
+    "xga_diff": -1.4,
+    "yellow_cards_total": 67,
+    "red_cards_total": null,
+    "yc_per_match": 1.97
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

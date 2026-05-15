@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_everton-vs-sunderland",
+  "home": "Everton",
+  "away": "Sunderland",
+  "league": "ENG1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Everton",
+    "mp": 36,
+    "w": 13,
+    "d": 10,
+    "l": 13,
+    "gf": 46,
+    "ga": 46,
+    "gd": 0,
+    "pts": 49,
+    "avg": {
+      "gf": 1.28,
+      "ga": 1.28,
+      "corners_for": 4.39,
+      "corners_against": 5.17,
+      "total_corners": 9.56,
+      "shots": 11.17,
+      "shots_against": 14.03,
+      "shots_target": 3.81,
+      "shots_target_against": 4.25,
+      "fouls": 10.53,
+      "fouls_against": 11.03,
+      "yellows": 1.86,
+      "opponent_yellows": 1.61,
+      "total_match_cards": 3.47
+    },
+    "avg_home": {
+      "gf": 1.39,
+      "ga": 1.33,
+      "corners_for": 5.06,
+      "corners_against": 4.78,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 1.17,
+      "ga": 1.22,
+      "corners_for": 3.72,
+      "corners_against": 5.56,
+      "over_25_pct": 38.9
+    },
+    "pct": {
+      "over_15": 77.8,
+      "over_25": 44.4,
+      "over_35": 19.4,
+      "btts": 50.0,
+      "clean_sheet": 30.6,
+      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+      "gf_1h": 0.5,
+      "ga_1h": 0.56,
+      "gf_2h": 0.78,
+      "ga_2h": 0.72,
+      "total_1h": 1.06,
+      "total_2h": 1.5
+    },
+    "pct_ht": {
+      "over_05_1h": 72.2,
+      "over_15_1h": 25.0,
+      "over_05_2h": 86.1,
+      "over_15_2h": 44.4,
+      "btts_1h": 11.1,
+      "btts_2h": 27.8
+    },
+    "xg": 44.8,
+    "xga": 52.8,
+    "xg_diff": -0.8,
+    "xga_diff": -8.8,
+    "yellow_cards_total": 67,
+    "red_cards_total": 4,
+    "yc_per_match": 1.91
+  },
+  "away_stats": {
+    "team": "Sunderland",
+    "mp": 36,
+    "w": 12,
+    "d": 12,
+    "l": 12,
+    "gf": 37,
+    "ga": 46,
+    "gd": -9,
+    "pts": 48,
+    "avg": {
+      "gf": 1.03,
+      "ga": 1.28,
+      "corners_for": 3.67,
+      "corners_against": 5.31,
+      "total_corners": 8.97,
+      "shots": 10.22,
+      "shots_against": 14.5,
+      "shots_target": 3.36,
+      "shots_target_against": 4.5,
+      "fouls": 10.64,
+      "fouls_against": 11.11,
+      "yellows": 2.14,
+      "opponent_yellows": 1.83,
+      "total_match_cards": 3.97
+    },
+    "avg_home": {
+      "gf": 1.28,
+      "ga": 1.06,
+      "corners_for": 3.89,
+      "corners_against": 4.89,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 0.78,
+      "ga": 1.5,
+      "corners_for": 3.44,
+      "corners_against": 5.72,
+      "over_25_pct": 38.9
+    },
+    "pct": {
+      "over_15": 69.4,
+      "over_25": 41.7,
+      "over_35": 16.7,
+      "btts": 44.4,
+      "clean_sheet": 30.6,
+      "failed_to_score": 36.1
+    },
+    "avg_ht": {
+      "gf_1h": 0.33,
+      "ga_1h": 0.61,
+      "gf_2h": 0.69,
+      "ga_2h": 0.67,
+      "total_1h": 0.94,
+      "total_2h": 1.36
+    },
+    "pct_ht": {
+      "over_05_1h": 55.6,
+      "over_15_1h": 25.0,
+      "over_05_2h": 83.3,
+      "over_15_2h": 33.3,
+      "btts_1h": 11.1,
+      "btts_2h": 16.7
+    },
+    "xg": 37.2,
+    "xga": 54.6,
+    "xg_diff": -0.2,
+    "xga_diff": -8.6,
+    "yellow_cards_total": 77,
+    "red_cards_total": 3,
+    "yc_per_match": 2.2
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_como-vs-parma",
+  "home": "Como",
+  "away": "Parma",
+  "league": "ITA1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Como",
+    "mp": 36,
+    "w": 18,
+    "d": 11,
+    "l": 7,
+    "gf": 60,
+    "ga": 28,
+    "gd": 32,
+    "pts": 65,
+    "avg": {
+      "gf": 1.67,
+      "ga": 0.78,
+      "corners_for": 4.19,
+      "corners_against": 3.28,
+      "total_corners": 7.47,
+      "shots": 14.19,
+      "shots_against": 9.31,
+      "shots_target": 5.03,
+      "shots_target_against": 3.22,
+      "fouls": 13.53,
+      "fouls_against": 12.53,
+      "yellows": 2.11,
+      "opponent_yellows": 2.19,
+      "total_match_cards": 4.31
+    },
+    "avg_home": {
+      "gf": 1.89,
+      "ga": 0.83,
+      "corners_for": 4.44,
+      "corners_against": 2.06,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 1.44,
+      "ga": 0.72,
+      "corners_for": 3.94,
+      "corners_against": 4.5,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 44.4,
+      "over_35": 22.2,
+      "btts": 41.7,
+      "clean_sheet": 50.0,
+      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+      "gf_1h": 0.72,
+      "ga_1h": 0.33,
+      "gf_2h": 0.94,
+      "ga_2h": 0.44,
+      "total_1h": 1.06,
+      "total_2h": 1.39
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 27.8,
+      "over_05_2h": 72.2,
+      "over_15_2h": 41.7,
+      "btts_1h": 19.4,
+      "btts_2h": 11.1
+    },
+    "xg": 58.0,
+    "xga": 34.0,
+    "xg_diff": 1.0,
+    "xga_diff": -6.0,
+    "yellow_cards_total": 74,
+    "red_cards_total": 3,
+    "yc_per_match": 2.11
+  },
+  "away_stats": {
+    "team": "Parma",
+    "mp": 36,
+    "w": 10,
+    "d": 12,
+    "l": 14,
+    "gf": 27,
+    "ga": 45,
+    "gd": -18,
+    "pts": 42,
+    "avg": {
+      "gf": 0.75,
+      "ga": 1.25,
+      "corners_for": 3.97,
+      "corners_against": 4.81,
+      "total_corners": 8.78,
+      "shots": 10.81,
+      "shots_against": 14.17,
+      "shots_target": 2.75,
+      "shots_target_against": 4.33,
+      "fouls": 10.81,
+      "fouls_against": 13.5,
+      "yellows": 1.72,
+      "opponent_yellows": 1.78,
+      "total_match_cards": 3.5
+    },
+    "avg_home": {
+      "gf": 0.83,
+      "ga": 1.39,
+      "corners_for": 4.33,
+      "corners_against": 4.17,
+      "over_25_pct": 33.3
+    },
+    "avg_away": {
+      "gf": 0.67,
+      "ga": 1.11,
+      "corners_for": 3.61,
+      "corners_against": 5.44,
+      "over_25_pct": 27.8
+    },
+    "pct": {
+      "over_15": 61.1,
+      "over_25": 30.6,
+      "over_35": 16.7,
+      "btts": 41.7,
+      "clean_sheet": 33.3,
+      "failed_to_score": 41.7
+    },
+    "avg_ht": {
+      "gf_1h": 0.28,
+      "ga_1h": 0.47,
+      "gf_2h": 0.47,
+      "ga_2h": 0.78,
+      "total_1h": 0.75,
+      "total_2h": 1.25
+    },
+    "pct_ht": {
+      "over_05_1h": 52.8,
+      "over_15_1h": 19.4,
+      "over_05_2h": 75.0,
+      "over_15_2h": 36.1,
+      "btts_1h": 13.9,
+      "btts_2h": 19.4
+    },
+    "xg": 32.2,
+    "xga": 52.5,
+    "xg_diff": -7.2,
+    "xga_diff": -10.5,
+    "yellow_cards_total": 58,
+    "red_cards_total": 4,
+    "yc_per_match": 1.66
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

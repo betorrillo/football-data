@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-15_malaga-c-f-vs-ad-ceuta",
+  "home": "Málaga C.F.",
+  "away": "AD Ceuta",
+  "league": "ESP2",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Malaga",
+    "mp": 39,
+    "w": 19,
+    "d": 9,
+    "l": 11,
+    "gf": 68,
+    "ga": 50,
+    "gd": 18,
+    "pts": 66,
+    "avg": {
+      "gf": 1.74,
+      "ga": 1.28,
+      "corners_for": 4.26,
+      "corners_against": 4.69,
+      "total_corners": 8.95,
+      "shots": 14.0,
+      "shots_against": 13.05,
+      "shots_target": 5.41,
+      "shots_target_against": 4.64,
+      "fouls": 11.97,
+      "fouls_against": 13.21,
+      "yellows": 2.31,
+      "opponent_yellows": 2.92,
+      "total_match_cards": 5.23
+    },
+    "avg_home": {
+      "gf": 2.05,
+      "ga": 1.15,
+      "corners_for": 4.1,
+      "corners_against": 3.8,
+      "over_25_pct": 65.0
+    },
+    "avg_away": {
+      "gf": 1.42,
+      "ga": 1.42,
+      "corners_for": 4.42,
+      "corners_against": 5.63,
+      "over_25_pct": 57.9
+    },
+    "pct": {
+      "over_15": 76.9,
+      "over_25": 61.5,
+      "over_35": 30.8,
+      "btts": 61.5,
+      "clean_sheet": 25.6,
+      "failed_to_score": 15.4
+    },
+    "avg_ht": {
+      "gf_1h": 0.72,
+      "ga_1h": 0.44,
+      "gf_2h": 1.03,
+      "ga_2h": 0.85,
+      "total_1h": 1.15,
+      "total_2h": 1.87
+    },
+    "pct_ht": {
+      "over_05_1h": 69.2,
+      "over_15_1h": 33.3,
+      "over_05_2h": 84.6,
+      "over_15_2h": 51.3,
+      "btts_1h": 20.5,
+      "btts_2h": 35.9
+    }
+  },
+  "away_stats": {
+    "team": "Ceuta",
+    "mp": 39,
+    "w": 15,
+    "d": 10,
+    "l": 14,
+    "gf": 47,
+    "ga": 59,
+    "gd": -12,
+    "pts": 55,
+    "avg": {
+      "gf": 1.21,
+      "ga": 1.51,
+      "corners_for": 4.08,
+      "corners_against": 5.05,
+      "total_corners": 9.13,
+      "shots": 10.69,
+      "shots_against": 12.85,
+      "shots_target": 3.69,
+      "shots_target_against": 5.0,
+      "fouls": 13.82,
+      "fouls_against": 13.95,
+      "yellows": 2.62,
+      "opponent_yellows": 2.38,
+      "total_match_cards": 5.0
+    },
+    "avg_home": {
+      "gf": 1.37,
+      "ga": 1.0,
+      "corners_for": 4.79,
+      "corners_against": 4.53,
+      "over_25_pct": 52.6
+    },
+    "avg_away": {
+      "gf": 1.05,
+      "ga": 2.0,
+      "corners_for": 3.4,
+      "corners_against": 5.55,
+      "over_25_pct": 60.0
+    },
+    "pct": {
+      "over_15": 74.4,
+      "over_25": 56.4,
+      "over_35": 25.6,
+      "btts": 56.4,
+      "clean_sheet": 25.6,
+      "failed_to_score": 28.2
+    },
+    "avg_ht": {
+      "gf_1h": 0.72,
+      "ga_1h": 0.74,
+      "gf_2h": 0.49,
+      "ga_2h": 0.77,
+      "total_1h": 1.46,
+      "total_2h": 1.26
+    },
+    "pct_ht": {
+      "over_05_1h": 79.5,
+      "over_15_1h": 41.0,
+      "over_05_2h": 59.0,
+      "over_15_2h": 48.7,
+      "btts_1h": 33.3,
+      "btts_2h": 33.3
+    }
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

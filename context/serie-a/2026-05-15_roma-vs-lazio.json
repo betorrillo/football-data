@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_roma-vs-lazio",
+  "home": "Roma",
+  "away": "Lazio",
+  "league": "ITA1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Roma",
+    "mp": 36,
+    "w": 21,
+    "d": 4,
+    "l": 11,
+    "gf": 55,
+    "ga": 31,
+    "gd": 24,
+    "pts": 67,
+    "avg": {
+      "gf": 1.53,
+      "ga": 0.86,
+      "corners_for": 5.06,
+      "corners_against": 3.42,
+      "total_corners": 8.47,
+      "shots": 13.0,
+      "shots_against": 9.94,
+      "shots_target": 4.56,
+      "shots_target_against": 3.69,
+      "fouls": 13.83,
+      "fouls_against": 14.06,
+      "yellows": 1.81,
+      "opponent_yellows": 2.06,
+      "total_match_cards": 3.86
+    },
+    "avg_home": {
+      "gf": 1.72,
+      "ga": 0.56,
+      "corners_for": 5.61,
+      "corners_against": 2.78,
+      "over_25_pct": 33.3
+    },
+    "avg_away": {
+      "gf": 1.33,
+      "ga": 1.17,
+      "corners_for": 4.5,
+      "corners_against": 4.06,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 63.9,
+      "over_25": 38.9,
+      "over_35": 19.4,
+      "btts": 36.1,
+      "clean_sheet": 44.4,
+      "failed_to_score": 19.4
+    },
+    "avg_ht": {
+      "gf_1h": 0.72,
+      "ga_1h": 0.28,
+      "gf_2h": 0.81,
+      "ga_2h": 0.58,
+      "total_1h": 1.0,
+      "total_2h": 1.39
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 22.2,
+      "over_05_2h": 75.0,
+      "over_15_2h": 33.3,
+      "btts_1h": 11.1,
+      "btts_2h": 25.0
+    },
+    "xg": 51.4,
+    "xga": 38.7,
+    "xg_diff": 0.6,
+    "xga_diff": -9.7,
+    "yellow_cards_total": 61,
+    "red_cards_total": 2,
+    "yc_per_match": 1.74
+  },
+  "away_stats": {
+    "team": "Lazio",
+    "mp": 36,
+    "w": 13,
+    "d": 12,
+    "l": 11,
+    "gf": 39,
+    "ga": 37,
+    "gd": 2,
+    "pts": 51,
+    "avg": {
+      "gf": 1.08,
+      "ga": 1.03,
+      "corners_for": 3.72,
+      "corners_against": 4.17,
+      "total_corners": 7.89,
+      "shots": 11.03,
+      "shots_against": 13.39,
+      "shots_target": 4.03,
+      "shots_target_against": 4.19,
+      "fouls": 10.44,
+      "fouls_against": 14.69,
+      "yellows": 2.03,
+      "opponent_yellows": 2.47,
+      "total_match_cards": 4.5
+    },
+    "avg_home": {
+      "gf": 1.39,
+      "ga": 1.33,
+      "corners_for": 4.56,
+      "corners_against": 3.72,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 0.78,
+      "ga": 0.72,
+      "corners_for": 2.89,
+      "corners_against": 4.61,
+      "over_25_pct": 16.7
+    },
+    "pct": {
+      "over_15": 63.9,
+      "over_25": 30.6,
+      "over_35": 16.7,
+      "btts": 27.8,
+      "clean_sheet": 41.7,
+      "failed_to_score": 44.4
+    },
+    "avg_ht": {
+      "gf_1h": 0.39,
+      "ga_1h": 0.47,
+      "gf_2h": 0.69,
+      "ga_2h": 0.56,
+      "total_1h": 0.86,
+      "total_2h": 1.25
+    },
+    "pct_ht": {
+      "over_05_1h": 58.3,
+      "over_15_1h": 22.2,
+      "over_05_2h": 69.4,
+      "over_15_2h": 27.8,
+      "btts_1h": 8.3,
+      "btts_2h": 16.7
+    },
+    "xg": 42.5,
+    "xga": 44.5,
+    "xg_diff": -3.5,
+    "xga_diff": -10.5,
+    "yellow_cards_total": 70,
+    "red_cards_total": 7,
+    "yc_per_match": 2.0
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

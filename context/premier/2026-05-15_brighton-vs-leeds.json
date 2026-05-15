@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_brighton-vs-leeds",
+  "home": "Brighton",
+  "away": "Leeds",
+  "league": "ENG1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Brighton",
+    "mp": 36,
+    "w": 14,
+    "d": 11,
+    "l": 11,
+    "gf": 52,
+    "ga": 42,
+    "gd": 10,
+    "pts": 53,
+    "avg": {
+      "gf": 1.44,
+      "ga": 1.17,
+      "corners_for": 4.92,
+      "corners_against": 4.81,
+      "total_corners": 9.72,
+      "shots": 12.86,
+      "shots_against": 11.81,
+      "shots_target": 4.61,
+      "shots_target_against": 3.89,
+      "fouls": 12.08,
+      "fouls_against": 10.17,
+      "yellows": 2.39,
+      "opponent_yellows": 2.08,
+      "total_match_cards": 4.47
+    },
+    "avg_home": {
+      "gf": 1.67,
+      "ga": 0.94,
+      "corners_for": 5.22,
+      "corners_against": 4.61,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 1.22,
+      "ga": 1.39,
+      "corners_for": 4.61,
+      "corners_against": 5.0,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 83.3,
+      "over_25": 50.0,
+      "over_35": 19.4,
+      "btts": 58.3,
+      "clean_sheet": 27.8,
+      "failed_to_score": 19.4
+    },
+    "avg_ht": {
+      "gf_1h": 0.56,
+      "ga_1h": 0.64,
+      "gf_2h": 0.89,
+      "ga_2h": 0.53,
+      "total_1h": 1.19,
+      "total_2h": 1.42
+    },
+    "pct_ht": {
+      "over_05_1h": 77.8,
+      "over_15_1h": 27.8,
+      "over_05_2h": 86.1,
+      "over_15_2h": 44.4,
+      "btts_1h": 16.7,
+      "btts_2h": 27.8
+    },
+    "xg": 52.8,
+    "xga": 48.1,
+    "xg_diff": -3.8,
+    "xga_diff": -6.1,
+    "yellow_cards_total": 85,
+    "red_cards_total": 0,
+    "yc_per_match": 2.43
+  },
+  "away_stats": {
+    "team": "Leeds",
+    "mp": 36,
+    "w": 10,
+    "d": 14,
+    "l": 12,
+    "gf": 48,
+    "ga": 53,
+    "gd": -5,
+    "pts": 44,
+    "avg": {
+      "gf": 1.33,
+      "ga": 1.47,
+      "corners_for": 4.36,
+      "corners_against": 4.97,
+      "total_corners": 9.33,
+      "shots": 12.72,
+      "shots_against": 12.25,
+      "shots_target": 4.08,
+      "shots_target_against": 4.03,
+      "fouls": 10.42,
+      "fouls_against": 11.33,
+      "yellows": 1.61,
+      "opponent_yellows": 1.86,
+      "total_match_cards": 3.47
+    },
+    "avg_home": {
+      "gf": 1.56,
+      "ga": 1.17,
+      "corners_for": 5.5,
+      "corners_against": 4.0,
+      "over_25_pct": 61.1
+    },
+    "avg_away": {
+      "gf": 1.11,
+      "ga": 1.78,
+      "corners_for": 3.22,
+      "corners_against": 5.94,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 75.0,
+      "over_25": 55.6,
+      "over_35": 38.9,
+      "btts": 61.1,
+      "clean_sheet": 19.4,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.67,
+      "ga_1h": 0.44,
+      "gf_2h": 0.67,
+      "ga_2h": 1.03,
+      "total_1h": 1.11,
+      "total_2h": 1.69
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 38.9,
+      "over_05_2h": 83.3,
+      "over_15_2h": 50.0,
+      "btts_1h": 13.9,
+      "btts_2h": 36.1
+    },
+    "xg": 52.4,
+    "xga": 49.3,
+    "xg_diff": -5.4,
+    "xga_diff": 2.7,
+    "yellow_cards_total": 57,
+    "red_cards_total": 1,
+    "yc_per_match": 1.63
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}

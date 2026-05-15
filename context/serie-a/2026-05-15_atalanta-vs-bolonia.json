@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-15_atalanta-vs-bolonia",
+  "home": "Atalanta",
+  "away": "Bolonia",
+  "league": "ITA1",
+  "date": "2026-05-15",
+  "home_stats": {
+    "team": "Atalanta",
+    "mp": 36,
+    "w": 15,
+    "d": 13,
+    "l": 8,
+    "gf": 50,
+    "ga": 34,
+    "gd": 16,
+    "pts": 58,
+    "avg": {
+      "gf": 1.39,
+      "ga": 0.94,
+      "corners_for": 5.83,
+      "corners_against": 4.17,
+      "total_corners": 10.0,
+      "shots": 14.75,
+      "shots_against": 11.83,
+      "shots_target": 4.67,
+      "shots_target_against": 3.97,
+      "fouls": 11.64,
+      "fouls_against": 10.36,
+      "yellows": 1.58,
+      "opponent_yellows": 1.44,
+      "total_match_cards": 3.03
+    },
+    "avg_home": {
+      "gf": 1.39,
+      "ga": 0.78,
+      "corners_for": 7.11,
+      "corners_against": 3.5,
+      "over_25_pct": 38.9
+    },
+    "avg_away": {
+      "gf": 1.39,
+      "ga": 1.11,
+      "corners_for": 4.56,
+      "corners_against": 4.83,
+      "over_25_pct": 38.9
+    },
+    "pct": {
+      "over_15": 75.0,
+      "over_25": 38.9,
+      "over_35": 19.4,
+      "btts": 52.8,
+      "clean_sheet": 36.1,
+      "failed_to_score": 19.4
+    },
+    "avg_ht": {
+      "gf_1h": 0.67,
+      "ga_1h": 0.47,
+      "gf_2h": 0.72,
+      "ga_2h": 0.47,
+      "total_1h": 1.14,
+      "total_2h": 1.19
+    },
+    "pct_ht": {
+      "over_05_1h": 75.0,
+      "over_15_1h": 27.8,
+      "over_05_2h": 72.2,
+      "over_15_2h": 36.1,
+      "btts_1h": 11.1,
+      "btts_2h": 25.0
+    },
+    "xg": 58.7,
+    "xga": 43.1,
+    "xg_diff": -11.7,
+    "xga_diff": -11.1,
+    "yellow_cards_total": 50,
+    "red_cards_total": 2,
+    "yc_per_match": 1.43
+  },
+  "away_stats": {
+    "team": "Bologna",
+    "mp": 36,
+    "w": 15,
+    "d": 7,
+    "l": 14,
+    "gf": 45,
+    "ga": 43,
+    "gd": 2,
+    "pts": 52,
+    "avg": {
+      "gf": 1.25,
+      "ga": 1.19,
+      "corners_for": 4.56,
+      "corners_against": 4.31,
+      "total_corners": 8.86,
+      "shots": 13.0,
+      "shots_against": 10.22,
+      "shots_target": 3.78,
+      "shots_target_against": 3.64,
+      "fouls": 13.31,
+      "fouls_against": 14.58,
+      "yellows": 1.83,
+      "opponent_yellows": 1.94,
+      "total_match_cards": 3.78
+    },
+    "avg_home": {
+      "gf": 0.89,
+      "ga": 1.11,
+      "corners_for": 5.44,
+      "corners_against": 3.78,
+      "over_25_pct": 33.3
+    },
+    "avg_away": {
+      "gf": 1.61,
+      "ga": 1.28,
+      "corners_for": 3.67,
+      "corners_against": 4.83,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 44.4,
+      "over_35": 25.0,
+      "btts": 44.4,
+      "clean_sheet": 30.6,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.53,
+      "ga_1h": 0.44,
+      "gf_2h": 0.72,
+      "ga_2h": 0.75,
+      "total_1h": 0.97,
+      "total_2h": 1.47
+    },
+    "pct_ht": {
+      "over_05_1h": 52.8,
+      "over_15_1h": 30.6,
+      "over_05_2h": 86.1,
+      "over_15_2h": 38.9,
+      "btts_1h": 16.7,
+      "btts_2h": 27.8
+    },
+    "xg": 43.9,
+    "xga": 44.2,
+    "xg_diff": -1.9,
+    "xga_diff": -3.2,
+    "yellow_cards_total": 59,
+    "red_cards_total": 5,
+    "yc_per_match": 1.69
+  },
+  "generated": "2026-05-15T18:42:21Z"
+}
