@@ -1,0 +1,50 @@
+{
+  "scraped_at": "2026-05-15T14:59:38.615143",
+  "scraper_version": "4.0",
+  "base_url": "https://raw.githubusercontent.com/betorrillo/football-data/main",
+  "total_matches": 1,
+  "matches": [
+    {
+      "id": "2026-05-15_castellon-vs-cadiz",
+      "league": "Spain Segunda",
+      "league_code": "ESP2",
+      "home_team": "CD Castellón",
+      "away_team": "Cádiz",
+      "bet365_event_id": "193003587",
+      "odds_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/odds/segunda/2026-05-15_castellon-vs-cadiz.json",
+      "markets_available": [
+        "away_goals",
+        "btts",
+        "cards_away",
+        "cards_home",
+        "cards_total",
+        "clean_sheet",
+        "corners_away",
+        "corners_home",
+        "corners_total",
+        "correct_score",
+        "double_chance",
+        "draw_no_bet",
+        "home_goals",
+        "ht_ft",
+        "player_anytime_scorer",
+        "player_shots",
+        "player_shots_on_target",
+        "result",
+        "total_goals",
+        "winning_margin"
+      ],
+      "markets_count": 20
+    }
+  ],
+  "matches_by_league": {
+    "ESP2": [
+      "2026-05-15_castellon-vs-cadiz"
+    ]
+  },
+  "matches_by_date": {
+    "2026-05-15": [
+      "2026-05-15_castellon-vs-cadiz"
+    ]
+  }
+}
