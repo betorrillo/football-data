@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/betorrillo/football-data/main/schemas/referee.schema.json",
+  "title": "Referee snapshot (one per designated official)",
+  "description": "Per-referee detail in referees/<slug>.json. Designation-to-match mapping lives in context/<match>.json#/referee.",
+  "type": "object",
+  "required": ["slug", "nombre", "comite", "verdict", "last_updated"],
+  "additionalProperties": false,
+  "properties": {
+    "slug": { "$ref": "_enums.json#/definitions/slug" },
+    "nombre": { "type": "string" },
+    "comite": {
+      "type": ["string", "null"],
+      "description": "rfef | pgmol | aia | fpf | uefa | other"
+    },
+    "stats_temporada": {
+      "type": ["object", "null"],
+      "properties": {
+        "pj": { "type": ["integer", "null"] },
+        "ta_p": { "type": ["number", "null"] },
+        "tr_p": { "type": ["number", "null"] },
+        "pen_p": { "type": ["number", "null"] }
+      }
+    },
+    "stats_carrera": {
+      "type": ["object", "null"],
+      "properties": {
+        "pj": { "type": ["integer", "null"] },
+        "ta_p": { "type": ["number", "null"] },
+        "tr_p": { "type": ["number", "null"] },
+        "pen_p": { "type": ["number", "null"] }
+      }
+    },
+    "verdict": { "$ref": "_enums.json#/definitions/referee_verdict" },
+    "ultimos_5": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["date", "match", "ta", "tr"],
+        "properties": {
+          "date": { "$ref": "_enums.json#/definitions/iso_date" },
+          "match": { "type": "string" },
+          "ta": { "type": "integer", "minimum": 0 },
+          "tr": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "source_url": { "type": ["string", "null"] },
+    "_partial": { "type": "boolean" },
+    "last_updated": { "$ref": "_enums.json#/definitions/iso_datetime" }
+  }
+}

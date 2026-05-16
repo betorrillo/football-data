@@ -1,0 +1,128 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/betorrillo/football-data/main/schemas/team_snapshot.schema.json",
+  "title": "Team snapshot (brief §6.2)",
+  "description": "Aggregated team data in teams/<slug>.json. NO tactical-identity fields (those live in manual fichas).",
+  "type": "object",
+  "required": ["id", "nombre_oficial", "liga", "coach_actual", "stats_temporada", "forma", "last_updated"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "_enums.json#/definitions/slug" },
+    "nombre_oficial": { "type": "string" },
+    "liga": { "$ref": "_enums.json#/definitions/competition" },
+    "venue_principal": { "type": ["string", "null"] },
+    "coach_actual": {
+      "type": "object",
+      "required": ["nombre", "slug", "desde"],
+      "properties": {
+        "nombre": { "type": "string" },
+        "slug": { "$ref": "_enums.json#/definitions/slug" },
+        "desde": { "$ref": "_enums.json#/definitions/iso_date" },
+        "partidos_dirigidos_total": { "type": ["integer", "null"] },
+        "partidos_dirigidos_temporada": { "type": ["integer", "null"] },
+        "primer_partido_temporada": { "$ref": "_enums.json#/definitions/iso_date" }
+      }
+    },
+    "stats_temporada": {
+      "type": "object",
+      "required": ["comp_base", "pj", "pos", "pts", "g", "e", "p", "gf", "ga"],
+      "properties": {
+        "comp_base": { "$ref": "_enums.json#/definitions/competition" },
+        "pj": { "type": "integer", "minimum": 0 },
+        "pos": { "type": "integer", "minimum": 1 },
+        "pts": { "type": "integer", "minimum": 0 },
+        "g": { "type": "integer", "minimum": 0 },
+        "e": { "type": "integer", "minimum": 0 },
+        "p": { "type": "integer", "minimum": 0 },
+        "gf": { "type": "integer", "minimum": 0 },
+        "ga": { "type": "integer", "minimum": 0 },
+        "xgf": { "type": ["number", "null"] },
+        "xga": { "type": ["number", "null"] },
+        "shots_pp": { "type": ["number", "null"] },
+        "sot_pp": { "type": ["number", "null"] },
+        "corners_pp": { "type": ["number", "null"] },
+        "cards_pp": { "type": ["number", "null"] },
+        "fouls_pp": { "type": ["number", "null"] },
+        "btts_pct": { "type": ["number", "null"] },
+        "over_25_pct": { "type": ["number", "null"] }
+      }
+    },
+    "stats_temporada_por_localia": {
+      "type": "object",
+      "properties": {
+        "home": { "$ref": "#/definitions/localia_stats" },
+        "away": { "$ref": "#/definitions/localia_stats" }
+      }
+    },
+    "forma": {
+      "type": "object",
+      "required": ["ult5", "ult10"],
+      "properties": {
+        "ult5": { "type": "string", "pattern": "^[WDL]{0,5}$" },
+        "ult10": { "type": "string", "pattern": "^[WDL]{0,10}$" },
+        "pts_ult5": { "type": "integer", "minimum": 0 },
+        "pts_ult10": { "type": "integer", "minimum": 0 },
+        "gf_ult5": { "type": "integer", "minimum": 0 },
+        "ga_ult5": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "lesiones_largas_actuales": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["jugador", "desde", "rol"],
+        "properties": {
+          "jugador": { "$ref": "_enums.json#/definitions/slug" },
+          "desde": { "$ref": "_enums.json#/definitions/iso_date" },
+          "estimado_vuelta": {
+            "oneOf": [
+              { "type": "null" },
+              { "$ref": "_enums.json#/definitions/iso_date" }
+            ]
+          },
+          "rol": { "type": "string" }
+        }
+      }
+    },
+    "suspensiones_proxima_jornada": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["jugador", "motivo"],
+        "properties": {
+          "jugador": { "$ref": "_enums.json#/definitions/slug" },
+          "motivo": { "type": "string" }
+        }
+      }
+    },
+    "compromiso_europeo_actual": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "properties": {
+            "comp": { "$ref": "_enums.json#/definitions/competition" },
+            "fase": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "_partial": { "type": "boolean" },
+    "last_updated": { "$ref": "_enums.json#/definitions/iso_datetime" }
+  },
+  "definitions": {
+    "localia_stats": {
+      "type": "object",
+      "properties": {
+        "pj": { "type": "integer", "minimum": 0 },
+        "g": { "type": "integer", "minimum": 0 },
+        "e": { "type": "integer", "minimum": 0 },
+        "p": { "type": "integer", "minimum": 0 },
+        "gf": { "type": "integer", "minimum": 0 },
+        "ga": { "type": "integer", "minimum": 0 },
+        "xgf_pp": { "type": ["number", "null"] },
+        "xga_pp": { "type": ["number", "null"] }
+      }
+    }
+  }
+}

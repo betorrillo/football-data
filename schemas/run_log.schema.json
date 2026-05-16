@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/betorrillo/football-data/main/schemas/run_log.schema.json",
+  "title": "_run_log.json (brief §4)",
+  "description": "One entry per scraper run. The file holds the latest N runs (rolling).",
+  "type": "object",
+  "required": ["latest", "history"],
+  "additionalProperties": false,
+  "properties": {
+    "latest": { "$ref": "#/definitions/run" },
+    "history": {
+      "type": "array",
+      "maxItems": 30,
+      "items": { "$ref": "#/definitions/run" }
+    }
+  },
+  "definitions": {
+    "run": {
+      "type": "object",
+      "required": ["run_id", "started_at", "ended_at", "status", "matches_processed", "matches_failed", "duration_seconds"],
+      "additionalProperties": false,
+      "properties": {
+        "run_id": { "type": "string", "pattern": "^\\d{8}-\\d{6}$" },
+        "started_at": { "$ref": "_enums.json#/definitions/iso_datetime" },
+        "ended_at": { "$ref": "_enums.json#/definitions/iso_datetime" },
+        "status": { "type": "string", "enum": ["ok", "partial", "failed"] },
+        "matches_processed": { "type": "integer", "minimum": 0 },
+        "matches_failed": { "type": "integer", "minimum": 0 },
+        "duration_seconds": { "type": "number", "minimum": 0 },
+        "fuentes_with_error": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["source", "error"],
+            "properties": {
+              "source": { "type": "string" },
+              "error": { "type": "string" },
+              "affected_matches": { "type": "integer", "minimum": 0 }
+            }
+          }
+        },
+        "tokens_saved_estimate": { "type": ["integer", "null"], "minimum": 0 },
+        "v2_version": { "type": "string" },
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

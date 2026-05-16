@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/betorrillo/football-data/main/schemas/_enums.json",
+  "title": "Shared enums (brief §5.3 + PLAYBOOK §3.C)",
+  "definitions": {
+    "competition": {
+      "type": "string",
+      "enum": [
+        "laliga",
+        "segunda",
+        "copa_del_rey",
+        "premier_league",
+        "serie_a",
+        "primeira_liga",
+        "champions_league",
+        "europa_league",
+        "conference_league"
+      ]
+    },
+    "motivacion": {
+      "type": "string",
+      "enum": [
+        "titulo",
+        "champions",
+        "europa",
+        "conference_playoff",
+        "salvado",
+        "descenso",
+        "playoff_descenso",
+        "nada"
+      ]
+    },
+    "asimetria": {
+      "type": "string",
+      "enum": ["alta", "media", "baja"]
+    },
+    "motivacion_emocional_tag": {
+      "type": "string",
+      "enum": [
+        "last_home_match_season",
+        "coach_farewell",
+        "player_farewell",
+        "record_chase",
+        "relegation_final_home"
+      ]
+    },
+    "h2h_validez": {
+      "type": "string",
+      "enum": ["valido_con_coach_actual", "muestra_insuficiente", "coaches_distintos"]
+    },
+    "lineup_status": {
+      "type": "string",
+      "enum": ["none", "probables", "confirmed"]
+    },
+    "baja_tipo": {
+      "type": "string",
+      "enum": [
+        "lesion_corta",
+        "lesion_larga",
+        "suspension",
+        "convocatoria_nacional",
+        "decision_tecnica",
+        "otro"
+      ]
+    },
+    "referee_verdict": {
+      "type": "string",
+      "enum": [
+        "permisivo",
+        "tarjetero_bajo",
+        "tarjetero_medio",
+        "tarjetero_alto",
+        "tarjetero_extremo",
+        "muestra_insuficiente"
+      ]
+    },
+    "iso_datetime": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp"
+    },
+    "iso_date": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$",
+      "description": "kebab-case, no accents (brief §4 slug rule)"
+    }
+  }
+}

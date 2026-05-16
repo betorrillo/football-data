@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/betorrillo/football-data/main/schemas/match_context.schema.json",
+  "title": "Match context (brief §5.2)",
+  "description": "One file per upcoming fixture in context/<comp>_<round>/<home>-vs-<away>.json",
+  "type": "object",
+  "required": ["id", "comp", "round", "home", "away", "kickoff", "context", "h2h", "lineups", "referee", "_partial", "last_updated"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9_-]+$" },
+    "comp": { "$ref": "_enums.json#/definitions/competition" },
+    "round": { "type": "string", "description": "e.g. J37, MD1, R16, QF, SF, F" },
+    "home": { "$ref": "_enums.json#/definitions/slug" },
+    "away": { "$ref": "_enums.json#/definitions/slug" },
+    "kickoff": { "$ref": "_enums.json#/definitions/iso_datetime" },
+    "venue": { "type": ["string", "null"] },
+    "context": {
+      "type": "object",
+      "required": ["motivacion", "motivacion_emocional", "rotacion", "tabla"],
+      "additionalProperties": false,
+      "properties": {
+        "motivacion": {
+          "type": "object",
+          "required": ["home", "away", "asimetria"],
+          "properties": {
+            "home": { "$ref": "_enums.json#/definitions/motivacion" },
+            "away": { "$ref": "_enums.json#/definitions/motivacion" },
+            "asimetria": { "$ref": "_enums.json#/definitions/asimetria" }
+          }
+        },
+        "motivacion_emocional": {
+          "type": "object",
+          "required": ["home", "away"],
+          "properties": {
+            "home": { "type": "array", "items": { "$ref": "_enums.json#/definitions/motivacion_emocional_tag" } },
+            "away": { "type": "array", "items": { "$ref": "_enums.json#/definitions/motivacion_emocional_tag" } }
+          }
+        },
+        "rotacion": {
+          "type": "object",
+          "required": ["home", "away"],
+          "properties": {
+            "home": { "$ref": "#/definitions/team_rotacion" },
+            "away": { "$ref": "#/definitions/team_rotacion" }
+          }
+        },
+        "tabla": {
+          "type": "object",
+          "required": ["home", "away"],
+          "properties": {
+            "home": { "$ref": "#/definitions/team_tabla" },
+            "away": { "$ref": "#/definitions/team_tabla" }
+          }
+        }
+      }
+    },
+    "h2h": {
+      "type": "object",
+      "required": ["validez", "mismo_coach_count", "last_meetings_relevantes", "all_meetings_count_5y"],
+      "properties": {
+        "validez": { "$ref": "_enums.json#/definitions/h2h_validez" },
+        "mismo_coach_count": { "type": "integer", "minimum": 0 },
+        "last_meetings_relevantes": {
+          "type": "array",
+          "maxItems": 8,
+          "items": { "$ref": "#/definitions/h2h_meeting" }
+        },
+        "all_meetings_count_5y": { "type": "integer", "minimum": 0 },
+        "nota": { "type": ["string", "null"] }
+      }
+    },
+    "lineups": {
+      "type": "object",
+      "required": ["status", "confirmed", "last_updated", "home", "away"],
+      "properties": {
+        "status": { "$ref": "_enums.json#/definitions/lineup_status" },
+        "confirmed": { "type": "boolean" },
+        "last_updated": { "$ref": "_enums.json#/definitions/iso_datetime" },
+        "home": { "$ref": "#/definitions/lineup_side" },
+        "away": { "$ref": "#/definitions/lineup_side" },
+        "source": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "referee": {
+      "type": ["object", "null"],
+      "properties": {
+        "asignado": { "type": ["string", "null"] },
+        "comite": { "type": ["string", "null"] },
+        "designacion_fuentes": { "type": "array", "items": { "type": "string" } },
+        "designacion_confirmada": { "type": "boolean" },
+        "stats_temporada": { "$ref": "#/definitions/ref_stats" },
+        "stats_carrera": { "$ref": "#/definitions/ref_stats" },
+        "verdict": { "$ref": "_enums.json#/definitions/referee_verdict" },
+        "source_url": { "type": ["string", "null"] },
+        "ultimos_5": { "type": "array" }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "_partial": { "type": "boolean" },
+    "last_updated": { "$ref": "_enums.json#/definitions/iso_datetime" }
+  },
+  "definitions": {
+    "team_rotacion": {
+      "type": "object",
+      "required": ["dias_descanso", "prev_match", "next_match", "eu_within_14d"],
+      "properties": {
+        "dias_descanso": { "type": ["integer", "null"], "minimum": 0 },
+        "prev_match": { "type": ["object", "null"] },
+        "next_match": { "type": ["object", "null"] },
+        "eu_within_14d": {
+          "oneOf": [
+            { "type": "null" },
+            {
+              "type": "object",
+              "required": ["comp", "date", "fase", "importancia"],
+              "properties": {
+                "comp": { "$ref": "_enums.json#/definitions/competition" },
+                "date": { "$ref": "_enums.json#/definitions/iso_date" },
+                "fase": { "type": "string" },
+                "importancia": { "type": "string", "enum": ["final", "semi", "cuartos", "octavos", "fase_grupos", "playoff"] }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "team_tabla": {
+      "type": "object",
+      "required": ["pos", "pts", "pj"],
+      "properties": {
+        "pos": { "type": "integer", "minimum": 1 },
+        "pts": { "type": "integer", "minimum": 0 },
+        "pj": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "h2h_meeting": {
+      "type": "object",
+      "required": ["date", "comp", "result", "venue", "home_coach_then", "away_coach_then"],
+      "properties": {
+        "date": { "$ref": "_enums.json#/definitions/iso_date" },
+        "comp": { "$ref": "_enums.json#/definitions/competition" },
+        "result": { "type": "string", "pattern": "^\\d+-\\d+$" },
+        "venue": { "type": ["string", "null"] },
+        "home_coach_then": { "$ref": "_enums.json#/definitions/slug" },
+        "away_coach_then": { "$ref": "_enums.json#/definitions/slug" },
+        "goals_total": { "type": "integer", "minimum": 0 },
+        "btts": { "type": "boolean" },
+        "cards_total": { "type": ["integer", "null"], "minimum": 0 },
+        "corners_total": { "type": ["integer", "null"], "minimum": 0 }
+      }
+    },
+    "lineup_side": {
+      "type": "object",
+      "properties": {
+        "xi_probable": { "type": "array", "items": { "$ref": "_enums.json#/definitions/slug" }, "maxItems": 11 },
+        "bajas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["jugador", "tipo", "confirmado"],
+            "properties": {
+              "jugador": { "$ref": "_enums.json#/definitions/slug" },
+              "tipo": { "$ref": "_enums.json#/definitions/baja_tipo" },
+              "confirmado": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    "ref_stats": {
+      "type": ["object", "null"],
+      "properties": {
+        "ta_p": { "type": ["number", "null"] },
+        "tr_p": { "type": ["number", "null"] },
+        "pj_temporada": { "type": ["integer", "null"] }
+      }
+    }
+  }
+}
