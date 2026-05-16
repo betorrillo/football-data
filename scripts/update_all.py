@@ -102,24 +102,11 @@ def convert_csv_to_matches(csv_text):
             match[key] = int(val) if val else None
         if row.get("Referee", "").strip():
             match["referee"] = row["Referee"]
-        # Odds
-        try:
-            if row.get("B365H", "").strip():
-                match["odds_b365"] = {
-                    "home": float(row["B365H"]),
-                    "draw": float(row["B365D"]),
-                    "away": float(row["B365A"])
-                }
-        except (ValueError, KeyError):
-            pass
-        try:
-            if row.get("B365>2.5", "").strip():
-                match["odds_ou25"] = {
-                    "over": float(row["B365>2.5"]),
-                    "under": float(row["B365<2.5"])
-                }
-        except (ValueError, KeyError):
-            pass
+        # NOTE: brief §9 (Mejora 5) — never include odds/bookmaker fields in output.
+        # The football-data.co.uk CSV ships historical Bet365 lines (B365H/B365D/B365A/
+        # B365>2.5/B365<2.5) but we intentionally DROP them here so the agent cannot
+        # be biased by historical odds when reasoning about future probabilities
+        # (PROYECTO_FRANKEN_IDENTIDAD).
         matches.append(match)
     return matches
 
@@ -466,10 +453,17 @@ def update_manifest(total_matches=None):
         "total_files": file_count,
         "total_matches": match_count,
         "coverage": {
-            "leagues": ["LaLiga", "Segunda Division", "Premier League", "Bundesliga", "Serie A", "Ligue 1", "Champions League"],
+            "leagues": [
+                "LaLiga", "Segunda Division", "Copa del Rey",
+                "Serie A", "Premier League", "Primeira Liga",
+                "Champions League", "Europa League", "Conference League"
+            ],
             "seasons": ["2021-22", "2022-23", "2023-24", "2024-25", "2025-26"],
-            "match_data_per_match": ["date", "time", "home", "away", "ft/ht scores", "shots", "shots_on_target",
-                                     "corners", "fouls", "yellow_cards", "red_cards", "referee", "b365_odds_1x2", "b365_odds_ou25"]
+            "match_data_per_match": [
+                "date", "time", "home", "away", "ft/ht scores", "shots",
+                "shots_on_target", "corners", "fouls", "yellow_cards",
+                "red_cards", "referee"
+            ]
         },
         "directories": {
             "matches": "Match-by-match data with full statistics",
