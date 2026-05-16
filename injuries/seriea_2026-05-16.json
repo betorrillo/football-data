@@ -2,35 +2,58 @@
   "generated": "2026-05-16",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 53,
+  "total_injured": 55,
   "teams_affected": 18,
   "teams": {
-    "Genoa CFC": [
+    "Hellas Verona": [
       {
-        "player": "Sebastian Otoa",
-        "position": "Centre-Back",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
+        "player": "Cheikh Niasse",
+        "position": "Defensive Midfield",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Junior Messias",
-        "position": "Right Winger",
-        "injury": "Adductor injury",
+        "player": "Armel Bella-Kotchap",
+        "position": "Centre-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Oyegoke",
+        "position": "Right-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Mosquera",
+        "position": "Centre-Forward",
+        "injury": "Meniscus damage",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Suat Serdar",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Atalanta BC": [
+      {
+        "player": "Lorenzo Bernasconi",
+        "position": "Left Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Berat Djimsiti",
+        "position": "Centre-Back",
+        "injury": "Thigh problems",
         "since": "",
         "status": "out"
       }
@@ -95,18 +118,25 @@
         "status": "out"
       }
     ],
-    "Atalanta BC": [
+    "US Lecce": [
       {
-        "player": "Berat Djimsiti",
-        "position": "Centre-Back",
-        "injury": "Thigh problems",
+        "player": "Riccardo Sottil",
+        "position": "Left Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Lorenzo Bernasconi",
-        "position": "Left Midfield",
+        "player": "Sadik Fofana",
+        "position": "Defensive Midfield",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Medon Berisha",
+        "position": "Central Midfield",
+        "injury": "Torn thigh muscle",
         "since": "",
         "status": "out"
       }
@@ -143,6 +173,13 @@
     ],
     "SS Lazio": [
       {
+        "player": "Edoardo Motta",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Mattia Zaccagni",
         "position": "Left Winger",
         "injury": "Unknown",
@@ -150,46 +187,16 @@
         "status": "out"
       },
       {
+        "player": "Patric",
+        "position": "Centre-Back",
+        "injury": "Achilles tendon problems",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Ivan Provedel",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Hellas Verona": [
-      {
-        "player": "Cheikh Niasse",
-        "position": "Defensive Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Armel Bella-Kotchap",
-        "position": "Centre-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Oyegoke",
-        "position": "Right-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Mosquera",
-        "position": "Centre-Forward",
-        "injury": "Meniscus damage",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Suat Serdar",
-        "position": "Central Midfield",
-        "injury": "Cruciate ligament surgery",
         "since": "",
         "status": "out"
       }
@@ -213,6 +220,66 @@
         "player": "Daniel Denoon",
         "position": "Centre-Back",
         "injury": "Ankle problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "US Sassuolo": [
+      {
+        "player": "Jay Idzes",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Boloca",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Edoardo Pieragnolo",
+        "position": "Left-Back",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Fali Cand\u00e9",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Genoa CFC": [
+      {
+        "player": "Sebastian Otoa",
+        "position": "Centre-Back",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxwel Cornet",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Junior Messias",
+        "position": "Right Winger",
+        "injury": "Adductor injury",
         "since": "",
         "status": "out"
       }
@@ -282,59 +349,6 @@
         "player": "Evan Ferguson",
         "position": "Centre-Forward",
         "injury": "Ankle problems",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "US Sassuolo": [
-      {
-        "player": "Jay Idzes",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Boloca",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Edoardo Pieragnolo",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fali Cand\u00e9",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "US Lecce": [
-      {
-        "player": "Riccardo Sottil",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Sadik Fofana",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Medon Berisha",
-        "position": "Central Midfield",
-        "injury": "Torn thigh muscle",
         "since": "",
         "status": "out"
       }

@@ -745,7 +745,7 @@
   "BL1": {
     "competition": "Bundesliga",
     "date_range": "2026-05-09 to 2026-05-16",
-    "count": 8,
+    "count": 17,
     "matches": [
       {
         "id": 540695,
@@ -935,6 +935,222 @@
         "referees": [
           {
             "name": "Florian Exner",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540703,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "SV Werder Bremen",
+        "home_short": "Bremen",
+        "home_tla": "SVW",
+        "away_team": "Borussia Dortmund",
+        "away_short": "Dortmund",
+        "away_tla": "BVB",
+        "ft_home": 0,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Bastian Dankert",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540704,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "1. FC Heidenheim 1846",
+        "home_short": "Heidenheim",
+        "home_tla": "HEI",
+        "away_team": "1. FSV Mainz 05",
+        "away_short": "Mainz",
+        "away_tla": "M05",
+        "ft_home": 0,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Robert Hartmann",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540705,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "SC Freiburg",
+        "home_short": "Freiburg",
+        "home_tla": "SCF",
+        "away_team": "RB Leipzig",
+        "away_short": "RB Leipzig",
+        "away_tla": "RBL",
+        "ft_home": 4,
+        "ft_away": 1,
+        "ht_home": 2,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Sascha Stegemann",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540706,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "Eintracht Frankfurt",
+        "home_short": "Frankfurt",
+        "home_tla": "SGE",
+        "away_team": "VfB Stuttgart",
+        "away_short": "Stuttgart",
+        "away_tla": "VFB",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Tobias Welz",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540707,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "FC St. Pauli 1910",
+        "home_short": "St. Pauli",
+        "home_tla": "STP",
+        "away_team": "VfL Wolfsburg",
+        "away_short": "Wolfsburg",
+        "away_tla": "WOB",
+        "ft_home": 1,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Daniel Siebert",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540708,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "1. FC Union Berlin",
+        "home_short": "Union Berlin",
+        "home_tla": "UNB",
+        "away_team": "FC Augsburg",
+        "away_short": "Augsburg",
+        "away_tla": "FCA",
+        "ft_home": 4,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Patrick Ittrich",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540709,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "Borussia Mönchengladbach",
+        "home_short": "M'gladbach",
+        "home_tla": "BMG",
+        "away_team": "TSG 1899 Hoffenheim",
+        "away_short": "Hoffenheim",
+        "away_tla": "TSG",
+        "ft_home": 4,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Frank Willenborg",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540710,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "FC Bayern München",
+        "home_short": "Bayern",
+        "home_tla": "FCB",
+        "away_team": "1. FC Köln",
+        "away_short": "1. FC Köln",
+        "away_tla": "KOE",
+        "ft_home": 5,
+        "ft_away": 1,
+        "ht_home": 3,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Deniz Aytekin",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 540711,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "Bayer 04 Leverkusen",
+        "home_short": "Leverkusen",
+        "home_tla": "B04",
+        "away_team": "Hamburger SV",
+        "away_short": "HSV",
+        "away_tla": "HSV",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Tobias Stieler",
             "nationality": "Germany"
           }
         ]
@@ -1410,7 +1626,7 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-05-09 to 2026-05-16",
-    "count": 9,
+    "count": 15,
     "matches": [
       {
         "id": 545991,
@@ -1627,6 +1843,120 @@
             "nationality": "Portugal"
           }
         ]
+      },
+      {
+        "id": 545997,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "Moreirense FC",
+        "home_short": "Moreirense",
+        "home_tla": "MOR",
+        "away_team": "AVS",
+        "away_short": "AVS",
+        "away_tla": "AVS",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": []
+      },
+      {
+        "id": 546000,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "FC Porto",
+        "home_short": "Porto",
+        "home_tla": "FCP",
+        "away_team": "CD Santa Clara",
+        "away_short": "Santa Clara",
+        "away_tla": "CD ",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": []
+      },
+      {
+        "id": 546002,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "CD Nacional",
+        "home_short": "CD Nacional",
+        "home_tla": "CDN",
+        "away_team": "Vitória SC",
+        "away_short": "Vitória SC",
+        "away_tla": "GUI",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": []
+      },
+      {
+        "id": 546003,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Casa Pia AC",
+        "home_short": "Casa Pia",
+        "home_tla": "CAS",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "away_tla": "RIO",
+        "ft_home": 2,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": []
+      },
+      {
+        "id": 546004,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "FC Arouca",
+        "home_short": "Arouca",
+        "home_tla": "FCA",
+        "away_team": "CD Tondela",
+        "away_short": "Tondela",
+        "away_tla": "TON",
+        "ft_home": 3,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": []
+      },
+      {
+        "id": 546005,
+        "matchday": 34,
+        "date": "2026-05-16",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Sporting Clube de Braga",
+        "home_short": "Braga",
+        "home_tla": "SCB",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "away_tla": "AMA",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": []
       }
     ]
   },
