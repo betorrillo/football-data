@@ -40,17 +40,22 @@ from utils.team_aliases import normalize_team
 
 # Map odds league_code -> module name in referee_sources/.
 # If a league isn't here, we skip the official-source step for it.
-# v2 scope: Bundesliga + Ligue 1 removed (brief §4).
-# Copa del Rey (ESP_COPA), Champions/Europa/Conference pending — RFEF and UEFA
-# sources to be wired in a follow-up.
+# v2 scope (brief §4): Bundesliga + Ligue 1 removed.
+# rfef_playwright already returns all RFEF articles; the scraper module is
+# expected to classify Primera/Segunda/Copa internally and tag each fixture
+# accordingly. Same source URL.
 OFFICIAL_SOURCES = {
     "ITA1": "seriea_aia",
     "ENG1": "premier_pgmol",
-    "ENG_FA": "premier_pgmol",  # FA Cup officials come from the PGMOL pool too
+    "ENG_FA": "premier_pgmol",     # FA Cup officials come from the PGMOL pool too
     "POR1": "primeira_record",
     "ESP1": "rfef_playwright",
     "ESP2": "rfef_playwright",
-    # "ESP_COPA": "rfef_playwright",  # planned — RFEF same source filtered by article keyword
+    "ESP_COPA": "rfef_playwright",  # Copa del Rey — same RFEF source
+    # UEFA (CL/EL/Conference): sources pending (uefa.com scraper or football-data.org API).
+    # "UCL": "uefa_official",
+    # "UEL": "uefa_official",
+    # "UECL": "uefa_official",
 }
 
 
@@ -114,16 +119,19 @@ API_DIR = os.path.join(BASE_DIR, "data", "api")
 REFEREES_DIR = os.path.join(BASE_DIR, "referees")
 REFEREE_OUT_DIR = os.path.join(BASE_DIR, "referee")
 
-# odds league_code -> referees/ file league key (the per-league stats file)
-# v2 scope: Bundesliga + Ligue 1 removed. Copa del Rey draws from laliga + segunda pools.
+# odds league_code -> referees/ file league key (the per-league stats file).
+# v2 scope: Bundesliga + Ligue 1 removed. Copa del Rey draws from the LaLiga pool.
 LEAGUE_CODE_TO_REF_KEY = {
     "ENG1": "epl",
     "ESP1": "laliga",
     "ESP2": "segunda",
+    "ESP_COPA": "laliga",
     "ITA1": "seriea",
     "ENG_FA": "epl",
     "POR1": "portugal",
-    # "ESP_COPA": "laliga",  # planned — RFEF refs from LaLiga pool
+    "UCL": "champions",
+    "UEL": "europa_league",
+    "UECL": "conference_league",
 }
 
 POOL_SIZE = 5  # how many top referees to include in fallback pool

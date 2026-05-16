@@ -27,18 +27,18 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 }
 
-# v2 scope: Bundesliga + Ligue 1 removed.
-# Pending v2 additions (need scrapers + match sources):
-#   copa_del_rey:      "esp.copa_del_rey"
-#   champions_league:  "uefa.champions"
-#   europa_league:     "uefa.europa"
-#   conference_league: "uefa.europa.conf"
+# v2 scope. Bundesliga + Ligue 1 removed (brief §4).
+# ESPN soccer endpoint base: site.api.espn.com/apis/site/v2/sports/soccer/<espn_id>/...
 LEAGUES = {
-    "laliga":     {"espn_id": "esp.1",  "name": "LaLiga"},
-    "segunda":    {"espn_id": "esp.2",  "name": "Segunda Division"},
-    "epl":        {"espn_id": "eng.1",  "name": "Premier League"},
-    "seriea":     {"espn_id": "ita.1",  "name": "Serie A"},
-    "portugal":   {"espn_id": "por.1",  "name": "Primeira Liga"},
+    "laliga":            {"espn_id": "esp.1",            "name": "LaLiga"},
+    "segunda":           {"espn_id": "esp.2",            "name": "Segunda Division"},
+    "copa_del_rey":      {"espn_id": "esp.copa_del_rey", "name": "Copa del Rey"},
+    "epl":               {"espn_id": "eng.1",            "name": "Premier League"},
+    "seriea":            {"espn_id": "ita.1",            "name": "Serie A"},
+    "portugal":          {"espn_id": "por.1",            "name": "Primeira Liga"},
+    "champions":         {"espn_id": "uefa.champions",   "name": "Champions League"},
+    "europa_league":     {"espn_id": "uefa.europa",      "name": "Europa League"},
+    "conference_league": {"espn_id": "uefa.europa.conf", "name": "Conference League"},
 }
 
 

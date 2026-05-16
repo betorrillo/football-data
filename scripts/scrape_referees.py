@@ -25,16 +25,21 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml",
 }
 
-# v2 scope: Bundesliga + Ligue 1 removed.
-# Pending v2 additions: europa_league, conference_league (Transfermarkt comp codes
-# UEL=EL, UCOL=Conference); copa_del_rey overlaps with LaLiga/Segunda referees.
+# v2 scope. Bundesliga + Ligue 1 removed (brief §4).
+# Copa del Rey shares its referee pool with LaLiga/Segunda (RFEF), so we don't
+# scrape a separate `copa_del_rey` referee list — Copa fixtures use the same
+# pool from referees/stats_laliga_*.json.
+# Transfermarkt comp codes for UEFA secondary cups verified manually: EL = Europa League,
+# UCOL = Conference League.
 LEAGUES = {
-    "laliga":    {"tm_comp": "ES1", "name": "LaLiga"},
-    "segunda":   {"tm_comp": "ES2", "name": "Segunda Division"},
-    "epl":       {"tm_comp": "GB1", "name": "Premier League"},
-    "seriea":    {"tm_comp": "IT1", "name": "Serie A"},
-    "champions": {"tm_comp": "CL",  "name": "Champions League"},
-    "portugal":  {"tm_comp": "PO1", "name": "Primeira Liga"},
+    "laliga":            {"tm_comp": "ES1",  "name": "LaLiga"},
+    "segunda":           {"tm_comp": "ES2",  "name": "Segunda Division"},
+    "epl":               {"tm_comp": "GB1",  "name": "Premier League"},
+    "seriea":            {"tm_comp": "IT1",  "name": "Serie A"},
+    "portugal":          {"tm_comp": "PO1",  "name": "Primeira Liga"},
+    "champions":         {"tm_comp": "CL",   "name": "Champions League"},
+    "europa_league":     {"tm_comp": "EL",   "name": "Europa League"},
+    "conference_league": {"tm_comp": "UCOL", "name": "Conference League"},
 }
 
 
