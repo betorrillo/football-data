@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-15",
+  "generated": "2026-05-16",
   "source": "transfermarkt.com",
   "league": "Premier League",
   "total_injured": 62,
-  "teams_affected": 19,
+  "teams_affected": 20,
   "teams": {
     "Nottingham Forest": [
       {
-        "player": "Ola Aina",
-        "position": "Right-Back",
-        "injury": "Knock",
+        "player": "Dan Ndoye",
+        "position": "Right Winger",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
@@ -21,9 +21,9 @@
         "status": "out"
       },
       {
-        "player": "Dan Ndoye",
-        "position": "Right Winger",
-        "injury": "unknown injury",
+        "player": "Ola Aina",
+        "position": "Right-Back",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       },
@@ -65,16 +65,16 @@
     ],
     "Aston Villa": [
       {
-        "player": "Amadou Onana",
-        "position": "Defensive Midfield",
-        "injury": "Calf problems",
+        "player": "Alysson",
+        "position": "Right Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Alysson",
-        "position": "Right Winger",
-        "injury": "Unknown",
+        "player": "Amadou Onana",
+        "position": "Defensive Midfield",
+        "injury": "Calf problems",
         "since": "",
         "status": "out"
       },
@@ -146,11 +146,11 @@
         "status": "out"
       }
     ],
-    "AFC Bournemouth": [
+    "Manchester United": [
       {
-        "player": "Matai Akinmboni",
+        "player": "Matthijs de Ligt",
         "position": "Centre-Back",
-        "injury": "Muscle injury",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -203,16 +203,16 @@
     ],
     "Crystal Palace": [
       {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
+        "player": "Evann Guessand",
+        "position": "Right Winger",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Evann Guessand",
-        "position": "Right Winger",
-        "injury": "Knee injury",
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       },
@@ -224,11 +224,11 @@
         "status": "out"
       }
     ],
-    "Leeds United": [
+    "AFC Bournemouth": [
       {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
-        "injury": "Meniscus injury",
+        "player": "Matai Akinmboni",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
@@ -238,13 +238,6 @@
         "player": "Alisson",
         "position": "Goalkeeper",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mohamed Salah",
-        "position": "Right Winger",
-        "injury": "Thigh problems",
         "since": "",
         "status": "out"
       },
@@ -448,6 +441,15 @@
         "player": "Lukasz Fabianski",
         "position": "Goalkeeper",
         "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Leeds United": [
+      {
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Meniscus injury",
         "since": "",
         "status": "out"
       }

@@ -1,18 +1,11 @@
 {
-  "generated": "2026-05-15",
+  "generated": "2026-05-16",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 55,
-  "teams_affected": 19,
+  "total_injured": 53,
+  "teams_affected": 18,
   "teams": {
     "Genoa CFC": [
-      {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Sebastian Otoa",
         "position": "Centre-Back",
@@ -28,9 +21,92 @@
         "status": "out"
       },
       {
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Junior Messias",
         "position": "Right Winger",
         "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Bologna FC 1909": [
+      {
+        "player": "Martin Vit\u00edk",
+        "position": "Centre-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Cambiaghi",
+        "position": "Left Winger",
+        "injury": "Thigh problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Casale",
+        "position": "Centre-Back",
+        "injury": "Calf muscle tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Cagliari Calcio": [
+      {
+        "player": "Gennaro Borrelli",
+        "position": "Centre-Forward",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Joseph Liteta",
+        "position": "Central Midfield",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mattia Felici",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Riyad Idrissi",
+        "position": "Left-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Atalanta BC": [
+      {
+        "player": "Berat Djimsiti",
+        "position": "Centre-Back",
+        "injury": "Thigh problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lorenzo Bernasconi",
+        "position": "Left Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -61,6 +137,22 @@
         "player": "Federico Baschirotto",
         "position": "Centre-Back",
         "injury": "Hamstring strain",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SS Lazio": [
+      {
+        "player": "Mattia Zaccagni",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -141,66 +233,6 @@
         "status": "out"
       }
     ],
-    "Cagliari Calcio": [
-      {
-        "player": "Gennaro Borrelli",
-        "position": "Centre-Forward",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Joseph Liteta",
-        "position": "Central Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mattia Felici",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Leonardo Pavoletti",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Riyad Idrissi",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Bologna FC 1909": [
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Cambiaghi",
-        "position": "Left Winger",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Casale",
-        "position": "Centre-Back",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Parma Calcio 1913": [
       {
         "player": "Gaetano Oristanio",
@@ -217,13 +249,6 @@
         "status": "out"
       },
       {
-        "player": "Benja Cremaschi",
-        "position": "Central Midfield",
-        "injury": "Meniscus injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Matija Frigan",
         "position": "Centre-Forward",
         "injury": "Unknown",
@@ -234,22 +259,6 @@
         "player": "Jacob Ondrejka",
         "position": "Left Winger",
         "injury": "surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Atalanta BC": [
-      {
-        "player": "Berat Djimsiti",
-        "position": "Centre-Back",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lorenzo Bernasconi",
-        "position": "Left Midfield",
-        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -332,25 +341,9 @@
     ],
     "AC Milan": [
       {
-        "player": "Christian Pulisic",
-        "position": "Right Winger",
-        "injury": "Strain in the thigh and gluteal muscles",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Luka Modri\u0107",
         "position": "Central Midfield",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Inter Milan": [
-      {
-        "player": "Hakan \u00c7alhano\u011flu",
-        "position": "Defensive Midfield",
-        "injury": "Calf muscle tear",
         "since": "",
         "status": "out"
       }
@@ -415,15 +408,6 @@
         "player": "Jayden Addai",
         "position": "Right Winger",
         "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SS Lazio": [
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }

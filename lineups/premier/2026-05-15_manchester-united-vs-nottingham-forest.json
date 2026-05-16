@@ -4,17 +4,25 @@
   "away": "Nottingham Forest",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-15T20:21:54Z",
+  "generated": "2026-05-16T08:55:12Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Matthijs de Ligt",
+      "position": "Centre-Back",
+      "injury": "Back injury",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
-      "player": "Ola Aina",
-      "position": "Right-Back",
-      "injury": "Knock",
+      "player": "Dan Ndoye",
+      "position": "Right Winger",
+      "injury": "unknown injury",
       "since": "",
       "status": "out"
     },
@@ -26,9 +34,9 @@
       "status": "out"
     },
     {
-      "player": "Dan Ndoye",
-      "position": "Right Winger",
-      "injury": "unknown injury",
+      "player": "Ola Aina",
+      "position": "Right-Back",
+      "injury": "Knock",
       "since": "",
       "status": "out"
     },

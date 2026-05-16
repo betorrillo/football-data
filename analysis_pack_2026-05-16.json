@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-15",
-  "generated_at": "2026-05-15T09:50:26Z",
+  "generated": "2026-05-16",
+  "generated_at": "2026-05-16T08:54:30Z",
   "version": "1.0",
   "description": "Pre-computed analysis data for upcoming fixtures. Agent reads this ONE file instead of 10+.",
-  "total_matches": 54,
+  "total_matches": 55,
   "matches": [
     {
       "match_id": "epl_2026-05-09_liverpool-vs-chelsea",
@@ -391,16 +391,58 @@
         }
       },
       "away_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_away": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
+        "mp": 36,
+        "record": "10W-10D-16L",
+        "pts": 40,
+        "gf": 42,
+        "ga": 54,
+        "avg": {
+          "gf": 1.17,
+          "ga": 1.5,
+          "corners_for": 5.0,
+          "corners_against": 5.0,
+          "total_corners": 10.0,
+          "shots": 12.11,
+          "shots_against": 12.53,
+          "shots_target": 3.92,
+          "shots_target_against": 4.08,
+          "fouls": 14.89,
+          "fouls_against": 13.53,
+          "yellows": 2.53,
+          "opponent_yellows": 2.11,
+          "total_match_cards": 4.64
+        },
+        "avg_away": {
+          "gf": 1.0,
+          "ga": 1.72,
+          "corners_for": 4.06,
+          "corners_against": 5.78,
+          "over_25_pct": 44.4
+        },
+        "pct": {
+          "over_15": 72.2,
+          "over_25": 50.0,
+          "over_35": 25.0,
+          "btts": 63.9,
+          "clean_sheet": 11.1,
+          "failed_to_score": 27.8
+        },
+        "avg_ht": {
+          "gf_1h": 0.5,
+          "ga_1h": 0.53,
+          "gf_2h": 0.67,
+          "ga_2h": 0.97,
+          "total_1h": 1.03,
+          "total_2h": 1.64
+        },
+        "pct_ht": {
+          "over_05_1h": 63.9,
+          "over_15_1h": 25.0,
+          "over_05_2h": 80.6,
+          "over_15_2h": 52.8,
+          "btts_1h": 22.2,
+          "btts_2h": 38.9
+        }
       },
       "home_form_last5": [
         {
@@ -474,8 +516,89 @@
           "team_sot": 2
         }
       ],
-      "away_form_last5": [],
-      "h2h": [],
+      "away_form_last5": [
+        {
+          "date": "21/04/2026",
+          "venue": "A",
+          "opponent": "Real Madrid",
+          "gf": 1,
+          "ga": 2,
+          "result": "L",
+          "corners": 15,
+          "team_corners": 6,
+          "team_yellows": 1,
+          "total_yellows": 2,
+          "team_shots": 19,
+          "team_sot": 5
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "H",
+          "opponent": "Mallorca",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 13,
+          "team_corners": 9,
+          "team_yellows": 2,
+          "total_yellows": 3,
+          "team_shots": 15,
+          "team_sot": 4
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "H",
+          "opponent": "Ath Bilbao",
+          "gf": 2,
+          "ga": 4,
+          "result": "L",
+          "corners": 11,
+          "team_corners": 4,
+          "team_yellows": 4,
+          "total_yellows": 8,
+          "team_shots": 7,
+          "team_sot": 4
+        },
+        {
+          "date": "09/05/2026",
+          "venue": "A",
+          "opponent": "Elche",
+          "gf": 1,
+          "ga": 1,
+          "result": "D",
+          "corners": 10,
+          "team_corners": 3,
+          "team_yellows": 6,
+          "total_yellows": 9,
+          "team_shots": 12,
+          "team_sot": 4
+        },
+        {
+          "date": "13/05/2026",
+          "venue": "H",
+          "opponent": "Barcelona",
+          "gf": 1,
+          "ga": 0,
+          "result": "W",
+          "corners": 10,
+          "team_corners": 6,
+          "team_yellows": 1,
+          "total_yellows": 3,
+          "team_shots": 9,
+          "team_sot": 3
+        }
+      ],
+      "h2h": [
+        {
+          "date": "26/10/2021",
+          "home": "Alaves",
+          "away": "Elche",
+          "ft": "1-0",
+          "corners": 11,
+          "cards": 2,
+          "_h2h_warning": "3 older matches excluded (pre-2024); only 1 recent H2H matches found"
+        }
+      ],
       "home_xg": {
         "team": "Elche",
         "gf": 45,
@@ -496,8 +619,8 @@
       },
       "data_available": {
         "season_stats": true,
-        "form": false,
-        "h2h": false,
+        "form": true,
+        "h2h": true,
         "xg": true,
         "referee": false,
         "injuries": false,
@@ -903,16 +1026,58 @@
         }
       },
       "away_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_away": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
+        "mp": 36,
+        "record": "13W-16D-7L",
+        "pts": 55,
+        "gf": 56,
+        "ga": 52,
+        "avg": {
+          "gf": 1.56,
+          "ga": 1.44,
+          "corners_for": 5.61,
+          "corners_against": 5.28,
+          "total_corners": 10.89,
+          "shots": 13.83,
+          "shots_against": 12.53,
+          "shots_target": 4.78,
+          "shots_target_against": 4.22,
+          "fouls": 12.06,
+          "fouls_against": 10.56,
+          "yellows": 2.31,
+          "opponent_yellows": 1.86,
+          "total_match_cards": 4.17
+        },
+        "avg_away": {
+          "gf": 1.56,
+          "ga": 1.83,
+          "corners_for": 5.28,
+          "corners_against": 6.67,
+          "over_25_pct": 66.7
+        },
+        "pct": {
+          "over_15": 75.0,
+          "over_25": 58.3,
+          "over_35": 44.4,
+          "btts": 63.9,
+          "clean_sheet": 30.6,
+          "failed_to_score": 19.4
+        },
+        "avg_ht": {
+          "gf_1h": 0.69,
+          "ga_1h": 0.61,
+          "gf_2h": 0.86,
+          "ga_2h": 0.83,
+          "total_1h": 1.31,
+          "total_2h": 1.69
+        },
+        "pct_ht": {
+          "over_05_1h": 69.4,
+          "over_15_1h": 41.7,
+          "over_05_2h": 75.0,
+          "over_15_2h": 50.0,
+          "btts_1h": 25.0,
+          "btts_2h": 38.9
+        }
       },
       "home_form_last5": [
         {
@@ -986,8 +1151,98 @@
           "team_sot": 2
         }
       ],
-      "away_form_last5": [],
-      "h2h": [],
+      "away_form_last5": [
+        {
+          "date": "11/04/2026",
+          "venue": "A",
+          "opponent": "Arsenal",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 1,
+          "team_yellows": 3,
+          "total_yellows": 4,
+          "team_shots": 8,
+          "team_sot": 3
+        },
+        {
+          "date": "18/04/2026",
+          "venue": "A",
+          "opponent": "Newcastle",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 5,
+          "team_corners": 3,
+          "team_yellows": 4,
+          "total_yellows": 6,
+          "team_shots": 12,
+          "team_sot": 3
+        },
+        {
+          "date": "22/04/2026",
+          "venue": "H",
+          "opponent": "Leeds",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 13,
+          "team_corners": 12,
+          "team_yellows": 3,
+          "total_yellows": 3,
+          "team_shots": 17,
+          "team_sot": 7
+        },
+        {
+          "date": "03/05/2026",
+          "venue": "H",
+          "opponent": "Crystal Palace",
+          "gf": 3,
+          "ga": 0,
+          "result": "W",
+          "corners": 8,
+          "team_corners": 7,
+          "team_yellows": 0,
+          "total_yellows": 2,
+          "team_shots": 16,
+          "team_sot": 5
+        },
+        {
+          "date": "09/05/2026",
+          "venue": "A",
+          "opponent": "Fulham",
+          "gf": 1,
+          "ga": 0,
+          "result": "W",
+          "corners": 13,
+          "team_corners": 2,
+          "team_yellows": 2,
+          "total_yellows": 6,
+          "team_shots": 10,
+          "team_sot": 5
+        }
+      ],
+      "h2h": [
+        {
+          "date": "26/12/2023",
+          "home": "Bournemouth",
+          "away": "Fulham",
+          "ft": "3-0",
+          "corners": 11,
+          "cards": 2,
+          "_h2h_warning": "6 older matches excluded (pre-2024); only 2 recent H2H matches found"
+        },
+        {
+          "date": "29/12/2024",
+          "home": "Fulham",
+          "away": "Bournemouth",
+          "ft": "2-2",
+          "corners": 8,
+          "cards": 4,
+          "_h2h_warning": "6 older matches excluded (pre-2024); only 2 recent H2H matches found"
+        }
+      ],
       "home_xg": {
         "team": "Fulham",
         "gf": 44,
@@ -1008,8 +1263,8 @@
       },
       "data_available": {
         "season_stats": true,
-        "form": false,
-        "h2h": false,
+        "form": true,
+        "h2h": true,
         "xg": true,
         "referee": false,
         "injuries": false,
@@ -5279,16 +5534,58 @@
       "time": "15:30 CET",
       "matchday": "Spieltag 33",
       "home_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_home": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
+        "mp": 33,
+        "record": "9W-10D-14L",
+        "pts": 37,
+        "gf": 39,
+        "ga": 53,
+        "avg": {
+          "gf": 1.18,
+          "ga": 1.61,
+          "corners_for": 3.7,
+          "corners_against": 5.79,
+          "total_corners": 9.48,
+          "shots": 12.09,
+          "shots_against": 14.18,
+          "shots_target": 4.52,
+          "shots_target_against": 4.97,
+          "fouls": 11.85,
+          "fouls_against": 12.82,
+          "yellows": 2.27,
+          "opponent_yellows": 2.52,
+          "total_match_cards": 4.79
+        },
+        "avg_home": {
+          "gf": 1.47,
+          "ga": 1.29,
+          "corners_for": 3.76,
+          "corners_against": 5.76,
+          "over_25_pct": 52.9
+        },
+        "pct": {
+          "over_15": 78.8,
+          "over_25": 57.6,
+          "over_35": 33.3,
+          "btts": 63.6,
+          "clean_sheet": 18.2,
+          "failed_to_score": 30.3
+        },
+        "avg_ht": {
+          "gf_1h": 0.52,
+          "ga_1h": 0.76,
+          "gf_2h": 0.67,
+          "ga_2h": 0.85,
+          "total_1h": 1.27,
+          "total_2h": 1.52
+        },
+        "pct_ht": {
+          "over_05_1h": 72.7,
+          "over_15_1h": 42.4,
+          "over_05_2h": 75.8,
+          "over_15_2h": 48.5,
+          "btts_1h": 27.3,
+          "btts_2h": 36.4
+        }
       },
       "away_season": {
         "mp": 33,
@@ -5344,7 +5641,78 @@
           "btts_2h": 33.3
         }
       },
-      "home_form_last5": [],
+      "home_form_last5": [
+        {
+          "date": "12/04/2026",
+          "venue": "A",
+          "opponent": "Stuttgart",
+          "gf": 0,
+          "ga": 4,
+          "result": "L",
+          "corners": 10,
+          "team_corners": 2,
+          "team_yellows": 1,
+          "total_yellows": 3,
+          "team_shots": 9,
+          "team_sot": 5
+        },
+        {
+          "date": "18/04/2026",
+          "venue": "A",
+          "opponent": "Werder Bremen",
+          "gf": 1,
+          "ga": 3,
+          "result": "L",
+          "corners": 10,
+          "team_corners": 3,
+          "team_yellows": 3,
+          "total_yellows": 7,
+          "team_shots": 11,
+          "team_sot": 3
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "H",
+          "opponent": "Hoffenheim",
+          "gf": 1,
+          "ga": 2,
+          "result": "L",
+          "corners": 13,
+          "team_corners": 4,
+          "team_yellows": 2,
+          "total_yellows": 6,
+          "team_shots": 12,
+          "team_sot": 4
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "A",
+          "opponent": "Ein Frankfurt",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 13,
+          "team_corners": 4,
+          "team_yellows": 1,
+          "total_yellows": 7,
+          "team_shots": 9,
+          "team_sot": 4
+        },
+        {
+          "date": "10/05/2026",
+          "venue": "H",
+          "opponent": "Freiburg",
+          "gf": 3,
+          "ga": 2,
+          "result": "W",
+          "corners": 6,
+          "team_corners": 2,
+          "team_yellows": 2,
+          "total_yellows": 4,
+          "team_shots": 14,
+          "team_sot": 5
+        }
+      ],
       "away_form_last5": [
         {
           "date": "12/04/2026",
@@ -5438,7 +5806,7 @@
       },
       "data_available": {
         "season_stats": true,
-        "form": false,
+        "form": true,
         "h2h": false,
         "xg": true,
         "referee": false,
@@ -7695,16 +8063,58 @@
       "time": "21:00 CET",
       "matchday": "Journ\u00e9e 33",
       "home_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_home": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
+        "mp": 33,
+        "record": "7W-10D-16L",
+        "pts": 31,
+        "gf": 32,
+        "ga": 44,
+        "avg": {
+          "gf": 0.97,
+          "ga": 1.33,
+          "corners_for": 4.85,
+          "corners_against": 4.76,
+          "total_corners": 9.61,
+          "shots": 10.82,
+          "shots_against": 12.0,
+          "shots_target": 3.48,
+          "shots_target_against": 4.7,
+          "fouls": 13.67,
+          "fouls_against": 13.67,
+          "yellows": 2.03,
+          "opponent_yellows": 2.55,
+          "total_match_cards": 4.58
+        },
+        "avg_home": {
+          "gf": 1.06,
+          "ga": 1.0,
+          "corners_for": 5.47,
+          "corners_against": 4.47,
+          "over_25_pct": 47.1
+        },
+        "pct": {
+          "over_15": 60.6,
+          "over_25": 45.5,
+          "over_35": 27.3,
+          "btts": 42.4,
+          "clean_sheet": 24.2,
+          "failed_to_score": 48.5
+        },
+        "avg_ht": {
+          "gf_1h": 0.48,
+          "ga_1h": 0.61,
+          "gf_2h": 0.48,
+          "ga_2h": 0.73,
+          "total_1h": 1.09,
+          "total_2h": 1.21
+        },
+        "pct_ht": {
+          "over_05_1h": 63.6,
+          "over_15_1h": 30.3,
+          "over_05_2h": 63.6,
+          "over_15_2h": 33.3,
+          "btts_1h": 24.2,
+          "btts_2h": 21.2
+        }
       },
       "away_season": {
         "mp": 33,
@@ -7760,7 +8170,78 @@
           "btts_2h": 21.2
         }
       },
-      "home_form_last5": [],
+      "home_form_last5": [
+        {
+          "date": "11/04/2026",
+          "venue": "H",
+          "opponent": "Nantes",
+          "gf": 0,
+          "ga": 0,
+          "result": "D",
+          "corners": 5,
+          "team_corners": 3,
+          "team_yellows": 0,
+          "total_yellows": 4,
+          "team_shots": 5,
+          "team_sot": 0
+        },
+        {
+          "date": "19/04/2026",
+          "venue": "A",
+          "opponent": "Monaco",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 14,
+          "team_corners": 3,
+          "team_yellows": 3,
+          "total_yellows": 5,
+          "team_shots": 12,
+          "team_sot": 7
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "A",
+          "opponent": "Lyon",
+          "gf": 2,
+          "ga": 3,
+          "result": "L",
+          "corners": 9,
+          "team_corners": 3,
+          "team_yellows": 2,
+          "total_yellows": 3,
+          "team_shots": 9,
+          "team_sot": 2
+        },
+        {
+          "date": "03/05/2026",
+          "venue": "H",
+          "opponent": "Angers",
+          "gf": 3,
+          "ga": 1,
+          "result": "W",
+          "corners": 10,
+          "team_corners": 4,
+          "team_yellows": 2,
+          "total_yellows": 6,
+          "team_shots": 19,
+          "team_sot": 10
+        },
+        {
+          "date": "10/05/2026",
+          "venue": "H",
+          "opponent": "Nice",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 10,
+          "team_yellows": 1,
+          "total_yellows": 1,
+          "team_shots": 12,
+          "team_sot": 4
+        }
+      ],
       "away_form_last5": [
         {
           "date": "12/04/2026",
@@ -7833,7 +8314,17 @@
           "team_sot": 6
         }
       ],
-      "h2h": [],
+      "h2h": [
+        {
+          "date": "23/08/2025",
+          "home": "Nice",
+          "away": "Auxerre",
+          "ft": "3-1",
+          "corners": 9,
+          "cards": 4,
+          "_h2h_warning": "5 older matches excluded (pre-2024); only 1 recent H2H matches found"
+        }
+      ],
       "home_xg": {
         "team": "AJ Auxerre",
         "gf": 30,
@@ -7854,8 +8345,8 @@
       },
       "data_available": {
         "season_stats": true,
-        "form": false,
-        "h2h": false,
+        "form": true,
+        "h2h": true,
         "xg": true,
         "referee": false,
         "injuries": false,
@@ -11637,16 +12128,58 @@
         }
       },
       "away_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_away": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
+        "mp": 36,
+        "record": "10W-14D-12L",
+        "pts": 44,
+        "gf": 48,
+        "ga": 53,
+        "avg": {
+          "gf": 1.33,
+          "ga": 1.47,
+          "corners_for": 4.36,
+          "corners_against": 4.97,
+          "total_corners": 9.33,
+          "shots": 12.72,
+          "shots_against": 12.25,
+          "shots_target": 4.08,
+          "shots_target_against": 4.03,
+          "fouls": 10.42,
+          "fouls_against": 11.33,
+          "yellows": 1.61,
+          "opponent_yellows": 1.86,
+          "total_match_cards": 3.47
+        },
+        "avg_away": {
+          "gf": 1.11,
+          "ga": 1.78,
+          "corners_for": 3.22,
+          "corners_against": 5.94,
+          "over_25_pct": 50.0
+        },
+        "pct": {
+          "over_15": 75.0,
+          "over_25": 55.6,
+          "over_35": 38.9,
+          "btts": 61.1,
+          "clean_sheet": 19.4,
+          "failed_to_score": 30.6
+        },
+        "avg_ht": {
+          "gf_1h": 0.67,
+          "ga_1h": 0.44,
+          "gf_2h": 0.67,
+          "ga_2h": 1.03,
+          "total_1h": 1.11,
+          "total_2h": 1.69
+        },
+        "pct_ht": {
+          "over_05_1h": 63.9,
+          "over_15_1h": 38.9,
+          "over_05_2h": 83.3,
+          "over_15_2h": 50.0,
+          "btts_1h": 13.9,
+          "btts_2h": 36.1
+        }
       },
       "home_form_last5": [
         {
@@ -11720,8 +12253,107 @@
           "team_sot": 3
         }
       ],
-      "away_form_last5": [],
-      "h2h": [],
+      "away_form_last5": [
+        {
+          "date": "13/04/2026",
+          "venue": "A",
+          "opponent": "Man United",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 15,
+          "team_corners": 4,
+          "team_yellows": 2,
+          "total_yellows": 5,
+          "team_shots": 15,
+          "team_sot": 6
+        },
+        {
+          "date": "18/04/2026",
+          "venue": "H",
+          "opponent": "Wolves",
+          "gf": 3,
+          "ga": 0,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 5,
+          "team_yellows": 2,
+          "total_yellows": 3,
+          "team_shots": 17,
+          "team_sot": 6
+        },
+        {
+          "date": "22/04/2026",
+          "venue": "A",
+          "opponent": "Bournemouth",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 13,
+          "team_corners": 1,
+          "team_yellows": 0,
+          "total_yellows": 3,
+          "team_shots": 10,
+          "team_sot": 3
+        },
+        {
+          "date": "01/05/2026",
+          "venue": "H",
+          "opponent": "Burnley",
+          "gf": 3,
+          "ga": 1,
+          "result": "W",
+          "corners": 5,
+          "team_corners": 5,
+          "team_yellows": 4,
+          "total_yellows": 7,
+          "team_shots": 18,
+          "team_sot": 8
+        },
+        {
+          "date": "11/05/2026",
+          "venue": "A",
+          "opponent": "Tottenham",
+          "gf": 1,
+          "ga": 1,
+          "result": "D",
+          "corners": 16,
+          "team_corners": 2,
+          "team_yellows": 1,
+          "total_yellows": 4,
+          "team_shots": 11,
+          "team_sot": 4
+        }
+      ],
+      "h2h": [
+        {
+          "date": "21/11/2021",
+          "home": "Tottenham",
+          "away": "Leeds",
+          "ft": "2-1",
+          "corners": 12,
+          "cards": 5,
+          "_h2h_warning": "3 older matches excluded (pre-2024)"
+        },
+        {
+          "date": "26/02/2022",
+          "home": "Leeds",
+          "away": "Tottenham",
+          "ft": "0-4",
+          "corners": 9,
+          "cards": 6,
+          "_h2h_warning": "3 older matches excluded (pre-2024)"
+        },
+        {
+          "date": "28/05/2023",
+          "home": "Leeds",
+          "away": "Tottenham",
+          "ft": "1-4",
+          "corners": 15,
+          "cards": 3,
+          "_h2h_warning": "3 older matches excluded (pre-2024)"
+        }
+      ],
       "home_xg": {
         "team": "Tottenham",
         "gf": 45,
@@ -11742,8 +12374,8 @@
       },
       "data_available": {
         "season_stats": true,
-        "form": false,
-        "h2h": false,
+        "form": true,
+        "h2h": true,
         "xg": true,
         "referee": false,
         "injuries": false,
@@ -15863,6 +16495,59 @@
       "data_available": {
         "season_stats": true,
         "form": true,
+        "h2h": false,
+        "xg": false,
+        "referee": false,
+        "injuries": false,
+        "lineup": false
+      },
+      "missing_for_analysis": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-05-30_psg-vs-arsenal",
+      "competition": "champions",
+      "league_name": "Champions League",
+      "home": "PSG",
+      "away": "Arsenal",
+      "date": "2026-05-30",
+      "time": "16:00",
+      "matchday": "",
+      "home_season": {
+        "mp": 0,
+        "record": "0W-0D-0L",
+        "pts": 0,
+        "gf": 0,
+        "ga": 0,
+        "avg": {},
+        "avg_home": {},
+        "pct": {},
+        "avg_ht": {},
+        "pct_ht": {}
+      },
+      "away_season": {
+        "mp": 0,
+        "record": "0W-0D-0L",
+        "pts": 0,
+        "gf": 0,
+        "ga": 0,
+        "avg": {},
+        "avg_away": {},
+        "pct": {},
+        "avg_ht": {},
+        "pct_ht": {}
+      },
+      "home_form_last5": [],
+      "away_form_last5": [],
+      "h2h": [],
+      "home_xg": null,
+      "away_xg": null,
+      "data_available": {
+        "season_stats": true,
+        "form": false,
         "h2h": false,
         "xg": false,
         "referee": false,
