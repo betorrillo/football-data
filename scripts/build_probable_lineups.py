@@ -31,23 +31,19 @@ FIXTURES_DIR = os.path.join(BASE_DIR, "fixtures")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 CURRENT_SEASON = "2025-26"
 
+# v2 scope: Bundesliga + Ligue 1 removed.
 LEAGUES = {
     "laliga": "LaLiga",
     "segunda": "Segunda Division",
     "epl": "Premier League",
-    "bundesliga": "Bundesliga",
     "seriea": "Serie A",
-    "ligue1": "Ligue 1",
     "portugal": "Primeira Liga",
 }
 
 LEAGUE_KEY_MAP = {
     "laliga": "laliga",
     "premier_league": "epl",
-    "bundesliga": "bundesliga",
     "serie_a": "seriea",
-    "ligue1": "ligue1",
-    "ligue_1": "ligue1",
     "segunda": "segunda",
     "portugal": "portugal",
     "primeira_liga": "portugal",
@@ -56,8 +52,8 @@ LEAGUE_KEY_MAP = {
 # API competition codes -> our folder names
 API_CODE_MAP = {
     "PD": "laliga", "SD": "segunda", "PL": "epl",
-    "BL1": "bundesliga", "SA": "seriea", "FL1": "ligue1",
-    "CL": "champions", "PPL": "portugal",
+    "SA": "seriea", "CL": "champions", "PPL": "portugal",
+    # v2: add when sources online — EL (europa), ECL (conference), CDR (copa del rey)
 }
 
 

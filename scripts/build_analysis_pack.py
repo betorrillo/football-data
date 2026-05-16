@@ -35,13 +35,13 @@ DERIVED_DIR = os.path.join(STATS_DIR, "derived")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 CURRENT_SEASON = "2025-26"
 
+# v2 scope: Bundesliga + Ligue 1 removed.
+# Pending v2: copa_del_rey, europa_league, conference_league.
 LEAGUES = {
     "laliga": "LaLiga",
     "segunda": "Segunda Division",
     "epl": "Premier League",
-    "bundesliga": "Bundesliga",
     "seriea": "Serie A",
-    "ligue1": "Ligue 1",
     "champions": "Champions League",
     "portugal": "Primeira Liga",
 }

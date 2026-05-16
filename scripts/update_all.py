@@ -30,13 +30,17 @@ PLAYERS_DIR = os.path.join(STATS_DIR, "players")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
 # ─── Football-data.co.uk league codes ───
+# v2 scope: Bundesliga + Ligue 1 removed (brief §4).
+# Pending v2 additions (need scrapers + match sources):
+#   copa_del_rey      ESPN "esp.copa_del_rey", RFEF referees
+#   champions_league  ESPN "uefa.champions",   UEFA referees
+#   europa_league     ESPN "uefa.europa",      UEFA referees
+#   conference_league ESPN "uefa.europa.conf", UEFA referees
 LEAGUES = {
     "laliga":     {"code": "SP1", "name": "LaLiga",          "espn_id": "esp.1",  "xg_slug": "la-liga"},
     "segunda":    {"code": "SP2", "name": "Segunda Division", "espn_id": "esp.2",  "xg_slug": None},
     "epl":        {"code": "E0",  "name": "Premier League",  "espn_id": "eng.1",  "xg_slug": "epl"},
-    "bundesliga": {"code": "D1",  "name": "Bundesliga",      "espn_id": "ger.1",  "xg_slug": "bundesliga"},
     "seriea":     {"code": "I1",  "name": "Serie A",         "espn_id": "ita.1",  "xg_slug": "serie-a"},
-    "ligue1":     {"code": "F1",  "name": "Ligue 1",         "espn_id": "fra.1",  "xg_slug": "league-1"},
     "portugal":   {"code": "P1",  "name": "Primeira Liga",   "espn_id": "por.1",  "xg_slug": None},
 }
 

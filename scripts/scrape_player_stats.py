@@ -4,14 +4,13 @@ Scrape COMPLETE individual player statistics from FotMob data API.
 Fetches goals, assists, shots, SOT, tackles, fouls, cards, saves, xG per player.
 All stats come as per-90 values with total counts.
 
-Covers ALL bet365 player prop markets:
-- Goleador / Cualquiera anotará / Primero en anotar
-- Jugador remates / remates a puerta / remates cabeza / fuera del área
-- Jugador asistencia / anotará o asistirá
-- Jugador tarjetas / será amonestado
-- Jugador faltas concedidas / recibirá falta
-- Jugador entradas (tackles)
-- Paradas del portero
+Categories scraped (the agent uses these to reason about per-player probabilities;
+PROYECTO_FRANKEN_IDENTIDAD — never odds, never bookmakers):
+- Scoring: goals, assists, xG, xA, first-scorer eligibility
+- Shooting: shots, shots on target, headed shots, outside-box shots
+- Discipline: yellow cards, red cards, fouls committed, fouls suffered
+- Defensive: tackles
+- Goalkeeper: saves
 
 Usage:
   python3 scripts/scrape_player_stats.py              # All leagues
@@ -44,18 +43,19 @@ HEADERS_API = {
     "Accept-Encoding": "gzip",
 }
 
-# FotMob league IDs and season IDs (2025-26)
+# FotMob league IDs and season IDs (2025-26).
+# v2 scope: Bundesliga + Ligue 1 removed.
 LEAGUES = {
     "laliga":     {"fm_id": 87,  "season_id": "27233", "name": "LaLiga"},
     "segunda":    {"fm_id": 140, "season_id": "27234", "name": "Segunda Division"},
     "epl":        {"fm_id": 47,  "season_id": "27110", "name": "Premier League"},
-    "bundesliga": {"fm_id": 54,  "season_id": "26891", "name": "Bundesliga"},
     "seriea":     {"fm_id": 55,  "season_id": "27044", "name": "Serie A"},
-    "ligue1":     {"fm_id": 53,  "season_id": "27212", "name": "Ligue 1"},
     "portugal":   {"fm_id": 61,  "season_id": "27266", "name": "Primeira Liga"},
 }
 
-# Stats to scrape — covers ALL bet365 player markets
+# Per-player stats scraped for downstream analysis.
+# (legacy comment referenced bet365 markets — the agent reasons on probabilities
+# only, never on odds; PROYECTO_FRANKEN_IDENTIDAD)
 STATS_TO_SCRAPE = {
     # Scoring
     "goals":                 {"key": "goals",      "label": "Goals"},

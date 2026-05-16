@@ -27,13 +27,17 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 }
 
+# v2 scope: Bundesliga + Ligue 1 removed.
+# Pending v2 additions (need scrapers + match sources):
+#   copa_del_rey:      "esp.copa_del_rey"
+#   champions_league:  "uefa.champions"
+#   europa_league:     "uefa.europa"
+#   conference_league: "uefa.europa.conf"
 LEAGUES = {
     "laliga":     {"espn_id": "esp.1",  "name": "LaLiga"},
     "segunda":    {"espn_id": "esp.2",  "name": "Segunda Division"},
     "epl":        {"espn_id": "eng.1",  "name": "Premier League"},
-    "bundesliga": {"espn_id": "ger.1",  "name": "Bundesliga"},
     "seriea":     {"espn_id": "ita.1",  "name": "Serie A"},
-    "ligue1":     {"espn_id": "fra.1",  "name": "Ligue 1"},
     "portugal":   {"espn_id": "por.1",  "name": "Primeira Liga"},
 }
 

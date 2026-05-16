@@ -25,14 +25,15 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml",
 }
 
+# v2 scope: Bundesliga + Ligue 1 removed.
+# Pending v2 additions: europa_league, conference_league (Transfermarkt comp codes
+# UEL=EL, UCOL=Conference); copa_del_rey overlaps with LaLiga/Segunda referees.
 LEAGUES = {
-    "laliga": {"tm_comp": "ES1", "name": "LaLiga"},
-    "segunda": {"tm_comp": "ES2", "name": "Segunda Division"},
-    "epl": {"tm_comp": "GB1", "name": "Premier League"},
-    "bundesliga": {"tm_comp": "L1", "name": "Bundesliga"},
-    "seriea": {"tm_comp": "IT1", "name": "Serie A"},
-    "ligue1": {"tm_comp": "FR1", "name": "Ligue 1"},
-    "champions": {"tm_comp": "CL", "name": "Champions League"},
+    "laliga":    {"tm_comp": "ES1", "name": "LaLiga"},
+    "segunda":   {"tm_comp": "ES2", "name": "Segunda Division"},
+    "epl":       {"tm_comp": "GB1", "name": "Premier League"},
+    "seriea":    {"tm_comp": "IT1", "name": "Serie A"},
+    "champions": {"tm_comp": "CL",  "name": "Champions League"},
     "portugal":  {"tm_comp": "PO1", "name": "Primeira Liga"},
 }
 

@@ -40,15 +40,17 @@ from utils.team_aliases import normalize_team
 
 # Map odds league_code -> module name in referee_sources/.
 # If a league isn't here, we skip the official-source step for it.
+# v2 scope: Bundesliga + Ligue 1 removed (brief §4).
+# Copa del Rey (ESP_COPA), Champions/Europa/Conference pending — RFEF and UEFA
+# sources to be wired in a follow-up.
 OFFICIAL_SOURCES = {
     "ITA1": "seriea_aia",
-    "GER1": "bundesliga_dfb",
     "ENG1": "premier_pgmol",
     "ENG_FA": "premier_pgmol",  # FA Cup officials come from the PGMOL pool too
     "POR1": "primeira_record",
     "ESP1": "rfef_playwright",
     "ESP2": "rfef_playwright",
-    # "FRA1": "ligue1_lfp",          # API already covers L1; skip
+    # "ESP_COPA": "rfef_playwright",  # planned — RFEF same source filtered by article keyword
 }
 
 
@@ -113,15 +115,15 @@ REFEREES_DIR = os.path.join(BASE_DIR, "referees")
 REFEREE_OUT_DIR = os.path.join(BASE_DIR, "referee")
 
 # odds league_code -> referees/ file league key (the per-league stats file)
+# v2 scope: Bundesliga + Ligue 1 removed. Copa del Rey draws from laliga + segunda pools.
 LEAGUE_CODE_TO_REF_KEY = {
     "ENG1": "epl",
     "ESP1": "laliga",
     "ESP2": "segunda",
     "ITA1": "seriea",
     "ENG_FA": "epl",
-    "GER1": "bundesliga",
-    "FRA1": "ligue1",
     "POR1": "portugal",
+    # "ESP_COPA": "laliga",  # planned — RFEF refs from LaLiga pool
 }
 
 POOL_SIZE = 5  # how many top referees to include in fallback pool
