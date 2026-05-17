@@ -354,7 +354,7 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-10 to 2026-05-17",
-    "count": 7,
+    "count": 8,
     "matches": [
       {
         "id": 538137,
@@ -520,6 +520,30 @@
         "referees": [
           {
             "name": "Chris Kavanagh",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538152,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "11:30",
+        "status": "FINISHED",
+        "home_team": "Manchester United FC",
+        "home_short": "Man United",
+        "home_tla": "MUN",
+        "away_team": "Nottingham Forest FC",
+        "away_short": "Nottingham",
+        "away_tla": "NOT",
+        "ft_home": 3,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Michael Salisbury",
             "nationality": "England"
           }
         ]
@@ -824,7 +848,7 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-05-10 to 2026-05-17",
-    "count": 6,
+    "count": 11,
     "matches": [
       {
         "id": 537169,
@@ -966,6 +990,126 @@
         "referees": [
           {
             "name": "Marco Piccinini",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537175,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "10:00",
+        "status": "FINISHED",
+        "home_team": "AS Roma",
+        "home_short": "Roma",
+        "home_tla": "ROM",
+        "away_team": "SS Lazio",
+        "away_short": "Lazio",
+        "away_tla": "LAZ",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Fabio Maresca",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537178,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "10:00",
+        "status": "FINISHED",
+        "home_team": "Genoa CFC",
+        "home_short": "Genoa",
+        "home_tla": "GEN",
+        "away_team": "AC Milan",
+        "away_short": "Milan",
+        "away_tla": "MIL",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Simone Sozza",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537179,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "10:00",
+        "status": "FINISHED",
+        "home_team": "Como 1907",
+        "home_short": "Como 1907",
+        "home_tla": "COM",
+        "away_team": "Parma Calcio 1913",
+        "away_short": "Parma",
+        "away_tla": "PAR",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Luca Zufferli",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537181,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "10:00",
+        "status": "FINISHED",
+        "home_team": "Juventus FC",
+        "home_short": "Juventus",
+        "home_tla": "JUV",
+        "away_team": "ACF Fiorentina",
+        "away_short": "Fiorentina",
+        "away_tla": "FIO",
+        "ft_home": 0,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Davide Massa",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537182,
+        "matchday": 37,
+        "date": "2026-05-17",
+        "time": "10:00",
+        "status": "FINISHED",
+        "home_team": "AC Pisa 1909",
+        "home_short": "AC Pisa",
+        "home_tla": "PIS",
+        "away_team": "SSC Napoli",
+        "away_short": "Napoli",
+        "away_tla": "NAP",
+        "ft_home": 0,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Francesco Fourneau",
             "nationality": "Italy"
           }
         ]
@@ -1449,10 +1593,10 @@
         "away_short": "AVS",
         "away_tla": "AVS",
         "ft_home": 0,
-        "ft_away": 1,
+        "ft_away": 0,
         "ht_home": 0,
         "ht_away": 0,
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "referees": []
       },
       {
@@ -1505,11 +1649,11 @@
         "away_team": "Rio Ave FC",
         "away_short": "Rio Ave",
         "away_tla": "RIO",
-        "ft_home": 2,
+        "ft_home": 1,
         "ft_away": 1,
         "ht_home": 1,
         "ht_away": 0,
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "referees": []
       },
       {

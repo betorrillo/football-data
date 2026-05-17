@@ -1,7 +1,7 @@
 {
   "generated": "2026-05-17",
-  "total_fixtures": 69,
-  "fixtures_with_referee": 38,
+  "total_fixtures": 58,
+  "fixtures_with_referee": 27,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
@@ -370,106 +370,6 @@
       "fixtures": [
         {
           "date": "2026-05-17",
-          "time": "11:30",
-          "home": "Man United",
-          "away": "Nottingham",
-          "matchday": 37,
-          "referee": "Michael Salisbury",
-          "cards_analysis": {
-            "team_cards_avg": 3.76,
-            "ref_cards_per_match": 3.06,
-            "ref_verdict": "BAJO",
-            "ref_matches": 236,
-            "blended_cards_prediction": 3.41,
-            "cards_verdict": "BAJO"
-          },
-          "home_goals_1h_avg": 0.63,
-          "home_goals_2h_avg": 1.0,
-          "away_goals_1h_avg": 0.46,
-          "away_goals_2h_avg": 0.69
-        },
-        {
-          "date": "2026-05-17",
-          "time": "14:00",
-          "home": "Brentford",
-          "away": "Crystal Palace",
-          "matchday": 37,
-          "referee": "Sam Barrott",
-          "cards_analysis": {
-            "team_cards_avg": 3.86,
-            "ref_cards_per_match": 3.7,
-            "ref_verdict": "MEDIO",
-            "ref_matches": 195,
-            "blended_cards_prediction": 3.78,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.53,
-          "home_goals_2h_avg": 0.69,
-          "away_goals_1h_avg": 0.34,
-          "away_goals_2h_avg": 0.49
-        },
-        {
-          "date": "2026-05-17",
-          "time": "14:00",
-          "home": "Everton",
-          "away": "Sunderland",
-          "matchday": 37,
-          "referee": "John Brooks",
-          "cards_analysis": {
-            "team_cards_avg": 3.87,
-            "ref_cards_per_match": 3.95,
-            "ref_verdict": "MEDIO",
-            "ref_matches": 287,
-            "blended_cards_prediction": 3.91,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.43,
-          "home_goals_2h_avg": 0.8,
-          "away_goals_1h_avg": 0.31,
-          "away_goals_2h_avg": 0.61
-        },
-        {
-          "date": "2026-05-17",
-          "time": "14:00",
-          "home": "Leeds United",
-          "away": "Brighton Hove",
-          "matchday": 37,
-          "referee": "Michael Oliver",
-          "cards_analysis": {
-            "team_cards_avg": 4.03,
-            "ref_cards_per_match": 3.4,
-            "ref_verdict": "BAJO",
-            "ref_matches": 939,
-            "blended_cards_prediction": 3.71,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.61,
-          "home_goals_2h_avg": 0.56,
-          "away_goals_1h_avg": 0.44,
-          "away_goals_2h_avg": 0.92
-        },
-        {
-          "date": "2026-05-17",
-          "time": "14:00",
-          "home": "Wolverhampton",
-          "away": "Fulham",
-          "matchday": 37,
-          "referee": "Thomas Kirk",
-          "cards_analysis": {
-            "team_cards_avg": 3.89,
-            "ref_cards_per_match": 3.93,
-            "ref_verdict": "MEDIO",
-            "ref_matches": 132,
-            "blended_cards_prediction": 3.91,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.19,
-          "home_goals_2h_avg": 0.44,
-          "away_goals_1h_avg": 0.39,
-          "away_goals_2h_avg": 0.72
-        },
-        {
-          "date": "2026-05-17",
           "time": "16:30",
           "home": "Newcastle",
           "away": "West Ham",
@@ -719,7 +619,7 @@
           "away_goals_2h_avg": 0.56
         }
       ],
-      "total": 19
+      "total": 14
     },
     "BL1": {
       "competition": "Bundesliga",
@@ -729,124 +629,6 @@
     "SA": {
       "competition": "Serie A",
       "fixtures": [
-        {
-          "date": "2026-05-17",
-          "time": "10:00",
-          "home": "Roma",
-          "away": "Lazio",
-          "matchday": 37,
-          "referee": "Fabio Maresca",
-          "cards_analysis": {
-            "team_cards_avg": 4.39,
-            "ref_cards_per_match": 5.66,
-            "ref_verdict": "MUY ALTO",
-            "ref_matches": 384,
-            "blended_cards_prediction": 5.03,
-            "cards_verdict": "MUY ALTO"
-          },
-          "home_goals_1h_avg": 0.66,
-          "home_goals_2h_avg": 0.74,
-          "away_goals_1h_avg": 0.36,
-          "away_goals_2h_avg": 0.61
-        },
-        {
-          "date": "2026-05-17",
-          "time": "10:00",
-          "home": "Genoa",
-          "away": "Milan",
-          "matchday": 37,
-          "referee": "Simone Sozza",
-          "cards_analysis": {
-            "team_cards_avg": 4.01,
-            "ref_cards_per_match": 4.37,
-            "ref_verdict": "MEDIO",
-            "ref_matches": 215,
-            "blended_cards_prediction": 4.19,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.39,
-          "home_goals_2h_avg": 0.58,
-          "away_goals_1h_avg": 0.39,
-          "away_goals_2h_avg": 0.83
-        },
-        {
-          "date": "2026-05-17",
-          "time": "10:00",
-          "home": "Como 1907",
-          "away": "Parma",
-          "matchday": 37,
-          "referee": "Luca Zufferli",
-          "cards_analysis": {
-            "team_cards_avg": 4.15,
-            "ref_cards_per_match": 3.87,
-            "ref_verdict": "MEDIO",
-            "ref_matches": 164,
-            "blended_cards_prediction": 4.01,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.67,
-          "home_goals_2h_avg": 0.89,
-          "away_goals_1h_avg": 0.19,
-          "away_goals_2h_avg": 0.5
-        },
-        {
-          "date": "2026-05-17",
-          "time": "10:00",
-          "home": "Juventus",
-          "away": "Fiorentina",
-          "matchday": 37,
-          "referee": "Davide Massa",
-          "cards_analysis": {
-            "team_cards_avg": 4.0,
-            "ref_cards_per_match": 5.05,
-            "ref_verdict": "MUY ALTO",
-            "ref_matches": 524,
-            "blended_cards_prediction": 4.53,
-            "cards_verdict": "ALTO"
-          },
-          "home_goals_1h_avg": 0.56,
-          "home_goals_2h_avg": 1.03,
-          "away_goals_1h_avg": 0.33,
-          "away_goals_2h_avg": 0.56
-        },
-        {
-          "date": "2026-05-17",
-          "time": "10:00",
-          "home": "AC Pisa",
-          "away": "Napoli",
-          "matchday": 37,
-          "referee": "Francesco Fourneau",
-          "cards_analysis": {
-            "team_cards_avg": 3.46,
-            "ref_cards_per_match": 4.89,
-            "ref_verdict": "ALTO",
-            "ref_matches": 239,
-            "blended_cards_prediction": 4.17,
-            "cards_verdict": "MEDIO"
-          },
-          "home_goals_1h_avg": 0.19,
-          "home_goals_2h_avg": 0.33,
-          "away_goals_1h_avg": 0.67,
-          "away_goals_2h_avg": 0.72
-        },
-        {
-          "date": "2026-05-17",
-          "time": "13:00",
-          "home": "Inter",
-          "away": "Verona",
-          "matchday": 37,
-          "referee": "Andrea Calzavara",
-          "cards_analysis": {
-            "team_cards_avg": 3.75,
-            "blended_cards_prediction": 3.75,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.86,
-          "home_goals_2h_avg": 1.36,
-          "away_goals_1h_avg": 0.33,
-          "away_goals_2h_avg": 0.25
-        },
         {
           "date": "2026-05-17",
           "time": "16:00",
@@ -1096,7 +878,7 @@
           "away_goals_2h_avg": 0.58
         }
       ],
-      "total": 20
+      "total": 14
     },
     "FL1": {
       "competition": "Ligue 1",
