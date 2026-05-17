@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "id": "2026-05-17_sassuolo-vs-lecce",
+    "scraped_at": "2026-05-17T16:19:37.530764",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Sassuolo",
+    "away_team": "Lecce",
+    "bet365_event_id": "193714578",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.4,
+      "draw_or_away": 1.444,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.071,
+        "1.5": 1.333,
+        "2.5": 2.1,
+        "3.5": 3.75,
+        "4.5": 7.0,
+        "5.5": 17.0,
+        "6.5": 29.0
+      },
+      "under": {
+        "1.5": 9.0,
+        "2.5": 3.4,
+        "3.5": 1.727,
+        "4.5": 1.286,
+        "5.5": 1.1,
+        "6.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.071,
+        "6.5": 1.143,
+        "7.5": 1.3,
+        "8.5": 1.533,
+        "9.5": 1.833,
+        "10.5": 2.5,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 7.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 9.0,
+        "7.5": 5.5,
+        "8.5": 3.4,
+        "9.5": 2.375,
+        "10.5": 1.833,
+        "11.5": 1.5,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.1,
+        "15.5": 1.05,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.5,
+        "1.5": 9.0,
+        "2.5": 26.0,
+        "3.5": 2.75,
+        "4.5": 4.75,
+        "5.5": 8.5,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.5,
+        "9.5": 11.0,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.952,
+        "4.5": 1.4,
+        "5.5": 1.182,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.2,
+        "9.5": 1.091,
+        "10.5": 1.045,
+        "11.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 34.0,
+        "3.5": 4.333,
+        "4.5": 8.0,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 9.0,
+        "8.5": 15.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.533,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.03,
+        "7.5": 1.143,
+        "8.5": 1.056,
+        "9.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.2
+      },
+      "under": {
+        "4.5": 2.25
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.25
+      },
+      "under": {
+        "1.5": 1.036,
+        "2.5": 2.1
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 67.0,
+        "2.5": 2.2
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 3.0
+      }
+    },
+    "ht_ft": {
+      "Sassuolo": 29.0,
+      "Empate": 5.0,
+      "Lecce": 4.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 2.75
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 2.875
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 3.1
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 3.1
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 3.1
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 3.1
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 3.25
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 3.25
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 3.4
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 3.4
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 3.75
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 3.75
+      },
+      {
+        "player": "Konan N'Dri",
+        "odds": 4.333
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 4.333
+      },
+      {
+        "player": "Cristian Volpato",
+        "odds": 4.5
+      },
+      {
+        "player": "Alieu Fadera",
+        "odds": 5.0
+      },
+      {
+        "player": "Darryl Bakola",
+        "odds": 5.0
+      },
+      {
+        "player": "Ismael Kone",
+        "odds": 5.0
+      },
+      {
+        "player": "Riccardo Sottil",
+        "odds": 5.0
+      },
+      {
+        "player": "Filip Marchwinski",
+        "odds": 5.5
+      },
+      {
+        "player": "Josh Doig",
+        "odds": 7.0
+      },
+      {
+        "player": "Luca Lipani",
+        "odds": 7.0
+      },
+      {
+        "player": "Edoardo Iannoni",
+        "odds": 7.5
+      },
+      {
+        "player": "Thorir Helgason",
+        "odds": 7.5
+      },
+      {
+        "player": "Ylber Ramadani",
+        "odds": 7.5
+      },
+      {
+        "player": "Aster Vranckx",
+        "odds": 8.5
+      },
+      {
+        "player": "Christian Frangella",
+        "odds": 8.5
+      },
+      {
+        "player": "Niko Kovac",
+        "odds": 8.5
+      },
+      {
+        "player": "Olaf Gorter",
+        "odds": 8.5
+      },
+      {
+        "player": "Oumar Ngom",
+        "odds": 8.5
+      },
+      {
+        "player": "Sadik Fofana",
+        "odds": 8.5
+      },
+      {
+        "player": "Lassana Coulibaly",
+        "odds": 9.0
+      },
+      {
+        "player": "Balthazar Pierret",
+        "odds": 10.0
+      },
+      {
+        "player": "Corrie Ndaba",
+        "odds": 10.0
+      },
+      {
+        "player": "Owen Kouassi",
+        "odds": 10.0
+      },
+      {
+        "player": "Pedro Felipe dos Santos",
+        "odds": 10.0
+      },
+      {
+        "player": "Ulisses Garcia",
+        "odds": 10.0
+      },
+      {
+        "player": "Jay Idzes",
+        "odds": 12.0
+      },
+      {
+        "player": "Kialonda Gaspar",
+        "odds": 12.0
+      },
+      {
+        "player": "Oliveira Tiago Gabriel",
+        "odds": 12.0
+      },
+      {
+        "player": "Alex Sala",
+        "odds": 13.0
+      },
+      {
+        "player": "Danilo Veiga",
+        "odds": 13.0
+      },
+      {
+        "player": "Gaby Jean",
+        "odds": 13.0
+      },
+      {
+        "player": "Jamil Siebert",
+        "odds": 13.0
+      },
+      {
+        "player": "Matias Perez",
+        "odds": 13.0
+      },
+      {
+        "player": "Nemanja Matic",
+        "odds": 13.0
+      },
+      {
+        "player": "Tarik Muharemovic",
+        "odds": 13.0
+      },
+      {
+        "player": "Antonino Gallo",
+        "odds": 17.0
+      },
+      {
+        "player": "Filippo Romagna",
+        "odds": 17.0
+      },
+      {
+        "player": "Sebastian Walukiewicz",
+        "odds": 21.0
+      },
+      {
+        "player": "Woyo Coulibaly",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.015
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.015
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.02
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.025
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 1.04
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 1.04
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 1.04
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 1.04
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 1.04
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 1.05
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 1.05
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 1.062
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 1.071
+      },
+      {
+        "player": "Alieu Fadera",
+        "odds": 1.1
+      },
+      {
+        "player": "Riccardo Sottil",
+        "odds": 1.1
+      },
+      {
+        "player": "Cristian Volpato",
+        "odds": 1.111
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.111
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.111
+      },
+      {
+        "player": "Ismael Kone",
+        "odds": 1.125
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.125
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.143
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.143
+      },
+      {
+        "player": "Konan N'Dri",
+        "odds": 1.143
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.143
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.143
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.167
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 1.167
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.167
+      },
+      {
+        "player": "Darryl Bakola",
+        "odds": 1.2
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 1.2
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 1.2
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 1.2
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 1.2
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.2
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 1.222
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 1.222
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 1.222
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 1.222
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 1.222
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 1.222
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 1.25
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 1.25
+      },
+      {
+        "player": "Filip Marchwinski",
+        "odds": 1.25
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 1.25
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 1.25
+      },
+      {
+        "player": "Thorir Helgason",
+        "odds": 1.286
+      },
+      {
+        "player": "Ylber Ramadani",
+        "odds": 1.286
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 1.286
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 1.286
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 1.3
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.286
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.333
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.364
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 1.4
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.4
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 1.4
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 1.444
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 1.5
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 1.5
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 1.5
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 1.5
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 1.533
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 1.667
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.727
+      },
+      {
+        "player": "Cristian Volpato",
+        "odds": 1.8
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.8
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 1.8
+      },
+      {
+        "player": "Alieu Fadera",
+        "odds": 1.833
+      },
+      {
+        "player": "Ismael Kone",
+        "odds": 1.833
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 1.833
+      },
+      {
+        "player": "Konan N'Dri",
+        "odds": 1.833
+      },
+      {
+        "player": "Riccardo Sottil",
+        "odds": 1.833
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.833
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 1.909
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 1.909
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 1.909
+      },
+      {
+        "player": "Lameck Banda",
+        "odds": 1.909
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 2.0
+      },
+      {
+        "player": "Andrea Pinamonti",
+        "odds": 2.0
+      },
+      {
+        "player": "Nikola Stulic",
+        "odds": 2.0
+      },
+      {
+        "player": "Santiago Pierotti",
+        "odds": 2.0
+      },
+      {
+        "player": "Darryl Bakola",
+        "odds": 2.1
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 2.1
+      },
+      {
+        "player": "Luca Moro",
+        "odds": 2.1
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 2.1
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 2.1
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 2.1
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 2.1
+      },
+      {
+        "player": "M'Bala Nzola",
+        "odds": 2.2
+      },
+      {
+        "player": "Francesco Camarda",
+        "odds": 2.2
+      },
+      {
+        "player": "Medon Berisha",
+        "odds": 2.2
+      },
+      {
+        "player": "Omri Gandelman",
+        "odds": 2.2
+      },
+      {
+        "player": "Filip Marchwinski",
+        "odds": 2.25
+      },
+      {
+        "player": "Walid Cheddira",
+        "odds": 2.25
+      },
+      {
+        "player": "Domenico Berardi",
+        "odds": 2.375
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 2.375
+      },
+      {
+        "player": "Armand Lauriente",
+        "odds": 2.5
+      },
+      {
+        "player": "Kristian Thorstvedt",
+        "odds": 2.5
+      },
+      {
+        "player": "Cristian Volpato",
+        "odds": 2.625
+      },
+      {
+        "player": "Ismael Kone",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 101.0,
+      "1ª mitad": 351.0,
+      "2ª mitad": 41.0,
+      "Primeros 10 minutos": 151.0,
+      "primeros 10 minutos": 151.0
+    }
+  }
+}

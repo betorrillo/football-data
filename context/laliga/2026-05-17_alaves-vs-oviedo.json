@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_alaves-vs-oviedo",
+  "home": "Alavés",
+  "away": "Real Oviedo",
+  "league": "ESP1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Alaves",
+    "mp": 36,
+    "w": 10,
+    "d": 10,
+    "l": 16,
+    "gf": 42,
+    "ga": 54,
+    "gd": -12,
+    "pts": 40,
+    "avg": {
+      "gf": 1.17,
+      "ga": 1.5,
+      "corners_for": 5.0,
+      "corners_against": 5.0,
+      "total_corners": 10.0,
+      "shots": 12.11,
+      "shots_against": 12.53,
+      "shots_target": 3.92,
+      "shots_target_against": 4.08,
+      "fouls": 14.89,
+      "fouls_against": 13.53,
+      "yellows": 2.53,
+      "opponent_yellows": 2.11,
+      "total_match_cards": 4.64
+    },
+    "avg_home": {
+      "gf": 1.33,
+      "ga": 1.28,
+      "corners_for": 5.94,
+      "corners_against": 4.22,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 1.0,
+      "ga": 1.72,
+      "corners_for": 4.06,
+      "corners_against": 5.78,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 50.0,
+      "over_35": 25.0,
+      "btts": 63.9,
+      "clean_sheet": 11.1,
+      "failed_to_score": 27.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.5,
+      "ga_1h": 0.53,
+      "gf_2h": 0.67,
+      "ga_2h": 0.97,
+      "total_1h": 1.03,
+      "total_2h": 1.64
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 25.0,
+      "over_05_2h": 80.6,
+      "over_15_2h": 52.8,
+      "btts_1h": 22.2,
+      "btts_2h": 38.9
+    },
+    "xg": 44.0,
+    "xga": 46.5,
+    "xg_diff": -4.0,
+    "xga_diff": 6.5,
+    "yellow_cards_total": 75,
+    "red_cards_total": null,
+    "yc_per_match": 2.21
+  },
+  "away_stats": {
+    "team": "Oviedo",
+    "mp": 36,
+    "w": 6,
+    "d": 11,
+    "l": 19,
+    "gf": 26,
+    "ga": 56,
+    "gd": -30,
+    "pts": 29,
+    "avg": {
+      "gf": 0.72,
+      "ga": 1.56,
+      "corners_for": 3.89,
+      "corners_against": 5.67,
+      "total_corners": 9.56,
+      "shots": 10.14,
+      "shots_against": 14.86,
+      "shots_target": 3.31,
+      "shots_target_against": 5.61,
+      "fouls": 12.58,
+      "fouls_against": 11.53,
+      "yellows": 2.14,
+      "opponent_yellows": 1.42,
+      "total_match_cards": 3.56
+    },
+    "avg_home": {
+      "gf": 0.5,
+      "ga": 0.94,
+      "corners_for": 4.61,
+      "corners_against": 5.0,
+      "over_25_pct": 22.2
+    },
+    "avg_away": {
+      "gf": 0.94,
+      "ga": 2.17,
+      "corners_for": 3.17,
+      "corners_against": 6.33,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 66.7,
+      "over_25": 38.9,
+      "over_35": 16.7,
+      "btts": 33.3,
+      "clean_sheet": 27.8,
+      "failed_to_score": 52.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.33,
+      "ga_1h": 0.67,
+      "gf_2h": 0.39,
+      "ga_2h": 0.89,
+      "total_1h": 1.0,
+      "total_2h": 1.28
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 27.8,
+      "over_05_2h": 61.1,
+      "over_15_2h": 38.9,
+      "btts_1h": 8.3,
+      "btts_2h": 13.9
+    },
+    "xg": 36.2,
+    "xga": 56.8,
+    "xg_diff": -10.2,
+    "xga_diff": -2.8,
+    "yellow_cards_total": 67,
+    "red_cards_total": null,
+    "yc_per_match": 1.97
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

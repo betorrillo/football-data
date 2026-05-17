@@ -1,0 +1,792 @@
+{
+  "meta": {
+    "id": "2026-05-17_inter-de-milan-vs-verona",
+    "scraped_at": "2026-05-15T16:38:45.954498",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Inter de Milán",
+    "away_team": "Verona",
+    "bet365_event_id": "193714568",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.071,
+      "draw_or_away": 4.333,
+      "home_or_away": 1.083
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.015,
+        "1.5": 1.167,
+        "2.5": 1.5,
+        "3.5": 2.3,
+        "4.5": 4.0,
+        "5.5": 7.0,
+        "6.5": 15.0,
+        "7.5": 26.0,
+        "8.5": 51.0
+      },
+      "under": {
+        "1.5": 21.0,
+        "2.5": 5.0,
+        "3.5": 2.625,
+        "4.5": 1.615,
+        "5.5": 1.25,
+        "6.5": 1.1,
+        "7.5": 1.03,
+        "8.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.071,
+        "6.5": 1.167,
+        "7.5": 1.3,
+        "8.5": 1.533,
+        "9.5": 1.833,
+        "10.5": 2.5,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 7.0,
+        "14.5": 11.0,
+        "15.5": 13.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 9.0,
+        "7.5": 5.0,
+        "8.5": 3.4,
+        "9.5": 2.375,
+        "10.5": 1.833,
+        "11.5": 1.5,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.1,
+        "15.5": 1.05,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 1.952,
+        "1.5": 5.5,
+        "2.5": 17.0,
+        "3.5": 34.0,
+        "4.5": 3.4,
+        "5.5": 5.5,
+        "6.5": 9.5,
+        "7.5": 15.0,
+        "8.5": 23.0,
+        "9.5": 5.0,
+        "10.5": 7.5,
+        "11.5": 12.0,
+        "12.5": 15.0,
+        "13.5": 21.0
+      },
+      "under": {
+        "1.5": 1.8,
+        "2.5": 1.143,
+        "3.5": 1.025,
+        "4.5": 1.615,
+        "5.5": 1.3,
+        "6.5": 1.125,
+        "7.5": 1.05,
+        "8.5": 1.025,
+        "9.5": 1.286,
+        "10.5": 1.143,
+        "11.5": 1.071,
+        "12.5": 1.04,
+        "13.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.75,
+        "1.5": 19.0,
+        "2.5": 41.0,
+        "3.5": 8.0,
+        "4.5": 17.0,
+        "5.5": 26.0,
+        "6.5": 15.0,
+        "7.5": 21.0
+      },
+      "under": {
+        "1.5": 1.25,
+        "2.5": 1.025,
+        "3.5": 1.222,
+        "4.5": 1.062,
+        "5.5": 1.025,
+        "6.5": 1.071,
+        "7.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 2.75
+      },
+      "under": {
+        "3.5": 2.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 7.0
+      },
+      "under": {
+        "1.5": 1.667
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 3.0
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.25
+      }
+    },
+    "ht_ft": {
+      "Inter de Milán": 19.0,
+      "Empate": 26.0,
+      "Verona": 23.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.727
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.833
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.909
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.909
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 2.4
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 2.875
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 3.4
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 3.4
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 3.4
+      },
+      {
+        "player": "Luis Henrique de Lima",
+        "odds": 3.4
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 3.75
+      },
+      {
+        "player": "Denzel Dumfries",
+        "odds": 3.75
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 3.75
+      },
+      {
+        "player": "Nicolo Barella",
+        "odds": 4.0
+      },
+      {
+        "player": "Petar Sucic",
+        "odds": 4.0
+      },
+      {
+        "player": "Kieron Bowie",
+        "odds": 4.5
+      },
+      {
+        "player": "Daniel Mosquera",
+        "odds": 5.0
+      },
+      {
+        "player": "Gift Emmanuel Orban",
+        "odds": 5.0
+      },
+      {
+        "player": "Carlos Augusto",
+        "odds": 5.0
+      },
+      {
+        "player": "Junior Ajayi",
+        "odds": 5.5
+      },
+      {
+        "player": "Matteo Cocchi",
+        "odds": 5.5
+      },
+      {
+        "player": "Abdou Harroui",
+        "odds": 6.5
+      },
+      {
+        "player": "Alessandro Bastoni",
+        "odds": 6.5
+      },
+      {
+        "player": "Ioan Vermesan",
+        "odds": 6.5
+      },
+      {
+        "player": "Matteo Darmian",
+        "odds": 6.5
+      },
+      {
+        "player": "Isaac Tomich",
+        "odds": 6.5
+      },
+      {
+        "player": "Yann Aurel Bisseck",
+        "odds": 6.5
+      },
+      {
+        "player": "Amin Sarr",
+        "odds": 7.0
+      },
+      {
+        "player": "Manuel Akanji",
+        "odds": 7.0
+      },
+      {
+        "player": "Tomas Suslov",
+        "odds": 7.5
+      },
+      {
+        "player": "Grigoris Kastanos",
+        "odds": 8.5
+      },
+      {
+        "player": "Al Motasim Al Musrati",
+        "odds": 9.5
+      },
+      {
+        "player": "Francesco Acerbi",
+        "odds": 9.5
+      },
+      {
+        "player": "Sandi Lovric",
+        "odds": 9.5
+      },
+      {
+        "player": "Roberto Gagliardini",
+        "odds": 11.0
+      },
+      {
+        "player": "Stefan de Vrij",
+        "odds": 11.0
+      },
+      {
+        "player": "Antoine Bernede",
+        "odds": 13.0
+      },
+      {
+        "player": "Jean Daniel Akpa Akpro",
+        "odds": 13.0
+      },
+      {
+        "player": "Martin Frese",
+        "odds": 13.0
+      },
+      {
+        "player": "Pol Lirola",
+        "odds": 13.0
+      },
+      {
+        "player": "Rafik Belghali",
+        "odds": 13.0
+      },
+      {
+        "player": "Cheikh Niasse",
+        "odds": 17.0
+      },
+      {
+        "player": "Daniel Oyegoke",
+        "odds": 17.0
+      },
+      {
+        "player": "Andrias Edmundsson",
+        "odds": 21.0
+      },
+      {
+        "player": "Armel Bella-Kotchap",
+        "odds": 21.0
+      },
+      {
+        "player": "Davide De Battisti",
+        "odds": 21.0
+      },
+      {
+        "player": "Domagoj Bradaric",
+        "odds": 21.0
+      },
+      {
+        "player": "Fallou Cham",
+        "odds": 21.0
+      },
+      {
+        "player": "Victor Nelsson",
+        "odds": 21.0
+      },
+      {
+        "player": "Nicolas Valentini",
+        "odds": 23.0
+      },
+      {
+        "player": "Tobias Slotsager",
+        "odds": 23.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Ange Bonny",
+        "odds": 1.01
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.01
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 1.02
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.025
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 1.03
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.03
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 1.04
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 1.04
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.04
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 1.05
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 1.05
+      },
+      {
+        "player": "Denzel Dumfries",
+        "odds": 1.05
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.062
+      },
+      {
+        "player": "Luis Henrique de Lima",
+        "odds": 1.071
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.071
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.071
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.071
+      },
+      {
+        "player": "Nicolo Barella",
+        "odds": 1.083
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.083
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.083
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.1
+      },
+      {
+        "player": "Petar Sucic",
+        "odds": 1.111
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.111
+      },
+      {
+        "player": "Gift Emmanuel Orban",
+        "odds": 1.111
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.125
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 1.125
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.125
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 1.143
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.143
+      },
+      {
+        "player": "Kieron Bowie",
+        "odds": 1.143
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.167
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 1.167
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 1.167
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 1.167
+      },
+      {
+        "player": "Carlos Augusto",
+        "odds": 1.2
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 1.2
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 1.2
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 1.2
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.2
+      },
+      {
+        "player": "Daniel Mosquera",
+        "odds": 1.2
+      },
+      {
+        "player": "Alessandro Bastoni",
+        "odds": 1.222
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 1.222
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.222
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 1.222
+      },
+      {
+        "player": "Denzel Dumfries",
+        "odds": 1.222
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 1.222
+      },
+      {
+        "player": "Abdou Harroui",
+        "odds": 1.222
+      },
+      {
+        "player": "Isaac Tomich",
+        "odds": 1.222
+      },
+      {
+        "player": "Matteo Cocchi",
+        "odds": 1.25
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.143
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.143
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.167
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.182
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.3
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 1.444
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.444
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.444
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 1.5
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 1.5
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.5
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 1.533
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.533
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.533
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.533
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 1.571
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 1.571
+      },
+      {
+        "player": "Luis Henrique de Lima",
+        "odds": 1.571
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.571
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.615
+      },
+      {
+        "player": "Denzel Dumfries",
+        "odds": 1.667
+      },
+      {
+        "player": "Nicolo Barella",
+        "odds": 1.727
+      },
+      {
+        "player": "Petar Sucic",
+        "odds": 1.727
+      },
+      {
+        "player": "Francesco Esposito",
+        "odds": 1.727
+      },
+      {
+        "player": "Lautaro Martinez",
+        "odds": 1.727
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.727
+      },
+      {
+        "player": "Gift Emmanuel Orban",
+        "odds": 1.727
+      },
+      {
+        "player": "Marcus Thuram",
+        "odds": 1.833
+      },
+      {
+        "player": "Ange Bonny",
+        "odds": 1.833
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 1.833
+      },
+      {
+        "player": "Kieron Bowie",
+        "odds": 1.833
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 2.0
+      },
+      {
+        "player": "Carlos Augusto",
+        "odds": 2.1
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 2.1
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 2.1
+      },
+      {
+        "player": "Davide Frattesi",
+        "odds": 2.1
+      },
+      {
+        "player": "Daniel Mosquera",
+        "odds": 2.1
+      },
+      {
+        "player": "Alessandro Bastoni",
+        "odds": 2.2
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 2.2
+      },
+      {
+        "player": "Hakan Calhanoglu",
+        "odds": 2.2
+      },
+      {
+        "player": "Henrikh Mkhitaryan",
+        "odds": 2.2
+      },
+      {
+        "player": "Luis Henrique de Lima",
+        "odds": 2.2
+      },
+      {
+        "player": "Piotr Zielinski",
+        "odds": 2.2
+      },
+      {
+        "player": "Matteo Cocchi",
+        "odds": 2.25
+      },
+      {
+        "player": "Andy Diouf",
+        "odds": 2.25
+      },
+      {
+        "player": "Federico Dimarco",
+        "odds": 2.25
+      },
+      {
+        "player": "Isaac Tomich",
+        "odds": 2.25
+      },
+      {
+        "player": "Junior Ajayi",
+        "odds": 2.25
+      },
+      {
+        "player": "Mattia Mosconi",
+        "odds": 2.375
+      },
+      {
+        "player": "Denzel Dumfries",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 101.0,
+      "1ª mitad": 51.0,
+      "2ª mitad": 201.0,
+      "Primeros 10 minutos": 67.0,
+      "primeros 10 minutos": 17.0
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_brentford-vs-crystal-palace",
+  "home": "Brentford",
+  "away": "Crystal Palace",
+  "league": "ENG1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Brentford",
+    "mp": 36,
+    "w": 14,
+    "d": 9,
+    "l": 13,
+    "gf": 52,
+    "ga": 49,
+    "gd": 3,
+    "pts": 51,
+    "avg": {
+      "gf": 1.44,
+      "ga": 1.36,
+      "corners_for": 4.75,
+      "corners_against": 5.17,
+      "total_corners": 9.92,
+      "shots": 10.56,
+      "shots_against": 12.89,
+      "shots_target": 3.94,
+      "shots_target_against": 4.14,
+      "fouls": 10.39,
+      "fouls_against": 9.44,
+      "yellows": 1.81,
+      "opponent_yellows": 1.86,
+      "total_match_cards": 3.67
+    },
+    "avg_home": {
+      "gf": 1.72,
+      "ga": 1.06,
+      "corners_for": 4.11,
+      "corners_against": 4.67,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 1.17,
+      "ga": 1.67,
+      "corners_for": 5.39,
+      "corners_against": 5.67,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 80.6,
+      "over_25": 52.8,
+      "over_35": 36.1,
+      "btts": 50.0,
+      "clean_sheet": 27.8,
+      "failed_to_score": 33.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.64,
+      "ga_1h": 0.64,
+      "gf_2h": 0.81,
+      "ga_2h": 0.72,
+      "total_1h": 1.28,
+      "total_2h": 1.53
+    },
+    "pct_ht": {
+      "over_05_1h": 72.2,
+      "over_15_1h": 33.3,
+      "over_05_2h": 75.0,
+      "over_15_2h": 47.2,
+      "btts_1h": 19.4,
+      "btts_2h": 30.6
+    },
+    "xg": 57.5,
+    "xga": 48.3,
+    "xg_diff": -5.5,
+    "xga_diff": -2.3,
+    "yellow_cards_total": 63,
+    "red_cards_total": 1,
+    "yc_per_match": 1.8
+  },
+  "away_stats": {
+    "team": "Crystal Palace",
+    "mp": 36,
+    "w": 11,
+    "d": 11,
+    "l": 14,
+    "gf": 38,
+    "ga": 47,
+    "gd": -9,
+    "pts": 44,
+    "avg": {
+      "gf": 1.06,
+      "ga": 1.31,
+      "corners_for": 4.25,
+      "corners_against": 5.17,
+      "total_corners": 9.42,
+      "shots": 11.61,
+      "shots_against": 11.5,
+      "shots_target": 3.69,
+      "shots_target_against": 4.22,
+      "fouls": 10.67,
+      "fouls_against": 9.78,
+      "yellows": 1.97,
+      "opponent_yellows": 1.72,
+      "total_match_cards": 3.69
+    },
+    "avg_home": {
+      "gf": 1.0,
+      "ga": 1.17,
+      "corners_for": 4.44,
+      "corners_against": 4.39,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 1.11,
+      "ga": 1.44,
+      "corners_for": 4.06,
+      "corners_against": 5.94,
+      "over_25_pct": 61.1
+    },
+    "pct": {
+      "over_15": 69.4,
+      "over_25": 52.8,
+      "over_35": 19.4,
+      "btts": 50.0,
+      "clean_sheet": 33.3,
+      "failed_to_score": 33.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.53,
+      "ga_1h": 0.64,
+      "gf_2h": 0.53,
+      "ga_2h": 0.67,
+      "total_1h": 1.17,
+      "total_2h": 1.19
+    },
+    "pct_ht": {
+      "over_05_1h": 72.2,
+      "over_15_1h": 30.6,
+      "over_05_2h": 66.7,
+      "over_15_2h": 41.7,
+      "btts_1h": 16.7,
+      "btts_2h": 19.4
+    },
+    "xg": 52.3,
+    "xga": 47.1,
+    "xg_diff": -16.3,
+    "xga_diff": -5.1,
+    "yellow_cards_total": 69,
+    "red_cards_total": 2,
+    "yc_per_match": 2.03
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

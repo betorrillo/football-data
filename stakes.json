@@ -1,0 +1,1639 @@
+{
+  "generated": "2026-05-17T14:22:18Z",
+  "matchday_date": "2026-05-17",
+  "leagues": {
+    "ENG1": {
+      "name": "Premier League",
+      "matchday": 37,
+      "remaining_after_this": 1,
+      "is_last_matchday": false,
+      "standings": [
+        {
+          "pos": 1,
+          "team": "Arsenal",
+          "pts": 79,
+          "w": 24,
+          "d": 7,
+          "l": 5,
+          "gf": 68,
+          "ga": 26,
+          "gd": 42,
+          "zone": "champion",
+          "stake": [
+            "Leader, 2 pts ahead of Man City"
+          ]
+        },
+        {
+          "pos": 2,
+          "team": "Man City",
+          "pts": 77,
+          "w": 23,
+          "d": 8,
+          "l": 5,
+          "gf": 75,
+          "ga": 32,
+          "gd": 43,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 2)"
+          ]
+        },
+        {
+          "pos": 3,
+          "team": "Man United",
+          "pts": 65,
+          "w": 18,
+          "d": 11,
+          "l": 7,
+          "gf": 63,
+          "ga": 48,
+          "gd": 15,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 3)"
+          ]
+        },
+        {
+          "pos": 4,
+          "team": "Liverpool",
+          "pts": 59,
+          "w": 17,
+          "d": 8,
+          "l": 11,
+          "gf": 60,
+          "ga": 48,
+          "gd": 12,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 4)",
+            "Only 0 pts above Aston Villa"
+          ]
+        },
+        {
+          "pos": 5,
+          "team": "Aston Villa",
+          "pts": 59,
+          "w": 17,
+          "d": 8,
+          "l": 11,
+          "gf": 50,
+          "ga": 46,
+          "gd": 4,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 5)"
+          ]
+        },
+        {
+          "pos": 6,
+          "team": "Bournemouth",
+          "pts": 55,
+          "w": 13,
+          "d": 16,
+          "l": 7,
+          "gf": 56,
+          "ga": 52,
+          "gd": 4,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 6)"
+          ]
+        },
+        {
+          "pos": 7,
+          "team": "Brighton",
+          "pts": 53,
+          "w": 14,
+          "d": 11,
+          "l": 11,
+          "gf": 52,
+          "ga": 42,
+          "gd": 10,
+          "zone": "mid_table",
+          "stake": [
+            "6 pts from UCL (Liverpool)"
+          ]
+        },
+        {
+          "pos": 8,
+          "team": "Brentford",
+          "pts": 51,
+          "w": 14,
+          "d": 9,
+          "l": 13,
+          "gf": 52,
+          "ga": 49,
+          "gd": 3,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 9,
+          "team": "Chelsea",
+          "pts": 49,
+          "w": 13,
+          "d": 10,
+          "l": 13,
+          "gf": 55,
+          "ga": 49,
+          "gd": 6,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 10,
+          "team": "Everton",
+          "pts": 49,
+          "w": 13,
+          "d": 10,
+          "l": 13,
+          "gf": 46,
+          "ga": 46,
+          "gd": 0,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 11,
+          "team": "Fulham",
+          "pts": 48,
+          "w": 14,
+          "d": 6,
+          "l": 16,
+          "gf": 44,
+          "ga": 50,
+          "gd": -6,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 12,
+          "team": "Sunderland",
+          "pts": 48,
+          "w": 12,
+          "d": 12,
+          "l": 12,
+          "gf": 37,
+          "ga": 46,
+          "gd": -9,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 13,
+          "team": "Newcastle",
+          "pts": 46,
+          "w": 13,
+          "d": 7,
+          "l": 16,
+          "gf": 50,
+          "ga": 52,
+          "gd": -2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 14,
+          "team": "Leeds",
+          "pts": 44,
+          "w": 10,
+          "d": 14,
+          "l": 12,
+          "gf": 48,
+          "ga": 53,
+          "gd": -5,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 15,
+          "team": "Crystal Palace",
+          "pts": 44,
+          "w": 11,
+          "d": 11,
+          "l": 14,
+          "gf": 38,
+          "ga": 47,
+          "gd": -9,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 16,
+          "team": "Nott'm Forest",
+          "pts": 43,
+          "w": 11,
+          "d": 10,
+          "l": 15,
+          "gf": 45,
+          "ga": 47,
+          "gd": -2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 17,
+          "team": "Tottenham",
+          "pts": 38,
+          "w": 9,
+          "d": 11,
+          "l": 16,
+          "gf": 46,
+          "ga": 55,
+          "gd": -9,
+          "zone": "mid_table",
+          "stake": [
+            "Only 2 pts above relegation"
+          ]
+        },
+        {
+          "pos": 18,
+          "team": "West Ham",
+          "pts": 36,
+          "w": 9,
+          "d": 9,
+          "l": 18,
+          "gf": 42,
+          "ga": 62,
+          "gd": -20,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 18)",
+            "2 pts from safety (Tottenham)"
+          ]
+        },
+        {
+          "pos": 19,
+          "team": "Burnley",
+          "pts": 21,
+          "w": 4,
+          "d": 9,
+          "l": 23,
+          "gf": 37,
+          "ga": 73,
+          "gd": -36,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 19)",
+            "17 pts from safety (Tottenham)",
+            "Mathematically relegated"
+          ]
+        },
+        {
+          "pos": 20,
+          "team": "Wolves",
+          "pts": 18,
+          "w": 3,
+          "d": 9,
+          "l": 24,
+          "gf": 25,
+          "ga": 66,
+          "gd": -41,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 20)",
+            "20 pts from safety (Tottenham)",
+            "Mathematically relegated"
+          ]
+        }
+      ],
+      "pichichi": {
+        "title": "Pichichi / Top Scorer — Premier League",
+        "leader": {
+          "name": "Erling Haaland",
+          "team": "Manchester City",
+          "goals": 25
+        },
+        "contenders": [
+          {
+            "name": "Igor Thiago",
+            "team": "Brentford",
+            "goals": 22,
+            "gap": 3
+          }
+        ],
+        "race_alive": true
+      },
+      "zamora": {
+        "title": "Golden Glove — Premier League",
+        "note": "Least goals conceded per match (team-level, GK-specific data not available)",
+        "leader": {
+          "team": "Arsenal",
+          "ga": 26,
+          "mp": 36,
+          "ga_per_match": 0.722
+        },
+        "contenders": [
+          {
+            "team": "Man City",
+            "ga": 32,
+            "mp": 36,
+            "ga_per_match": 0.889
+          },
+          {
+            "team": "Brighton",
+            "ga": 42,
+            "mp": 36,
+            "ga_per_match": 1.167
+          },
+          {
+            "team": "Aston Villa",
+            "ga": 46,
+            "mp": 36,
+            "ga_per_match": 1.278
+          }
+        ],
+        "race_alive": false
+      },
+      "key_matches": [
+        {
+          "home": "Arsenal",
+          "away": "Burnley",
+          "home_pos": 1,
+          "away_pos": 19,
+          "pts_gap": 58,
+          "interest": [
+            "Relegation battle",
+            "Title race"
+          ]
+        },
+        {
+          "home": "Fulham",
+          "away": "Wolves",
+          "home_pos": 11,
+          "away_pos": 20,
+          "pts_gap": 30,
+          "interest": [
+            "Relegation battle"
+          ]
+        },
+        {
+          "home": "Everton",
+          "away": "Sunderland",
+          "home_pos": 10,
+          "away_pos": 12,
+          "pts_gap": 1,
+          "interest": [
+            "Direct rivals (same zone, ≤3 pts apart)"
+          ]
+        },
+        {
+          "home": "Newcastle",
+          "away": "West Ham",
+          "home_pos": 13,
+          "away_pos": 18,
+          "pts_gap": 10,
+          "interest": [
+            "Relegation battle"
+          ]
+        }
+      ]
+    },
+    "ESP1": {
+      "name": "La Liga",
+      "matchday": 37,
+      "remaining_after_this": 1,
+      "is_last_matchday": false,
+      "standings": [
+        {
+          "pos": 1,
+          "team": "Barcelona",
+          "pts": 91,
+          "w": 30,
+          "d": 1,
+          "l": 5,
+          "gf": 91,
+          "ga": 32,
+          "gd": 59,
+          "zone": "champion",
+          "stake": [
+            "Champion confirmed (lead: 11 pts)"
+          ]
+        },
+        {
+          "pos": 2,
+          "team": "Real Madrid",
+          "pts": 80,
+          "w": 25,
+          "d": 5,
+          "l": 6,
+          "gf": 72,
+          "ga": 33,
+          "gd": 39,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 2)"
+          ]
+        },
+        {
+          "pos": 3,
+          "team": "Villarreal",
+          "pts": 69,
+          "w": 21,
+          "d": 6,
+          "l": 9,
+          "gf": 67,
+          "ga": 43,
+          "gd": 24,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 3)",
+            "Only 3 pts above Ath Madrid"
+          ]
+        },
+        {
+          "pos": 4,
+          "team": "Ath Madrid",
+          "pts": 66,
+          "w": 20,
+          "d": 6,
+          "l": 10,
+          "gf": 60,
+          "ga": 39,
+          "gd": 21,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 4)"
+          ]
+        },
+        {
+          "pos": 5,
+          "team": "Betis",
+          "pts": 57,
+          "w": 14,
+          "d": 15,
+          "l": 7,
+          "gf": 56,
+          "ga": 44,
+          "gd": 12,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 5)"
+          ]
+        },
+        {
+          "pos": 6,
+          "team": "Celta",
+          "pts": 50,
+          "w": 13,
+          "d": 11,
+          "l": 12,
+          "gf": 51,
+          "ga": 47,
+          "gd": 4,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 6)"
+          ]
+        },
+        {
+          "pos": 7,
+          "team": "Getafe",
+          "pts": 48,
+          "w": 14,
+          "d": 6,
+          "l": 16,
+          "gf": 31,
+          "ga": 37,
+          "gd": -6,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 8,
+          "team": "Sociedad",
+          "pts": 45,
+          "w": 11,
+          "d": 12,
+          "l": 13,
+          "gf": 55,
+          "ga": 56,
+          "gd": -1,
+          "zone": "mid_table",
+          "stake": [
+            "Only 6 pts above relegation"
+          ]
+        },
+        {
+          "pos": 9,
+          "team": "Vallecano",
+          "pts": 44,
+          "w": 10,
+          "d": 14,
+          "l": 12,
+          "gf": 37,
+          "ga": 43,
+          "gd": -6,
+          "zone": "mid_table",
+          "stake": [
+            "Only 5 pts above relegation"
+          ]
+        },
+        {
+          "pos": 10,
+          "team": "Ath Bilbao",
+          "pts": 44,
+          "w": 13,
+          "d": 5,
+          "l": 18,
+          "gf": 40,
+          "ga": 53,
+          "gd": -13,
+          "zone": "mid_table",
+          "stake": [
+            "Only 5 pts above relegation"
+          ]
+        },
+        {
+          "pos": 11,
+          "team": "Sevilla",
+          "pts": 43,
+          "w": 12,
+          "d": 7,
+          "l": 17,
+          "gf": 46,
+          "ga": 58,
+          "gd": -12,
+          "zone": "mid_table",
+          "stake": [
+            "Only 4 pts above relegation"
+          ]
+        },
+        {
+          "pos": 12,
+          "team": "Valencia",
+          "pts": 43,
+          "w": 11,
+          "d": 10,
+          "l": 15,
+          "gf": 39,
+          "ga": 51,
+          "gd": -12,
+          "zone": "mid_table",
+          "stake": [
+            "Only 4 pts above relegation"
+          ]
+        },
+        {
+          "pos": 13,
+          "team": "Osasuna",
+          "pts": 42,
+          "w": 11,
+          "d": 9,
+          "l": 16,
+          "gf": 43,
+          "ga": 47,
+          "gd": -4,
+          "zone": "mid_table",
+          "stake": [
+            "Only 3 pts above relegation"
+          ]
+        },
+        {
+          "pos": 14,
+          "team": "Espanol",
+          "pts": 42,
+          "w": 11,
+          "d": 9,
+          "l": 16,
+          "gf": 40,
+          "ga": 53,
+          "gd": -13,
+          "zone": "mid_table",
+          "stake": [
+            "Only 3 pts above relegation"
+          ]
+        },
+        {
+          "pos": 15,
+          "team": "Alaves",
+          "pts": 40,
+          "w": 10,
+          "d": 10,
+          "l": 16,
+          "gf": 42,
+          "ga": 54,
+          "gd": -12,
+          "zone": "mid_table",
+          "stake": [
+            "Only 1 pts above relegation"
+          ]
+        },
+        {
+          "pos": 16,
+          "team": "Girona",
+          "pts": 40,
+          "w": 9,
+          "d": 13,
+          "l": 14,
+          "gf": 38,
+          "ga": 53,
+          "gd": -15,
+          "zone": "mid_table",
+          "stake": [
+            "Only 1 pts above relegation"
+          ]
+        },
+        {
+          "pos": 17,
+          "team": "Elche",
+          "pts": 39,
+          "w": 9,
+          "d": 12,
+          "l": 15,
+          "gf": 47,
+          "ga": 56,
+          "gd": -9,
+          "zone": "mid_table",
+          "stake": [
+            "Only 0 pts above relegation"
+          ]
+        },
+        {
+          "pos": 18,
+          "team": "Mallorca",
+          "pts": 39,
+          "w": 10,
+          "d": 9,
+          "l": 17,
+          "gf": 44,
+          "ga": 55,
+          "gd": -11,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 18)",
+            "0 pts from safety (Elche)"
+          ]
+        },
+        {
+          "pos": 19,
+          "team": "Levante",
+          "pts": 39,
+          "w": 10,
+          "d": 9,
+          "l": 17,
+          "gf": 44,
+          "ga": 59,
+          "gd": -15,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 19)",
+            "0 pts from safety (Elche)"
+          ]
+        },
+        {
+          "pos": 20,
+          "team": "Oviedo",
+          "pts": 29,
+          "w": 6,
+          "d": 11,
+          "l": 19,
+          "gf": 26,
+          "ga": 56,
+          "gd": -30,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 20)",
+            "10 pts from safety (Elche)",
+            "Mathematically relegated"
+          ]
+        }
+      ],
+      "pichichi": {
+        "title": "Pichichi / Top Scorer — La Liga",
+        "leader": {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 24
+        },
+        "contenders": [
+          {
+            "name": "Vedat Muriqi",
+            "team": "Mallorca",
+            "goals": 21,
+            "gap": 3
+          }
+        ],
+        "race_alive": true
+      },
+      "zamora": {
+        "title": "Trofeo Zamora — La Liga",
+        "note": "Least goals conceded per match (team-level, GK-specific data not available)",
+        "leader": {
+          "team": "Barcelona",
+          "ga": 32,
+          "mp": 36,
+          "ga_per_match": 0.889
+        },
+        "contenders": [
+          {
+            "team": "Real Madrid",
+            "ga": 33,
+            "mp": 36,
+            "ga_per_match": 0.917
+          },
+          {
+            "team": "Getafe",
+            "ga": 37,
+            "mp": 36,
+            "ga_per_match": 1.028
+          },
+          {
+            "team": "Ath Madrid",
+            "ga": 39,
+            "mp": 36,
+            "ga_per_match": 1.083
+          }
+        ],
+        "race_alive": true
+      },
+      "key_matches": [
+        {
+          "home": "Barcelona",
+          "away": "Betis",
+          "home_pos": 1,
+          "away_pos": 5,
+          "pts_gap": 34,
+          "interest": [
+            "Title race"
+          ]
+        },
+        {
+          "home": "Levante",
+          "away": "Mallorca",
+          "home_pos": 19,
+          "away_pos": 18,
+          "pts_gap": 0,
+          "interest": [
+            "RELEGATION 6-POINTER",
+            "Direct rivals (same zone, ≤3 pts apart)"
+          ]
+        },
+        {
+          "home": "Osasuna",
+          "away": "Espanol",
+          "home_pos": 13,
+          "away_pos": 14,
+          "pts_gap": 0,
+          "interest": [
+            "Direct rivals (same zone, ≤3 pts apart)"
+          ]
+        },
+        {
+          "home": "Sociedad",
+          "away": "Valencia",
+          "home_pos": 8,
+          "away_pos": 12,
+          "pts_gap": 2,
+          "interest": [
+            "Direct rivals (same zone, ≤3 pts apart)"
+          ]
+        },
+        {
+          "home": "Alaves",
+          "away": "Oviedo",
+          "home_pos": 15,
+          "away_pos": 20,
+          "pts_gap": 11,
+          "interest": [
+            "Relegation battle"
+          ]
+        }
+      ]
+    },
+    "ESP2": {
+      "name": "Segunda División",
+      "matchday": 40,
+      "remaining_after_this": 2,
+      "is_last_matchday": false,
+      "standings": [
+        {
+          "pos": 1,
+          "team": "Santander",
+          "pts": 75,
+          "w": 23,
+          "d": 6,
+          "l": 10,
+          "gf": 81,
+          "ga": 58,
+          "gd": 23,
+          "zone": "promotion_direct",
+          "stake": [
+            "Direct promotion (pos 1)"
+          ]
+        },
+        {
+          "pos": 2,
+          "team": "Almeria",
+          "pts": 71,
+          "w": 21,
+          "d": 8,
+          "l": 10,
+          "gf": 78,
+          "ga": 58,
+          "gd": 20,
+          "zone": "promotion_direct",
+          "stake": [
+            "Direct promotion (pos 2)"
+          ]
+        },
+        {
+          "pos": 3,
+          "team": "La Coruna",
+          "pts": 71,
+          "w": 20,
+          "d": 11,
+          "l": 8,
+          "gf": 60,
+          "ga": 41,
+          "gd": 19,
+          "zone": "promotion_playoff",
+          "stake": [
+            "Promotion playoff (pos 3)"
+          ]
+        },
+        {
+          "pos": 4,
+          "team": "Malaga",
+          "pts": 66,
+          "w": 19,
+          "d": 9,
+          "l": 11,
+          "gf": 68,
+          "ga": 50,
+          "gd": 18,
+          "zone": "promotion_playoff",
+          "stake": [
+            "Promotion playoff (pos 4)"
+          ]
+        },
+        {
+          "pos": 5,
+          "team": "Las Palmas",
+          "pts": 66,
+          "w": 18,
+          "d": 12,
+          "l": 9,
+          "gf": 52,
+          "ga": 37,
+          "gd": 15,
+          "zone": "promotion_playoff",
+          "stake": [
+            "Promotion playoff (pos 5)"
+          ]
+        },
+        {
+          "pos": 6,
+          "team": "Castellon",
+          "pts": 65,
+          "w": 18,
+          "d": 11,
+          "l": 10,
+          "gf": 66,
+          "ga": 49,
+          "gd": 17,
+          "zone": "promotion_playoff",
+          "stake": [
+            "Promotion playoff (pos 6)"
+          ]
+        },
+        {
+          "pos": 7,
+          "team": "Eibar",
+          "pts": 64,
+          "w": 18,
+          "d": 10,
+          "l": 11,
+          "gf": 48,
+          "ga": 36,
+          "gd": 12,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 8,
+          "team": "Burgos",
+          "pts": 63,
+          "w": 17,
+          "d": 12,
+          "l": 10,
+          "gf": 44,
+          "ga": 33,
+          "gd": 11,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 9,
+          "team": "Cordoba",
+          "pts": 60,
+          "w": 17,
+          "d": 9,
+          "l": 13,
+          "gf": 55,
+          "ga": 56,
+          "gd": -1,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 10,
+          "team": "Andorra",
+          "pts": 58,
+          "w": 16,
+          "d": 10,
+          "l": 13,
+          "gf": 61,
+          "ga": 49,
+          "gd": 12,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 11,
+          "team": "Ceuta",
+          "pts": 55,
+          "w": 15,
+          "d": 10,
+          "l": 14,
+          "gf": 47,
+          "ga": 59,
+          "gd": -12,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 12,
+          "team": "Albacete",
+          "pts": 53,
+          "w": 14,
+          "d": 11,
+          "l": 14,
+          "gf": 51,
+          "ga": 52,
+          "gd": -1,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 13,
+          "team": "Sp Gijon",
+          "pts": 52,
+          "w": 15,
+          "d": 7,
+          "l": 17,
+          "gf": 52,
+          "ga": 51,
+          "gd": 1,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 14,
+          "team": "Granada",
+          "pts": 48,
+          "w": 12,
+          "d": 12,
+          "l": 15,
+          "gf": 48,
+          "ga": 50,
+          "gd": -2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 15,
+          "team": "Valladolid",
+          "pts": 46,
+          "w": 12,
+          "d": 10,
+          "l": 17,
+          "gf": 43,
+          "ga": 50,
+          "gd": -7,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 16,
+          "team": "Sociedad B",
+          "pts": 45,
+          "w": 12,
+          "d": 9,
+          "l": 18,
+          "gf": 48,
+          "ga": 55,
+          "gd": -7,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 17,
+          "team": "Leganes",
+          "pts": 42,
+          "w": 10,
+          "d": 12,
+          "l": 17,
+          "gf": 42,
+          "ga": 48,
+          "gd": -6,
+          "zone": "mid_table",
+          "stake": [
+            "Only 6 pts above relegation"
+          ]
+        },
+        {
+          "pos": 18,
+          "team": "Cadiz",
+          "pts": 39,
+          "w": 10,
+          "d": 9,
+          "l": 20,
+          "gf": 36,
+          "ga": 56,
+          "gd": -20,
+          "zone": "mid_table",
+          "stake": [
+            "Only 3 pts above relegation"
+          ]
+        },
+        {
+          "pos": 19,
+          "team": "Huesca",
+          "pts": 36,
+          "w": 9,
+          "d": 9,
+          "l": 21,
+          "gf": 40,
+          "ga": 61,
+          "gd": -21,
+          "zone": "mid_table",
+          "stake": [
+            "Only 0 pts above relegation"
+          ]
+        },
+        {
+          "pos": 20,
+          "team": "Mirandes",
+          "pts": 36,
+          "w": 9,
+          "d": 9,
+          "l": 21,
+          "gf": 42,
+          "ga": 65,
+          "gd": -23,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 20)",
+            "0 pts from safety (Huesca)"
+          ]
+        },
+        {
+          "pos": 21,
+          "team": "Zaragoza",
+          "pts": 35,
+          "w": 8,
+          "d": 11,
+          "l": 20,
+          "gf": 33,
+          "ga": 53,
+          "gd": -20,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 21)",
+            "1 pts from safety (Huesca)"
+          ]
+        },
+        {
+          "pos": 22,
+          "team": "Cultural Leonesa",
+          "pts": 33,
+          "w": 8,
+          "d": 9,
+          "l": 22,
+          "gf": 36,
+          "ga": 64,
+          "gd": -28,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 22)",
+            "3 pts from safety (Huesca)"
+          ]
+        }
+      ],
+      "pichichi": null,
+      "zamora": {
+        "title": "Zamora — Segunda División",
+        "note": "Least goals conceded per match (team-level, GK-specific data not available)",
+        "leader": {
+          "team": "Burgos",
+          "ga": 33,
+          "mp": 39,
+          "ga_per_match": 0.846
+        },
+        "contenders": [
+          {
+            "team": "Eibar",
+            "ga": 36,
+            "mp": 39,
+            "ga_per_match": 0.923
+          },
+          {
+            "team": "Las Palmas",
+            "ga": 37,
+            "mp": 39,
+            "ga_per_match": 0.949
+          },
+          {
+            "team": "La Coruna",
+            "ga": 41,
+            "mp": 39,
+            "ga_per_match": 1.051
+          }
+        ],
+        "race_alive": true
+      },
+      "key_matches": [
+        {
+          "home": "Cultural Leonesa",
+          "away": "Eibar",
+          "home_pos": 22,
+          "away_pos": 7,
+          "pts_gap": 31,
+          "interest": [
+            "Relegation battle"
+          ]
+        },
+        {
+          "home": "Zaragoza",
+          "away": "Sp Gijon",
+          "home_pos": 21,
+          "away_pos": 13,
+          "pts_gap": 17,
+          "interest": [
+            "Relegation battle"
+          ]
+        },
+        {
+          "home": "Mirandes",
+          "away": "Sociedad B",
+          "home_pos": 20,
+          "away_pos": 16,
+          "pts_gap": 9,
+          "interest": [
+            "Relegation battle"
+          ]
+        }
+      ]
+    },
+    "ITA1": {
+      "name": "Serie A",
+      "matchday": 37,
+      "remaining_after_this": 1,
+      "is_last_matchday": false,
+      "standings": [
+        {
+          "pos": 1,
+          "team": "Inter",
+          "pts": 85,
+          "w": 27,
+          "d": 4,
+          "l": 5,
+          "gf": 85,
+          "ga": 31,
+          "gd": 54,
+          "zone": "champion",
+          "stake": [
+            "Champion confirmed (lead: 15 pts)"
+          ]
+        },
+        {
+          "pos": 2,
+          "team": "Napoli",
+          "pts": 70,
+          "w": 21,
+          "d": 7,
+          "l": 8,
+          "gf": 54,
+          "ga": 36,
+          "gd": 18,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 2)",
+            "Only 2 pts above Juventus"
+          ]
+        },
+        {
+          "pos": 3,
+          "team": "Juventus",
+          "pts": 68,
+          "w": 19,
+          "d": 11,
+          "l": 6,
+          "gf": 59,
+          "ga": 30,
+          "gd": 29,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 3)",
+            "Only 1 pts above Roma"
+          ]
+        },
+        {
+          "pos": 4,
+          "team": "Roma",
+          "pts": 67,
+          "w": 21,
+          "d": 4,
+          "l": 11,
+          "gf": 55,
+          "ga": 31,
+          "gd": 24,
+          "zone": "ucl",
+          "stake": [
+            "UCL zone (pos 4)",
+            "Only 0 pts above Milan"
+          ]
+        },
+        {
+          "pos": 5,
+          "team": "Milan",
+          "pts": 67,
+          "w": 19,
+          "d": 10,
+          "l": 7,
+          "gf": 50,
+          "ga": 32,
+          "gd": 18,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 5)"
+          ]
+        },
+        {
+          "pos": 6,
+          "team": "Como",
+          "pts": 65,
+          "w": 18,
+          "d": 11,
+          "l": 7,
+          "gf": 60,
+          "ga": 28,
+          "gd": 32,
+          "zone": "uel",
+          "stake": [
+            "Europa zone (pos 6)"
+          ]
+        },
+        {
+          "pos": 7,
+          "team": "Atalanta",
+          "pts": 58,
+          "w": 15,
+          "d": 13,
+          "l": 8,
+          "gf": 50,
+          "ga": 34,
+          "gd": 16,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 8,
+          "team": "Bologna",
+          "pts": 52,
+          "w": 15,
+          "d": 7,
+          "l": 14,
+          "gf": 45,
+          "ga": 43,
+          "gd": 2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 9,
+          "team": "Lazio",
+          "pts": 51,
+          "w": 13,
+          "d": 12,
+          "l": 11,
+          "gf": 39,
+          "ga": 37,
+          "gd": 2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 10,
+          "team": "Udinese",
+          "pts": 50,
+          "w": 14,
+          "d": 8,
+          "l": 14,
+          "gf": 45,
+          "ga": 46,
+          "gd": -1,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 11,
+          "team": "Sassuolo",
+          "pts": 49,
+          "w": 14,
+          "d": 7,
+          "l": 15,
+          "gf": 44,
+          "ga": 46,
+          "gd": -2,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 12,
+          "team": "Torino",
+          "pts": 44,
+          "w": 12,
+          "d": 8,
+          "l": 16,
+          "gf": 41,
+          "ga": 59,
+          "gd": -18,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 13,
+          "team": "Parma",
+          "pts": 42,
+          "w": 10,
+          "d": 12,
+          "l": 14,
+          "gf": 27,
+          "ga": 45,
+          "gd": -18,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 14,
+          "team": "Genoa",
+          "pts": 41,
+          "w": 10,
+          "d": 11,
+          "l": 15,
+          "gf": 40,
+          "ga": 48,
+          "gd": -8,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 15,
+          "team": "Fiorentina",
+          "pts": 38,
+          "w": 8,
+          "d": 14,
+          "l": 14,
+          "gf": 38,
+          "ga": 49,
+          "gd": -11,
+          "zone": "mid_table",
+          "stake": [
+            "Nothing at stake (mid-table)"
+          ]
+        },
+        {
+          "pos": 16,
+          "team": "Cagliari",
+          "pts": 37,
+          "w": 9,
+          "d": 10,
+          "l": 17,
+          "gf": 36,
+          "ga": 51,
+          "gd": -15,
+          "zone": "mid_table",
+          "stake": [
+            "Only 6 pts above relegation"
+          ]
+        },
+        {
+          "pos": 17,
+          "team": "Lecce",
+          "pts": 32,
+          "w": 8,
+          "d": 8,
+          "l": 20,
+          "gf": 24,
+          "ga": 48,
+          "gd": -24,
+          "zone": "mid_table",
+          "stake": [
+            "Only 1 pts above relegation"
+          ]
+        },
+        {
+          "pos": 18,
+          "team": "Cremonese",
+          "pts": 31,
+          "w": 7,
+          "d": 10,
+          "l": 19,
+          "gf": 30,
+          "ga": 53,
+          "gd": -23,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 18)",
+            "1 pts from safety (Lecce)"
+          ]
+        },
+        {
+          "pos": 19,
+          "team": "Verona",
+          "pts": 20,
+          "w": 3,
+          "d": 11,
+          "l": 22,
+          "gf": 24,
+          "ga": 58,
+          "gd": -34,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 19)",
+            "12 pts from safety (Lecce)",
+            "Mathematically relegated"
+          ]
+        },
+        {
+          "pos": 20,
+          "team": "Pisa",
+          "pts": 18,
+          "w": 2,
+          "d": 12,
+          "l": 22,
+          "gf": 25,
+          "ga": 66,
+          "gd": -41,
+          "zone": "relegation",
+          "stake": [
+            "RELEGATION ZONE (pos 20)",
+            "14 pts from safety (Lecce)",
+            "Mathematically relegated"
+          ]
+        }
+      ],
+      "pichichi": {
+        "title": "Pichichi / Top Scorer — Serie A",
+        "leader": {
+          "name": "Lautaro Martínez",
+          "team": "Internazionale",
+          "goals": 16
+        },
+        "contenders": [
+          {
+            "name": "Marcus Thuram",
+            "team": "Internazionale",
+            "goals": 13,
+            "gap": 3
+          },
+          {
+            "name": "Anastasios Douvikas",
+            "team": "Como",
+            "goals": 12,
+            "gap": 4
+          },
+          {
+            "name": "Nico Paz",
+            "team": "Como",
+            "goals": 12,
+            "gap": 4
+          }
+        ],
+        "race_alive": true
+      },
+      "zamora": {
+        "title": "Best GK — Serie A",
+        "note": "Least goals conceded per match (team-level, GK-specific data not available)",
+        "leader": {
+          "team": "Como",
+          "ga": 28,
+          "mp": 36,
+          "ga_per_match": 0.778
+        },
+        "contenders": [
+          {
+            "team": "Juventus",
+            "ga": 30,
+            "mp": 36,
+            "ga_per_match": 0.833
+          },
+          {
+            "team": "Inter",
+            "ga": 31,
+            "mp": 36,
+            "ga_per_match": 0.861
+          },
+          {
+            "team": "Roma",
+            "ga": 31,
+            "mp": 36,
+            "ga_per_match": 0.861
+          }
+        ],
+        "race_alive": true
+      },
+      "key_matches": [
+        {
+          "home": "Udinese",
+          "away": "Cremonese",
+          "home_pos": 10,
+          "away_pos": 18,
+          "pts_gap": 19,
+          "interest": [
+            "Relegation battle"
+          ]
+        },
+        {
+          "home": "Inter",
+          "away": "Verona",
+          "home_pos": 1,
+          "away_pos": 19,
+          "pts_gap": 65,
+          "interest": [
+            "Relegation battle",
+            "Title race"
+          ]
+        },
+        {
+          "home": "Napoli",
+          "away": "Pisa",
+          "home_pos": 2,
+          "away_pos": 20,
+          "pts_gap": 52,
+          "interest": [
+            "Relegation battle"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "meta": {
+    "id": "2026-05-17_ac-milan-vs-genoa",
+    "scraped_at": "2026-05-15T16:38:49.873225",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "AC Milan",
+    "away_team": "Genoa",
+    "bet365_event_id": "193714565",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 2.05,
+      "home_or_draw": 1.182,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.062,
+        "1.5": 1.3,
+        "2.5": 1.909,
+        "3.5": 3.4,
+        "4.5": 6.5,
+        "5.5": 13.0,
+        "6.5": 26.0,
+        "7.5": 67.0
+      },
+      "under": {
+        "1.5": 10.0,
+        "2.5": 3.5,
+        "3.5": 1.909,
+        "4.5": 1.333,
+        "5.5": 1.111,
+        "6.5": 1.04,
+        "7.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.04,
+        "5.5": 1.1,
+        "6.5": 1.2,
+        "7.5": 1.4,
+        "8.5": 1.667,
+        "9.5": 2.2,
+        "10.5": 3.0,
+        "11.5": 4.0,
+        "12.5": 6.0,
+        "13.5": 9.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 13.0,
+        "6.5": 7.0,
+        "7.5": 4.333,
+        "8.5": 2.75,
+        "9.5": 2.1,
+        "10.5": 1.615,
+        "11.5": 1.364,
+        "12.5": 1.222,
+        "13.5": 1.125,
+        "14.5": 1.071,
+        "15.5": 1.036,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.5,
+        "1.5": 9.0,
+        "2.5": 26.0,
+        "3.5": 3.0,
+        "4.5": 5.0,
+        "5.5": 9.5,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 7.5,
+        "9.5": 12.0,
+        "10.5": 17.0,
+        "11.5": 23.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.833,
+        "4.5": 1.364,
+        "5.5": 1.143,
+        "6.5": 1.05,
+        "7.5": 1.025,
+        "8.5": 1.167,
+        "9.5": 1.071,
+        "10.5": 1.04,
+        "11.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.75,
+        "4.5": 9.0,
+        "5.5": 17.0,
+        "6.5": 26.0,
+        "7.5": 11.0,
+        "8.5": 17.0,
+        "9.5": 26.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.04,
+        "3.5": 1.444,
+        "4.5": 1.167,
+        "5.5": 1.056,
+        "6.5": 1.025,
+        "7.5": 1.091,
+        "8.5": 1.04,
+        "9.5": 1.02
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 1.833
+      },
+      "under": {
+        "3.5": 3.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.5
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.5
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0
+      },
+      "under": {
+        "1.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Genoa": 34.0,
+      "Empate": 5.5,
+      "AC Milan": 2.75
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Christian Pulisic",
+        "odds": 2.25
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 2.25
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 2.25
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 2.75
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 2.75
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 3.75
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 4.0
+      },
+      {
+        "player": "Alexis Saelemaekers",
+        "odds": 4.0
+      },
+      {
+        "player": "Luka Modric",
+        "odds": 4.0
+      },
+      {
+        "player": "Vitinha",
+        "odds": 4.0
+      },
+      {
+        "player": "Caleb Ekuban",
+        "odds": 4.5
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 4.5
+      },
+      {
+        "player": "Daniel Ndulue",
+        "odds": 4.75
+      },
+      {
+        "player": "Davide Bartesaghi",
+        "odds": 4.75
+      },
+      {
+        "player": "Jeff Ekhator",
+        "odds": 4.75
+      },
+      {
+        "player": "Junior Messias",
+        "odds": 4.75
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 4.75
+      },
+      {
+        "player": "Maxwel Cornet",
+        "odds": 5.0
+      },
+      {
+        "player": "Tommaso Baldanzi",
+        "odds": 5.0
+      },
+      {
+        "player": "Alexsandro Amorim",
+        "odds": 6.5
+      },
+      {
+        "player": "Ardon Jashari",
+        "odds": 6.5
+      },
+      {
+        "player": "David Odogu",
+        "odds": 6.5
+      },
+      {
+        "player": "Mikael Egill Ellertsson",
+        "odds": 6.5
+      },
+      {
+        "player": "Samuele Ricci",
+        "odds": 7.5
+      },
+      {
+        "player": "Youssouf Fofana",
+        "odds": 7.5
+      },
+      {
+        "player": "Brooke Norton-Cuffy",
+        "odds": 8.0
+      },
+      {
+        "player": "Patrizio Masini",
+        "odds": 8.0
+      },
+      {
+        "player": "Zachary Athekame",
+        "odds": 8.0
+      },
+      {
+        "player": "Koni de Winter",
+        "odds": 9.0
+      },
+      {
+        "player": "Morten Frendrup",
+        "odds": 9.0
+      },
+      {
+        "player": "Strahinja Pavlovic",
+        "odds": 9.0
+      },
+      {
+        "player": "Fikayo Tomori",
+        "odds": 10.0
+      },
+      {
+        "player": "Jean Onana",
+        "odds": 10.0
+      },
+      {
+        "player": "Leo Ostigard",
+        "odds": 10.0
+      },
+      {
+        "player": "Pervis Estupiñán",
+        "odds": 10.0
+      },
+      {
+        "player": "Jacopo Grossi",
+        "odds": 11.0
+      },
+      {
+        "player": "Matteo Gabbia",
+        "odds": 11.0
+      },
+      {
+        "player": "Johan Vasquez",
+        "odds": 13.0
+      },
+      {
+        "player": "Sebastian Otoa",
+        "odds": 13.0
+      },
+      {
+        "player": "Stefano Sabelli",
+        "odds": 13.0
+      },
+      {
+        "player": "Alessandro Marcandalli",
+        "odds": 15.0
+      },
+      {
+        "player": "Mamedi Doucoure",
+        "odds": 15.0
+      },
+      {
+        "player": "Nils Zatterstrom",
+        "odds": 15.0
+      },
+      {
+        "player": "Aaron Martin",
+        "odds": 19.0
+      },
+      {
+        "player": "Wedtoin Ouedraogo",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.02
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.03
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 1.04
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.04
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.04
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.04
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 1.062
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.062
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.062
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 1.071
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 1.071
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.071
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.1
+      },
+      {
+        "player": "Junior Messias",
+        "odds": 1.111
+      },
+      {
+        "player": "Vitinha",
+        "odds": 1.111
+      },
+      {
+        "player": "Alexis Saelemaekers",
+        "odds": 1.111
+      },
+      {
+        "player": "Luka Modric",
+        "odds": 1.111
+      },
+      {
+        "player": "Caleb Ekuban",
+        "odds": 1.125
+      },
+      {
+        "player": "Daniel Ndulue",
+        "odds": 1.125
+      },
+      {
+        "player": "Jeff Ekhator",
+        "odds": 1.125
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.125
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.125
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.167
+      },
+      {
+        "player": "Davide Bartesaghi",
+        "odds": 1.182
+      },
+      {
+        "player": "Alexsandro Amorim",
+        "odds": 1.2
+      },
+      {
+        "player": "Maxwel Cornet",
+        "odds": 1.2
+      },
+      {
+        "player": "Tommaso Baldanzi",
+        "odds": 1.2
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 1.2
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.2
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.2
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 1.222
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.222
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.222
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.222
+      },
+      {
+        "player": "Youssouf Fofana",
+        "odds": 1.25
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 1.25
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 1.25
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.25
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.25
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.25
+      },
+      {
+        "player": "Brooke Norton-Cuffy",
+        "odds": 1.286
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 1.286
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 1.3
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 1.3
+      },
+      {
+        "player": "Samuele Ricci",
+        "odds": 1.333
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 1.333
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.333
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 1.333
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 1.364
+      },
+      {
+        "player": "Caleb Ekuban",
+        "odds": 1.364
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.167
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.222
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.222
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.4
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.4
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 1.444
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 1.5
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.5
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 1.571
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.571
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.615
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.615
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 1.667
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 1.667
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 1.667
+      },
+      {
+        "player": "Vitinha",
+        "odds": 1.727
+      },
+      {
+        "player": "Alexis Saelemaekers",
+        "odds": 1.727
+      },
+      {
+        "player": "Luka Modric",
+        "odds": 1.727
+      },
+      {
+        "player": "Caleb Ekuban",
+        "odds": 1.8
+      },
+      {
+        "player": "Santiago Gimenez",
+        "odds": 1.8
+      },
+      {
+        "player": "Junior Messias",
+        "odds": 1.833
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 1.909
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 1.909
+      },
+      {
+        "player": "Daniel Ndulue",
+        "odds": 2.0
+      },
+      {
+        "player": "Jeff Ekhator",
+        "odds": 2.0
+      },
+      {
+        "player": "Davide Bartesaghi",
+        "odds": 2.0
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 2.0
+      },
+      {
+        "player": "Christopher Nkunku",
+        "odds": 2.0
+      },
+      {
+        "player": "Niclas Fullkrug",
+        "odds": 2.0
+      },
+      {
+        "player": "Maxwel Cornet",
+        "odds": 2.1
+      },
+      {
+        "player": "Tommaso Baldanzi",
+        "odds": 2.1
+      },
+      {
+        "player": "Christian Pulisic",
+        "odds": 2.1
+      },
+      {
+        "player": "Rafael Leao",
+        "odds": 2.1
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 2.1
+      },
+      {
+        "player": "Adrien Rabiot",
+        "odds": 2.1
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 2.2
+      },
+      {
+        "player": "Ruben Loftus-Cheek",
+        "odds": 2.2
+      },
+      {
+        "player": "Lorenzo Colombo",
+        "odds": 2.25
+      },
+      {
+        "player": "Ruslan Malinovsky",
+        "odds": 2.5
+      },
+      {
+        "player": "Vitinha",
+        "odds": 2.5
+      },
+      {
+        "player": "Alexis Saelemaekers",
+        "odds": 2.5
+      },
+      {
+        "player": "Luka Modric",
+        "odds": 2.5
+      },
+      {
+        "player": "Alexsandro Amorim",
+        "odds": 2.625
+      },
+      {
+        "player": "Brooke Norton-Cuffy",
+        "odds": 2.625
+      },
+      {
+        "player": "Mikael Egill Ellertsson",
+        "odds": 2.625
+      },
+      {
+        "player": "Caleb Ekuban",
+        "odds": 2.625
+      },
+      {
+        "player": "Vitinha",
+        "odds": 2.625
+      },
+      {
+        "player": "Ardon Jashari",
+        "odds": 2.625
+      },
+      {
+        "player": "David Odogu",
+        "odds": 2.625
+      },
+      {
+        "player": "Samuele Ricci",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 101.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 301.0,
+      "Primeros 10 minutos": 251.0,
+      "primeros 10 minutos": 7.0
+    }
+  }
+}

@@ -132,6 +132,11 @@ jobs:
           echo "--- Building referee per-match ---"
           python3 scripts/build_referee.py || echo "⚠️ Referee build failed (non-blocking)"
 
+      - name: Build stakes (what's at play)
+        run: |
+          echo "--- Building stakes ---"
+          python3 scripts/build_stakes.py || echo "⚠️ Stakes failed (non-blocking)"
+
       - name: Split bulk data to per-match files
         run: |
           echo "--- Splitting bulk to per-match ---"

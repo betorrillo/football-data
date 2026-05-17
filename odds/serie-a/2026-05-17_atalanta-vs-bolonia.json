@@ -1,0 +1,778 @@
+{
+  "meta": {
+    "id": "2026-05-17_atalanta-vs-bolonia",
+    "scraped_at": "2026-05-17T16:19:39.346137",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Atalanta",
+    "away_team": "Bolonia",
+    "bet365_event_id": "193714557",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.2,
+      "draw_or_away": 2.0,
+      "home_or_away": 1.222
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.222,
+        "2.5": 1.667,
+        "3.5": 2.75,
+        "4.5": 5.0,
+        "5.5": 10.0,
+        "6.5": 19.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 4.333,
+        "3.5": 2.2,
+        "4.5": 1.444,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.02
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.03,
+        "5.5": 1.083,
+        "6.5": 1.167,
+        "7.5": 1.333,
+        "8.5": 1.571,
+        "9.5": 2.0,
+        "10.5": 2.625,
+        "11.5": 3.5,
+        "12.5": 5.0,
+        "13.5": 8.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 21.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 15.0,
+        "6.5": 8.0,
+        "7.5": 5.0,
+        "8.5": 3.25,
+        "9.5": 2.25,
+        "10.5": 1.727,
+        "11.5": 1.444,
+        "12.5": 1.286,
+        "13.5": 1.167,
+        "14.5": 1.083,
+        "15.5": 1.05,
+        "16.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.75,
+        "4.5": 4.5,
+        "5.5": 8.0,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.5,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 2.0,
+        "4.5": 1.444,
+        "5.5": 1.182,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.111,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 15.0,
+        "2.5": 34.0,
+        "3.5": 5.0,
+        "4.5": 9.5,
+        "5.5": 17.0,
+        "6.5": 29.0,
+        "7.5": 12.0,
+        "8.5": 17.0,
+        "9.5": 26.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.036,
+        "3.5": 1.4,
+        "4.5": 1.167,
+        "5.5": 1.05,
+        "6.5": 1.02,
+        "7.5": 1.083,
+        "8.5": 1.04,
+        "9.5": 1.02
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 2.2
+      },
+      "under": {
+        "3.5": 2.5
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 101.0
+      },
+      "under": {
+        "1.5": 1.03
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.5
+      },
+      "under": {
+        "1.5": 1.03,
+        "2.5": 1.909
+      }
+    },
+    "ht_ft": {
+      "Atalanta": 21.0,
+      "Empate": 15.0,
+      "Bolonia": 7.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 2.05
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 2.05
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 2.1
+      },
+      {
+        "player": "Dominic Vavassori",
+        "odds": 2.4
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 2.75
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 3.1
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 3.25
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 3.4
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 3.4
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 3.4
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 3.4
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 3.6
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 3.6
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 3.6
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 3.75
+      },
+      {
+        "player": "Federico Bernardeschi",
+        "odds": 4.5
+      },
+      {
+        "player": "Jonathan Rowe",
+        "odds": 4.5
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 4.75
+      },
+      {
+        "player": "Ederson Silva",
+        "odds": 4.75
+      },
+      {
+        "player": "Nicolo Cambiaghi",
+        "odds": 6.0
+      },
+      {
+        "player": "Tommaso Pobega",
+        "odds": 6.0
+      },
+      {
+        "player": "Mitchel Bakker",
+        "odds": 7.0
+      },
+      {
+        "player": "Lewis Ferguson",
+        "odds": 7.5
+      },
+      {
+        "player": "Relja Obric",
+        "odds": 7.5
+      },
+      {
+        "player": "Simon Sohm",
+        "odds": 7.5
+      },
+      {
+        "player": "Yunus Musah",
+        "odds": 7.5
+      },
+      {
+        "player": "Marten de Roon",
+        "odds": 8.0
+      },
+      {
+        "player": "Nadir Zortea",
+        "odds": 8.0
+      },
+      {
+        "player": "Raoul Bellanova",
+        "odds": 8.0
+      },
+      {
+        "player": "Giorgio Scalvini",
+        "odds": 9.0
+      },
+      {
+        "player": "Honest Ahanor",
+        "odds": 9.0
+      },
+      {
+        "player": "Lorenzo Bernasconi",
+        "odds": 9.0
+      },
+      {
+        "player": "Nikola Moro",
+        "odds": 9.0
+      },
+      {
+        "player": "Charalambos Lykogiannis",
+        "odds": 10.0
+      },
+      {
+        "player": "Juan Miranda",
+        "odds": 10.0
+      },
+      {
+        "player": "Joao Mario",
+        "odds": 10.0
+      },
+      {
+        "player": "Nicolo Casale",
+        "odds": 10.0
+      },
+      {
+        "player": "Berat Djimsiti",
+        "odds": 12.0
+      },
+      {
+        "player": "Isak Hien",
+        "odds": 12.0
+      },
+      {
+        "player": "Martin Vitik",
+        "odds": 12.0
+      },
+      {
+        "player": "Odilon Kossounou",
+        "odds": 12.0
+      },
+      {
+        "player": "Remo Freuler",
+        "odds": 12.0
+      },
+      {
+        "player": "Sead Kolasinac",
+        "odds": 12.0
+      },
+      {
+        "player": "Torbjorn Heggem",
+        "odds": 12.0
+      },
+      {
+        "player": "Eivind Helland",
+        "odds": 15.0
+      },
+      {
+        "player": "Lorenzo De Silvestri",
+        "odds": 15.0
+      },
+      {
+        "player": "Bodin Tomasevic",
+        "odds": 17.0
+      },
+      {
+        "player": "Jhon Lucumi",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.015
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.015
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 1.02
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.025
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 1.04
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.05
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 1.05
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 1.05
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.062
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 1.062
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 1.071
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 1.071
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 1.071
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 1.071
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 1.083
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 1.083
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.083
+      },
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.1
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.1
+      },
+      {
+        "player": "Jonathan Rowe",
+        "odds": 1.1
+      },
+      {
+        "player": "Ederson Silva",
+        "odds": 1.111
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 1.143
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.143
+      },
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.143
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.143
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.167
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 1.167
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.2
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 1.2
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.2
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 1.2
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 1.222
+      },
+      {
+        "player": "Nicolo Cambiaghi",
+        "odds": 1.222
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 1.222
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 1.25
+      },
+      {
+        "player": "Tommaso Pobega",
+        "odds": 1.25
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 1.25
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 1.25
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 1.25
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 1.25
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 1.286
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 1.286
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 1.286
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 1.286
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 1.286
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 1.3
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 1.3
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 1.3
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 1.3
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 1.3
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.222
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.222
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.222
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 1.4
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.4
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 1.5
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 1.533
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 1.533
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 1.571
+      },
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.571
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.571
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 1.571
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 1.571
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 1.571
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 1.615
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 1.615
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.615
+      },
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 1.667
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 1.667
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 1.667
+      },
+      {
+        "player": "Jonathan Rowe",
+        "odds": 1.667
+      },
+      {
+        "player": "Davide Zappacosta",
+        "odds": 1.833
+      },
+      {
+        "player": "Ederson Silva",
+        "odds": 1.833
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 1.909
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 1.909
+      },
+      {
+        "player": "Giacomo Raspadori",
+        "odds": 2.0
+      },
+      {
+        "player": "Gianluca Scamacca",
+        "odds": 2.0
+      },
+      {
+        "player": "Nikola Krstovic",
+        "odds": 2.0
+      },
+      {
+        "player": "Charles De Ketelaere",
+        "odds": 2.0
+      },
+      {
+        "player": "Lazar Samardzic",
+        "odds": 2.1
+      },
+      {
+        "player": "Riccardo Orsolini",
+        "odds": 2.1
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 2.2
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 2.2
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 2.2
+      },
+      {
+        "player": "Jens Odgaard",
+        "odds": 2.2
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 2.2
+      },
+      {
+        "player": "Thijs Dallinga",
+        "odds": 2.2
+      },
+      {
+        "player": "Mitchel Bakker",
+        "odds": 2.25
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 2.25
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 2.25
+      },
+      {
+        "player": "Tommaso Pobega",
+        "odds": 2.25
+      },
+      {
+        "player": "Benjamin Dominguez",
+        "odds": 2.25
+      },
+      {
+        "player": "Francesco Castaldo",
+        "odds": 2.25
+      },
+      {
+        "player": "Santiago Castro",
+        "odds": 2.25
+      },
+      {
+        "player": "Nicola Zalewski",
+        "odds": 2.375
+      },
+      {
+        "player": "Kamaldeen Sulemana",
+        "odds": 2.5
+      },
+      {
+        "player": "Mario Pasalic",
+        "odds": 2.5
+      },
+      {
+        "player": "Nicolo Cambiaghi",
+        "odds": 2.5
+      },
+      {
+        "player": "Jonathan Rowe",
+        "odds": 2.5
+      },
+      {
+        "player": "Raoul Bellanova",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 301.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 301.0,
+      "Primeros 10 minutos": 6.5,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}

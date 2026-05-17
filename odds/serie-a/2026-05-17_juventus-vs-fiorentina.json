@@ -1,0 +1,766 @@
+{
+  "meta": {
+    "id": "2026-05-17_juventus-vs-fiorentina",
+    "scraped_at": "2026-05-15T16:38:48.863282",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Juventus",
+    "away_team": "Fiorentina",
+    "bet365_event_id": "193714573",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.071,
+      "draw_or_away": 3.4,
+      "home_or_away": 1.167
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.167,
+        "2.5": 1.571,
+        "3.5": 2.5,
+        "4.5": 4.333,
+        "5.5": 8.0,
+        "6.5": 17.0,
+        "7.5": 29.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 5.0,
+        "3.5": 2.375,
+        "4.5": 1.533,
+        "5.5": 1.222,
+        "6.5": 1.083,
+        "7.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.03,
+        "5.5": 1.083,
+        "6.5": 1.167,
+        "7.5": 1.333,
+        "8.5": 1.571,
+        "9.5": 2.0,
+        "10.5": 2.625,
+        "11.5": 3.5,
+        "12.5": 5.0,
+        "13.5": 8.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 21.0
+      },
+      "under": {
+        "4.5": 23.0,
+        "5.5": 15.0,
+        "6.5": 8.0,
+        "7.5": 5.0,
+        "8.5": 3.25,
+        "9.5": 2.25,
+        "10.5": 1.727,
+        "11.5": 1.444,
+        "12.5": 1.286,
+        "13.5": 1.167,
+        "14.5": 1.083,
+        "15.5": 1.05,
+        "16.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.1,
+        "1.5": 7.0,
+        "2.5": 21.0,
+        "3.5": 41.0,
+        "4.5": 4.0,
+        "5.5": 7.0,
+        "6.5": 12.0,
+        "7.5": 19.0,
+        "8.5": 29.0,
+        "9.5": 7.0,
+        "10.5": 11.0,
+        "11.5": 15.0,
+        "12.5": 21.0
+      },
+      "under": {
+        "1.5": 1.667,
+        "2.5": 1.1,
+        "3.5": 1.02,
+        "4.5": 1.5,
+        "5.5": 1.222,
+        "6.5": 1.083,
+        "7.5": 1.036,
+        "8.5": 1.02,
+        "9.5": 1.182,
+        "10.5": 1.083,
+        "11.5": 1.045,
+        "12.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.5,
+        "1.5": 17.0,
+        "2.5": 41.0,
+        "3.5": 6.5,
+        "4.5": 13.0,
+        "5.5": 21.0,
+        "6.5": 10.0,
+        "7.5": 17.0,
+        "8.5": 23.0
+      },
+      "under": {
+        "1.5": 1.286,
+        "2.5": 1.03,
+        "3.5": 1.3,
+        "4.5": 1.1,
+        "5.5": 1.036,
+        "6.5": 1.125,
+        "7.5": 1.045,
+        "8.5": 1.025
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.2
+      },
+      "under": {
+        "4.5": 2.25
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 126.0
+      },
+      "under": {
+        "1.5": 1.025
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 67.0,
+        "2.5": 3.5
+      },
+      "under": {
+        "1.5": 1.062,
+        "2.5": 2.05
+      }
+    },
+    "ht_ft": {
+      "Juventus": 19.0,
+      "Empate": 21.0,
+      "Fiorentina": 17.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.833
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.833
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.952
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 2.05
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 2.375
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 2.5
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 2.5
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 2.5
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 2.5
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 3.1
+      },
+      {
+        "player": "Khephren Thuram",
+        "odds": 3.6
+      },
+      {
+        "player": "Emil Holm",
+        "odds": 4.0
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 4.0
+      },
+      {
+        "player": "Moise Kean",
+        "odds": 4.333
+      },
+      {
+        "player": "Roberto Piccoli",
+        "odds": 4.333
+      },
+      {
+        "player": "Albert Gudmundsson",
+        "odds": 4.5
+      },
+      {
+        "player": "Filip Kostic",
+        "odds": 5.0
+      },
+      {
+        "player": "Riccardo Braschi",
+        "odds": 5.0
+      },
+      {
+        "player": "Andrea Cambiaso",
+        "odds": 6.0
+      },
+      {
+        "player": "Manuel Locatelli",
+        "odds": 6.0
+      },
+      {
+        "player": "Manor Solomon",
+        "odds": 6.5
+      },
+      {
+        "player": "Marco Brescianini",
+        "odds": 6.5
+      },
+      {
+        "player": "Antonio Pirro",
+        "odds": 7.0
+      },
+      {
+        "player": "Federico Gatti",
+        "odds": 7.0
+      },
+      {
+        "player": "Giovanni Fabbian",
+        "odds": 7.0
+      },
+      {
+        "player": "Jacopo Fazzini",
+        "odds": 7.0
+      },
+      {
+        "player": "Bremer",
+        "odds": 7.0
+      },
+      {
+        "player": "Rolando Mandragora",
+        "odds": 7.0
+      },
+      {
+        "player": "Niccolo Fortini",
+        "odds": 8.0
+      },
+      {
+        "player": "Giorgio Puzzoli",
+        "odds": 9.0
+      },
+      {
+        "player": "Jack Harrison",
+        "odds": 9.0
+      },
+      {
+        "player": "Lloyd Kelly",
+        "odds": 9.0
+      },
+      {
+        "player": "Pierre Kalulu Kyatengwa",
+        "odds": 9.0
+      },
+      {
+        "player": "Robin Gosens",
+        "odds": 10.0
+      },
+      {
+        "player": "Cher Ndour",
+        "odds": 11.0
+      },
+      {
+        "player": "Fabiano Parisi",
+        "odds": 11.0
+      },
+      {
+        "player": "Nicolo Fagioli",
+        "odds": 11.0
+      },
+      {
+        "player": "Daniele Rugani",
+        "odds": 17.0
+      },
+      {
+        "player": "Eddy Kouadio",
+        "odds": 17.0
+      },
+      {
+        "player": "Luis Balbo",
+        "odds": 17.0
+      },
+      {
+        "player": "Pietro Comuzzo",
+        "odds": 17.0
+      },
+      {
+        "player": "Dodo dos Santos",
+        "odds": 17.0
+      },
+      {
+        "player": "Eman Kospo",
+        "odds": 21.0
+      },
+      {
+        "player": "Luca Ranieri",
+        "odds": 26.0
+      },
+      {
+        "player": "Marin Pongracic",
+        "odds": 26.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.01
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.012
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.012
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.015
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.015
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 1.02
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.02
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.02
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.03
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 1.05
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.05
+      },
+      {
+        "player": "Roberto Piccoli",
+        "odds": 1.05
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.062
+      },
+      {
+        "player": "Moise Kean",
+        "odds": 1.062
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.071
+      },
+      {
+        "player": "Khephren Thuram",
+        "odds": 1.083
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.083
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.083
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.083
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.1
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.1
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.1
+      },
+      {
+        "player": "Emil Holm",
+        "odds": 1.111
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.111
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.111
+      },
+      {
+        "player": "Manuel Locatelli",
+        "odds": 1.125
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.125
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 1.125
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.125
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.125
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.125
+      },
+      {
+        "player": "Albert Gudmundsson",
+        "odds": 1.125
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 1.143
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.143
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.143
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.143
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.167
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 1.167
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.167
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.167
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.182
+      },
+      {
+        "player": "Filip Kostic",
+        "odds": 1.2
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.2
+      },
+      {
+        "player": "Riccardo Braschi",
+        "odds": 1.2
+      },
+      {
+        "player": "Rolando Mandragora",
+        "odds": 1.2
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 1.222
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.222
+      },
+      {
+        "player": "Roberto Piccoli",
+        "odds": 1.222
+      },
+      {
+        "player": "Andrea Cambiaso",
+        "odds": 1.25
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.167
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.167
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.167
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.167
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.167
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.182
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.286
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.3
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.364
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.444
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 1.5
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.5
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.5
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.5
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.5
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.5
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.533
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.571
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.571
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.571
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.571
+      },
+      {
+        "player": "Roberto Piccoli",
+        "odds": 1.571
+      },
+      {
+        "player": "Khephren Thuram",
+        "odds": 1.615
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.615
+      },
+      {
+        "player": "Moise Kean",
+        "odds": 1.615
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.667
+      },
+      {
+        "player": "Emil Holm",
+        "odds": 1.727
+      },
+      {
+        "player": "Fabio Miretti",
+        "odds": 1.727
+      },
+      {
+        "player": "Lois Openda",
+        "odds": 1.727
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.727
+      },
+      {
+        "player": "Jeremie Boga",
+        "odds": 1.8
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 1.8
+      },
+      {
+        "player": "Dusan Vlahovic",
+        "odds": 1.833
+      },
+      {
+        "player": "Jonathan David",
+        "odds": 1.833
+      },
+      {
+        "player": "Kenan Yildiz",
+        "odds": 1.833
+      },
+      {
+        "player": "Edon Zhegrova",
+        "odds": 1.833
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 1.833
+      },
+      {
+        "player": "Francisco Conceicao",
+        "odds": 1.833
+      },
+      {
+        "player": "Albert Gudmundsson",
+        "odds": 1.833
+      },
+      {
+        "player": "Manuel Locatelli",
+        "odds": 2.0
+      },
+      {
+        "player": "Teun Koopmeiners",
+        "odds": 2.0
+      },
+      {
+        "player": "Filip Kostic",
+        "odds": 2.1
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 2.1
+      },
+      {
+        "player": "Riccardo Braschi",
+        "odds": 2.1
+      },
+      {
+        "player": "Vasilije Adzic",
+        "odds": 2.2
+      },
+      {
+        "player": "Roberto Piccoli",
+        "odds": 2.2
+      },
+      {
+        "player": "Andrea Cambiaso",
+        "odds": 2.25
+      },
+      {
+        "player": "Weston McKennie",
+        "odds": 2.25
+      },
+      {
+        "player": "Khephren Thuram",
+        "odds": 2.25
+      },
+      {
+        "player": "Rolando Mandragora",
+        "odds": 2.25
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 201.0,
+      "encuentro": 81.0,
+      "1ª mitad": 201.0,
+      "2ª mitad": 8.5,
+      "Primeros 10 minutos": 67.0,
+      "primeros 10 minutos": 15.0
+    }
+  }
+}

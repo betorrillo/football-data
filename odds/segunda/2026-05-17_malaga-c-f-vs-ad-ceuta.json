@@ -1,0 +1,785 @@
+{
+  "meta": {
+    "id": "2026-05-17_malaga-c-f-vs-ad-ceuta",
+    "scraped_at": "2026-05-15T16:39:06.065406",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Málaga C.F.",
+    "away_team": "AD Ceuta",
+    "bet365_event_id": "193003594",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 1.833,
+      "home_or_draw": 1.25,
+      "home_or_away": 1.25
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.2,
+        "2.5": 1.667,
+        "3.5": 2.625,
+        "4.5": 5.0,
+        "5.5": 10.0,
+        "6.5": 21.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 4.333,
+        "3.5": 2.15,
+        "4.5": 1.444,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.015
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.8,
+        "10.5": 2.25,
+        "11.5": 3.0,
+        "12.5": 4.333,
+        "13.5": 6.0,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 1.909,
+        "11.5": 1.571,
+        "12.5": 1.364,
+        "13.5": 1.2,
+        "14.5": 1.125,
+        "15.5": 1.062,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 9.5,
+        "2.5": 26.0,
+        "3.5": 3.1,
+        "4.5": 5.5,
+        "5.5": 9.5,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 8.0,
+        "9.5": 12.0,
+        "10.5": 17.0,
+        "11.5": 26.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.062,
+        "3.5": 1.8,
+        "4.5": 1.364,
+        "5.5": 1.143,
+        "6.5": 1.05,
+        "7.5": 1.025,
+        "8.5": 1.167,
+        "9.5": 1.062,
+        "10.5": 1.036,
+        "11.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 11.0,
+        "2.5": 29.0,
+        "3.5": 3.4,
+        "4.5": 6.0,
+        "5.5": 11.0,
+        "6.5": 17.0,
+        "7.5": 29.0,
+        "8.5": 10.0,
+        "9.5": 15.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.05,
+        "3.5": 1.727,
+        "4.5": 1.3,
+        "5.5": 1.111,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.1,
+        "9.5": 1.05,
+        "10.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "AD Ceuta": 29.0,
+      "Empate": 13.0,
+      "Málaga C.F.": 3.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Eneko Jauregui",
+        "odds": 2.1
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 2.25
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 2.25
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 2.4
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 2.875
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 3.1
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 3.1
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 3.1
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 3.25
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 3.25
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 3.6
+      },
+      {
+        "player": "Haitam Abaida",
+        "odds": 3.75
+      },
+      {
+        "player": "Darko Brasanac",
+        "odds": 4.0
+      },
+      {
+        "player": "Josue Dorrio",
+        "odds": 4.0
+      },
+      {
+        "player": "Ignacio Schor",
+        "odds": 4.333
+      },
+      {
+        "player": "Konrad de la Fuente",
+        "odds": 4.333
+      },
+      {
+        "player": "Aaron Ochoa",
+        "odds": 4.75
+      },
+      {
+        "player": "Kialy Kone",
+        "odds": 4.75
+      },
+      {
+        "player": "Carlos Dotor",
+        "odds": 5.5
+      },
+      {
+        "player": "Curro Dominguez",
+        "odds": 5.5
+      },
+      {
+        "player": "Daniel Lorenzo",
+        "odds": 5.5
+      },
+      {
+        "player": "Kuki Zalazar",
+        "odds": 5.5
+      },
+      {
+        "player": "Marino Illescas",
+        "odds": 5.5
+      },
+      {
+        "player": "Jose Angel Campana",
+        "odds": 6.0
+      },
+      {
+        "player": "Juan Pedro Juanpe",
+        "odds": 6.0
+      },
+      {
+        "player": "Ramon Enriquez",
+        "odds": 6.0
+      },
+      {
+        "player": "Aboubacar Bassinga",
+        "odds": 6.5
+      },
+      {
+        "player": "Ahmed Aisar",
+        "odds": 6.5
+      },
+      {
+        "player": "Anuar",
+        "odds": 6.5
+      },
+      {
+        "player": "Arick Betancourt",
+        "odds": 6.5
+      },
+      {
+        "player": "Cristian Rodríguez",
+        "odds": 6.5
+      },
+      {
+        "player": "Izan Merino",
+        "odds": 6.5
+      },
+      {
+        "player": "Ruben Diez",
+        "odds": 6.5
+      },
+      {
+        "player": "Sanchez Salvi",
+        "odds": 6.5
+      },
+      {
+        "player": "Rafa Garrido",
+        "odds": 7.5
+      },
+      {
+        "player": "Manu Sanchez",
+        "odds": 8.0
+      },
+      {
+        "player": "Yann Bodiger",
+        "odds": 8.0
+      },
+      {
+        "player": "Angel Recio",
+        "odds": 9.0
+      },
+      {
+        "player": "Dani Sanchez",
+        "odds": 9.0
+      },
+      {
+        "player": "Jokin Gabilondo",
+        "odds": 9.0
+      },
+      {
+        "player": "Youness Lachhab",
+        "odds": 9.0
+      },
+      {
+        "player": "Jose Matos",
+        "odds": 10.0
+      },
+      {
+        "player": "Azaceta Einar Galilea",
+        "odds": 12.0
+      },
+      {
+        "player": "Carlos Puga",
+        "odds": 12.0
+      },
+      {
+        "player": "Carlos Reduello Nimo",
+        "odds": 12.0
+      },
+      {
+        "player": "Francisco Javi Montero",
+        "odds": 12.0
+      },
+      {
+        "player": "Gonzalo Almenara",
+        "odds": 12.0
+      },
+      {
+        "player": "Moussa Diarra",
+        "odds": 12.0
+      },
+      {
+        "player": "Pablo Arriaza",
+        "odds": 12.0
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 12.0
+      },
+      {
+        "player": "Yago Cantero",
+        "odds": 12.0
+      },
+      {
+        "player": "Carlos Hernandez",
+        "odds": 15.0
+      },
+      {
+        "player": "Diego Gonzalez Cabanes",
+        "odds": 15.0
+      },
+      {
+        "player": "Diego Murillo",
+        "odds": 15.0
+      },
+      {
+        "player": "Jose Manuel Josema",
+        "odds": 15.0
+      },
+      {
+        "player": "Albert Caparros Guzman",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "David Larrubia",
+        "odds": 1.01
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 1.012
+      },
+      {
+        "player": "Eneko Jauregui",
+        "odds": 1.015
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 1.02
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 1.025
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 1.025
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 1.03
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 1.05
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 1.05
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.05
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 1.062
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.062
+      },
+      {
+        "player": "Ignacio Schor",
+        "odds": 1.071
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 1.083
+      },
+      {
+        "player": "Haitam Abaida",
+        "odds": 1.1
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 1.1
+      },
+      {
+        "player": "Darko Brasanac",
+        "odds": 1.111
+      },
+      {
+        "player": "Josue Dorrio",
+        "odds": 1.111
+      },
+      {
+        "player": "Eneko Jauregui",
+        "odds": 1.111
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 1.125
+      },
+      {
+        "player": "Konrad de la Fuente",
+        "odds": 1.143
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 1.143
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 1.143
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 1.143
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 1.143
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 1.167
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 1.167
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.167
+      },
+      {
+        "player": "Kialy Kone",
+        "odds": 1.182
+      },
+      {
+        "player": "Aaron Ochoa",
+        "odds": 1.182
+      },
+      {
+        "player": "Jose Angel Campana",
+        "odds": 1.222
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 1.222
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 1.222
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 1.222
+      },
+      {
+        "player": "Curro Dominguez",
+        "odds": 1.25
+      },
+      {
+        "player": "Kuki Zalazar",
+        "odds": 1.25
+      },
+      {
+        "player": "Marino Illescas",
+        "odds": 1.25
+      },
+      {
+        "player": "Carlos Dotor",
+        "odds": 1.25
+      },
+      {
+        "player": "Daniel Lorenzo",
+        "odds": 1.25
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 1.286
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 1.286
+      },
+      {
+        "player": "Ignacio Schor",
+        "odds": 1.286
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 1.286
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 1.3
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.3
+      },
+      {
+        "player": "Anuar",
+        "odds": 1.333
+      },
+      {
+        "player": "Juan Pedro Juanpe",
+        "odds": 1.333
+      },
+      {
+        "player": "Ramon Enriquez",
+        "odds": 1.333
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 1.333
+      },
+      {
+        "player": "Haitam Abaida",
+        "odds": 1.333
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Adrian Nino",
+        "odds": 1.167
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.182
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 1.222
+      },
+      {
+        "player": "Eneko Jauregui",
+        "odds": 1.222
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 1.3
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 1.3
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 1.333
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 1.4
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 1.5
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 1.5
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 1.5
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 1.5
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.533
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 1.615
+      },
+      {
+        "player": "Eneko Jauregui",
+        "odds": 1.615
+      },
+      {
+        "player": "Ignacio Schor",
+        "odds": 1.667
+      },
+      {
+        "player": "Haitam Abaida",
+        "odds": 1.667
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 1.727
+      },
+      {
+        "player": "Darko Brasanac",
+        "odds": 1.727
+      },
+      {
+        "player": "Josue Dorrio",
+        "odds": 1.727
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 1.727
+      },
+      {
+        "player": "Adrian Nino",
+        "odds": 1.8
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 1.8
+      },
+      {
+        "player": "Konrad de la Fuente",
+        "odds": 1.833
+      },
+      {
+        "player": "Carlos Chupete",
+        "odds": 1.833
+      },
+      {
+        "player": "Rafa Rodriguez",
+        "odds": 1.909
+      },
+      {
+        "player": "Kialy Kone",
+        "odds": 2.0
+      },
+      {
+        "player": "Aaron Ochoa",
+        "odds": 2.0
+      },
+      {
+        "player": "Eneko Jauregui",
+        "odds": 2.0
+      },
+      {
+        "player": "Marcos Fernandez",
+        "odds": 2.1
+      },
+      {
+        "player": "Paco Fernandez",
+        "odds": 2.1
+      },
+      {
+        "player": "Sergio Yeyo",
+        "odds": 2.1
+      },
+      {
+        "player": "David Larrubia",
+        "odds": 2.1
+      },
+      {
+        "player": "Curro Dominguez",
+        "odds": 2.25
+      },
+      {
+        "player": "Jose Angel Campana",
+        "odds": 2.25
+      },
+      {
+        "player": "Kuki Zalazar",
+        "odds": 2.25
+      },
+      {
+        "player": "Marino Illescas",
+        "odds": 2.25
+      },
+      {
+        "player": "Carlos Dotor",
+        "odds": 2.25
+      },
+      {
+        "player": "Daniel Lorenzo",
+        "odds": 2.25
+      },
+      {
+        "player": "Marc Domenech",
+        "odds": 2.375
+      },
+      {
+        "player": "Haitam Abaida",
+        "odds": 2.375
+      },
+      {
+        "player": "Anuar",
+        "odds": 2.5
+      },
+      {
+        "player": "Ignacio Schor",
+        "odds": 2.5
+      },
+      {
+        "player": "Juan Pedro Juanpe",
+        "odds": 2.5
+      },
+      {
+        "player": "Ramon Enriquez",
+        "odds": 2.5
+      },
+      {
+        "player": "Julen Lobete",
+        "odds": 2.5
+      },
+      {
+        "player": "Joaquin Munoz",
+        "odds": 2.5
+      },
+      {
+        "player": "Darko Brasanac",
+        "odds": 2.5
+      },
+      {
+        "player": "Josue Dorrio",
+        "odds": 2.5
+      },
+      {
+        "player": "Aboubacar Bassinga",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 81.0,
+      "encuentro": 101.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 67.0,
+      "Primeros 10 minutos": 10.0,
+      "primeros 10 minutos": 7.0
+    }
+  }
+}

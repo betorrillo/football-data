@@ -1,0 +1,838 @@
+{
+  "meta": {
+    "id": "2026-05-17_levante-vs-mallorca",
+    "scraped_at": "2026-05-17T16:19:49.225647",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Levante",
+    "away_team": "Mallorca",
+    "bet365_event_id": "193332408",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.286,
+      "draw_or_away": 1.7,
+      "home_or_away": 1.3
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.05,
+        "1.5": 1.286,
+        "2.5": 1.909,
+        "3.5": 3.2,
+        "4.5": 6.0,
+        "5.5": 13.0,
+        "6.5": 26.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 11.0,
+        "2.5": 3.75,
+        "3.5": 1.909,
+        "4.5": 1.364,
+        "5.5": 1.125,
+        "6.5": 1.04,
+        "7.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.286,
+        "8.5": 1.5,
+        "9.5": 1.833,
+        "10.5": 2.375,
+        "11.5": 3.25,
+        "12.5": 4.5,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.5,
+        "9.5": 2.5,
+        "10.5": 1.833,
+        "11.5": 1.533,
+        "12.5": 1.333,
+        "13.5": 1.182,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.6,
+        "4.5": 4.333,
+        "5.5": 7.5,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 5.5,
+        "9.5": 9.0,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 2.05,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.036,
+        "8.5": 1.25,
+        "9.5": 1.125,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.5,
+        "4.5": 8.5,
+        "5.5": 15.0,
+        "6.5": 26.0,
+        "7.5": 10.0,
+        "8.5": 15.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.04,
+        "3.5": 1.5,
+        "4.5": 1.182,
+        "5.5": 1.056,
+        "6.5": 1.025,
+        "7.5": 1.111,
+        "8.5": 1.05,
+        "9.5": 1.025
+      }
+    },
+    "cards_total": {
+      "over": {
+        "2.5": 1.062,
+        "3.5": 1.182,
+        "4.5": 1.4,
+        "5.5": 1.8,
+        "6.5": 2.5,
+        "7.5": 3.5,
+        "8.5": 5.5,
+        "9.5": 9.0,
+        "10.5": 15.0,
+        "11.5": 23.0
+      },
+      "under": {
+        "2.5": 21.0,
+        "3.5": 10.0,
+        "4.5": 4.5,
+        "5.5": 2.75,
+        "6.5": 1.909,
+        "7.5": 1.5,
+        "8.5": 1.286,
+        "9.5": 1.143,
+        "10.5": 1.071,
+        "11.5": 1.03
+      }
+    },
+    "cards_home": {
+      "over": {
+        "0.5": 11.0,
+        "1.5": 67.0,
+        "2.5": 3.4,
+        "3.5": 8.0,
+        "4.5": 19.0,
+        "5.5": 34.0,
+        "6.5": 29.0
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 2.05,
+        "3.5": 1.3,
+        "4.5": 1.071,
+        "5.5": 1.02,
+        "6.5": 1.03
+      }
+    },
+    "cards_away": {
+      "over": {
+        "0.5": 9.0,
+        "1.5": 51.0,
+        "2.5": 2.6,
+        "3.5": 5.5,
+        "4.5": 12.0,
+        "5.5": 23.0,
+        "6.5": 19.0,
+        "7.5": 34.0
+      },
+      "under": {
+        "1.5": 1.071,
+        "2.5": 2.5,
+        "3.5": 1.5,
+        "4.5": 1.143,
+        "5.5": 1.04,
+        "6.5": 1.071,
+        "7.5": 1.02
+      }
+    },
+    "ht_ft": {
+      "Levante": 23.0,
+      "Empate": 15.0,
+      "Mallorca": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Carlos Espi",
+        "odds": 2.1
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 2.5
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 2.5
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 2.875
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 2.875
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 2.875
+      },
+      {
+        "player": "Abdon Prats",
+        "odds": 3.4
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 3.4
+      },
+      {
+        "player": "Justin-Noel Kalumba",
+        "odds": 3.6
+      },
+      {
+        "player": "Kareem Tunde",
+        "odds": 3.6
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 3.6
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 3.6
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 3.75
+      },
+      {
+        "player": "Mateo Joseph",
+        "odds": 4.0
+      },
+      {
+        "player": "Carlos Alvarez",
+        "odds": 4.333
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 4.75
+      },
+      {
+        "player": "Jon Ander Olasagasti",
+        "odds": 4.75
+      },
+      {
+        "player": "Paco Cortes",
+        "odds": 4.75
+      },
+      {
+        "player": "Sergi Darder",
+        "odds": 4.75
+      },
+      {
+        "player": "Tai Abed",
+        "odds": 4.75
+      },
+      {
+        "player": "Antonio Sanchez",
+        "odds": 6.0
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 6.0
+      },
+      {
+        "player": "Cesc Riba",
+        "odds": 6.5
+      },
+      {
+        "player": "Pablo Torre",
+        "odds": 6.5
+      },
+      {
+        "player": "Adrian De la Fuente",
+        "odds": 7.0
+      },
+      {
+        "player": "Costa Samu",
+        "odds": 7.0
+      },
+      {
+        "player": "Jandro Garcia",
+        "odds": 7.0
+      },
+      {
+        "player": "Javi Llabres",
+        "odds": 7.0
+      },
+      {
+        "player": "Unai Vencedor",
+        "odds": 7.0
+      },
+      {
+        "player": "Jan Salas",
+        "odds": 8.0
+      },
+      {
+        "player": "Ugo Raghouber",
+        "odds": 8.0
+      },
+      {
+        "player": "Antonio Raillo",
+        "odds": 8.5
+      },
+      {
+        "player": "David Lopez",
+        "odds": 8.5
+      },
+      {
+        "player": "Diego Pampin",
+        "odds": 8.5
+      },
+      {
+        "player": "Johan Mojica",
+        "odds": 8.5
+      },
+      {
+        "player": "Kervin Arriaga",
+        "odds": 8.5
+      },
+      {
+        "player": "Manu Morlanes",
+        "odds": 8.5
+      },
+      {
+        "player": "Nacho Perez",
+        "odds": 8.5
+      },
+      {
+        "player": "Oriol Rey",
+        "odds": 8.5
+      },
+      {
+        "player": "Manuel Sanchez",
+        "odds": 9.5
+      },
+      {
+        "player": "Alan Matturro",
+        "odds": 11.0
+      },
+      {
+        "player": "Javier Olaizola",
+        "odds": 11.0
+      },
+      {
+        "player": "Luis Orejuela",
+        "odds": 11.0
+      },
+      {
+        "player": "Mateu Morey",
+        "odds": 11.0
+      },
+      {
+        "player": "Matias Moreno",
+        "odds": 11.0
+      },
+      {
+        "player": "Miguel Calatayud",
+        "odds": 11.0
+      },
+      {
+        "player": "Pablo Maffeo",
+        "odds": 11.0
+      },
+      {
+        "player": "Antonio Toni Lato",
+        "odds": 13.0
+      },
+      {
+        "player": "Jeremy Toljan",
+        "odds": 13.0
+      },
+      {
+        "player": "Omar Mascarell",
+        "odds": 13.0
+      },
+      {
+        "player": "Unai Elgezabal",
+        "odds": 13.0
+      },
+      {
+        "player": "Marash Kumbulla",
+        "odds": 15.0
+      },
+      {
+        "player": "Martin Valjent",
+        "odds": 15.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Pablo Martinez",
+        "odds": 1.02
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.02
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.025
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.03
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 1.03
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.03
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 1.04
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 1.04
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.05
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 1.05
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 1.05
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 1.062
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.062
+      },
+      {
+        "player": "Mateo Joseph",
+        "odds": 1.062
+      },
+      {
+        "player": "Abdon Prats",
+        "odds": 1.071
+      },
+      {
+        "player": "Kareem Tunde",
+        "odds": 1.083
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.083
+      },
+      {
+        "player": "Justin-Noel Kalumba",
+        "odds": 1.083
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 1.111
+      },
+      {
+        "player": "Sergi Darder",
+        "odds": 1.111
+      },
+      {
+        "player": "Paco Cortes",
+        "odds": 1.125
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 1.125
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.125
+      },
+      {
+        "player": "Carlos Alvarez",
+        "odds": 1.143
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.143
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 1.143
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.143
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.167
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.167
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 1.167
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.167
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.167
+      },
+      {
+        "player": "Jon Ander Olasagasti",
+        "odds": 1.182
+      },
+      {
+        "player": "Tai Abed",
+        "odds": 1.182
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.2
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 1.2
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.2
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 1.2
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 1.2
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.2
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.2
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 1.2
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 1.2
+      },
+      {
+        "player": "Adrian De la Fuente",
+        "odds": 1.25
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 1.25
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 1.25
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 1.25
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 1.25
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 1.25
+      },
+      {
+        "player": "Mateo Joseph",
+        "odds": 1.25
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Carlos Espi",
+        "odds": 1.143
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.3
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.364
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.364
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.364
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 1.4
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 1.444
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 1.444
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 1.444
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.444
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 1.444
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.5
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 1.533
+      },
+      {
+        "player": "Abdon Prats",
+        "odds": 1.571
+      },
+      {
+        "player": "Kareem Tunde",
+        "odds": 1.615
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 1.615
+      },
+      {
+        "player": "Justin-Noel Kalumba",
+        "odds": 1.615
+      },
+      {
+        "player": "Carlos Espi",
+        "odds": 1.727
+      },
+      {
+        "player": "Mateo Joseph",
+        "odds": 1.727
+      },
+      {
+        "player": "Sergi Darder",
+        "odds": 1.727
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.727
+      },
+      {
+        "player": "Vedat Muriqi",
+        "odds": 1.8
+      },
+      {
+        "player": "Carlos Alvarez",
+        "odds": 1.833
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.833
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.833
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.833
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 1.909
+      },
+      {
+        "player": "Jose Luis Morales",
+        "odds": 1.909
+      },
+      {
+        "player": "Karl Etta",
+        "odds": 1.909
+      },
+      {
+        "player": "Andre Zito Luvumbo",
+        "odds": 1.909
+      },
+      {
+        "player": "Jon Ander Olasagasti",
+        "odds": 2.0
+      },
+      {
+        "player": "Paco Cortes",
+        "odds": 2.0
+      },
+      {
+        "player": "Tai Abed",
+        "odds": 2.0
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 2.0
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 2.0
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 2.0
+      },
+      {
+        "player": "Roger Brugue",
+        "odds": 2.0
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 2.0
+      },
+      {
+        "player": "Iker Losada",
+        "odds": 2.1
+      },
+      {
+        "player": "Iván Romero",
+        "odds": 2.1
+      },
+      {
+        "player": "Pablo Martinez",
+        "odds": 2.1
+      },
+      {
+        "player": "Takuma Asano",
+        "odds": 2.1
+      },
+      {
+        "player": "Abdon Prats",
+        "odds": 2.2
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 2.2
+      },
+      {
+        "player": "Kareem Tunde",
+        "odds": 2.25
+      },
+      {
+        "player": "Victor Garcia",
+        "odds": 2.25
+      },
+      {
+        "player": "Justin-Noel Kalumba",
+        "odds": 2.25
+      },
+      {
+        "player": "Abdon Prats",
+        "odds": 2.25
+      },
+      {
+        "player": "Jan Virgili",
+        "odds": 2.25
+      },
+      {
+        "player": "Costa Samu",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 251.0,
+      "1ª mitad": 67.0,
+      "2ª mitad": 151.0,
+      "Primeros 10 minutos": 126.0,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}

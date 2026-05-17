@@ -1,0 +1,770 @@
+{
+  "meta": {
+    "id": "2026-05-17_napoles-vs-pisa",
+    "scraped_at": "2026-05-15T16:38:47.897385",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Nápoles",
+    "away_team": "Pisa",
+    "bet365_event_id": "193714575",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 3.0,
+      "home_or_draw": 1.071,
+      "home_or_away": 1.182
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.25,
+        "2.5": 1.8,
+        "3.5": 3.0,
+        "4.5": 5.5,
+        "5.5": 11.0,
+        "6.5": 23.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 12.0,
+        "2.5": 4.0,
+        "3.5": 2.0,
+        "4.5": 1.4,
+        "5.5": 1.143,
+        "6.5": 1.05,
+        "7.5": 1.012
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.05,
+        "5.5": 1.125,
+        "6.5": 1.286,
+        "7.5": 1.5,
+        "8.5": 1.833,
+        "9.5": 2.5,
+        "10.5": 3.4,
+        "11.5": 5.0,
+        "12.5": 7.0,
+        "13.5": 11.0,
+        "14.5": 15.0,
+        "15.5": 21.0
+      },
+      "under": {
+        "4.5": 21.0,
+        "5.5": 11.0,
+        "6.5": 6.0,
+        "7.5": 3.5,
+        "8.5": 2.5,
+        "9.5": 1.833,
+        "10.5": 1.5,
+        "11.5": 1.3,
+        "12.5": 1.167,
+        "13.5": 1.1,
+        "14.5": 1.05,
+        "15.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.2,
+        "1.5": 7.5,
+        "2.5": 21.0,
+        "3.5": 41.0,
+        "4.5": 4.333,
+        "5.5": 7.5,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 5.0,
+        "9.5": 8.0,
+        "10.5": 12.0,
+        "11.5": 17.0,
+        "12.5": 23.0
+      },
+      "under": {
+        "1.5": 1.615,
+        "2.5": 1.083,
+        "3.5": 1.02,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.03,
+        "8.5": 1.286,
+        "9.5": 1.143,
+        "10.5": 1.062,
+        "11.5": 1.036,
+        "12.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 4.0,
+        "1.5": 21.0,
+        "2.5": 41.0,
+        "3.5": 8.5,
+        "4.5": 17.0,
+        "5.5": 29.0,
+        "6.5": 15.0,
+        "7.5": 23.0
+      },
+      "under": {
+        "1.5": 1.222,
+        "2.5": 1.025,
+        "3.5": 1.222,
+        "4.5": 1.062,
+        "5.5": 1.025,
+        "6.5": 1.071,
+        "7.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 2.1
+      },
+      "under": {
+        "3.5": 2.5
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 101.0
+      },
+      "under": {
+        "1.5": 1.03
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.5
+      },
+      "under": {
+        "1.5": 1.036,
+        "2.5": 1.909
+      }
+    },
+    "ht_ft": {
+      "Pisa": 51.0,
+      "Empate": 17.0,
+      "Nápoles": 2.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.952
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 2.1
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 2.3
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 2.5
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 2.875
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 2.875
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 3.0
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 3.2
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 3.5
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 4.0
+      },
+      {
+        "player": "Filip Stojilkovic",
+        "odds": 4.333
+      },
+      {
+        "player": "Henrik Meister",
+        "odds": 4.333
+      },
+      {
+        "player": "Miguel Gutierrez",
+        "odds": 5.0
+      },
+      {
+        "player": "Rafiu Durosinmi",
+        "odds": 5.0
+      },
+      {
+        "player": "Stefano Moreo",
+        "odds": 5.0
+      },
+      {
+        "player": "Giovanni Di Lorenzo",
+        "odds": 5.5
+      },
+      {
+        "player": "Matteo Tramoni",
+        "odds": 5.5
+      },
+      {
+        "player": "Pasquale Mazzocchi",
+        "odds": 6.5
+      },
+      {
+        "player": "Billy Gilmour",
+        "odds": 7.0
+      },
+      {
+        "player": "Leonardo Spinazzola",
+        "odds": 7.0
+      },
+      {
+        "player": "Ebenezer Akinsanmiro",
+        "odds": 7.5
+      },
+      {
+        "player": "Lorran",
+        "odds": 7.5
+      },
+      {
+        "player": "Mehdi Leris",
+        "odds": 7.5
+      },
+      {
+        "player": "Amir Rrahmani",
+        "odds": 8.5
+      },
+      {
+        "player": "Calvin Stengs",
+        "odds": 8.5
+      },
+      {
+        "player": "Gabriele Piccinini",
+        "odds": 8.5
+      },
+      {
+        "player": "Idrissa Toure",
+        "odds": 8.5
+      },
+      {
+        "player": "Juan Cuadrado",
+        "odds": 8.5
+      },
+      {
+        "player": "Louis Buffon",
+        "odds": 8.5
+      },
+      {
+        "player": "Stanislav Lobotka",
+        "odds": 8.5
+      },
+      {
+        "player": "Alessandro Buongiorno",
+        "odds": 9.5
+      },
+      {
+        "player": "Isak Vural",
+        "odds": 9.5
+      },
+      {
+        "player": "Mathias Olivera",
+        "odds": 9.5
+      },
+      {
+        "player": "Samuel Iling-Junior",
+        "odds": 9.5
+      },
+      {
+        "player": "Marius Marin",
+        "odds": 11.0
+      },
+      {
+        "player": "Felipe Loyola",
+        "odds": 12.0
+      },
+      {
+        "player": "Malthe Hojholt",
+        "odds": 12.0
+      },
+      {
+        "player": "Juan Jesus",
+        "odds": 12.0
+      },
+      {
+        "player": "Sam Beukema",
+        "odds": 12.0
+      },
+      {
+        "player": "Samuele Angori",
+        "odds": 12.0
+      },
+      {
+        "player": "Antonio Caracciolo",
+        "odds": 15.0
+      },
+      {
+        "player": "Michel Aebischer",
+        "odds": 15.0
+      },
+      {
+        "player": "Simone Canestrelli",
+        "odds": 15.0
+      },
+      {
+        "player": "Francesco Coppola",
+        "odds": 19.0
+      },
+      {
+        "player": "Raul Albiol",
+        "odds": 19.0
+      },
+      {
+        "player": "Rosen Bozhinov",
+        "odds": 19.0
+      },
+      {
+        "player": "Arturo Calabresi",
+        "odds": 23.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.012
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.015
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.015
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.015
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.02
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 1.02
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 1.04
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 1.04
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 1.062
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 1.062
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.083
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.1
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.1
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.1
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.111
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.111
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.111
+      },
+      {
+        "player": "Matteo Tramoni",
+        "odds": 1.125
+      },
+      {
+        "player": "Stefano Moreo",
+        "odds": 1.125
+      },
+      {
+        "player": "Miguel Gutierrez",
+        "odds": 1.125
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 1.125
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.125
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.125
+      },
+      {
+        "player": "Filip Stojilkovic",
+        "odds": 1.143
+      },
+      {
+        "player": "Henrik Meister",
+        "odds": 1.143
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.143
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.143
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.143
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.143
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 1.167
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.167
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 1.167
+      },
+      {
+        "player": "Rafiu Durosinmi",
+        "odds": 1.2
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 1.2
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 1.2
+      },
+      {
+        "player": "Giovanni Di Lorenzo",
+        "odds": 1.222
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 1.222
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 1.222
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 1.25
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 1.25
+      },
+      {
+        "player": "Lorran",
+        "odds": 1.286
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 1.3
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.3
+      },
+      {
+        "player": "Billy Gilmour",
+        "odds": 1.333
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 1.333
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.333
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.333
+      },
+      {
+        "player": "Mehdi Leris",
+        "odds": 1.364
+      },
+      {
+        "player": "Matteo Tramoni",
+        "odds": 1.364
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.364
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.2
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.222
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.25
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.364
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.364
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 1.444
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 1.444
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 1.444
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 1.5
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.533
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.615
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.615
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.667
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 1.667
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 1.727
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 1.8
+      },
+      {
+        "player": "Filip Stojilkovic",
+        "odds": 1.833
+      },
+      {
+        "player": "Henrik Meister",
+        "odds": 1.833
+      },
+      {
+        "player": "Matteo Tramoni",
+        "odds": 1.833
+      },
+      {
+        "player": "Miguel Gutierrez",
+        "odds": 1.833
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 1.833
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 1.833
+      },
+      {
+        "player": "Stefano Moreo",
+        "odds": 1.909
+      },
+      {
+        "player": "Romelu Lukaku",
+        "odds": 1.909
+      },
+      {
+        "player": "Rasmus Hojlund",
+        "odds": 2.0
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 2.0
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 2.0
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 2.0
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 2.0
+      },
+      {
+        "player": "de Almeida Alisson Santos",
+        "odds": 2.0
+      },
+      {
+        "player": "Rafiu Durosinmi",
+        "odds": 2.1
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 2.1
+      },
+      {
+        "player": "Antonio Vergara",
+        "odds": 2.1
+      },
+      {
+        "player": "Matteo Politano",
+        "odds": 2.1
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "odds": 2.2
+      },
+      {
+        "player": "Giovanni Di Lorenzo",
+        "odds": 2.25
+      },
+      {
+        "player": "Giovane Nascimento",
+        "odds": 2.25
+      },
+      {
+        "player": "Eljif Elmas",
+        "odds": 2.25
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 2.5
+      },
+      {
+        "player": "Lorran",
+        "odds": 2.625
+      },
+      {
+        "player": "Filip Stojilkovic",
+        "odds": 2.625
+      },
+      {
+        "player": "Henrik Meister",
+        "odds": 2.625
+      },
+      {
+        "player": "Billy Gilmour",
+        "odds": 2.625
+      },
+      {
+        "player": "Leonardo Spinazzola",
+        "odds": 2.625
+      },
+      {
+        "player": "Pasquale Mazzocchi",
+        "odds": 2.625
+      },
+      {
+        "player": "Scott McTominay",
+        "odds": 2.625
+      },
+      {
+        "player": "Miguel Gutierrez",
+        "odds": 2.625
+      },
+      {
+        "player": "Andre-Franck Anguissa",
+        "odds": 2.625
+      },
+      {
+        "player": "Matteo Tramoni",
+        "odds": 2.75
+      },
+      {
+        "player": "Filip Stojilkovic",
+        "odds": 2.75
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 81.0,
+      "encuentro": 101.0,
+      "1ª mitad": 201.0,
+      "2ª mitad": 81.0,
+      "Primeros 10 minutos": 15.0,
+      "primeros 10 minutos": 6.0
+    }
+  }
+}

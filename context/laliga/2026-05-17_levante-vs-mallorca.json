@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_levante-vs-mallorca",
+  "home": "Levante",
+  "away": "Mallorca",
+  "league": "ESP1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Levante",
+    "mp": 36,
+    "w": 10,
+    "d": 9,
+    "l": 17,
+    "gf": 44,
+    "ga": 59,
+    "gd": -15,
+    "pts": 39,
+    "avg": {
+      "gf": 1.22,
+      "ga": 1.64,
+      "corners_for": 4.17,
+      "corners_against": 5.97,
+      "total_corners": 10.14,
+      "shots": 12.42,
+      "shots_against": 15.47,
+      "shots_target": 3.83,
+      "shots_target_against": 5.14,
+      "fouls": 12.44,
+      "fouls_against": 13.06,
+      "yellows": 2.22,
+      "opponent_yellows": 2.44,
+      "total_match_cards": 4.67
+    },
+    "avg_home": {
+      "gf": 1.33,
+      "ga": 1.56,
+      "corners_for": 5.28,
+      "corners_against": 4.67,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 1.11,
+      "ga": 1.72,
+      "corners_for": 3.06,
+      "corners_against": 7.28,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 86.1,
+      "over_25": 44.4,
+      "over_35": 30.6,
+      "btts": 50.0,
+      "clean_sheet": 22.2,
+      "failed_to_score": 33.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.47,
+      "ga_1h": 0.69,
+      "gf_2h": 0.75,
+      "ga_2h": 0.94,
+      "total_1h": 1.17,
+      "total_2h": 1.69
+    },
+    "pct_ht": {
+      "over_05_1h": 69.4,
+      "over_15_1h": 33.3,
+      "over_05_2h": 88.9,
+      "over_15_2h": 50.0,
+      "btts_1h": 13.9,
+      "btts_2h": 25.0
+    },
+    "xg": 48.9,
+    "xga": 59.2,
+    "xg_diff": -7.9,
+    "xga_diff": -2.2,
+    "yellow_cards_total": 75,
+    "red_cards_total": null,
+    "yc_per_match": 2.14
+  },
+  "away_stats": {
+    "team": "Mallorca",
+    "mp": 36,
+    "w": 10,
+    "d": 9,
+    "l": 17,
+    "gf": 44,
+    "ga": 55,
+    "gd": -11,
+    "pts": 39,
+    "avg": {
+      "gf": 1.22,
+      "ga": 1.53,
+      "corners_for": 3.58,
+      "corners_against": 6.39,
+      "total_corners": 9.97,
+      "shots": 10.64,
+      "shots_against": 14.42,
+      "shots_target": 4.11,
+      "shots_target_against": 4.64,
+      "fouls": 12.28,
+      "fouls_against": 12.5,
+      "yellows": 2.19,
+      "opponent_yellows": 2.06,
+      "total_match_cards": 4.25
+    },
+    "avg_home": {
+      "gf": 1.56,
+      "ga": 1.17,
+      "corners_for": 3.94,
+      "corners_against": 5.94,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 0.89,
+      "ga": 1.89,
+      "corners_for": 3.22,
+      "corners_against": 6.83,
+      "over_25_pct": 72.2
+    },
+    "pct": {
+      "over_15": 83.3,
+      "over_25": 63.9,
+      "over_35": 22.2,
+      "btts": 66.7,
+      "clean_sheet": 13.9,
+      "failed_to_score": 22.2
+    },
+    "avg_ht": {
+      "gf_1h": 0.5,
+      "ga_1h": 0.83,
+      "gf_2h": 0.72,
+      "ga_2h": 0.69,
+      "total_1h": 1.33,
+      "total_2h": 1.42
+    },
+    "pct_ht": {
+      "over_05_1h": 80.6,
+      "over_15_1h": 36.1,
+      "over_05_2h": 75.0,
+      "over_15_2h": 50.0,
+      "btts_1h": 22.2,
+      "btts_2h": 27.8
+    },
+    "xg": 40.2,
+    "xga": 58.2,
+    "xg_diff": 1.8,
+    "xga_diff": -7.2,
+    "yellow_cards_total": 71,
+    "red_cards_total": null,
+    "yc_per_match": 2.09
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

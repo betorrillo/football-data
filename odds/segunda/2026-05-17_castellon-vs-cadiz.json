@@ -1,0 +1,866 @@
+{
+  "meta": {
+    "id": "2026-05-17_castellon-vs-cadiz",
+    "scraped_at": "2026-05-15T16:39:08.605971",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "CD Castellón",
+    "away_team": "Cádiz",
+    "bet365_event_id": "193003587",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.071,
+      "draw_or_away": 3.75,
+      "home_or_away": 1.125
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.015,
+        "1.5": 1.125,
+        "2.5": 1.444,
+        "3.5": 2.1,
+        "4.5": 3.5,
+        "5.5": 6.5,
+        "6.5": 13.0,
+        "7.5": 26.0,
+        "8.5": 51.0
+      },
+      "under": {
+        "1.5": 21.0,
+        "2.5": 6.0,
+        "3.5": 2.7,
+        "4.5": 1.667,
+        "5.5": 1.286,
+        "6.5": 1.111,
+        "7.5": 1.04,
+        "8.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.286,
+        "8.5": 1.5,
+        "9.5": 1.833,
+        "10.5": 2.375,
+        "11.5": 3.25,
+        "12.5": 4.333,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.5,
+        "9.5": 2.5,
+        "10.5": 1.833,
+        "11.5": 1.533,
+        "12.5": 1.333,
+        "13.5": 1.2,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.0,
+        "1.5": 6.0,
+        "2.5": 17.0,
+        "3.5": 34.0,
+        "4.5": 3.25,
+        "5.5": 5.5,
+        "6.5": 9.5,
+        "7.5": 15.0,
+        "8.5": 23.0,
+        "9.5": 5.0,
+        "10.5": 7.5,
+        "11.5": 11.0,
+        "12.5": 15.0,
+        "13.5": 21.0
+      },
+      "under": {
+        "1.5": 1.727,
+        "2.5": 1.125,
+        "3.5": 1.025,
+        "4.5": 1.667,
+        "5.5": 1.3,
+        "6.5": 1.125,
+        "7.5": 1.05,
+        "8.5": 1.025,
+        "9.5": 1.286,
+        "10.5": 1.143,
+        "11.5": 1.071,
+        "12.5": 1.04,
+        "13.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.75,
+        "1.5": 19.0,
+        "2.5": 41.0,
+        "3.5": 7.5,
+        "4.5": 15.0,
+        "5.5": 23.0,
+        "6.5": 13.0,
+        "7.5": 19.0
+      },
+      "under": {
+        "1.5": 1.25,
+        "2.5": 1.025,
+        "3.5": 1.25,
+        "4.5": 1.071,
+        "5.5": 1.03,
+        "6.5": 1.1,
+        "7.5": 1.04
+      }
+    },
+    "cards_total": {
+      "over": {
+        "2.5": 1.062,
+        "3.5": 1.182,
+        "4.5": 1.4,
+        "5.5": 1.8,
+        "6.5": 2.5,
+        "7.5": 3.75,
+        "8.5": 6.0,
+        "9.5": 10.0,
+        "10.5": 17.0,
+        "11.5": 26.0
+      },
+      "under": {
+        "2.5": 21.0,
+        "3.5": 10.0,
+        "4.5": 4.5,
+        "5.5": 2.75,
+        "6.5": 1.909,
+        "7.5": 1.5,
+        "8.5": 1.25,
+        "9.5": 1.125,
+        "10.5": 1.062,
+        "11.5": 1.025
+      }
+    },
+    "cards_home": {
+      "over": {
+        "0.5": 11.0,
+        "1.5": 67.0,
+        "2.5": 3.25,
+        "3.5": 7.0,
+        "4.5": 13.0,
+        "5.5": 26.0,
+        "6.5": 21.0
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 1.952,
+        "3.5": 1.286,
+        "4.5": 1.062,
+        "5.5": 1.02,
+        "6.5": 1.025
+      }
+    },
+    "cards_away": {
+      "over": {
+        "0.5": 9.0,
+        "1.5": 51.0,
+        "2.5": 2.4,
+        "3.5": 5.5,
+        "4.5": 9.0,
+        "5.5": 17.0,
+        "6.5": 13.0,
+        "7.5": 21.0
+      },
+      "under": {
+        "1.5": 1.071,
+        "2.5": 2.5,
+        "3.5": 1.5,
+        "4.5": 1.143,
+        "5.5": 1.04,
+        "6.5": 1.071,
+        "7.5": 1.02
+      }
+    },
+    "ht_ft": {
+      "CD Castellón": 17.0,
+      "Empate": 21.0,
+      "Cádiz": 17.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.727
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.727
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.727
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.909
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 2.05
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 2.05
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 2.05
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 2.05
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 2.2
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 2.375
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 2.375
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 2.625
+      },
+      {
+        "player": "Guillem Terma",
+        "odds": 2.875
+      },
+      {
+        "player": "Miguel Ferrer",
+        "odds": 2.875
+      },
+      {
+        "player": "Brian Cipenga",
+        "odds": 3.4
+      },
+      {
+        "player": "Carlos Segura",
+        "odds": 3.6
+      },
+      {
+        "player": "Garcia Pascual",
+        "odds": 3.6
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 3.6
+      },
+      {
+        "player": "Ronaldo Pompeu",
+        "odds": 3.6
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 4.0
+      },
+      {
+        "player": "Benat Gerenabarrena",
+        "odds": 4.333
+      },
+      {
+        "player": "Jeronimo Domina",
+        "odds": 4.333
+      },
+      {
+        "player": "Dawda Camara",
+        "odds": 4.75
+      },
+      {
+        "player": "Diego Barri",
+        "odds": 4.75
+      },
+      {
+        "player": "Iuri Tabatadze",
+        "odds": 4.75
+      },
+      {
+        "player": "Martinez Lucas Perez",
+        "odds": 4.75
+      },
+      {
+        "player": "David Selles",
+        "odds": 5.5
+      },
+      {
+        "player": "Ismael Fadel",
+        "odds": 5.5
+      },
+      {
+        "player": "Marc-Olivier Doue",
+        "odds": 5.5
+      },
+      {
+        "player": "Raul Pereira",
+        "odds": 5.5
+      },
+      {
+        "player": "Brian Ocampo",
+        "odds": 6.0
+      },
+      {
+        "player": "Jesus Joaquin Suso",
+        "odds": 6.0
+      },
+      {
+        "player": "Antonito Cordero",
+        "odds": 6.5
+      },
+      {
+        "player": "Fabrizio Brignani",
+        "odds": 6.5
+      },
+      {
+        "player": "Jeremy Mellot",
+        "odds": 6.5
+      },
+      {
+        "player": "Lucas Alcazar",
+        "odds": 6.5
+      },
+      {
+        "player": "Martin Gomez",
+        "odds": 6.5
+      },
+      {
+        "player": "Tincho Conde",
+        "odds": 6.5
+      },
+      {
+        "player": "Alex Fernandez",
+        "odds": 7.0
+      },
+      {
+        "player": "Ismael Alvarez",
+        "odds": 7.0
+      },
+      {
+        "player": "Alberto Jimenez",
+        "odds": 8.0
+      },
+      {
+        "player": "Jose Antonio De La Rosa",
+        "odds": 8.0
+      },
+      {
+        "player": "Michal Willmann",
+        "odds": 8.0
+      },
+      {
+        "player": "Salvador Ruiz",
+        "odds": 8.0
+      },
+      {
+        "player": "Yussi Diarra",
+        "odds": 8.0
+      },
+      {
+        "player": "Agustin Sienra",
+        "odds": 9.0
+      },
+      {
+        "player": "Sergio Ortuno",
+        "odds": 9.0
+      },
+      {
+        "player": "Joaquin Gonzalez",
+        "odds": 11.0
+      },
+      {
+        "player": "Rominigue Kouame",
+        "odds": 11.0
+      },
+      {
+        "player": "Juan Diaz",
+        "odds": 13.0
+      },
+      {
+        "player": "Moussa Diakite",
+        "odds": 13.0
+      },
+      {
+        "player": "Alfred Caicedo",
+        "odds": 15.0
+      },
+      {
+        "player": "Isaac Carcelen",
+        "odds": 15.0
+      },
+      {
+        "player": "Mario Climent",
+        "odds": 15.0
+      },
+      {
+        "player": "Bojan Kovacevic",
+        "odds": 23.0
+      },
+      {
+        "player": "Iker Ortega",
+        "odds": 23.0
+      },
+      {
+        "player": "Jorge Moreno",
+        "odds": 23.0
+      },
+      {
+        "player": "Pelayo Fernandez",
+        "odds": 23.0
+      },
+      {
+        "player": "Sergio Prieto Arribas",
+        "odds": 23.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Israel Suero",
+        "odds": 1.012
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.015
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 1.015
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 1.015
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 1.02
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 1.025
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 1.025
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 1.03
+      },
+      {
+        "player": "Guillem Terma",
+        "odds": 1.04
+      },
+      {
+        "player": "Miguel Ferrer",
+        "odds": 1.05
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.05
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.05
+      },
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.062
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.062
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.062
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.062
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.062
+      },
+      {
+        "player": "Brian Cipenga",
+        "odds": 1.071
+      },
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.071
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.071
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.071
+      },
+      {
+        "player": "Jeronimo Domina",
+        "odds": 1.071
+      },
+      {
+        "player": "Carlos Segura",
+        "odds": 1.083
+      },
+      {
+        "player": "Ronaldo Pompeu",
+        "odds": 1.083
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.083
+      },
+      {
+        "player": "Garcia Pascual",
+        "odds": 1.083
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 1.083
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.1
+      },
+      {
+        "player": "Iuri Tabatadze",
+        "odds": 1.1
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.111
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 1.111
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 1.111
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 1.125
+      },
+      {
+        "player": "Benat Gerenabarrena",
+        "odds": 1.143
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 1.143
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 1.143
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 1.143
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 1.167
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 1.167
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 1.167
+      },
+      {
+        "player": "Brian Ocampo",
+        "odds": 1.167
+      },
+      {
+        "player": "Diego Barri",
+        "odds": 1.182
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.182
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.182
+      },
+      {
+        "player": "Dawda Camara",
+        "odds": 1.182
+      },
+      {
+        "player": "Martinez Lucas Perez",
+        "odds": 1.182
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 1.2
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.2
+      },
+      {
+        "player": "Guillem Terma",
+        "odds": 1.2
+      },
+      {
+        "player": "Miguel Ferrer",
+        "odds": 1.2
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.143
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.143
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.143
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.167
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.182
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.182
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.222
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 1.222
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 1.222
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 1.3
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 1.3
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 1.333
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 1.364
+      },
+      {
+        "player": "Guillem Terma",
+        "odds": 1.444
+      },
+      {
+        "player": "Miguel Ferrer",
+        "odds": 1.444
+      },
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.444
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.444
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.444
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.5
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.5
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.533
+      },
+      {
+        "player": "Brian Cipenga",
+        "odds": 1.571
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.571
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 1.571
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 1.571
+      },
+      {
+        "player": "Carlos Segura",
+        "odds": 1.615
+      },
+      {
+        "player": "Ronaldo Pompeu",
+        "odds": 1.615
+      },
+      {
+        "player": "Garcia Pascual",
+        "odds": 1.615
+      },
+      {
+        "player": "Roger Marti",
+        "odds": 1.615
+      },
+      {
+        "player": "Jeronimo Domina",
+        "odds": 1.667
+      },
+      {
+        "player": "Adam Jakobsen",
+        "odds": 1.727
+      },
+      {
+        "player": "Ousmane Camara",
+        "odds": 1.727
+      },
+      {
+        "player": "Ruben Catala",
+        "odds": 1.727
+      },
+      {
+        "player": "Awer Mabil",
+        "odds": 1.727
+      },
+      {
+        "player": "Pablo Santiago Lopez",
+        "odds": 1.727
+      },
+      {
+        "player": "Iuri Tabatadze",
+        "odds": 1.8
+      },
+      {
+        "player": "Javi Ontiveros",
+        "odds": 1.8
+      },
+      {
+        "player": "Benat Gerenabarrena",
+        "odds": 1.833
+      },
+      {
+        "player": "Alex Calatrava",
+        "odds": 1.833
+      },
+      {
+        "player": "Douglas Aurelio",
+        "odds": 1.833
+      },
+      {
+        "player": "Israel Suero",
+        "odds": 1.833
+      },
+      {
+        "player": "Isidoro Angulo",
+        "odds": 1.833
+      },
+      {
+        "player": "Diego Barri",
+        "odds": 2.0
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 2.0
+      },
+      {
+        "player": "Raul Sanchez",
+        "odds": 2.0
+      },
+      {
+        "player": "Tommaso De Nipoti",
+        "odds": 2.0
+      },
+      {
+        "player": "Guillem Terma",
+        "odds": 2.0
+      },
+      {
+        "player": "Miguel Ferrer",
+        "odds": 2.0
+      },
+      {
+        "player": "Dawda Camara",
+        "odds": 2.0
+      },
+      {
+        "player": "Martinez Lucas Perez",
+        "odds": 2.0
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 126.0,
+      "encuentro": 81.0,
+      "1ª mitad": 41.0,
+      "2ª mitad": 101.0,
+      "Primeros 10 minutos": 67.0,
+      "primeros 10 minutos": 15.0
+    }
+  }
+}

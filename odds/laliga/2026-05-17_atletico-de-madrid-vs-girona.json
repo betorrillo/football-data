@@ -1,0 +1,804 @@
+{
+  "meta": {
+    "id": "2026-05-17_atletico-de-madrid-vs-girona",
+    "scraped_at": "2026-05-17T16:19:51.273829",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Atlético de Madrid",
+    "away_team": "Girona",
+    "bet365_event_id": "193332394",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.182,
+      "draw_or_away": 2.05,
+      "home_or_away": 1.222
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.2,
+        "2.5": 1.615,
+        "3.5": 2.5,
+        "4.5": 4.5,
+        "5.5": 9.0,
+        "6.5": 17.0,
+        "7.5": 34.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 4.5,
+        "3.5": 2.3,
+        "4.5": 1.533,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.286,
+        "8.5": 1.5,
+        "9.5": 1.833,
+        "10.5": 2.375,
+        "11.5": 3.25,
+        "12.5": 4.333,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.5,
+        "9.5": 2.5,
+        "10.5": 1.833,
+        "11.5": 1.533,
+        "12.5": 1.333,
+        "13.5": 1.2,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.625,
+        "4.5": 4.333,
+        "5.5": 7.5,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 5.5,
+        "9.5": 9.0,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 2.0,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.03,
+        "8.5": 1.25,
+        "9.5": 1.125,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.5,
+        "4.5": 8.5,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 10.0,
+        "8.5": 15.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.04,
+        "3.5": 1.5,
+        "4.5": 1.182,
+        "5.5": 1.062,
+        "6.5": 1.025,
+        "7.5": 1.111,
+        "8.5": 1.05,
+        "9.5": 1.025
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.375
+      },
+      "under": {
+        "4.5": 2.1
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 3.4
+      },
+      "under": {
+        "1.5": 1.03,
+        "2.5": 2.0
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 67.0,
+        "2.5": 2.375
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.625
+      }
+    },
+    "ht_ft": {
+      "Atlético de Madrid": 19.0,
+      "Empate": 15.0,
+      "Girona": 7.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.909
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 2.2
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 2.375
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 2.5
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 2.5
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 2.625
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 2.625
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 2.875
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 3.0
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 3.0
+      },
+      {
+        "player": "Abel Ruiz",
+        "odds": 3.1
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 3.1
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 3.1
+      },
+      {
+        "player": "Iker Luque",
+        "odds": 3.6
+      },
+      {
+        "player": "Rodrigo Mendoza",
+        "odds": 3.6
+      },
+      {
+        "player": "Taufik Seidu",
+        "odds": 3.6
+      },
+      {
+        "player": "Viktor Tsygankov",
+        "odds": 3.6
+      },
+      {
+        "player": "Giuliano Simeone",
+        "odds": 4.333
+      },
+      {
+        "player": "Obed Vargas",
+        "odds": 4.333
+      },
+      {
+        "player": "Azz-Eddine Ounahi",
+        "odds": 4.5
+      },
+      {
+        "player": "Claudio Echeverri",
+        "odds": 4.5
+      },
+      {
+        "player": "Joel Roca",
+        "odds": 5.5
+      },
+      {
+        "player": "Bryan Gil",
+        "odds": 6.0
+      },
+      {
+        "player": "Javier Morcillo",
+        "odds": 6.0
+      },
+      {
+        "player": "Juan Arango",
+        "odds": 6.0
+      },
+      {
+        "player": "Pablo Barrios",
+        "odds": 6.0
+      },
+      {
+        "player": "Ricard Artero",
+        "odds": 6.0
+      },
+      {
+        "player": "Nahuel Molina",
+        "odds": 6.5
+      },
+      {
+        "player": "David Hancko",
+        "odds": 7.0
+      },
+      {
+        "player": "Javier Bonar",
+        "odds": 7.0
+      },
+      {
+        "player": "Thomas Lemar",
+        "odds": 7.0
+      },
+      {
+        "player": "Johnny Cardoso",
+        "odds": 8.0
+      },
+      {
+        "player": "Jorge Koke",
+        "odds": 8.0
+      },
+      {
+        "player": "Julio Diaz",
+        "odds": 8.0
+      },
+      {
+        "player": "Lancinet Kourouma",
+        "odds": 8.0
+      },
+      {
+        "player": "Marcos Llorente",
+        "odds": 8.0
+      },
+      {
+        "player": "Arnau Martinez",
+        "odds": 9.0
+      },
+      {
+        "player": "Hugo Rincon",
+        "odds": 9.0
+      },
+      {
+        "player": "Marc Pubill",
+        "odds": 9.0
+      },
+      {
+        "player": "Matteo Ruggeri",
+        "odds": 9.0
+      },
+      {
+        "player": "Alex Moreno",
+        "odds": 10.0
+      },
+      {
+        "player": "Beltran Fran",
+        "odds": 10.0
+      },
+      {
+        "player": "Clement Lenglet",
+        "odds": 10.0
+      },
+      {
+        "player": "Dani Martinez",
+        "odds": 10.0
+      },
+      {
+        "player": "Gibert Jordana",
+        "odds": 10.0
+      },
+      {
+        "player": "Ivan Martin",
+        "odds": 10.0
+      },
+      {
+        "player": "Aleksa Puric",
+        "odds": 11.0
+      },
+      {
+        "player": "José María Giménez",
+        "odds": 11.0
+      },
+      {
+        "player": "Robin Le Normand",
+        "odds": 11.0
+      },
+      {
+        "player": "Axel Witsel",
+        "odds": 13.0
+      },
+      {
+        "player": "Alejandro Frances",
+        "odds": 17.0
+      },
+      {
+        "player": "Daley Blind",
+        "odds": 17.0
+      },
+      {
+        "player": "David López",
+        "odds": 17.0
+      },
+      {
+        "player": "Vitor Reis",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.01
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.02
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.025
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.025
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.03
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.03
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.03
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.04
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 1.05
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 1.05
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 1.05
+      },
+      {
+        "player": "Abel Ruiz",
+        "odds": 1.05
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 1.05
+      },
+      {
+        "player": "Rodrigo Mendoza",
+        "odds": 1.062
+      },
+      {
+        "player": "Iker Luque",
+        "odds": 1.083
+      },
+      {
+        "player": "Taufik Seidu",
+        "odds": 1.083
+      },
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.083
+      },
+      {
+        "player": "Azz-Eddine Ounahi",
+        "odds": 1.083
+      },
+      {
+        "player": "Viktor Tsygankov",
+        "odds": 1.083
+      },
+      {
+        "player": "Claudio Echeverri",
+        "odds": 1.1
+      },
+      {
+        "player": "Joel Roca",
+        "odds": 1.1
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.125
+      },
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.125
+      },
+      {
+        "player": "Giuliano Simeone",
+        "odds": 1.143
+      },
+      {
+        "player": "Obed Vargas",
+        "odds": 1.143
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.143
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.143
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.167
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.167
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.167
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.167
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.167
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.167
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.167
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.2
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.2
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.2
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.2
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 1.2
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 1.222
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 1.222
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 1.222
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.222
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.222
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.222
+      },
+      {
+        "player": "Bryan Gil",
+        "odds": 1.222
+      },
+      {
+        "player": "Abel Ruiz",
+        "odds": 1.222
+      },
+      {
+        "player": "Rodrigo Mendoza",
+        "odds": 1.25
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 1.25
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 1.286
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.182
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.25
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.286
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.333
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.364
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.364
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 1.4
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.4
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.4
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 1.444
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 1.444
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 1.444
+      },
+      {
+        "player": "Abel Ruiz",
+        "odds": 1.5
+      },
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.533
+      },
+      {
+        "player": "Iker Luque",
+        "odds": 1.615
+      },
+      {
+        "player": "Rodrigo Mendoza",
+        "odds": 1.615
+      },
+      {
+        "player": "Taufik Seidu",
+        "odds": 1.615
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.615
+      },
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.615
+      },
+      {
+        "player": "Viktor Tsygankov",
+        "odds": 1.615
+      },
+      {
+        "player": "Azz-Eddine Ounahi",
+        "odds": 1.667
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.727
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 1.727
+      },
+      {
+        "player": "Claudio Echeverri",
+        "odds": 1.727
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.8
+      },
+      {
+        "player": "Giuliano Simeone",
+        "odds": 1.833
+      },
+      {
+        "player": "Obed Vargas",
+        "odds": 1.833
+      },
+      {
+        "player": "Alexander Sorloth",
+        "odds": 1.833
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.833
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.833
+      },
+      {
+        "player": "Antoine Griezmann",
+        "odds": 1.833
+      },
+      {
+        "player": "Miguel Cubo",
+        "odds": 1.833
+      },
+      {
+        "player": "Joel Roca",
+        "odds": 1.833
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.833
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 1.909
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 1.909
+      },
+      {
+        "player": "Ademola Lookman",
+        "odds": 1.909
+      },
+      {
+        "player": "Alejandro Monserrate",
+        "odds": 1.909
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "odds": 1.909
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 2.0
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 2.0
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 2.0
+      },
+      {
+        "player": "Julian Alvarez",
+        "odds": 2.1
+      },
+      {
+        "player": "Alex Baena",
+        "odds": 2.1
+      },
+      {
+        "player": "Thiago Almada",
+        "odds": 2.1
+      },
+      {
+        "player": "Abel Ruiz",
+        "odds": 2.1
+      },
+      {
+        "player": "Cristhian Stuani",
+        "odds": 2.1
+      },
+      {
+        "player": "Nicolas Gonzalez",
+        "odds": 2.2
+      },
+      {
+        "player": "Rayane Belaid",
+        "odds": 2.2
+      },
+      {
+        "player": "Bryan Gil",
+        "odds": 2.2
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 301.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 301.0,
+      "Primeros 10 minutos": 81.0,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}

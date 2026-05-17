@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "id": "2026-05-17_barcelona-vs-betis",
+    "scraped_at": "2026-05-17T16:19:43.968729",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "bet365_event_id": "193332405",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.1,
+      "draw_or_away": 3.25,
+      "home_or_away": 1.125
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.01,
+        "1.5": 1.1,
+        "2.5": 1.3,
+        "3.5": 1.8,
+        "4.5": 2.75,
+        "5.5": 4.5,
+        "6.5": 9.0,
+        "7.5": 17.0,
+        "8.5": 29.0
+      },
+      "under": {
+        "1.5": 26.0,
+        "2.5": 7.0,
+        "3.5": 3.5,
+        "4.5": 2.0,
+        "5.5": 1.444,
+        "6.5": 1.2,
+        "7.5": 1.071,
+        "8.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "5.5": 1.04,
+        "6.5": 1.1,
+        "7.5": 1.2,
+        "8.5": 1.364,
+        "9.5": 1.615,
+        "10.5": 1.909,
+        "11.5": 2.5,
+        "12.5": 3.5,
+        "13.5": 4.5,
+        "14.5": 7.0,
+        "15.5": 11.0,
+        "16.5": 13.0,
+        "17.5": 19.0
+      },
+      "under": {
+        "5.5": 21.0,
+        "6.5": 13.0,
+        "7.5": 7.0,
+        "8.5": 4.333,
+        "9.5": 3.0,
+        "10.5": 2.2,
+        "11.5": 1.8,
+        "12.5": 1.5,
+        "13.5": 1.286,
+        "14.5": 1.182,
+        "15.5": 1.1,
+        "16.5": 1.05,
+        "17.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 1.909,
+        "1.5": 5.5,
+        "2.5": 17.0,
+        "3.5": 34.0,
+        "4.5": 2.875,
+        "5.5": 4.5,
+        "6.5": 7.5,
+        "7.5": 13.0,
+        "8.5": 19.0,
+        "9.5": 29.0,
+        "10.5": 6.0,
+        "11.5": 9.0,
+        "12.5": 13.0,
+        "13.5": 17.0,
+        "14.5": 23.0
+      },
+      "under": {
+        "1.5": 1.8,
+        "2.5": 1.143,
+        "3.5": 1.025,
+        "4.5": 1.833,
+        "5.5": 1.4,
+        "6.5": 1.182,
+        "7.5": 1.071,
+        "8.5": 1.036,
+        "9.5": 1.02,
+        "10.5": 1.2,
+        "11.5": 1.111,
+        "12.5": 1.056,
+        "13.5": 1.036,
+        "14.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.75,
+        "1.5": 17.0,
+        "2.5": 41.0,
+        "3.5": 6.5,
+        "4.5": 13.0,
+        "5.5": 21.0,
+        "6.5": 11.0,
+        "7.5": 17.0,
+        "8.5": 26.0
+      },
+      "under": {
+        "1.5": 1.25,
+        "2.5": 1.03,
+        "3.5": 1.286,
+        "4.5": 1.091,
+        "5.5": 1.036,
+        "6.5": 1.111,
+        "7.5": 1.05,
+        "8.5": 1.02
+      }
+    },
+    "cards_total": {
+      "over": {
+        "2.5": 2.1
+      },
+      "under": {
+        "2.5": 2.75
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 6.5
+      },
+      "under": {
+        "1.5": 1.615
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 81.0
+      },
+      "under": {
+        "1.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Barcelona": 15.0,
+      "Empate": 19.0,
+      "Real Betis": 13.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.571
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.8
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.833
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.952
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 2.1
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 2.375
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 2.5
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 2.5
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 3.2
+      },
+      {
+        "player": "Cedric Bakambu",
+        "odds": 3.4
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 3.75
+      },
+      {
+        "player": "Antony",
+        "odds": 3.75
+      },
+      {
+        "player": "Luis Avila",
+        "odds": 4.0
+      },
+      {
+        "player": "Marc Bernal",
+        "odds": 4.0
+      },
+      {
+        "player": "Pedri",
+        "odds": 4.0
+      },
+      {
+        "player": "Frenkie de Jong",
+        "odds": 4.5
+      },
+      {
+        "player": "Giovani Lo Celso",
+        "odds": 4.5
+      },
+      {
+        "player": "Aitor Ruibal",
+        "odds": 5.0
+      },
+      {
+        "player": "Isco Alarcón",
+        "odds": 5.0
+      },
+      {
+        "player": "Nelson Deossa",
+        "odds": 5.0
+      },
+      {
+        "player": "Joao Cancelo",
+        "odds": 5.5
+      },
+      {
+        "player": "Jofre Torrents",
+        "odds": 5.5
+      },
+      {
+        "player": "Pablo Garcia",
+        "odds": 5.5
+      },
+      {
+        "player": "Pablo Martin Gavi",
+        "odds": 5.5
+      },
+      {
+        "player": "Alvaro Cortes",
+        "odds": 6.0
+      },
+      {
+        "player": "Andreas Christensen",
+        "odds": 6.0
+      },
+      {
+        "player": "Daniel Perez Guerrero",
+        "odds": 6.0
+      },
+      {
+        "player": "Ivan Corralejo",
+        "odds": 6.0
+      },
+      {
+        "player": "Jules Koundé",
+        "odds": 6.0
+      },
+      {
+        "player": "Pablo Fornals",
+        "odds": 6.0
+      },
+      {
+        "player": "Rodrigo Riquelme",
+        "odds": 6.0
+      },
+      {
+        "player": "Ronald Araujo",
+        "odds": 6.0
+      },
+      {
+        "player": "Alvaro Fidalgo",
+        "odds": 7.0
+      },
+      {
+        "player": "Eric Garcia",
+        "odds": 7.0
+      },
+      {
+        "player": "Marc Casado",
+        "odds": 7.0
+      },
+      {
+        "player": "Tomas Marques",
+        "odds": 7.0
+      },
+      {
+        "player": "Xavi Espart",
+        "odds": 7.0
+      },
+      {
+        "player": "Alex Balde",
+        "odds": 7.5
+      },
+      {
+        "player": "Martin Gerard",
+        "odds": 7.5
+      },
+      {
+        "player": "Pau Cubarsi",
+        "odds": 7.5
+      },
+      {
+        "player": "Sergi Altimira",
+        "odds": 8.5
+      },
+      {
+        "player": "Carlos De Roa",
+        "odds": 12.0
+      },
+      {
+        "player": "Marc Bartra",
+        "odds": 12.0
+      },
+      {
+        "player": "Marc Roca",
+        "odds": 12.0
+      },
+      {
+        "player": "Sofyan Amrabat",
+        "odds": 12.0
+      },
+      {
+        "player": "Angel Ortiz",
+        "odds": 15.0
+      },
+      {
+        "player": "Diego Llorente",
+        "odds": 15.0
+      },
+      {
+        "player": "Junior Firpo",
+        "odds": 15.0
+      },
+      {
+        "player": "Ricardo Rodriguez",
+        "odds": 15.0
+      },
+      {
+        "player": "Natan Bernardo",
+        "odds": 21.0
+      },
+      {
+        "player": "Hector Bellerin",
+        "odds": 21.0
+      },
+      {
+        "player": "Valentin Gomez",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.01
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.012
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.025
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.03
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.03
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.04
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 1.04
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 1.04
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.05
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.05
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.05
+      },
+      {
+        "player": "Antony",
+        "odds": 1.05
+      },
+      {
+        "player": "Cedric Bakambu",
+        "odds": 1.05
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.062
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.062
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.071
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.071
+      },
+      {
+        "player": "Nelson Deossa",
+        "odds": 1.071
+      },
+      {
+        "player": "Marc Bernal",
+        "odds": 1.083
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.083
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.083
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.083
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.1
+      },
+      {
+        "player": "Pedri",
+        "odds": 1.111
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.111
+      },
+      {
+        "player": "Giovani Lo Celso",
+        "odds": 1.111
+      },
+      {
+        "player": "Luis Avila",
+        "odds": 1.111
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.125
+      },
+      {
+        "player": "Aitor Ruibal",
+        "odds": 1.125
+      },
+      {
+        "player": "Frenkie de Jong",
+        "odds": 1.143
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.143
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.143
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.167
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.167
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.167
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.167
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.182
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.2
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.2
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.2
+      },
+      {
+        "player": "Isco Alarcón",
+        "odds": 1.2
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 1.2
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 1.2
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.222
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.222
+      },
+      {
+        "player": "Rodrigo Riquelme",
+        "odds": 1.222
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 1.222
+      },
+      {
+        "player": "Antony",
+        "odds": 1.222
+      },
+      {
+        "player": "Cedric Bakambu",
+        "odds": 1.222
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 1.222
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.111
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.125
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.167
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.2
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.222
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.286
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.364
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.364
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.364
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.4
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.444
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 1.444
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 1.444
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.5
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.5
+      },
+      {
+        "player": "Antony",
+        "odds": 1.5
+      },
+      {
+        "player": "Cedric Bakambu",
+        "odds": 1.5
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.533
+      },
+      {
+        "player": "Robert Lewandowski",
+        "odds": 1.571
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.571
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.615
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.615
+      },
+      {
+        "player": "Giovani Lo Celso",
+        "odds": 1.615
+      },
+      {
+        "player": "Ferran Torres",
+        "odds": 1.667
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 1.667
+      },
+      {
+        "player": "Marc Bernal",
+        "odds": 1.727
+      },
+      {
+        "player": "Pedri",
+        "odds": 1.727
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.727
+      },
+      {
+        "player": "Luis Avila",
+        "odds": 1.727
+      },
+      {
+        "player": "Nelson Deossa",
+        "odds": 1.8
+      },
+      {
+        "player": "Frenkie de Jong",
+        "odds": 1.833
+      },
+      {
+        "player": "Raphinha",
+        "odds": 1.833
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.833
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.833
+      },
+      {
+        "player": "Roony Bardghji",
+        "odds": 1.833
+      },
+      {
+        "player": "Aitor Ruibal",
+        "odds": 1.833
+      },
+      {
+        "player": "Toni Fernandez",
+        "odds": 1.909
+      },
+      {
+        "player": "Dani Olmo",
+        "odds": 1.909
+      },
+      {
+        "player": "Fermin Lopez",
+        "odds": 1.909
+      },
+      {
+        "player": "Marcus Rashford",
+        "odds": 2.0
+      },
+      {
+        "player": "Abdessamad Ezzalzouli",
+        "odds": 2.0
+      },
+      {
+        "player": "Cucho Hernandez",
+        "odds": 2.0
+      },
+      {
+        "player": "Isco Alarcón",
+        "odds": 2.1
+      },
+      {
+        "player": "Antony",
+        "odds": 2.1
+      },
+      {
+        "player": "Cedric Bakambu",
+        "odds": 2.1
+      },
+      {
+        "player": "Joao Cancelo",
+        "odds": 2.25
+      },
+      {
+        "player": "Jofre Torrents",
+        "odds": 2.25
+      },
+      {
+        "player": "Pablo Martin Gavi",
+        "odds": 2.25
+      },
+      {
+        "player": "Pablo Fornals",
+        "odds": 2.25
+      },
+      {
+        "player": "Pablo Garcia",
+        "odds": 2.25
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 126.0,
+      "encuentro": 201.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 81.0,
+      "Primeros 10 minutos": 5.0,
+      "primeros 10 minutos": 251.0
+    }
+  }
+}

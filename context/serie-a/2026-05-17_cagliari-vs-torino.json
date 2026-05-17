@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_cagliari-vs-torino",
+  "home": "Cagliari",
+  "away": "Torino",
+  "league": "ITA1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Cagliari",
+    "mp": 36,
+    "w": 9,
+    "d": 10,
+    "l": 17,
+    "gf": 36,
+    "ga": 51,
+    "gd": -15,
+    "pts": 37,
+    "avg": {
+      "gf": 1.0,
+      "ga": 1.42,
+      "corners_for": 3.81,
+      "corners_against": 5.28,
+      "total_corners": 9.08,
+      "shots": 10.47,
+      "shots_against": 12.92,
+      "shots_target": 3.28,
+      "shots_target_against": 4.72,
+      "fouls": 14.08,
+      "fouls_against": 15.03,
+      "yellows": 2.17,
+      "opponent_yellows": 1.64,
+      "total_match_cards": 3.81
+    },
+    "avg_home": {
+      "gf": 1.11,
+      "ga": 1.22,
+      "corners_for": 4.28,
+      "corners_against": 5.28,
+      "over_25_pct": 33.3
+    },
+    "avg_away": {
+      "gf": 0.89,
+      "ga": 1.61,
+      "corners_for": 3.33,
+      "corners_against": 5.28,
+      "over_25_pct": 61.1
+    },
+    "pct": {
+      "over_15": 75.0,
+      "over_25": 47.2,
+      "over_35": 19.4,
+      "btts": 47.2,
+      "clean_sheet": 22.2,
+      "failed_to_score": 38.9
+    },
+    "avg_ht": {
+      "gf_1h": 0.36,
+      "ga_1h": 0.56,
+      "gf_2h": 0.64,
+      "ga_2h": 0.86,
+      "total_1h": 0.92,
+      "total_2h": 1.5
+    },
+    "pct_ht": {
+      "over_05_1h": 58.3,
+      "over_15_1h": 19.4,
+      "over_05_2h": 86.1,
+      "over_15_2h": 50.0,
+      "btts_1h": 13.9,
+      "btts_2h": 27.8
+    },
+    "xg": 35.1,
+    "xga": 51.5,
+    "xg_diff": 0.9,
+    "xga_diff": -2.5,
+    "yellow_cards_total": 67,
+    "red_cards_total": 2,
+    "yc_per_match": 1.91
+  },
+  "away_stats": {
+    "team": "Torino",
+    "mp": 36,
+    "w": 12,
+    "d": 8,
+    "l": 16,
+    "gf": 41,
+    "ga": 59,
+    "gd": -18,
+    "pts": 44,
+    "avg": {
+      "gf": 1.14,
+      "ga": 1.64,
+      "corners_for": 3.86,
+      "corners_against": 4.64,
+      "total_corners": 8.5,
+      "shots": 11.86,
+      "shots_against": 13.78,
+      "shots_target": 3.97,
+      "shots_target_against": 4.53,
+      "fouls": 14.08,
+      "fouls_against": 10.64,
+      "yellows": 1.92,
+      "opponent_yellows": 1.42,
+      "total_match_cards": 3.33
+    },
+    "avg_home": {
+      "gf": 1.39,
+      "ga": 1.5,
+      "corners_for": 4.22,
+      "corners_against": 4.56,
+      "over_25_pct": 66.7
+    },
+    "avg_away": {
+      "gf": 0.89,
+      "ga": 1.78,
+      "corners_for": 3.5,
+      "corners_against": 4.72,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 61.1,
+      "over_35": 27.8,
+      "btts": 47.2,
+      "clean_sheet": 33.3,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.44,
+      "ga_1h": 0.78,
+      "gf_2h": 0.69,
+      "ga_2h": 0.86,
+      "total_1h": 1.22,
+      "total_2h": 1.56
+    },
+    "pct_ht": {
+      "over_05_1h": 72.2,
+      "over_15_1h": 36.1,
+      "over_05_2h": 75.0,
+      "over_15_2h": 44.4,
+      "btts_1h": 22.2,
+      "btts_2h": 25.0
+    },
+    "xg": 46.6,
+    "xga": 53.5,
+    "xg_diff": -5.6,
+    "xga_diff": 5.5,
+    "yellow_cards_total": 75,
+    "red_cards_total": 1,
+    "yc_per_match": 2.08
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

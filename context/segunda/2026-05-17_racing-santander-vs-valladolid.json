@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-17_racing-santander-vs-valladolid",
+  "home": "Racing Santander",
+  "away": "Valladolid",
+  "league": "ESP2",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Santander",
+    "mp": 39,
+    "w": 23,
+    "d": 6,
+    "l": 10,
+    "gf": 81,
+    "ga": 58,
+    "gd": 23,
+    "pts": 75,
+    "avg": {
+      "gf": 2.08,
+      "ga": 1.49,
+      "corners_for": 5.69,
+      "corners_against": 4.85,
+      "total_corners": 10.54,
+      "shots": 13.95,
+      "shots_against": 12.95,
+      "shots_target": 5.74,
+      "shots_target_against": 4.31,
+      "fouls": 13.05,
+      "fouls_against": 14.92,
+      "yellows": 2.79,
+      "opponent_yellows": 3.23,
+      "total_match_cards": 6.03
+    },
+    "avg_home": {
+      "gf": 2.47,
+      "ga": 1.42,
+      "corners_for": 7.21,
+      "corners_against": 4.58,
+      "over_25_pct": 78.9
+    },
+    "avg_away": {
+      "gf": 1.7,
+      "ga": 1.55,
+      "corners_for": 4.25,
+      "corners_against": 5.1,
+      "over_25_pct": 65.0
+    },
+    "pct": {
+      "over_15": 84.6,
+      "over_25": 71.8,
+      "over_35": 53.8,
+      "btts": 71.8,
+      "clean_sheet": 20.5,
+      "failed_to_score": 10.3
+    },
+    "avg_ht": {
+      "gf_1h": 0.82,
+      "ga_1h": 0.67,
+      "gf_2h": 1.26,
+      "ga_2h": 0.82,
+      "total_1h": 1.49,
+      "total_2h": 2.08
+    },
+    "pct_ht": {
+      "over_05_1h": 74.4,
+      "over_15_1h": 46.2,
+      "over_05_2h": 87.2,
+      "over_15_2h": 69.2,
+      "btts_1h": 25.6,
+      "btts_2h": 35.9
+    }
+  },
+  "away_stats": {
+    "team": "Valladolid",
+    "mp": 39,
+    "w": 12,
+    "d": 10,
+    "l": 17,
+    "gf": 43,
+    "ga": 50,
+    "gd": -7,
+    "pts": 46,
+    "avg": {
+      "gf": 1.1,
+      "ga": 1.28,
+      "corners_for": 5.49,
+      "corners_against": 3.46,
+      "total_corners": 8.95,
+      "shots": 12.49,
+      "shots_against": 10.54,
+      "shots_target": 3.97,
+      "shots_target_against": 3.67,
+      "fouls": 15.87,
+      "fouls_against": 13.41,
+      "yellows": 2.87,
+      "opponent_yellows": 2.87,
+      "total_match_cards": 5.74
+    },
+    "avg_home": {
+      "gf": 1.15,
+      "ga": 0.95,
+      "corners_for": 6.1,
+      "corners_against": 2.7,
+      "over_25_pct": 35.0
+    },
+    "avg_away": {
+      "gf": 1.05,
+      "ga": 1.63,
+      "corners_for": 4.84,
+      "corners_against": 4.26,
+      "over_25_pct": 52.6
+    },
+    "pct": {
+      "over_15": 61.5,
+      "over_25": 43.6,
+      "over_35": 23.1,
+      "btts": 41.0,
+      "clean_sheet": 28.2,
+      "failed_to_score": 38.5
+    },
+    "avg_ht": {
+      "gf_1h": 0.51,
+      "ga_1h": 0.59,
+      "gf_2h": 0.59,
+      "ga_2h": 0.69,
+      "total_1h": 1.1,
+      "total_2h": 1.28
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 28.2,
+      "over_05_2h": 79.5,
+      "over_15_2h": 33.3,
+      "btts_1h": 15.4,
+      "btts_2h": 20.5
+    }
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

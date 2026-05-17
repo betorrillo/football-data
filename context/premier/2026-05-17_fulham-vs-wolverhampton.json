@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_fulham-vs-wolverhampton",
+  "home": "Fulham",
+  "away": "Wolverhampton",
+  "league": "ENG1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Fulham",
+    "mp": 36,
+    "w": 14,
+    "d": 6,
+    "l": 16,
+    "gf": 44,
+    "ga": 50,
+    "gd": -6,
+    "pts": 48,
+    "avg": {
+      "gf": 1.22,
+      "ga": 1.39,
+      "corners_for": 4.89,
+      "corners_against": 5.58,
+      "total_corners": 10.47,
+      "shots": 12.42,
+      "shots_against": 11.94,
+      "shots_target": 3.53,
+      "shots_target_against": 4.0,
+      "fouls": 10.92,
+      "fouls_against": 9.69,
+      "yellows": 2.03,
+      "opponent_yellows": 1.67,
+      "total_match_cards": 3.69
+    },
+    "avg_home": {
+      "gf": 1.56,
+      "ga": 1.11,
+      "corners_for": 5.5,
+      "corners_against": 5.67,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 0.89,
+      "ga": 1.67,
+      "corners_for": 4.28,
+      "corners_against": 5.5,
+      "over_25_pct": 50.0
+    },
+    "pct": {
+      "over_15": 69.4,
+      "over_25": 52.8,
+      "over_35": 25.0,
+      "btts": 52.8,
+      "clean_sheet": 22.2,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.44,
+      "ga_1h": 0.58,
+      "gf_2h": 0.78,
+      "ga_2h": 0.81,
+      "total_1h": 1.03,
+      "total_2h": 1.58
+    },
+    "pct_ht": {
+      "over_05_1h": 58.3,
+      "over_15_1h": 27.8,
+      "over_05_2h": 80.6,
+      "over_15_2h": 41.7,
+      "btts_1h": 13.9,
+      "btts_2h": 30.6
+    },
+    "xg": 44.7,
+    "xga": 53.2,
+    "xg_diff": -0.7,
+    "xga_diff": -4.2,
+    "yellow_cards_total": 70,
+    "red_cards_total": 0,
+    "yc_per_match": 2.0
+  },
+  "away_stats": {
+    "team": "Wolves",
+    "mp": 36,
+    "w": 3,
+    "d": 9,
+    "l": 24,
+    "gf": 25,
+    "ga": 66,
+    "gd": -41,
+    "pts": 18,
+    "avg": {
+      "gf": 0.69,
+      "ga": 1.83,
+      "corners_for": 3.33,
+      "corners_against": 5.97,
+      "total_corners": 9.31,
+      "shots": 9.53,
+      "shots_against": 13.86,
+      "shots_target": 3.22,
+      "shots_target_against": 4.61,
+      "fouls": 12.86,
+      "fouls_against": 10.94,
+      "yellows": 2.08,
+      "opponent_yellows": 1.67,
+      "total_match_cards": 3.75
+    },
+    "avg_home": {
+      "gf": 1.0,
+      "ga": 1.83,
+      "corners_for": 3.17,
+      "corners_against": 5.33,
+      "over_25_pct": 50.0
+    },
+    "avg_away": {
+      "gf": 0.39,
+      "ga": 1.83,
+      "corners_for": 3.5,
+      "corners_against": 6.61,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 77.8,
+      "over_25": 47.2,
+      "over_35": 25.0,
+      "btts": 41.7,
+      "clean_sheet": 11.1,
+      "failed_to_score": 52.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.31,
+      "ga_1h": 0.92,
+      "gf_2h": 0.39,
+      "ga_2h": 0.92,
+      "total_1h": 1.22,
+      "total_2h": 1.31
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 36.1,
+      "over_05_2h": 77.8,
+      "over_15_2h": 36.1,
+      "btts_1h": 16.7,
+      "btts_2h": 13.9
+    },
+    "xg": 33.2,
+    "xga": 58.6,
+    "xg_diff": -8.2,
+    "xga_diff": 4.4,
+    "yellow_cards_total": 70,
+    "red_cards_total": 3,
+    "yc_per_match": 2.0
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

@@ -1,0 +1,138 @@
+{
+  "match_id": "2026-05-17_granada-vs-burgos",
+  "home": "Granada",
+  "away": "Burgos",
+  "league": "ESP2",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Granada",
+    "mp": 39,
+    "w": 12,
+    "d": 12,
+    "l": 15,
+    "gf": 48,
+    "ga": 50,
+    "gd": -2,
+    "pts": 48,
+    "avg": {
+      "gf": 1.23,
+      "ga": 1.28,
+      "corners_for": 4.38,
+      "corners_against": 4.9,
+      "total_corners": 9.28,
+      "shots": 12.1,
+      "shots_against": 11.92,
+      "shots_target": 3.85,
+      "shots_target_against": 3.92,
+      "fouls": 12.97,
+      "fouls_against": 15.15,
+      "yellows": 2.54,
+      "opponent_yellows": 2.64,
+      "total_match_cards": 5.18
+    },
+    "avg_home": {
+      "gf": 1.42,
+      "ga": 1.16,
+      "corners_for": 5.26,
+      "corners_against": 4.11,
+      "over_25_pct": 36.8
+    },
+    "avg_away": {
+      "gf": 1.05,
+      "ga": 1.4,
+      "corners_for": 3.55,
+      "corners_against": 5.65,
+      "over_25_pct": 45.0
+    },
+    "pct": {
+      "over_15": 64.1,
+      "over_25": 41.0,
+      "over_35": 28.2,
+      "btts": 51.3,
+      "clean_sheet": 30.8,
+      "failed_to_score": 30.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.74,
+      "ga_1h": 0.59,
+      "gf_2h": 0.49,
+      "ga_2h": 0.69,
+      "total_1h": 1.33,
+      "total_2h": 1.18
+    },
+    "pct_ht": {
+      "over_05_1h": 66.7,
+      "over_15_1h": 33.3,
+      "over_05_2h": 66.7,
+      "over_15_2h": 41.0,
+      "btts_1h": 25.6,
+      "btts_2h": 28.2
+    }
+  },
+  "away_stats": {
+    "team": "Burgos",
+    "mp": 39,
+    "w": 17,
+    "d": 12,
+    "l": 10,
+    "gf": 44,
+    "ga": 33,
+    "gd": 11,
+    "pts": 63,
+    "avg": {
+      "gf": 1.13,
+      "ga": 0.85,
+      "corners_for": 3.82,
+      "corners_against": 4.72,
+      "total_corners": 8.54,
+      "shots": 10.1,
+      "shots_against": 11.54,
+      "shots_target": 3.13,
+      "shots_target_against": 3.62,
+      "fouls": 12.92,
+      "fouls_against": 14.64,
+      "yellows": 2.56,
+      "opponent_yellows": 2.9,
+      "total_match_cards": 5.46
+    },
+    "avg_home": {
+      "gf": 1.2,
+      "ga": 0.6,
+      "corners_for": 4.3,
+      "corners_against": 4.35,
+      "over_25_pct": 20.0
+    },
+    "avg_away": {
+      "gf": 1.05,
+      "ga": 1.11,
+      "corners_for": 3.32,
+      "corners_against": 5.11,
+      "over_25_pct": 47.4
+    },
+    "pct": {
+      "over_15": 56.4,
+      "over_25": 33.3,
+      "over_35": 15.4,
+      "btts": 41.0,
+      "clean_sheet": 41.0,
+      "failed_to_score": 35.9
+    },
+    "avg_ht": {
+      "gf_1h": 0.54,
+      "ga_1h": 0.44,
+      "gf_2h": 0.59,
+      "ga_2h": 0.41,
+      "total_1h": 0.97,
+      "total_2h": 1.0
+    },
+    "pct_ht": {
+      "over_05_1h": 53.8,
+      "over_15_1h": 33.3,
+      "over_05_2h": 66.7,
+      "over_15_2h": 25.6,
+      "btts_1h": 23.1,
+      "btts_2h": 17.9
+    }
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

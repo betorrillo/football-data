@@ -1,0 +1,778 @@
+{
+  "meta": {
+    "id": "2026-05-17_cagliari-vs-torino",
+    "scraped_at": "2026-05-17T16:19:38.437982",
+    "league": "Italy Serie A",
+    "league_code": "ITA1",
+    "home_team": "Cagliari",
+    "away_team": "Torino",
+    "bet365_event_id": "193714559",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.3,
+      "draw_or_away": 1.571,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.083,
+        "1.5": 1.4,
+        "2.5": 2.3,
+        "3.5": 4.333,
+        "4.5": 9.0,
+        "5.5": 19.0,
+        "6.5": 41.0
+      },
+      "under": {
+        "1.5": 7.5,
+        "2.5": 3.0,
+        "3.5": 1.615,
+        "4.5": 1.222,
+        "5.5": 1.071,
+        "6.5": 1.02
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.04,
+        "5.5": 1.1,
+        "6.5": 1.222,
+        "7.5": 1.4,
+        "8.5": 1.727,
+        "9.5": 2.2,
+        "10.5": 3.0,
+        "11.5": 4.333,
+        "12.5": 6.5,
+        "13.5": 10.0,
+        "14.5": 15.0,
+        "15.5": 19.0
+      },
+      "under": {
+        "4.5": 23.0,
+        "5.5": 13.0,
+        "6.5": 7.0,
+        "7.5": 4.0,
+        "8.5": 2.75,
+        "9.5": 2.0,
+        "10.5": 1.615,
+        "11.5": 1.364,
+        "12.5": 1.2,
+        "13.5": 1.111,
+        "14.5": 1.062,
+        "15.5": 1.03
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 29.0,
+        "3.5": 3.4,
+        "4.5": 6.0,
+        "5.5": 11.0,
+        "6.5": 19.0,
+        "7.5": 29.0,
+        "8.5": 9.5,
+        "9.5": 15.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.056,
+        "3.5": 1.727,
+        "4.5": 1.3,
+        "5.5": 1.111,
+        "6.5": 1.04,
+        "7.5": 1.02,
+        "8.5": 1.111,
+        "9.5": 1.05,
+        "10.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.333,
+        "4.5": 8.0,
+        "5.5": 15.0,
+        "6.5": 23.0,
+        "7.5": 9.0,
+        "8.5": 15.0,
+        "9.5": 21.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.04,
+        "3.5": 1.533,
+        "4.5": 1.2,
+        "5.5": 1.062,
+        "6.5": 1.03,
+        "7.5": 1.125,
+        "8.5": 1.056,
+        "9.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "3.5": 2.75
+      },
+      "under": {
+        "3.5": 2.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 126.0
+      },
+      "under": {
+        "1.5": 1.025
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0
+      },
+      "under": {
+        "1.5": 1.03
+      }
+    },
+    "ht_ft": {
+      "Cagliari": 29.0,
+      "Empate": 4.5,
+      "Torino": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Duvan Zapata",
+        "odds": 2.75
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 2.75
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 3.0
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 3.0
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 3.0
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 3.0
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 3.2
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 3.4
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 3.6
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 3.75
+      },
+      {
+        "player": "Agustin Albarracin",
+        "odds": 4.0
+      },
+      {
+        "player": "Che Adams",
+        "odds": 4.0
+      },
+      {
+        "player": "Sandro Kulenovic",
+        "odds": 4.0
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 4.0
+      },
+      {
+        "player": "Tommaso Gabellini",
+        "odds": 4.333
+      },
+      {
+        "player": "Nikola Vlasic",
+        "odds": 4.75
+      },
+      {
+        "player": "Alessandro Deiola",
+        "odds": 5.0
+      },
+      {
+        "player": "Michael Folorunsho",
+        "odds": 5.0
+      },
+      {
+        "player": "Tino Anjorin",
+        "odds": 5.0
+      },
+      {
+        "player": "Yael Trepy",
+        "odds": 5.0
+      },
+      {
+        "player": "Zanos Savva",
+        "odds": 5.0
+      },
+      {
+        "player": "Cesare Casadei",
+        "odds": 6.5
+      },
+      {
+        "player": "Luca Mazzitelli",
+        "odds": 7.0
+      },
+      {
+        "player": "Yerry Mina",
+        "odds": 7.0
+      },
+      {
+        "player": "Emirhan Ilkhan",
+        "odds": 8.0
+      },
+      {
+        "player": "Ibrahim Sulemana",
+        "odds": 8.0
+      },
+      {
+        "player": "Ivan Ilic",
+        "odds": 8.0
+      },
+      {
+        "player": "Joseph Liteta",
+        "odds": 8.0
+      },
+      {
+        "player": "Marco Palestra",
+        "odds": 8.0
+      },
+      {
+        "player": "Othniel Raterink",
+        "odds": 8.0
+      },
+      {
+        "player": "Roberto Malfitano",
+        "odds": 8.0
+      },
+      {
+        "player": "Adam Obert",
+        "odds": 9.0
+      },
+      {
+        "player": "Matteo Prati",
+        "odds": 9.0
+      },
+      {
+        "player": "Niels Nkounkou",
+        "odds": 9.0
+      },
+      {
+        "player": "Gvidas Gineitis",
+        "odds": 9.5
+      },
+      {
+        "player": "Marcus Pedersen",
+        "odds": 9.5
+      },
+      {
+        "player": "Michel Adopo",
+        "odds": 9.5
+      },
+      {
+        "player": "Saul Coco",
+        "odds": 9.5
+      },
+      {
+        "player": "Valentino Lazaro",
+        "odds": 9.5
+      },
+      {
+        "player": "Alberto Dossena",
+        "odds": 11.0
+      },
+      {
+        "player": "Gabriele Zappa",
+        "odds": 11.0
+      },
+      {
+        "player": "Cristiano Biraghi",
+        "odds": 12.0
+      },
+      {
+        "player": "Jose Ze Pedro",
+        "odds": 12.0
+      },
+      {
+        "player": "Juan Rodriguez",
+        "odds": 12.0
+      },
+      {
+        "player": "Adrien Tameze",
+        "odds": 15.0
+      },
+      {
+        "player": "Guillermo Maripán",
+        "odds": 15.0
+      },
+      {
+        "player": "Luca Marianucci",
+        "odds": 15.0
+      },
+      {
+        "player": "Rafael Obrador",
+        "odds": 15.0
+      },
+      {
+        "player": "Ardian Ismajli",
+        "odds": 17.0
+      },
+      {
+        "player": "Enzo Ebosse",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.01
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.012
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.03
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.03
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 1.03
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.03
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 1.04
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 1.05
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 1.071
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.083
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 1.083
+      },
+      {
+        "player": "Nikola Vlasic",
+        "odds": 1.083
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 1.083
+      },
+      {
+        "player": "Alessandro Deiola",
+        "odds": 1.1
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.1
+      },
+      {
+        "player": "Tino Anjorin",
+        "odds": 1.1
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.111
+      },
+      {
+        "player": "Che Adams",
+        "odds": 1.111
+      },
+      {
+        "player": "Sandro Kulenovic",
+        "odds": 1.111
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.125
+      },
+      {
+        "player": "Michael Folorunsho",
+        "odds": 1.167
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.167
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.167
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 1.167
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.167
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.182
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.182
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.182
+      },
+      {
+        "player": "Luca Mazzitelli",
+        "odds": 1.2
+      },
+      {
+        "player": "Yael Trepy",
+        "odds": 1.2
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 1.2
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.2
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.2
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.2
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 1.2
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 1.222
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 1.222
+      },
+      {
+        "player": "Cesare Casadei",
+        "odds": 1.222
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 1.222
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.25
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 1.25
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 1.25
+      },
+      {
+        "player": "Yerry Mina",
+        "odds": 1.286
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 1.286
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.3
+      },
+      {
+        "player": "Gvidas Gineitis",
+        "odds": 1.3
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 1.3
+      },
+      {
+        "player": "Nikola Vlasic",
+        "odds": 1.3
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 1.3
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 1.3
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.286
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.364
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.4
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.4
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.4
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 1.4
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 1.444
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 1.444
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 1.615
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 1.615
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 1.667
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.727
+      },
+      {
+        "player": "Che Adams",
+        "odds": 1.727
+      },
+      {
+        "player": "Nikola Vlasic",
+        "odds": 1.727
+      },
+      {
+        "player": "Sandro Kulenovic",
+        "odds": 1.727
+      },
+      {
+        "player": "Tino Anjorin",
+        "odds": 1.727
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 1.8
+      },
+      {
+        "player": "Alessandro Deiola",
+        "odds": 1.833
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.833
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 1.909
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 1.909
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 1.909
+      },
+      {
+        "player": "Leonardo Pavoletti",
+        "odds": 1.909
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 1.909
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 2.0
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 2.0
+      },
+      {
+        "player": "Andrea Belotti",
+        "odds": 2.0
+      },
+      {
+        "player": "Gianluca Gaetano",
+        "odds": 2.0
+      },
+      {
+        "player": "Sebastiano Esposito",
+        "odds": 2.0
+      },
+      {
+        "player": "Duvan Zapata",
+        "odds": 2.0
+      },
+      {
+        "player": "Michael Folorunsho",
+        "odds": 2.1
+      },
+      {
+        "player": "Yael Trepy",
+        "odds": 2.1
+      },
+      {
+        "player": "Paul Mendy",
+        "odds": 2.1
+      },
+      {
+        "player": "Semih Kilicsoy",
+        "odds": 2.1
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 2.25
+      },
+      {
+        "player": "Gennaro Borrelli",
+        "odds": 2.375
+      },
+      {
+        "player": "Cesare Casadei",
+        "odds": 2.375
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 2.375
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 2.375
+      },
+      {
+        "player": "Alieu Njie",
+        "odds": 2.375
+      },
+      {
+        "player": "Luca Mazzitelli",
+        "odds": 2.5
+      },
+      {
+        "player": "Che Adams",
+        "odds": 2.5
+      },
+      {
+        "player": "Sandro Kulenovic",
+        "odds": 2.5
+      },
+      {
+        "player": "Tino Anjorin",
+        "odds": 2.5
+      },
+      {
+        "player": "Giovanni Simeone",
+        "odds": 2.5
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "odds": 2.5
+      },
+      {
+        "player": "Yerry Mina",
+        "odds": 2.625
+      },
+      {
+        "player": "Alessandro Deiola",
+        "odds": 2.625
+      },
+      {
+        "player": "Gvidas Gineitis",
+        "odds": 2.625
+      },
+      {
+        "player": "Nikola Vlasic",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 301.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 251.0,
+      "Primeros 10 minutos": 151.0,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}

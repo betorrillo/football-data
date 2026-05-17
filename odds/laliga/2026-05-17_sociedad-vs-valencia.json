@@ -1,0 +1,818 @@
+{
+  "meta": {
+    "id": "2026-05-17_sociedad-vs-valencia",
+    "scraped_at": "2026-05-17T16:19:45.798344",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Real Sociedad",
+    "away_team": "Valencia",
+    "bet365_event_id": "193332423",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.333,
+      "draw_or_away": 1.615,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.062,
+        "1.5": 1.286,
+        "2.5": 1.909,
+        "3.5": 3.2,
+        "4.5": 6.0,
+        "5.5": 13.0,
+        "6.5": 26.0,
+        "7.5": 51.0
+      },
+      "under": {
+        "1.5": 10.0,
+        "2.5": 3.75,
+        "3.5": 1.909,
+        "4.5": 1.364,
+        "5.5": 1.125,
+        "6.5": 1.04,
+        "7.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.05,
+        "6.5": 1.125,
+        "7.5": 1.25,
+        "8.5": 1.444,
+        "9.5": 1.727,
+        "10.5": 2.2,
+        "11.5": 3.0,
+        "12.5": 4.0,
+        "13.5": 6.0,
+        "14.5": 9.0,
+        "15.5": 12.0,
+        "16.5": 17.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 11.0,
+        "7.5": 6.0,
+        "8.5": 3.75,
+        "9.5": 2.625,
+        "10.5": 2.0,
+        "11.5": 1.615,
+        "12.5": 1.364,
+        "13.5": 1.222,
+        "14.5": 1.125,
+        "15.5": 1.071,
+        "16.5": 1.036,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.625,
+        "4.5": 4.333,
+        "5.5": 7.5,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.0,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.062,
+        "3.5": 2.05,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.111,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.0,
+        "1.5": 12.0,
+        "2.5": 29.0,
+        "3.5": 4.0,
+        "4.5": 7.5,
+        "5.5": 13.0,
+        "6.5": 21.0,
+        "7.5": 8.0,
+        "8.5": 13.0,
+        "9.5": 19.0
+      },
+      "under": {
+        "1.5": 1.364,
+        "2.5": 1.045,
+        "3.5": 1.571,
+        "4.5": 1.222,
+        "5.5": 1.083,
+        "6.5": 1.03,
+        "7.5": 1.167,
+        "8.5": 1.062,
+        "9.5": 1.036
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.1
+      },
+      "under": {
+        "4.5": 2.375
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.75
+      },
+      "under": {
+        "1.5": 1.036,
+        "2.5": 2.375
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 67.0,
+        "2.5": 2.25
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.625
+      }
+    },
+    "ht_ft": {
+      "Real Sociedad": 23.0,
+      "Empate": 5.5,
+      "Valencia": 5.0
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Gorka Carrera",
+        "odds": 2.1
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 2.375
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 2.5
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 2.5
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 2.75
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 3.0
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 3.0
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 3.0
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 3.0
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 3.2
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 3.2
+      },
+      {
+        "player": "Wesley Teixeira",
+        "odds": 3.4
+      },
+      {
+        "player": "Largie Ramazani",
+        "odds": 3.6
+      },
+      {
+        "player": "Brais Mendez",
+        "odds": 3.75
+      },
+      {
+        "player": "Lucas Beltran",
+        "odds": 3.75
+      },
+      {
+        "player": "Goncalo Guedes",
+        "odds": 3.75
+      },
+      {
+        "player": "Ander Barrenetxea",
+        "odds": 4.0
+      },
+      {
+        "player": "Arsen Zakharyan",
+        "odds": 4.0
+      },
+      {
+        "player": "David Otorbi",
+        "odds": 4.333
+      },
+      {
+        "player": "Yangel Herrera",
+        "odds": 4.333
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 4.75
+      },
+      {
+        "player": "Barragan Carlos Soler",
+        "odds": 4.75
+      },
+      {
+        "player": "Filip Ugrinic",
+        "odds": 4.75
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 4.75
+      },
+      {
+        "player": "Luka Sucic",
+        "odds": 4.75
+      },
+      {
+        "player": "Pablo Marin",
+        "odds": 4.75
+      },
+      {
+        "player": "Sergio Gomez",
+        "odds": 4.75
+      },
+      {
+        "player": "Andre Almeida",
+        "odds": 5.0
+      },
+      {
+        "player": "Diego Lopez",
+        "odds": 5.0
+      },
+      {
+        "player": "Javi Guerra",
+        "odds": 5.0
+      },
+      {
+        "player": "Jose Pepelu",
+        "odds": 5.0
+      },
+      {
+        "player": "Lucas Nunez",
+        "odds": 5.0
+      },
+      {
+        "player": "Luis Rioja",
+        "odds": 5.0
+      },
+      {
+        "player": "Aihen Munoz",
+        "odds": 7.0
+      },
+      {
+        "player": "Benat Turrientes",
+        "odds": 7.0
+      },
+      {
+        "player": "Jon Gorrotxategi",
+        "odds": 7.0
+      },
+      {
+        "player": "Mouctar Diakhaby",
+        "odds": 8.0
+      },
+      {
+        "player": "Ruben Iranzo",
+        "odds": 8.0
+      },
+      {
+        "player": "Aritz Elustondo",
+        "odds": 8.5
+      },
+      {
+        "player": "Baptiste Santamaria",
+        "odds": 8.5
+      },
+      {
+        "player": "Cesar Tarrega",
+        "odds": 8.5
+      },
+      {
+        "player": "Ibai Aguirre",
+        "odds": 8.5
+      },
+      {
+        "player": "Jon Aramburu",
+        "odds": 8.5
+      },
+      {
+        "player": "Renzo Saravia",
+        "odds": 8.5
+      },
+      {
+        "player": "Guido Rodriguez",
+        "odds": 9.5
+      },
+      {
+        "player": "Duje Caleta-Car",
+        "odds": 11.0
+      },
+      {
+        "player": "Eray Comert",
+        "odds": 11.0
+      },
+      {
+        "player": "Igor Zubeldia",
+        "odds": 11.0
+      },
+      {
+        "player": "Jesus Vazquez",
+        "odds": 11.0
+      },
+      {
+        "player": "Luken Beitia",
+        "odds": 11.0
+      },
+      {
+        "player": "Dimitri Foulquier",
+        "odds": 13.0
+      },
+      {
+        "player": "Jon Martin",
+        "odds": 13.0
+      },
+      {
+        "player": "Jose Gaya",
+        "odds": 13.0
+      },
+      {
+        "player": "Thierry Correia",
+        "odds": 13.0
+      },
+      {
+        "player": "Unai Núñez",
+        "odds": 13.0
+      },
+      {
+        "player": "Alvaro Odriozola",
+        "odds": 15.0
+      },
+      {
+        "player": "Jose Manuel Copete",
+        "odds": 15.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.025
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.03
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 1.03
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.03
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.03
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 1.04
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 1.04
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 1.04
+      },
+      {
+        "player": "Largie Ramazani",
+        "odds": 1.04
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 1.05
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.05
+      },
+      {
+        "player": "Filip Ugrinic",
+        "odds": 1.05
+      },
+      {
+        "player": "Goncalo Guedes",
+        "odds": 1.062
+      },
+      {
+        "player": "Brais Mendez",
+        "odds": 1.071
+      },
+      {
+        "player": "Wesley Teixeira",
+        "odds": 1.071
+      },
+      {
+        "player": "Lucas Beltran",
+        "odds": 1.1
+      },
+      {
+        "player": "Ander Barrenetxea",
+        "odds": 1.111
+      },
+      {
+        "player": "Arsen Zakharyan",
+        "odds": 1.111
+      },
+      {
+        "player": "Luka Sucic",
+        "odds": 1.111
+      },
+      {
+        "player": "Yangel Herrera",
+        "odds": 1.111
+      },
+      {
+        "player": "Javi Guerra",
+        "odds": 1.125
+      },
+      {
+        "player": "Luis Rioja",
+        "odds": 1.125
+      },
+      {
+        "player": "Sergio Gomez",
+        "odds": 1.143
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.143
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.167
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.167
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 1.167
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 1.167
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.167
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.167
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 1.182
+      },
+      {
+        "player": "Barragan Carlos Soler",
+        "odds": 1.182
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 1.182
+      },
+      {
+        "player": "Pablo Marin",
+        "odds": 1.182
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.182
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 1.182
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 1.2
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 1.2
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.2
+      },
+      {
+        "player": "Andre Almeida",
+        "odds": 1.2
+      },
+      {
+        "player": "Diego Lopez",
+        "odds": 1.2
+      },
+      {
+        "player": "Jose Pepelu",
+        "odds": 1.2
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.2
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.2
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 1.2
+      },
+      {
+        "player": "Filip Ugrinic",
+        "odds": 1.2
+      },
+      {
+        "player": "Largie Ramazani",
+        "odds": 1.2
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 1.2
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 1.222
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 1.222
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.25
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.364
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.364
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.364
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 1.4
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 1.4
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 1.444
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 1.444
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 1.444
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 1.444
+      },
+      {
+        "player": "Filip Ugrinic",
+        "odds": 1.5
+      },
+      {
+        "player": "Goncalo Guedes",
+        "odds": 1.533
+      },
+      {
+        "player": "Wesley Teixeira",
+        "odds": 1.533
+      },
+      {
+        "player": "Brais Mendez",
+        "odds": 1.571
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.615
+      },
+      {
+        "player": "Largie Ramazani",
+        "odds": 1.615
+      },
+      {
+        "player": "Lucas Beltran",
+        "odds": 1.667
+      },
+      {
+        "player": "Ander Barrenetxea",
+        "odds": 1.727
+      },
+      {
+        "player": "Arsen Zakharyan",
+        "odds": 1.727
+      },
+      {
+        "player": "Luka Sucic",
+        "odds": 1.727
+      },
+      {
+        "player": "Yangel Herrera",
+        "odds": 1.727
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 1.727
+      },
+      {
+        "player": "Sergio Gomez",
+        "odds": 1.833
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.833
+      },
+      {
+        "player": "Javi Guerra",
+        "odds": 1.833
+      },
+      {
+        "player": "Luis Rioja",
+        "odds": 1.833
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.833
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.833
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 1.909
+      },
+      {
+        "player": "Jon Karrikaburu",
+        "odds": 1.909
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 1.909
+      },
+      {
+        "player": "Hugo Duro",
+        "odds": 1.909
+      },
+      {
+        "player": "Sadiq Umar",
+        "odds": 1.909
+      },
+      {
+        "player": "Arkaitz Mariezkurrena",
+        "odds": 2.0
+      },
+      {
+        "player": "Barragan Carlos Soler",
+        "odds": 2.0
+      },
+      {
+        "player": "Lander Astiazaran",
+        "odds": 2.0
+      },
+      {
+        "player": "Pablo Marin",
+        "odds": 2.0
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 2.0
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 2.0
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 2.0
+      },
+      {
+        "player": "Orri Steinn Oskarsson",
+        "odds": 2.0
+      },
+      {
+        "player": "Arnaut Danjuma",
+        "odds": 2.0
+      },
+      {
+        "player": "Daniel Raba",
+        "odds": 2.0
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "odds": 2.1
+      },
+      {
+        "player": "Daniel Diaz",
+        "odds": 2.1
+      },
+      {
+        "player": "Job Ochieng",
+        "odds": 2.1
+      },
+      {
+        "player": "Takefusa Kubo",
+        "odds": 2.1
+      },
+      {
+        "player": "Andre Almeida",
+        "odds": 2.1
+      },
+      {
+        "player": "Diego Lopez",
+        "odds": 2.1
+      },
+      {
+        "player": "Jose Pepelu",
+        "odds": 2.1
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 251.0,
+      "encuentro": 201.0,
+      "1ª mitad": 351.0,
+      "2ª mitad": 41.0,
+      "Primeros 10 minutos": 126.0,
+      "primeros 10 minutos": 151.0
+    }
+  }
+}

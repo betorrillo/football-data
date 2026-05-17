@@ -1,0 +1,830 @@
+{
+  "meta": {
+    "id": "2026-05-17_athletic-club-vs-celta-de-vigo",
+    "scraped_at": "2026-05-17T16:19:52.206455",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Athletic Club",
+    "away_team": "Celta de Vigo",
+    "bet365_event_id": "193332391",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.286,
+      "draw_or_away": 1.667,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.083,
+        "1.5": 1.364,
+        "2.5": 2.2,
+        "3.5": 4.0,
+        "4.5": 8.0,
+        "5.5": 17.0,
+        "6.5": 34.0
+      },
+      "under": {
+        "1.5": 8.0,
+        "2.5": 3.2,
+        "3.5": 1.667,
+        "4.5": 1.25,
+        "5.5": 1.083,
+        "6.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.04,
+        "5.5": 1.1,
+        "6.5": 1.2,
+        "7.5": 1.4,
+        "8.5": 1.667,
+        "9.5": 2.2,
+        "10.5": 2.75,
+        "11.5": 4.0,
+        "12.5": 6.0,
+        "13.5": 9.0,
+        "14.5": 13.0,
+        "15.5": 17.0,
+        "16.5": 23.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 13.0,
+        "6.5": 7.0,
+        "7.5": 4.333,
+        "8.5": 2.75,
+        "9.5": 2.1,
+        "10.5": 1.615,
+        "11.5": 1.4,
+        "12.5": 1.222,
+        "13.5": 1.125,
+        "14.5": 1.071,
+        "15.5": 1.036,
+        "16.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.5,
+        "1.5": 8.5,
+        "2.5": 26.0,
+        "3.5": 2.75,
+        "4.5": 4.5,
+        "5.5": 8.0,
+        "6.5": 15.0,
+        "7.5": 21.0,
+        "8.5": 6.5,
+        "9.5": 10.0,
+        "10.5": 15.0,
+        "11.5": 21.0
+      },
+      "under": {
+        "1.5": 1.5,
+        "2.5": 1.062,
+        "3.5": 1.952,
+        "4.5": 1.444,
+        "5.5": 1.182,
+        "6.5": 1.062,
+        "7.5": 1.03,
+        "8.5": 1.222,
+        "9.5": 1.1,
+        "10.5": 1.05,
+        "11.5": 1.025
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.4,
+        "1.5": 15.0,
+        "2.5": 41.0,
+        "3.5": 5.5,
+        "4.5": 11.0,
+        "5.5": 19.0,
+        "6.5": 8.5,
+        "7.5": 13.0,
+        "8.5": 21.0
+      },
+      "under": {
+        "1.5": 1.3,
+        "2.5": 1.03,
+        "3.5": 1.364,
+        "4.5": 1.125,
+        "5.5": 1.04,
+        "6.5": 1.167,
+        "7.5": 1.062,
+        "8.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "1.5": 1.062,
+        "2.5": 1.2,
+        "3.5": 1.444,
+        "4.5": 2.0,
+        "5.5": 3.0,
+        "6.5": 4.5,
+        "7.5": 8.0,
+        "8.5": 13.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 21.0,
+        "2.5": 10.0,
+        "3.5": 4.333,
+        "4.5": 2.625,
+        "5.5": 1.727,
+        "6.5": 1.364,
+        "7.5": 1.182,
+        "8.5": 1.083,
+        "9.5": 1.04
+      }
+    },
+    "cards_home": {
+      "over": {
+        "0.5": 13.0,
+        "1.5": 81.0,
+        "2.5": 4.75,
+        "3.5": 12.0,
+        "4.5": 23.0,
+        "5.5": 26.0
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 1.727,
+        "3.5": 1.182,
+        "4.5": 1.04,
+        "5.5": 1.05
+      }
+    },
+    "cards_away": {
+      "over": {
+        "0.5": 13.0,
+        "1.5": 67.0,
+        "2.5": 4.333,
+        "3.5": 10.0,
+        "4.5": 21.0,
+        "5.5": 21.0
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 1.8,
+        "3.5": 1.222,
+        "4.5": 1.05,
+        "5.5": 1.062
+      }
+    },
+    "ht_ft": {
+      "Athletic Club": 26.0,
+      "Empate": 15.0,
+      "Celta de Vigo": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 2.75
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 3.1
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 3.25
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 3.25
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 3.25
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 3.25
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 3.5
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 3.75
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 3.75
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 3.75
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 3.75
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 4.0
+      },
+      {
+        "player": "Pablo Duran",
+        "odds": 4.333
+      },
+      {
+        "player": "Alex Berenguer",
+        "odds": 4.75
+      },
+      {
+        "player": "Jones El-Abdellaoui",
+        "odds": 4.75
+      },
+      {
+        "player": "Unai Gomez",
+        "odds": 4.75
+      },
+      {
+        "player": "Williot Swedberg",
+        "odds": 4.75
+      },
+      {
+        "player": "Alejandro Rego",
+        "odds": 5.0
+      },
+      {
+        "player": "Eder Garcia",
+        "odds": 5.5
+      },
+      {
+        "player": "Fernando Lopez",
+        "odds": 5.5
+      },
+      {
+        "player": "Hugo Alvarez",
+        "odds": 5.5
+      },
+      {
+        "player": "Selton Sanchez",
+        "odds": 5.5
+      },
+      {
+        "player": "Andres Antanon",
+        "odds": 6.0
+      },
+      {
+        "player": "Franco Cervi",
+        "odds": 7.0
+      },
+      {
+        "player": "Hugo Burcio",
+        "odds": 7.0
+      },
+      {
+        "player": "Matias Vecino",
+        "odds": 7.0
+      },
+      {
+        "player": "Mikel Vesga",
+        "odds": 8.0
+      },
+      {
+        "player": "Ilaix Moriba",
+        "odds": 8.5
+      },
+      {
+        "player": "Aitor Paredes",
+        "odds": 9.5
+      },
+      {
+        "player": "Mikel Jauregizar",
+        "odds": 9.5
+      },
+      {
+        "player": "Oscar Mingueza",
+        "odds": 9.5
+      },
+      {
+        "player": "Berchiche Yuri",
+        "odds": 11.0
+      },
+      {
+        "player": "Hugo Sotelo",
+        "odds": 11.0
+      },
+      {
+        "player": "Inigo Ruiz de Galarreta",
+        "odds": 11.0
+      },
+      {
+        "player": "Marcos Alonso",
+        "odds": 11.0
+      },
+      {
+        "player": "Adama Boiro",
+        "odds": 12.0
+      },
+      {
+        "player": "Alvaro Nunez",
+        "odds": 12.0
+      },
+      {
+        "player": "Aymeric Laporte",
+        "odds": 12.0
+      },
+      {
+        "player": "Javier Rodriguez",
+        "odds": 12.0
+      },
+      {
+        "player": "Javier Rueda",
+        "odds": 12.0
+      },
+      {
+        "player": "Manuel Fernandez",
+        "odds": 12.0
+      },
+      {
+        "player": "Miguel Roman",
+        "odds": 12.0
+      },
+      {
+        "player": "Mihailo Ristic",
+        "odds": 12.0
+      },
+      {
+        "player": "Sergio Carreira",
+        "odds": 12.0
+      },
+      {
+        "player": "Unai Egiluz",
+        "odds": 12.0
+      },
+      {
+        "player": "Andoni Gorosabel",
+        "odds": 13.0
+      },
+      {
+        "player": "Dani Vivian",
+        "odds": 13.0
+      },
+      {
+        "player": "Joseph Aidoo",
+        "odds": 13.0
+      },
+      {
+        "player": "Yoel Lago",
+        "odds": 13.0
+      },
+      {
+        "player": "Alvarez Yeray",
+        "odds": 17.0
+      },
+      {
+        "player": "Carl Starfelt",
+        "odds": 17.0
+      },
+      {
+        "player": "Inigo Lekue",
+        "odds": 17.0
+      },
+      {
+        "player": "Carlos Dominguez",
+        "odds": 21.0
+      },
+      {
+        "player": "Jesus Areso",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.02
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.02
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.025
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 1.03
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 1.04
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 1.05
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 1.05
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 1.05
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 1.062
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 1.071
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 1.1
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 1.111
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.125
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.125
+      },
+      {
+        "player": "Alex Berenguer",
+        "odds": 1.143
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.143
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.143
+      },
+      {
+        "player": "Pablo Duran",
+        "odds": 1.143
+      },
+      {
+        "player": "Selton Sanchez",
+        "odds": 1.167
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.167
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 1.167
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.167
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.167
+      },
+      {
+        "player": "Unai Gomez",
+        "odds": 1.182
+      },
+      {
+        "player": "Jones El-Abdellaoui",
+        "odds": 1.182
+      },
+      {
+        "player": "Williot Swedberg",
+        "odds": 1.182
+      },
+      {
+        "player": "Alejandro Rego",
+        "odds": 1.2
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 1.2
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 1.2
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.2
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 1.222
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 1.222
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 1.222
+      },
+      {
+        "player": "Fernando Lopez",
+        "odds": 1.222
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 1.222
+      },
+      {
+        "player": "Eder Garcia",
+        "odds": 1.25
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 1.25
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 1.25
+      },
+      {
+        "player": "Hugo Alvarez",
+        "odds": 1.25
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 1.25
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 1.286
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 1.286
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 1.286
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 1.3
+      },
+      {
+        "player": "Andres Antanon",
+        "odds": 1.3
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 1.3
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 1.333
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 1.333
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 1.364
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 1.364
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.333
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.364
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.364
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 1.4
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 1.444
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 1.5
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 1.5
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 1.5
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 1.533
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 1.571
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 1.615
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 1.667
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.8
+      },
+      {
+        "player": "Alex Berenguer",
+        "odds": 1.833
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.833
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 1.833
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.833
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 1.833
+      },
+      {
+        "player": "Pablo Duran",
+        "odds": 1.833
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 1.909
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 1.909
+      },
+      {
+        "player": "Unai Gomez",
+        "odds": 2.0
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 2.0
+      },
+      {
+        "player": "Robert Navarro",
+        "odds": 2.0
+      },
+      {
+        "player": "Fernando Lopez",
+        "odds": 2.0
+      },
+      {
+        "player": "Jones El-Abdellaoui",
+        "odds": 2.0
+      },
+      {
+        "player": "Williot Swedberg",
+        "odds": 2.0
+      },
+      {
+        "player": "Alejandro Rego",
+        "odds": 2.1
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 2.1
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 2.1
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 2.1
+      },
+      {
+        "player": "Oihan Sancet",
+        "odds": 2.1
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 2.1
+      },
+      {
+        "player": "Maroan Sannadi",
+        "odds": 2.2
+      },
+      {
+        "player": "Nico Williams",
+        "odds": 2.2
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 2.2
+      },
+      {
+        "player": "Borja Iglesias",
+        "odds": 2.2
+      },
+      {
+        "player": "Eder Garcia",
+        "odds": 2.25
+      },
+      {
+        "player": "Selton Sanchez",
+        "odds": 2.25
+      },
+      {
+        "player": "Asier Hierro",
+        "odds": 2.25
+      },
+      {
+        "player": "Hugo Alvarez",
+        "odds": 2.25
+      },
+      {
+        "player": "Iago Aspas",
+        "odds": 2.25
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 2.375
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 2.375
+      },
+      {
+        "player": "Gorka Guruzeta",
+        "odds": 2.5
+      },
+      {
+        "player": "Nico Serrano",
+        "odds": 2.5
+      },
+      {
+        "player": "Andres Antanon",
+        "odds": 2.5
+      },
+      {
+        "player": "Ferran Jutgla",
+        "odds": 2.5
+      },
+      {
+        "player": "Inaki Williams",
+        "odds": 2.625
+      },
+      {
+        "player": "Urko Izeta",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 301.0,
+      "encuentro": 301.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 251.0,
+      "Primeros 10 minutos": 151.0,
+      "primeros 10 minutos": 201.0
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "meta": {
+    "id": "2026-05-17_rayo-vallecano-vs-villarreal",
+    "scraped_at": "2026-05-17T16:19:47.576864",
+    "league": "Spanish Primera",
+    "league_code": "ESP1",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Villarreal",
+    "bet365_event_id": "193332411",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.286,
+      "draw_or_away": 1.8,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.04,
+        "1.5": 1.222,
+        "2.5": 1.727,
+        "3.5": 2.75,
+        "4.5": 5.0,
+        "5.5": 10.0,
+        "6.5": 21.0,
+        "7.5": 41.0
+      },
+      "under": {
+        "1.5": 13.0,
+        "2.5": 4.333,
+        "3.5": 2.1,
+        "4.5": 1.444,
+        "5.5": 1.167,
+        "6.5": 1.062,
+        "7.5": 1.015
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.071,
+        "6.5": 1.167,
+        "7.5": 1.3,
+        "8.5": 1.533,
+        "9.5": 1.833,
+        "10.5": 2.5,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 7.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 21.0
+      },
+      "under": {
+        "4.5": 26.0,
+        "5.5": 17.0,
+        "6.5": 9.0,
+        "7.5": 5.0,
+        "8.5": 3.4,
+        "9.5": 2.375,
+        "10.5": 1.833,
+        "11.5": 1.5,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.1,
+        "15.5": 1.05,
+        "16.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.375,
+        "1.5": 8.5,
+        "2.5": 23.0,
+        "3.5": 2.6,
+        "4.5": 4.333,
+        "5.5": 7.5,
+        "6.5": 13.0,
+        "7.5": 21.0,
+        "8.5": 6.0,
+        "9.5": 9.0,
+        "10.5": 13.0,
+        "11.5": 19.0
+      },
+      "under": {
+        "1.5": 1.533,
+        "2.5": 1.071,
+        "3.5": 2.05,
+        "4.5": 1.444,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.036,
+        "8.5": 1.25,
+        "9.5": 1.125,
+        "10.5": 1.056,
+        "11.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.25,
+        "1.5": 13.0,
+        "2.5": 34.0,
+        "3.5": 4.75,
+        "4.5": 9.0,
+        "5.5": 17.0,
+        "6.5": 26.0,
+        "7.5": 11.0,
+        "8.5": 17.0,
+        "9.5": 23.0
+      },
+      "under": {
+        "1.5": 1.333,
+        "2.5": 1.04,
+        "3.5": 1.444,
+        "4.5": 1.167,
+        "5.5": 1.056,
+        "6.5": 1.025,
+        "7.5": 1.1,
+        "8.5": 1.045,
+        "9.5": 1.02
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.75
+      },
+      "under": {
+        "4.5": 1.833
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.625
+      },
+      "under": {
+        "1.5": 1.04,
+        "2.5": 2.5
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.75
+      },
+      "under": {
+        "1.5": 1.03,
+        "2.5": 1.833
+      }
+    },
+    "ht_ft": {
+      "Rayo Vallecano": 21.0,
+      "Empate": 15.0,
+      "Villarreal": 5.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Alexandre Alemao",
+        "odds": 2.3
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 2.4
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 2.6
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 2.75
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 2.75
+      },
+      {
+        "player": "Georges Mikautadze",
+        "odds": 2.75
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 3.0
+      },
+      {
+        "player": "Moreno Gerard",
+        "odds": 3.0
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 3.1
+      },
+      {
+        "player": "Randy Nteka",
+        "odds": 3.1
+      },
+      {
+        "player": "Tani Oluwaseyi",
+        "odds": 3.1
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 3.25
+      },
+      {
+        "player": "Nicolas Pepe",
+        "odds": 3.25
+      },
+      {
+        "player": "Pedro Diaz",
+        "odds": 3.25
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 3.4
+      },
+      {
+        "player": "Fran Perez",
+        "odds": 3.6
+      },
+      {
+        "player": "Pathe Ciss",
+        "odds": 3.75
+      },
+      {
+        "player": "Alfonso González",
+        "odds": 4.0
+      },
+      {
+        "player": "Florian Lejeune",
+        "odds": 4.0
+      },
+      {
+        "player": "Hugo Lopez",
+        "odds": 4.0
+      },
+      {
+        "player": "Gerard Gumbau",
+        "odds": 4.75
+      },
+      {
+        "player": "Oscar Trejo",
+        "odds": 4.75
+      },
+      {
+        "player": "Tajon Buchanan",
+        "odds": 4.75
+      },
+      {
+        "player": "Alfonso Espino",
+        "odds": 5.5
+      },
+      {
+        "player": "Samu Becerra",
+        "odds": 5.5
+      },
+      {
+        "player": "Alex Freeman",
+        "odds": 7.0
+      },
+      {
+        "player": "Andrei Ratiu",
+        "odds": 7.0
+      },
+      {
+        "player": "Cabrera Unai Lopez",
+        "odds": 7.0
+      },
+      {
+        "player": "Pape Gueye",
+        "odds": 7.0
+      },
+      {
+        "player": "Pep Chavarria",
+        "odds": 7.0
+      },
+      {
+        "player": "Abdul Mumin",
+        "odds": 7.5
+      },
+      {
+        "player": "Jozhua Vertrouwd",
+        "odds": 7.5
+      },
+      {
+        "player": "Santiago Comesana",
+        "odds": 7.5
+      },
+      {
+        "player": "Alassane Diatta",
+        "odds": 8.0
+      },
+      {
+        "player": "Carlos Macia",
+        "odds": 8.0
+      },
+      {
+        "player": "Nobel Mendy",
+        "odds": 8.0
+      },
+      {
+        "player": "Oscar Valentin",
+        "odds": 8.0
+      },
+      {
+        "player": "Alfonso Pedraza",
+        "odds": 10.0
+      },
+      {
+        "player": "Dani Parejo",
+        "odds": 10.0
+      },
+      {
+        "player": "Renato Veiga",
+        "odds": 10.0
+      },
+      {
+        "player": "Santiago Mourino",
+        "odds": 10.0
+      },
+      {
+        "player": "Sergi Cardona",
+        "odds": 10.0
+      },
+      {
+        "player": "Thomas Partey",
+        "odds": 10.0
+      },
+      {
+        "player": "Luiz Felipe",
+        "odds": 12.0
+      },
+      {
+        "player": "Pau Navarro",
+        "odds": 12.0
+      },
+      {
+        "player": "Ivan Balliu",
+        "odds": 15.0
+      },
+      {
+        "player": "Logan Costa",
+        "odds": 15.0
+      },
+      {
+        "player": "Rafa Marin",
+        "odds": 15.0
+      },
+      {
+        "player": "Juan Foyth",
+        "odds": 17.0
+      },
+      {
+        "player": "Willy Kambwala",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Georges Mikautadze",
+        "odds": 1.012
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.015
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.025
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.025
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.025
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 1.025
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 1.03
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 1.04
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 1.04
+      },
+      {
+        "player": "Florian Lejeune",
+        "odds": 1.05
+      },
+      {
+        "player": "Fran Perez",
+        "odds": 1.05
+      },
+      {
+        "player": "Pedro Diaz",
+        "odds": 1.05
+      },
+      {
+        "player": "Randy Nteka",
+        "odds": 1.05
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.05
+      },
+      {
+        "player": "Moreno Gerard",
+        "odds": 1.05
+      },
+      {
+        "player": "Nicolas Pepe",
+        "odds": 1.05
+      },
+      {
+        "player": "Tani Oluwaseyi",
+        "odds": 1.05
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.062
+      },
+      {
+        "player": "Alfonso González",
+        "odds": 1.062
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.083
+      },
+      {
+        "player": "Pathe Ciss",
+        "odds": 1.1
+      },
+      {
+        "player": "Georges Mikautadze",
+        "odds": 1.1
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.111
+      },
+      {
+        "player": "Hugo Lopez",
+        "odds": 1.111
+      },
+      {
+        "player": "Georges Mikautadze",
+        "odds": 1.125
+      },
+      {
+        "player": "Gerard Gumbau",
+        "odds": 1.143
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.143
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.143
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.143
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.143
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 1.143
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.167
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.167
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.167
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 1.167
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 1.167
+      },
+      {
+        "player": "Alfonso Espino",
+        "odds": 1.182
+      },
+      {
+        "player": "Oscar Trejo",
+        "odds": 1.182
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.182
+      },
+      {
+        "player": "Tajon Buchanan",
+        "odds": 1.182
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 1.2
+      },
+      {
+        "player": "Fran Perez",
+        "odds": 1.2
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 1.2
+      },
+      {
+        "player": "Pedro Diaz",
+        "odds": 1.2
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.2
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.2
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 1.2
+      },
+      {
+        "player": "Nicolas Pepe",
+        "odds": 1.2
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 1.222
+      },
+      {
+        "player": "Florian Lejeune",
+        "odds": 1.222
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.143
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.25
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.3
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.333
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.333
+      },
+      {
+        "player": "Georges Mikautadze",
+        "odds": 1.333
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 1.4
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 1.4
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 1.4
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 1.4
+      },
+      {
+        "player": "Moreno Gerard",
+        "odds": 1.4
+      },
+      {
+        "player": "Pedro Diaz",
+        "odds": 1.444
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.444
+      },
+      {
+        "player": "Nicolas Pepe",
+        "odds": 1.444
+      },
+      {
+        "player": "Florian Lejeune",
+        "odds": 1.5
+      },
+      {
+        "player": "Randy Nteka",
+        "odds": 1.5
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.5
+      },
+      {
+        "player": "Tani Oluwaseyi",
+        "odds": 1.5
+      },
+      {
+        "player": "Fran Perez",
+        "odds": 1.533
+      },
+      {
+        "player": "Alfonso González",
+        "odds": 1.571
+      },
+      {
+        "player": "Pathe Ciss",
+        "odds": 1.667
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.667
+      },
+      {
+        "player": "Alexandre Alemao",
+        "odds": 1.727
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.727
+      },
+      {
+        "player": "Hugo Lopez",
+        "odds": 1.727
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.8
+      },
+      {
+        "player": "Sergio Camello",
+        "odds": 1.8
+      },
+      {
+        "player": "Gerard Gumbau",
+        "odds": 1.833
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.833
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 1.833
+      },
+      {
+        "player": "Alvaro Garcia",
+        "odds": 1.833
+      },
+      {
+        "player": "Jorge De Frutos",
+        "odds": 1.833
+      },
+      {
+        "player": "Tajon Buchanan",
+        "odds": 1.833
+      },
+      {
+        "player": "Georges Mikautadze",
+        "odds": 1.833
+      },
+      {
+        "player": "Moreno Gerard",
+        "odds": 1.833
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 1.909
+      },
+      {
+        "player": "Carlos Martin",
+        "odds": 1.909
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 1.909
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 1.909
+      },
+      {
+        "player": "Moreno Gerard",
+        "odds": 1.909
+      },
+      {
+        "player": "Oscar Trejo",
+        "odds": 2.0
+      },
+      {
+        "player": "Pedro Diaz",
+        "odds": 2.0
+      },
+      {
+        "player": "Ilias Akhomach",
+        "odds": 2.0
+      },
+      {
+        "player": "Isi Palazon",
+        "odds": 2.0
+      },
+      {
+        "player": "Nicolas Pepe",
+        "odds": 2.0
+      },
+      {
+        "player": "Alberto Moleiro",
+        "odds": 2.0
+      },
+      {
+        "player": "Ayoze Perez",
+        "odds": 2.0
+      },
+      {
+        "player": "Alfonso Espino",
+        "odds": 2.1
+      },
+      {
+        "player": "Florian Lejeune",
+        "odds": 2.1
+      },
+      {
+        "player": "Randy Nteka",
+        "odds": 2.1
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 251.0,
+      "1ª mitad": 401.0,
+      "2ª mitad": 151.0,
+      "Primeros 10 minutos": 7.0,
+      "primeros 10 minutos": 151.0
+    }
+  }
+}

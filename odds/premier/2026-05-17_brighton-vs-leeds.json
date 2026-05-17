@@ -1,0 +1,750 @@
+{
+  "meta": {
+    "id": "2026-05-17_brighton-vs-leeds",
+    "scraped_at": "2026-05-15T16:38:54.542293",
+    "league": "FA Barclaycard",
+    "league_code": "ENG1",
+    "home_team": "Brighton",
+    "away_team": "Leeds",
+    "bet365_event_id": "192998813",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "draw_or_away": 1.667,
+      "home_or_draw": 1.364,
+      "home_or_away": 1.286
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.2,
+        "2.5": 1.667,
+        "3.5": 2.625,
+        "4.5": 4.5,
+        "5.5": 9.0,
+        "6.5": 19.0,
+        "7.5": 34.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 4.5,
+        "3.5": 2.2,
+        "4.5": 1.5,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.02
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.02,
+        "5.5": 1.062,
+        "6.5": 1.143,
+        "7.5": 1.25,
+        "8.5": 1.5,
+        "9.5": 1.8,
+        "10.5": 2.25,
+        "11.5": 3.25,
+        "12.5": 4.333,
+        "13.5": 6.5,
+        "14.5": 10.0,
+        "15.5": 13.0,
+        "16.5": 19.0,
+        "17.5": 23.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 19.0,
+        "6.5": 10.0,
+        "7.5": 5.5,
+        "8.5": 3.75,
+        "9.5": 2.5,
+        "10.5": 1.909,
+        "11.5": 1.571,
+        "12.5": 1.333,
+        "13.5": 1.2,
+        "14.5": 1.111,
+        "15.5": 1.062,
+        "16.5": 1.03,
+        "17.5": 1.02
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 29.0,
+        "3.5": 3.25,
+        "4.5": 5.5,
+        "5.5": 11.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 9.0,
+        "9.5": 13.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.05,
+        "3.5": 1.727,
+        "4.5": 1.3,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.125,
+        "9.5": 1.056,
+        "10.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 29.0,
+        "3.5": 3.2,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 9.0,
+        "9.5": 13.0,
+        "10.5": 21.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.05,
+        "3.5": 1.727,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.125,
+        "9.5": 1.056,
+        "10.5": 1.03
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.5
+      },
+      "under": {
+        "4.5": 2.0
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 2.375
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 2.625
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 101.0,
+        "2.5": 3.75
+      },
+      "under": {
+        "1.5": 1.03,
+        "2.5": 1.909
+      }
+    },
+    "ht_ft": {
+      "Leeds": 29.0,
+      "Empate": 13.0,
+      "Brighton": 3.4
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Danny Welbeck",
+        "odds": 2.375
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 2.5
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 2.875
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 2.875
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 3.0
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 3.2
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 3.4
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 3.6
+      },
+      {
+        "player": "Brenden Aaronson",
+        "odds": 4.0
+      },
+      {
+        "player": "Daniel James",
+        "odds": 4.0
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 4.0
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 4.0
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 4.0
+      },
+      {
+        "player": "Matt O'Riley",
+        "odds": 4.333
+      },
+      {
+        "player": "Solly March",
+        "odds": 4.333
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 4.333
+      },
+      {
+        "player": "Jack Hinshelwood",
+        "odds": 4.75
+      },
+      {
+        "player": "Maxim De Cuyper",
+        "odds": 5.5
+      },
+      {
+        "player": "Anton Stach",
+        "odds": 6.0
+      },
+      {
+        "player": "Ao Tanaka",
+        "odds": 6.5
+      },
+      {
+        "player": "Carlos Baleba",
+        "odds": 6.5
+      },
+      {
+        "player": "Sean Longstaff",
+        "odds": 6.5
+      },
+      {
+        "player": "Ferdi Kadioglu",
+        "odds": 7.5
+      },
+      {
+        "player": "James Milner",
+        "odds": 8.0
+      },
+      {
+        "player": "Mats Wieffer",
+        "odds": 8.0
+      },
+      {
+        "player": "Pascal Gross",
+        "odds": 8.0
+      },
+      {
+        "player": "Jaka Bijol",
+        "odds": 9.0
+      },
+      {
+        "player": "Rhys Chadwick",
+        "odds": 9.0
+      },
+      {
+        "player": "James Justin",
+        "odds": 10.0
+      },
+      {
+        "player": "Jan Paul van Hecke",
+        "odds": 10.0
+      },
+      {
+        "player": "Jayden Lienou",
+        "odds": 10.0
+      },
+      {
+        "player": "Lewis Dunk",
+        "odds": 10.0
+      },
+      {
+        "player": "Olivier Boscagli",
+        "odds": 12.0
+      },
+      {
+        "player": "Pascal Struijk",
+        "odds": 12.0
+      },
+      {
+        "player": "Igor Julio",
+        "odds": 12.0
+      },
+      {
+        "player": "Ethan Ampadu",
+        "odds": 13.0
+      },
+      {
+        "player": "Joe Rodon",
+        "odds": 13.0
+      },
+      {
+        "player": "Joel Veltman",
+        "odds": 13.0
+      },
+      {
+        "player": "Sebastiaan Bornauw",
+        "odds": 13.0
+      },
+      {
+        "player": "Sam Byram",
+        "odds": 17.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Joel Piroe",
+        "odds": 1.05
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 1.05
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 1.05
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 1.062
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 1.062
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.083
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 1.083
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 1.1
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 1.1
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 1.1
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 1.111
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 1.111
+      },
+      {
+        "player": "Anton Stach",
+        "odds": 1.125
+      },
+      {
+        "player": "Matt O'Riley",
+        "odds": 1.143
+      },
+      {
+        "player": "Solly March",
+        "odds": 1.143
+      },
+      {
+        "player": "Jack Hinshelwood",
+        "odds": 1.167
+      },
+      {
+        "player": "Daniel James",
+        "odds": 1.182
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 1.2
+      },
+      {
+        "player": "Brenden Aaronson",
+        "odds": 1.222
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 1.222
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 1.222
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 1.25
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 1.25
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 1.25
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 1.25
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 1.286
+      },
+      {
+        "player": "Carlos Baleba",
+        "odds": 1.286
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 1.286
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.3
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 1.3
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 1.3
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 1.3
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 1.333
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 1.333
+      },
+      {
+        "player": "Pascal Gross",
+        "odds": 1.333
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 1.333
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 1.333
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.364
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 1.364
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 1.364
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 1.364
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 1.364
+      },
+      {
+        "player": "Sean Longstaff",
+        "odds": 1.4
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.4
+      },
+      {
+        "player": "Anton Stach",
+        "odds": 1.4
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 1.4
+      },
+      {
+        "player": "Matt O'Riley",
+        "odds": 1.4
+      },
+      {
+        "player": "Solly March",
+        "odds": 1.4
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 1.4
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 1.4
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.4
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 1.4
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 1.444
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 1.5
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 1.5
+      },
+      {
+        "player": "Daniel James",
+        "odds": 1.571
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 1.571
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 1.615
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 1.615
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 1.727
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 1.727
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 1.727
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 1.727
+      },
+      {
+        "player": "Matt O'Riley",
+        "odds": 1.833
+      },
+      {
+        "player": "Solly March",
+        "odds": 1.833
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 1.909
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 1.909
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "odds": 2.0
+      },
+      {
+        "player": "Joel Piroe",
+        "odds": 2.0
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 2.0
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 2.1
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 2.1
+      },
+      {
+        "player": "Charalampos Kostoulas",
+        "odds": 2.1
+      },
+      {
+        "player": "Brenden Aaronson",
+        "odds": 2.2
+      },
+      {
+        "player": "Daniel James",
+        "odds": 2.2
+      },
+      {
+        "player": "Lukas Nmecha",
+        "odds": 2.2
+      },
+      {
+        "player": "Jack Hinshelwood",
+        "odds": 2.2
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 2.2
+      },
+      {
+        "player": "Diego Gomez",
+        "odds": 2.2
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 2.25
+      },
+      {
+        "player": "Anton Stach",
+        "odds": 2.375
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 2.375
+      },
+      {
+        "player": "Daniel James",
+        "odds": 2.375
+      },
+      {
+        "player": "Danny Welbeck",
+        "odds": 2.375
+      },
+      {
+        "player": "Ao Tanaka",
+        "odds": 2.5
+      },
+      {
+        "player": "Degnand Gnonto",
+        "odds": 2.5
+      },
+      {
+        "player": "Pascal Gross",
+        "odds": 2.5
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 2.5
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 2.5
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 2.5
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 2.5
+      },
+      {
+        "player": "Georginio Rutter",
+        "odds": 2.5
+      },
+      {
+        "player": "Sean Longstaff",
+        "odds": 2.625
+      },
+      {
+        "player": "Carlos Baleba",
+        "odds": 2.625
+      },
+      {
+        "player": "Matt O'Riley",
+        "odds": 2.625
+      },
+      {
+        "player": "Solly March",
+        "odds": 2.625
+      },
+      {
+        "player": "Harry Howell",
+        "odds": 2.625
+      },
+      {
+        "player": "Nehemiah Oriola",
+        "odds": 2.625
+      },
+      {
+        "player": "Yankuba Minteh",
+        "odds": 2.625
+      },
+      {
+        "player": "Yasin Ayari",
+        "odds": 2.625
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 101.0,
+      "encuentro": 201.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 301.0,
+      "Primeros 10 minutos": 151.0,
+      "primeros 10 minutos": 8.0
+    }
+  }
+}

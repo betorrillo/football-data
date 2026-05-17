@@ -1,0 +1,775 @@
+{
+  "meta": {
+    "id": "2026-05-17_granada-vs-burgos",
+    "scraped_at": "2026-05-15T16:39:03.481070",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Granada",
+    "away_team": "Burgos",
+    "bet365_event_id": "193003635",
+    "markets_count": 10,
+    "markets_available": [
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.5,
+      "draw_or_away": 1.4,
+      "home_or_away": 1.364
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.111,
+        "1.5": 1.5,
+        "2.5": 2.6,
+        "3.5": 5.0,
+        "4.5": 13.0,
+        "5.5": 26.0,
+        "6.5": 67.0
+      },
+      "under": {
+        "1.5": 6.5,
+        "2.5": 2.5,
+        "3.5": 1.475,
+        "4.5": 1.167,
+        "5.5": 1.04,
+        "6.5": 1.01
+      }
+    },
+    "corners_total": {
+      "over": {
+        "4.5": 1.025,
+        "5.5": 1.071,
+        "6.5": 1.143,
+        "7.5": 1.3,
+        "8.5": 1.533,
+        "9.5": 1.833,
+        "10.5": 2.5,
+        "11.5": 3.4,
+        "12.5": 4.5,
+        "13.5": 7.0,
+        "14.5": 11.0,
+        "15.5": 15.0,
+        "16.5": 19.0
+      },
+      "under": {
+        "4.5": 29.0,
+        "5.5": 17.0,
+        "6.5": 9.0,
+        "7.5": 5.5,
+        "8.5": 3.4,
+        "9.5": 2.375,
+        "10.5": 1.833,
+        "11.5": 1.5,
+        "12.5": 1.3,
+        "13.5": 1.182,
+        "14.5": 1.1,
+        "15.5": 1.05,
+        "16.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.625,
+        "1.5": 10.0,
+        "2.5": 29.0,
+        "3.5": 3.2,
+        "4.5": 5.5,
+        "5.5": 10.0,
+        "6.5": 17.0,
+        "7.5": 26.0,
+        "8.5": 8.5,
+        "9.5": 13.0,
+        "10.5": 19.0
+      },
+      "under": {
+        "1.5": 1.444,
+        "2.5": 1.062,
+        "3.5": 1.8,
+        "4.5": 1.333,
+        "5.5": 1.125,
+        "6.5": 1.045,
+        "7.5": 1.02,
+        "8.5": 1.125,
+        "9.5": 1.056,
+        "10.5": 1.03
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 2.75,
+        "1.5": 11.0,
+        "2.5": 29.0,
+        "3.5": 3.6,
+        "4.5": 6.5,
+        "5.5": 12.0,
+        "6.5": 21.0,
+        "7.5": 6.5,
+        "8.5": 11.0,
+        "9.5": 17.0,
+        "10.5": 23.0
+      },
+      "under": {
+        "1.5": 1.4,
+        "2.5": 1.05,
+        "3.5": 1.667,
+        "4.5": 1.286,
+        "5.5": 1.1,
+        "6.5": 1.036,
+        "7.5": 1.2,
+        "8.5": 1.091,
+        "9.5": 1.045,
+        "10.5": 1.025
+      }
+    },
+    "ht_ft": {
+      "Granada": 34.0,
+      "Empate": 4.333,
+      "Burgos": 4.333
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Fernando Nino",
+        "odds": 3.2
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 3.2
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 3.2
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 3.4
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 3.6
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 3.75
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 4.0
+      },
+      {
+        "player": "Samu Cortes",
+        "odds": 4.0
+      },
+      {
+        "player": "Mario Gonzalez",
+        "odds": 4.333
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 4.5
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 4.5
+      },
+      {
+        "player": "Pablo Saenz",
+        "odds": 5.0
+      },
+      {
+        "player": "Iñigo Córdoba",
+        "odds": 5.5
+      },
+      {
+        "player": "Sergio Rodelas",
+        "odds": 5.5
+      },
+      {
+        "player": "Baba Diocou",
+        "odds": 6.0
+      },
+      {
+        "player": "Georges Nsukula",
+        "odds": 6.0
+      },
+      {
+        "player": "Hugo Cuenca",
+        "odds": 6.0
+      },
+      {
+        "player": "Victor Mollejo",
+        "odds": 6.0
+      },
+      {
+        "player": "Alex Sola",
+        "odds": 7.0
+      },
+      {
+        "player": "Fermin Garcia",
+        "odds": 7.0
+      },
+      {
+        "player": "Kevin Appin",
+        "odds": 7.0
+      },
+      {
+        "player": "Marcelo Exposito",
+        "odds": 7.0
+      },
+      {
+        "player": "Ivan Morante",
+        "odds": 7.5
+      },
+      {
+        "player": "Luka Gagnidze",
+        "odds": 7.5
+      },
+      {
+        "player": "Mario Cantero",
+        "odds": 7.5
+      },
+      {
+        "player": "Pablo Galdames",
+        "odds": 7.5
+      },
+      {
+        "player": "Pedro Aleman",
+        "odds": 7.5
+      },
+      {
+        "player": "Saul del Cerro",
+        "odds": 7.5
+      },
+      {
+        "player": "Ethan Ventosa",
+        "odds": 8.5
+      },
+      {
+        "player": "Manuel Trigueros",
+        "odds": 8.5
+      },
+      {
+        "player": "Ruben Alcaraz",
+        "odds": 8.5
+      },
+      {
+        "player": "Sergio Ruiz",
+        "odds": 8.5
+      },
+      {
+        "player": "Gael Akogo",
+        "odds": 9.5
+      },
+      {
+        "player": "Izan Gonzalez",
+        "odds": 9.5
+      },
+      {
+        "player": "Pere Haro",
+        "odds": 9.5
+      },
+      {
+        "player": "Alex Lizancos",
+        "odds": 10.0
+      },
+      {
+        "player": "Miguel Atienza",
+        "odds": 10.0
+      },
+      {
+        "player": "Alvaro Lemos",
+        "odds": 12.0
+      },
+      {
+        "player": "Diego Hormigo",
+        "odds": 12.0
+      },
+      {
+        "player": "Mario Gambin",
+        "odds": 12.0
+      },
+      {
+        "player": "Sergio Gonzalez",
+        "odds": 12.0
+      },
+      {
+        "player": "Aitor Bunuel",
+        "odds": 15.0
+      },
+      {
+        "player": "Bambo Diaby",
+        "odds": 15.0
+      },
+      {
+        "player": "Florian Miguel",
+        "odds": 15.0
+      },
+      {
+        "player": "Ivan Martinez",
+        "odds": 15.0
+      },
+      {
+        "player": "Oscar Naasei Oppong",
+        "odds": 15.0
+      },
+      {
+        "player": "Baila Diallo",
+        "odds": 19.0
+      },
+      {
+        "player": "Brais Martinez",
+        "odds": 19.0
+      },
+      {
+        "player": "Flores Castro Juan Jose",
+        "odds": 19.0
+      },
+      {
+        "player": "Gregorio Sierra",
+        "odds": 19.0
+      },
+      {
+        "player": "Hugo Pascual",
+        "odds": 19.0
+      },
+      {
+        "player": "Loic Williams",
+        "odds": 19.0
+      },
+      {
+        "player": "Manuel Lama",
+        "odds": 19.0
+      },
+      {
+        "player": "Oier Luengo",
+        "odds": 19.0
+      },
+      {
+        "player": "Pau Casadesus",
+        "odds": 19.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Fernando Nino",
+        "odds": 1.025
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 1.03
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 1.04
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 1.062
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 1.062
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 1.071
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 1.071
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 1.083
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 1.111
+      },
+      {
+        "player": "Samu Cortes",
+        "odds": 1.111
+      },
+      {
+        "player": "Iñigo Córdoba",
+        "odds": 1.125
+      },
+      {
+        "player": "Mario Gonzalez",
+        "odds": 1.143
+      },
+      {
+        "player": "Fernando Nino",
+        "odds": 1.143
+      },
+      {
+        "player": "Pablo Saenz",
+        "odds": 1.167
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 1.167
+      },
+      {
+        "player": "Fernando Nino",
+        "odds": 1.167
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 1.2
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 1.2
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 1.222
+      },
+      {
+        "player": "Sergio Rodelas",
+        "odds": 1.25
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 1.25
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 1.25
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 1.286
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 1.286
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 1.3
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 1.3
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 1.3
+      },
+      {
+        "player": "Alex Sola",
+        "odds": 1.333
+      },
+      {
+        "player": "Baba Diocou",
+        "odds": 1.333
+      },
+      {
+        "player": "Manuel Trigueros",
+        "odds": 1.333
+      },
+      {
+        "player": "Georges Nsukula",
+        "odds": 1.333
+      },
+      {
+        "player": "Hugo Cuenca",
+        "odds": 1.333
+      },
+      {
+        "player": "Victor Mollejo",
+        "odds": 1.333
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 1.364
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 1.364
+      },
+      {
+        "player": "Samu Cortes",
+        "odds": 1.364
+      },
+      {
+        "player": "Pablo Galdames",
+        "odds": 1.364
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 1.364
+      },
+      {
+        "player": "Iñigo Córdoba",
+        "odds": 1.364
+      },
+      {
+        "player": "Kevin Appin",
+        "odds": 1.4
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 1.4
+      },
+      {
+        "player": "Mario Gonzalez",
+        "odds": 1.4
+      },
+      {
+        "player": "Pedro Aleman",
+        "odds": 1.444
+      },
+      {
+        "player": "Pablo Saenz",
+        "odds": 1.444
+      },
+      {
+        "player": "Fermin Garcia",
+        "odds": 1.444
+      },
+      {
+        "player": "Marcelo Exposito",
+        "odds": 1.444
+      },
+      {
+        "player": "Fernando Nino",
+        "odds": 1.5
+      },
+      {
+        "player": "Luka Gagnidze",
+        "odds": 1.533
+      },
+      {
+        "player": "Ruben Alcaraz",
+        "odds": 1.533
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 1.533
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Fernando Nino",
+        "odds": 1.4
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 1.5
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 1.5
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 1.5
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 1.571
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 1.615
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 1.615
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 1.727
+      },
+      {
+        "player": "Samu Cortes",
+        "odds": 1.727
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 1.8
+      },
+      {
+        "player": "Mario Gonzalez",
+        "odds": 1.833
+      },
+      {
+        "player": "Fernando Nino",
+        "odds": 1.909
+      },
+      {
+        "player": "Iñigo Córdoba",
+        "odds": 2.0
+      },
+      {
+        "player": "Pablo Saenz",
+        "odds": 2.1
+      },
+      {
+        "player": "Gonzalo Petit",
+        "odds": 2.1
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 2.1
+      },
+      {
+        "player": "Mohammed Bouldini",
+        "odds": 2.1
+      },
+      {
+        "player": "David Gonzalez",
+        "odds": 2.2
+      },
+      {
+        "player": "Sergio Rodelas",
+        "odds": 2.25
+      },
+      {
+        "player": "Francisco Curro",
+        "odds": 2.25
+      },
+      {
+        "player": "Mateo Mejia",
+        "odds": 2.25
+      },
+      {
+        "player": "Alex Sola",
+        "odds": 2.5
+      },
+      {
+        "player": "Baba Diocou",
+        "odds": 2.5
+      },
+      {
+        "player": "Rayan Zinebi",
+        "odds": 2.5
+      },
+      {
+        "player": "Samu Cortes",
+        "odds": 2.5
+      },
+      {
+        "player": "Georges Nsukula",
+        "odds": 2.5
+      },
+      {
+        "player": "Hugo Cuenca",
+        "odds": 2.5
+      },
+      {
+        "player": "Victor Mollejo",
+        "odds": 2.5
+      },
+      {
+        "player": "Manuel Trigueros",
+        "odds": 2.625
+      },
+      {
+        "player": "Jose Arnaiz",
+        "odds": 2.625
+      },
+      {
+        "player": "Mario Gonzalez",
+        "odds": 2.625
+      },
+      {
+        "player": "Pedro Aleman",
+        "odds": 2.75
+      },
+      {
+        "player": "Pablo Galdames",
+        "odds": 2.75
+      },
+      {
+        "player": "Fermin Garcia",
+        "odds": 3.0
+      },
+      {
+        "player": "Kevin Appin",
+        "odds": 3.0
+      },
+      {
+        "player": "Marcelo Exposito",
+        "odds": 3.0
+      },
+      {
+        "player": "Fernando Nino",
+        "odds": 3.0
+      },
+      {
+        "player": "Iñigo Córdoba",
+        "odds": 3.0
+      },
+      {
+        "player": "Luka Gagnidze",
+        "odds": 3.25
+      },
+      {
+        "player": "Pablo Saenz",
+        "odds": 3.25
+      },
+      {
+        "player": "Ivan Morante",
+        "odds": 3.25
+      },
+      {
+        "player": "Mario Cantero",
+        "odds": 3.25
+      },
+      {
+        "player": "Saul del Cerro",
+        "odds": 3.25
+      },
+      {
+        "player": "Ruben Alcaraz",
+        "odds": 3.4
+      },
+      {
+        "player": "Sergio Ruiz",
+        "odds": 3.4
+      },
+      {
+        "player": "Jorge Pascual",
+        "odds": 3.4
+      },
+      {
+        "player": "Ethan Ventosa",
+        "odds": 3.4
+      },
+      {
+        "player": "Gael Akogo",
+        "odds": 3.5
+      },
+      {
+        "player": "Izan Gonzalez",
+        "odds": 3.5
+      },
+      {
+        "player": "Pere Haro",
+        "odds": 3.5
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 67.0,
+      "encuentro": 51.0,
+      "1ª mitad": 4.0,
+      "2ª mitad": 4.0,
+      "Primeros 10 minutos": 11.0,
+      "primeros 10 minutos": 11.0
+    }
+  }
+}

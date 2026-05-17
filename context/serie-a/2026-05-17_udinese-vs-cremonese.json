@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_udinese-vs-cremonese",
+  "home": "Udinese",
+  "away": "Cremonese",
+  "league": "ITA1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Udinese",
+    "mp": 36,
+    "w": 14,
+    "d": 8,
+    "l": 14,
+    "gf": 45,
+    "ga": 46,
+    "gd": -1,
+    "pts": 50,
+    "avg": {
+      "gf": 1.25,
+      "ga": 1.28,
+      "corners_for": 4.5,
+      "corners_against": 4.83,
+      "total_corners": 9.33,
+      "shots": 11.69,
+      "shots_against": 13.36,
+      "shots_target": 3.94,
+      "shots_target_against": 3.86,
+      "fouls": 13.81,
+      "fouls_against": 11.86,
+      "yellows": 1.86,
+      "opponent_yellows": 1.72,
+      "total_match_cards": 3.58
+    },
+    "avg_home": {
+      "gf": 1.0,
+      "ga": 1.11,
+      "corners_for": 4.72,
+      "corners_against": 4.22,
+      "over_25_pct": 38.9
+    },
+    "avg_away": {
+      "gf": 1.5,
+      "ga": 1.44,
+      "corners_for": 4.28,
+      "corners_against": 5.44,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 72.2,
+      "over_25": 47.2,
+      "over_35": 22.2,
+      "btts": 47.2,
+      "clean_sheet": 30.6,
+      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+      "gf_1h": 0.53,
+      "ga_1h": 0.5,
+      "gf_2h": 0.72,
+      "ga_2h": 0.78,
+      "total_1h": 1.03,
+      "total_2h": 1.5
+    },
+    "pct_ht": {
+      "over_05_1h": 69.4,
+      "over_15_1h": 25.0,
+      "over_05_2h": 80.6,
+      "over_15_2h": 47.2,
+      "btts_1h": 13.9,
+      "btts_2h": 25.0
+    },
+    "xg": 41.7,
+    "xga": 50.7,
+    "xg_diff": 1.3,
+    "xga_diff": -4.7,
+    "yellow_cards_total": 65,
+    "red_cards_total": 1,
+    "yc_per_match": 1.86
+  },
+  "away_stats": {
+    "team": "Cremonese",
+    "mp": 36,
+    "w": 7,
+    "d": 10,
+    "l": 19,
+    "gf": 30,
+    "ga": 53,
+    "gd": -23,
+    "pts": 31,
+    "avg": {
+      "gf": 0.83,
+      "ga": 1.47,
+      "corners_for": 3.5,
+      "corners_against": 6.06,
+      "total_corners": 9.56,
+      "shots": 9.28,
+      "shots_against": 15.81,
+      "shots_target": 3.33,
+      "shots_target_against": 5.22,
+      "fouls": 13.64,
+      "fouls_against": 13.03,
+      "yellows": 1.83,
+      "opponent_yellows": 1.5,
+      "total_match_cards": 3.33
+    },
+    "avg_home": {
+      "gf": 0.94,
+      "ga": 1.39,
+      "corners_for": 3.67,
+      "corners_against": 5.17,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 0.72,
+      "ga": 1.56,
+      "corners_for": 3.33,
+      "corners_against": 6.94,
+      "over_25_pct": 44.4
+    },
+    "pct": {
+      "over_15": 69.4,
+      "over_25": 44.4,
+      "over_35": 22.2,
+      "btts": 41.7,
+      "clean_sheet": 27.8,
+      "failed_to_score": 47.2
+    },
+    "avg_ht": {
+      "gf_1h": 0.31,
+      "ga_1h": 0.75,
+      "gf_2h": 0.53,
+      "ga_2h": 0.72,
+      "total_1h": 1.06,
+      "total_2h": 1.25
+    },
+    "pct_ht": {
+      "over_05_1h": 61.1,
+      "over_15_1h": 36.1,
+      "over_05_2h": 72.2,
+      "over_15_2h": 38.9,
+      "btts_1h": 5.6,
+      "btts_2h": 16.7
+    },
+    "xg": 34.0,
+    "xga": 59.0,
+    "xg_diff": -7.0,
+    "xga_diff": -6.0,
+    "yellow_cards_total": 74,
+    "red_cards_total": 3,
+    "yc_per_match": 2.11
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

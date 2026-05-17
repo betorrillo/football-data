@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_sassuolo-vs-lecce",
+  "home": "Sassuolo",
+  "away": "Lecce",
+  "league": "ITA1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Sassuolo",
+    "mp": 36,
+    "w": 14,
+    "d": 7,
+    "l": 15,
+    "gf": 44,
+    "ga": 46,
+    "gd": -2,
+    "pts": 49,
+    "avg": {
+      "gf": 1.22,
+      "ga": 1.28,
+      "corners_for": 3.89,
+      "corners_against": 5.0,
+      "total_corners": 8.89,
+      "shots": 10.69,
+      "shots_against": 14.47,
+      "shots_target": 3.75,
+      "shots_target_against": 4.97,
+      "fouls": 12.06,
+      "fouls_against": 13.0,
+      "yellows": 2.25,
+      "opponent_yellows": 1.92,
+      "total_match_cards": 4.17
+    },
+    "avg_home": {
+      "gf": 1.28,
+      "ga": 1.28,
+      "corners_for": 3.89,
+      "corners_against": 4.83,
+      "over_25_pct": 55.6
+    },
+    "avg_away": {
+      "gf": 1.17,
+      "ga": 1.28,
+      "corners_for": 3.89,
+      "corners_against": 5.17,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 75.0,
+      "over_25": 55.6,
+      "over_35": 19.4,
+      "btts": 52.8,
+      "clean_sheet": 22.2,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.5,
+      "ga_1h": 0.61,
+      "gf_2h": 0.72,
+      "ga_2h": 0.67,
+      "total_1h": 1.11,
+      "total_2h": 1.39
+    },
+    "pct_ht": {
+      "over_05_1h": 75.0,
+      "over_15_1h": 30.6,
+      "over_05_2h": 77.8,
+      "over_15_2h": 50.0,
+      "btts_1h": 16.7,
+      "btts_2h": 33.3
+    },
+    "xg": 42.0,
+    "xga": 56.0,
+    "xg_diff": 2.0,
+    "xga_diff": -10.0,
+    "yellow_cards_total": 82,
+    "red_cards_total": 5,
+    "yc_per_match": 2.28
+  },
+  "away_stats": {
+    "team": "Lecce",
+    "mp": 36,
+    "w": 8,
+    "d": 8,
+    "l": 20,
+    "gf": 24,
+    "ga": 48,
+    "gd": -24,
+    "pts": 32,
+    "avg": {
+      "gf": 0.67,
+      "ga": 1.33,
+      "corners_for": 4.28,
+      "corners_against": 5.42,
+      "total_corners": 9.69,
+      "shots": 9.83,
+      "shots_against": 12.81,
+      "shots_target": 2.42,
+      "shots_target_against": 4.31,
+      "fouls": 12.67,
+      "fouls_against": 14.42,
+      "yellows": 1.75,
+      "opponent_yellows": 1.72,
+      "total_match_cards": 3.47
+    },
+    "avg_home": {
+      "gf": 0.67,
+      "ga": 1.33,
+      "corners_for": 4.39,
+      "corners_against": 4.39,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 0.67,
+      "ga": 1.33,
+      "corners_for": 4.17,
+      "corners_against": 6.44,
+      "over_25_pct": 27.8
+    },
+    "pct": {
+      "over_15": 61.1,
+      "over_25": 36.1,
+      "over_35": 11.1,
+      "btts": 36.1,
+      "clean_sheet": 25.0,
+      "failed_to_score": 52.8
+    },
+    "avg_ht": {
+      "gf_1h": 0.36,
+      "ga_1h": 0.47,
+      "gf_2h": 0.31,
+      "ga_2h": 0.86,
+      "total_1h": 0.83,
+      "total_2h": 1.17
+    },
+    "pct_ht": {
+      "over_05_1h": 58.3,
+      "over_15_1h": 19.4,
+      "over_05_2h": 72.2,
+      "over_15_2h": 33.3,
+      "btts_1h": 11.1,
+      "btts_2h": 11.1
+    },
+    "xg": 30.9,
+    "xga": 55.0,
+    "xg_diff": -6.9,
+    "xga_diff": -8.0,
+    "yellow_cards_total": 58,
+    "red_cards_total": 2,
+    "yc_per_match": 1.66
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

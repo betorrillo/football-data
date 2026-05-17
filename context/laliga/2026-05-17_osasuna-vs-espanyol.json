@@ -1,0 +1,152 @@
+{
+  "match_id": "2026-05-17_osasuna-vs-espanyol",
+  "home": "Osasuna",
+  "away": "Espanyol",
+  "league": "ESP1",
+  "date": "2026-05-17",
+  "home_stats": {
+    "team": "Osasuna",
+    "mp": 36,
+    "w": 11,
+    "d": 9,
+    "l": 16,
+    "gf": 43,
+    "ga": 47,
+    "gd": -4,
+    "pts": 42,
+    "avg": {
+      "gf": 1.19,
+      "ga": 1.31,
+      "corners_for": 3.61,
+      "corners_against": 4.97,
+      "total_corners": 8.58,
+      "shots": 11.56,
+      "shots_against": 12.78,
+      "shots_target": 3.86,
+      "shots_target_against": 4.58,
+      "fouls": 13.39,
+      "fouls_against": 11.44,
+      "yellows": 2.44,
+      "opponent_yellows": 2.47,
+      "total_match_cards": 4.92
+    },
+    "avg_home": {
+      "gf": 1.67,
+      "ga": 1.22,
+      "corners_for": 4.33,
+      "corners_against": 3.94,
+      "over_25_pct": 61.1
+    },
+    "avg_away": {
+      "gf": 0.72,
+      "ga": 1.39,
+      "corners_for": 2.89,
+      "corners_against": 6.0,
+      "over_25_pct": 38.9
+    },
+    "pct": {
+      "over_15": 69.4,
+      "over_25": 50.0,
+      "over_35": 27.8,
+      "btts": 55.6,
+      "clean_sheet": 19.4,
+      "failed_to_score": 30.6
+    },
+    "avg_ht": {
+      "gf_1h": 0.58,
+      "ga_1h": 0.44,
+      "gf_2h": 0.61,
+      "ga_2h": 0.86,
+      "total_1h": 1.03,
+      "total_2h": 1.47
+    },
+    "pct_ht": {
+      "over_05_1h": 63.9,
+      "over_15_1h": 27.8,
+      "over_05_2h": 77.8,
+      "over_15_2h": 44.4,
+      "btts_1h": 19.4,
+      "btts_2h": 30.6
+    },
+    "xg": 43.9,
+    "xga": 48.2,
+    "xg_diff": -1.9,
+    "xga_diff": -3.2,
+    "yellow_cards_total": 82,
+    "red_cards_total": null,
+    "yc_per_match": 2.34
+  },
+  "away_stats": {
+    "team": "Espanol",
+    "mp": 36,
+    "w": 11,
+    "d": 9,
+    "l": 16,
+    "gf": 40,
+    "ga": 53,
+    "gd": -13,
+    "pts": 42,
+    "avg": {
+      "gf": 1.11,
+      "ga": 1.47,
+      "corners_for": 4.81,
+      "corners_against": 4.72,
+      "total_corners": 9.53,
+      "shots": 12.69,
+      "shots_against": 13.53,
+      "shots_target": 4.08,
+      "shots_target_against": 5.08,
+      "fouls": 13.89,
+      "fouls_against": 12.83,
+      "yellows": 2.44,
+      "opponent_yellows": 2.56,
+      "total_match_cards": 5.0
+    },
+    "avg_home": {
+      "gf": 1.11,
+      "ga": 1.28,
+      "corners_for": 5.28,
+      "corners_against": 4.72,
+      "over_25_pct": 44.4
+    },
+    "avg_away": {
+      "gf": 1.11,
+      "ga": 1.67,
+      "corners_for": 4.33,
+      "corners_against": 4.72,
+      "over_25_pct": 55.6
+    },
+    "pct": {
+      "over_15": 75.0,
+      "over_25": 50.0,
+      "over_35": 25.0,
+      "btts": 55.6,
+      "clean_sheet": 27.8,
+      "failed_to_score": 25.0
+    },
+    "avg_ht": {
+      "gf_1h": 0.33,
+      "ga_1h": 0.58,
+      "gf_2h": 0.78,
+      "ga_2h": 0.89,
+      "total_1h": 0.92,
+      "total_2h": 1.67
+    },
+    "pct_ht": {
+      "over_05_1h": 58.3,
+      "over_15_1h": 30.6,
+      "over_05_2h": 86.1,
+      "over_15_2h": 52.8,
+      "btts_1h": 16.7,
+      "btts_2h": 30.6
+    },
+    "xg": 46.2,
+    "xga": 53.2,
+    "xg_diff": -9.2,
+    "xga_diff": -2.2,
+    "yellow_cards_total": 77,
+    "red_cards_total": null,
+    "yc_per_match": 2.26
+  },
+  "generated": "2026-05-17T14:22:48Z"
+}

@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "id": "2026-05-17_cordoba-vs-albacete-balompie",
+    "scraped_at": "2026-05-15T16:39:07.779342",
+    "league": "Spain Segunda",
+    "league_code": "ESP2",
+    "home_team": "Córdoba",
+    "away_team": "Albacete Balompié",
+    "bet365_event_id": "193003610",
+    "markets_count": 13,
+    "markets_available": [
+      "cards_away",
+      "cards_home",
+      "cards_total",
+      "corners_away",
+      "corners_home",
+      "corners_total",
+      "double_chance",
+      "ht_ft",
+      "player_anytime_scorer",
+      "player_shots",
+      "player_shots_on_target",
+      "total_goals",
+      "winning_margin"
+    ]
+  },
+  "markets": {
+    "double_chance": {
+      "home_or_draw": 1.143,
+      "draw_or_away": 2.3,
+      "home_or_away": 1.222
+    },
+    "total_goals": {
+      "over": {
+        "0.5": 1.03,
+        "1.5": 1.167,
+        "2.5": 1.571,
+        "3.5": 2.375,
+        "4.5": 4.333,
+        "5.5": 9.0,
+        "6.5": 17.0,
+        "7.5": 34.0
+      },
+      "under": {
+        "1.5": 15.0,
+        "2.5": 5.0,
+        "3.5": 2.35,
+        "4.5": 1.533,
+        "5.5": 1.2,
+        "6.5": 1.071,
+        "7.5": 1.025
+      }
+    },
+    "corners_total": {
+      "over": {
+        "5.5": 1.05,
+        "6.5": 1.111,
+        "7.5": 1.222,
+        "8.5": 1.4,
+        "9.5": 1.667,
+        "10.5": 2.1,
+        "11.5": 2.75,
+        "12.5": 3.75,
+        "13.5": 5.5,
+        "14.5": 8.0,
+        "15.5": 12.0,
+        "16.5": 15.0,
+        "17.5": 21.0
+      },
+      "under": {
+        "5.5": 21.0,
+        "6.5": 11.0,
+        "7.5": 6.5,
+        "8.5": 4.0,
+        "9.5": 2.75,
+        "10.5": 2.1,
+        "11.5": 1.667,
+        "12.5": 1.4,
+        "13.5": 1.25,
+        "14.5": 1.143,
+        "15.5": 1.083,
+        "16.5": 1.04,
+        "17.5": 1.025
+      }
+    },
+    "corners_home": {
+      "over": {
+        "0.5": 2.2,
+        "1.5": 7.0,
+        "2.5": 21.0,
+        "3.5": 41.0,
+        "4.5": 3.5,
+        "5.5": 6.0,
+        "6.5": 10.0,
+        "7.5": 17.0,
+        "8.5": 23.0,
+        "9.5": 6.0,
+        "10.5": 9.0,
+        "11.5": 13.0,
+        "12.5": 19.0,
+        "13.5": 26.0
+      },
+      "under": {
+        "1.5": 1.615,
+        "2.5": 1.091,
+        "3.5": 1.02,
+        "4.5": 1.615,
+        "5.5": 1.286,
+        "6.5": 1.125,
+        "7.5": 1.05,
+        "8.5": 1.025,
+        "9.5": 1.222,
+        "10.5": 1.111,
+        "11.5": 1.056,
+        "12.5": 1.03,
+        "13.5": 1.02
+      }
+    },
+    "corners_away": {
+      "over": {
+        "0.5": 3.4,
+        "1.5": 15.0,
+        "2.5": 34.0,
+        "3.5": 5.0,
+        "4.5": 10.0,
+        "5.5": 17.0,
+        "6.5": 29.0,
+        "7.5": 13.0,
+        "8.5": 19.0,
+        "9.5": 29.0
+      },
+      "under": {
+        "1.5": 1.3,
+        "2.5": 1.036,
+        "3.5": 1.4,
+        "4.5": 1.143,
+        "5.5": 1.05,
+        "6.5": 1.02,
+        "7.5": 1.083,
+        "8.5": 1.036,
+        "9.5": 1.02
+      }
+    },
+    "cards_total": {
+      "over": {
+        "4.5": 2.2
+      },
+      "under": {
+        "4.5": 2.25
+      }
+    },
+    "cards_home": {
+      "over": {
+        "1.5": 81.0,
+        "2.5": 3.0
+      },
+      "under": {
+        "1.5": 1.036,
+        "2.5": 2.2
+      }
+    },
+    "cards_away": {
+      "over": {
+        "1.5": 67.0,
+        "2.5": 2.25
+      },
+      "under": {
+        "1.5": 1.05,
+        "2.5": 2.75
+      }
+    },
+    "ht_ft": {
+      "Córdoba": 19.0,
+      "Empate": 7.0,
+      "Albacete Balompié": 8.5
+    },
+    "player_anytime_scorer": [
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 2.05
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 2.05
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 2.05
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 2.2
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 2.3
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 2.75
+      },
+      {
+        "player": "Diego Bri",
+        "odds": 3.1
+      },
+      {
+        "player": "Marcelo Timoran",
+        "odds": 3.1
+      },
+      {
+        "player": "Mikel Goti",
+        "odds": 3.1
+      },
+      {
+        "player": "Cristian Carracedo",
+        "odds": 3.25
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 3.25
+      },
+      {
+        "player": "Alberto Morientes",
+        "odds": 3.4
+      },
+      {
+        "player": "Alex Rubio",
+        "odds": 3.4
+      },
+      {
+        "player": "Fran Gomez",
+        "odds": 3.4
+      },
+      {
+        "player": "Higinio Marin",
+        "odds": 3.4
+      },
+      {
+        "player": "Kevin Medina",
+        "odds": 3.6
+      },
+      {
+        "player": "Mendes Adilson Martins",
+        "odds": 3.6
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 3.6
+      },
+      {
+        "player": "Antonio Puertas",
+        "odds": 4.0
+      },
+      {
+        "player": "Pedro Ortiz",
+        "odds": 4.0
+      },
+      {
+        "player": "Agustin Medina",
+        "odds": 4.5
+      },
+      {
+        "player": "Theo Zidane",
+        "odds": 4.5
+      },
+      {
+        "player": "Victor San Bartolome",
+        "odds": 4.5
+      },
+      {
+        "player": "Alberto del Moral",
+        "odds": 5.0
+      },
+      {
+        "player": "Dani Garcia",
+        "odds": 5.0
+      },
+      {
+        "player": "Dani Requena",
+        "odds": 5.0
+      },
+      {
+        "player": "Isma Ruiz",
+        "odds": 5.0
+      },
+      {
+        "player": "Jose Carlos Lazo",
+        "odds": 6.5
+      },
+      {
+        "player": "Miguel Munoz",
+        "odds": 6.5
+      },
+      {
+        "player": "Victor Valverde",
+        "odds": 6.5
+      },
+      {
+        "player": "Amin Rajouani",
+        "odds": 7.0
+      },
+      {
+        "player": "Hugo Martinez Capi",
+        "odds": 7.0
+      },
+      {
+        "player": "Juan Alcedo",
+        "odds": 7.0
+      },
+      {
+        "player": "Ruben Alves",
+        "odds": 7.0
+      },
+      {
+        "player": "Antonio Pacheco",
+        "odds": 8.0
+      },
+      {
+        "player": "Carlos Albarran",
+        "odds": 8.0
+      },
+      {
+        "player": "Ignasi Vilarrasa",
+        "odds": 8.0
+      },
+      {
+        "player": "Xavier Sintes",
+        "odds": 8.0
+      },
+      {
+        "player": "Alejandro Melendez",
+        "odds": 8.5
+      },
+      {
+        "player": "Javi Villar",
+        "odds": 8.5
+      },
+      {
+        "player": "Alvaro Trilli",
+        "odds": 9.5
+      },
+      {
+        "player": "Edward Cedeno",
+        "odds": 9.5
+      },
+      {
+        "player": "Martin Fernandez",
+        "odds": 9.5
+      },
+      {
+        "player": "Alex Martin",
+        "odds": 11.0
+      },
+      {
+        "player": "Franck Fomeyem",
+        "odds": 11.0
+      },
+      {
+        "player": "Jose Salas",
+        "odds": 11.0
+      },
+      {
+        "player": "Vicente Vidal",
+        "odds": 11.0
+      },
+      {
+        "player": "Antono Velilla",
+        "odds": 13.0
+      },
+      {
+        "player": "Carlos Neva",
+        "odds": 13.0
+      },
+      {
+        "player": "Jonathan Gomez",
+        "odds": 13.0
+      },
+      {
+        "player": "Lorenzo Aguado",
+        "odds": 13.0
+      },
+      {
+        "player": "Daniel Bernabeu",
+        "odds": 17.0
+      },
+      {
+        "player": "Fran Gamez",
+        "odds": 17.0
+      },
+      {
+        "player": "Javier Moreno",
+        "odds": 17.0
+      },
+      {
+        "player": "Joaquin Domingo",
+        "odds": 17.0
+      },
+      {
+        "player": "Marmol Lluis Lopez",
+        "odds": 17.0
+      },
+      {
+        "player": "Jesus Vallejo",
+        "odds": 21.0
+      },
+      {
+        "player": "Pepe Sanchez",
+        "odds": 21.0
+      }
+    ],
+    "player_shots": [
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 1.015
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 1.015
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 1.015
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.015
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 1.02
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 1.02
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.025
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 1.03
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 1.05
+      },
+      {
+        "player": "Cristian Carracedo",
+        "odds": 1.062
+      },
+      {
+        "player": "Diego Bri",
+        "odds": 1.062
+      },
+      {
+        "player": "Marcelo Timoran",
+        "odds": 1.062
+      },
+      {
+        "player": "Mikel Goti",
+        "odds": 1.062
+      },
+      {
+        "player": "Antonio Puertas",
+        "odds": 1.062
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.071
+      },
+      {
+        "player": "Agustin Medina",
+        "odds": 1.071
+      },
+      {
+        "player": "Alberto Morientes",
+        "odds": 1.071
+      },
+      {
+        "player": "Fran Gomez",
+        "odds": 1.071
+      },
+      {
+        "player": "Higinio Marin",
+        "odds": 1.071
+      },
+      {
+        "player": "Kevin Medina",
+        "odds": 1.083
+      },
+      {
+        "player": "Mendes Adilson Martins",
+        "odds": 1.083
+      },
+      {
+        "player": "Pedro Ortiz",
+        "odds": 1.083
+      },
+      {
+        "player": "Theo Zidane",
+        "odds": 1.1
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 1.1
+      },
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 1.111
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 1.111
+      },
+      {
+        "player": "Isma Ruiz",
+        "odds": 1.125
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 1.125
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 1.125
+      },
+      {
+        "player": "Victor San Bartolome",
+        "odds": 1.143
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.167
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 1.167
+      },
+      {
+        "player": "Alberto del Moral",
+        "odds": 1.2
+      },
+      {
+        "player": "Dani Garcia",
+        "odds": 1.2
+      },
+      {
+        "player": "Dani Requena",
+        "odds": 1.2
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.2
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 1.2
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 1.2
+      },
+      {
+        "player": "Diego Bri",
+        "odds": 1.222
+      },
+      {
+        "player": "Marcelo Timoran",
+        "odds": 1.222
+      },
+      {
+        "player": "Mikel Goti",
+        "odds": 1.222
+      },
+      {
+        "player": "Victor Valverde",
+        "odds": 1.222
+      },
+      {
+        "player": "Cristian Carracedo",
+        "odds": 1.25
+      },
+      {
+        "player": "Jose Carlos Lazo",
+        "odds": 1.25
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 1.25
+      },
+      {
+        "player": "Antonio Puertas",
+        "odds": 1.25
+      },
+      {
+        "player": "Fran Gomez",
+        "odds": 1.25
+      },
+      {
+        "player": "Juan Alcedo",
+        "odds": 1.286
+      },
+      {
+        "player": "Ruben Alves",
+        "odds": 1.286
+      },
+      {
+        "player": "Agustin Medina",
+        "odds": 1.286
+      }
+    ],
+    "player_shots_on_target": [
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.1
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 1.2
+      },
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 1.222
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 1.222
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 1.25
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 1.3
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.333
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 1.444
+      },
+      {
+        "player": "Diego Bri",
+        "odds": 1.5
+      },
+      {
+        "player": "Marcelo Timoran",
+        "odds": 1.5
+      },
+      {
+        "player": "Mikel Goti",
+        "odds": 1.5
+      },
+      {
+        "player": "Gonzalez Jacobo",
+        "odds": 1.5
+      },
+      {
+        "player": "Cristian Carracedo",
+        "odds": 1.533
+      },
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 1.571
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 1.571
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 1.571
+      },
+      {
+        "player": "Alberto Morientes",
+        "odds": 1.571
+      },
+      {
+        "player": "Fran Gomez",
+        "odds": 1.571
+      },
+      {
+        "player": "Higinio Marin",
+        "odds": 1.571
+      },
+      {
+        "player": "Kevin Medina",
+        "odds": 1.615
+      },
+      {
+        "player": "Mendes Adilson Martins",
+        "odds": 1.615
+      },
+      {
+        "player": "Antonio Puertas",
+        "odds": 1.615
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 1.615
+      },
+      {
+        "player": "Theo Zidane",
+        "odds": 1.667
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 1.667
+      },
+      {
+        "player": "Agustin Medina",
+        "odds": 1.667
+      },
+      {
+        "player": "Pedro Ortiz",
+        "odds": 1.727
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 1.727
+      },
+      {
+        "player": "Victor San Bartolome",
+        "odds": 1.833
+      },
+      {
+        "player": "Isma Ruiz",
+        "odds": 1.909
+      },
+      {
+        "player": "Diego Percan",
+        "odds": 2.0
+      },
+      {
+        "player": "Adrian Fuentes Gonzalez",
+        "odds": 2.0
+      },
+      {
+        "player": "Nikolai Obolo",
+        "odds": 2.0
+      },
+      {
+        "player": "Jefte Betancor",
+        "odds": 2.0
+      },
+      {
+        "player": "Alberto del Moral",
+        "odds": 2.1
+      },
+      {
+        "player": "Dani Garcia",
+        "odds": 2.1
+      },
+      {
+        "player": "Dani Requena",
+        "odds": 2.1
+      },
+      {
+        "player": "Sergi Guardiola",
+        "odds": 2.1
+      },
+      {
+        "player": "Diego Bri",
+        "odds": 2.1
+      },
+      {
+        "player": "Marcelo Timoran",
+        "odds": 2.1
+      },
+      {
+        "player": "Mikel Goti",
+        "odds": 2.1
+      },
+      {
+        "player": "Cristian Carracedo",
+        "odds": 2.2
+      },
+      {
+        "player": "Alberto Morientes",
+        "odds": 2.2
+      },
+      {
+        "player": "Fran Gomez",
+        "odds": 2.2
+      },
+      {
+        "player": "Higinio Marin",
+        "odds": 2.2
+      },
+      {
+        "player": "Kevin Medina",
+        "odds": 2.25
+      },
+      {
+        "player": "Mendes Adilson Martins",
+        "odds": 2.25
+      },
+      {
+        "player": "Samuel Obeng",
+        "odds": 2.25
+      },
+      {
+        "player": "Dalisson de Almeida",
+        "odds": 2.375
+      },
+      {
+        "player": "Antonio Puertas",
+        "odds": 2.375
+      }
+    ],
+    "winning_margin": {
+      "Encuentro": 81.0,
+      "encuentro": 101.0,
+      "1ª mitad": 81.0,
+      "2ª mitad": 67.0,
+      "Primeros 10 minutos": 6.0,
+      "primeros 10 minutos": 11.0
+    }
+  }
+}
