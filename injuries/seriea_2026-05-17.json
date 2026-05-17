@@ -2,7 +2,7 @@
   "generated": "2026-05-17",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 59,
+  "total_injured": 58,
   "teams_affected": 17,
   "teams": {
     "AS Roma": [
@@ -40,13 +40,6 @@
         "player": "Lorenzo Bernasconi",
         "position": "Left Midfield",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Giorgio Scalvini",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       },
@@ -300,16 +293,16 @@
         "status": "out"
       },
       {
-        "player": "Jacob Ondrejka",
-        "position": "Left Winger",
-        "injury": "surgery",
+        "player": "Matija Frigan",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Matija Frigan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Jacob Ondrejka",
+        "position": "Left Winger",
+        "injury": "surgery",
         "since": "",
         "status": "out"
       }
@@ -406,29 +399,6 @@
         "status": "out"
       }
     ],
-    "Hellas Verona": [
-      {
-        "player": "Daniel Oyegoke",
-        "position": "Right-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Daniel Mosquera",
-        "position": "Centre-Forward",
-        "injury": "Meniscus damage",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Suat Serdar",
-        "position": "Central Midfield",
-        "injury": "Cruciate ligament surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Udinese Calcio": [
       {
         "player": "Nicol\u00f2 Zaniolo",
@@ -448,6 +418,29 @@
         "player": "Alessandro Zanoli",
         "position": "Right-Back",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Hellas Verona": [
+      {
+        "player": "Daniel Oyegoke",
+        "position": "Right-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Daniel Mosquera",
+        "position": "Centre-Forward",
+        "injury": "Meniscus damage",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Suat Serdar",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament surgery",
         "since": "",
         "status": "out"
       }

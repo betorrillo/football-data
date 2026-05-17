@@ -2,7 +2,7 @@
   "generated": "2026-05-17",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 56,
+  "total_injured": 57,
   "teams_affected": 17,
   "teams": {
     "SV Werder Bremen": [
@@ -65,22 +65,6 @@
         "status": "out"
       }
     ],
-    "SC Freiburg": [
-      {
-        "player": "Patrick Osterhage",
-        "position": "Defensive Midfield",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Yuito Suzuki",
-        "position": "Second Striker",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "1.FC K\u00f6ln": [
       {
         "player": "Timo H\u00fcbers",
@@ -107,6 +91,22 @@
         "player": "Ragnar Ache",
         "position": "Centre-Forward",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SC Freiburg": [
+      {
+        "player": "Yuito Suzuki",
+        "position": "Second Striker",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Patrick Osterhage",
+        "position": "Defensive Midfield",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       }
@@ -277,18 +277,32 @@
         "status": "out"
       }
     ],
-    "Eintracht Frankfurt": [
+    "Bayern Munich": [
       {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "player": "Manuel Neuer",
+        "position": "Goalkeeper",
+        "injury": "Calf problems",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Alphonso Davies",
+        "position": "Left-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Serge Gnabry",
+        "position": "Second Striker",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Santos Daiber",
+        "position": "Defensive Midfield",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -341,25 +355,18 @@
         "status": "out"
       }
     ],
-    "Bayern Munich": [
+    "Eintracht Frankfurt": [
       {
-        "player": "Alphonso Davies",
-        "position": "Left-Back",
-        "injury": "Muscle injury",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Serge Gnabry",
-        "position": "Second Striker",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Santos Daiber",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -373,9 +380,9 @@
         "status": "out"
       },
       {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
+        "player": "David Nemeth",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -387,16 +394,16 @@
         "status": "out"
       },
       {
-        "player": "David Nemeth",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "James Sands",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
