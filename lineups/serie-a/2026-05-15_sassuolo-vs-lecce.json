@@ -4,15 +4,22 @@
   "away": "Lecce",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-16T20:09:44Z",
+  "generated": "2026-05-17T09:09:14Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
     {
-      "player": "Jay Idzes",
+      "player": "Filippo Romagna",
       "position": "Centre-Back",
+      "injury": "unknown injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Sebastian Walukiewicz",
+      "position": "Right-Back",
       "injury": "Unknown",
       "since": "",
       "status": "out"
@@ -21,13 +28,6 @@
       "player": "Daniel Boloca",
       "position": "Defensive Midfield",
       "injury": "Unknown",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Edoardo Pieragnolo",
-      "position": "Left-Back",
-      "injury": "Cruciate ligament injury",
       "since": "",
       "status": "out"
     },
@@ -43,13 +43,6 @@
     {
       "player": "Riccardo Sottil",
       "position": "Left Winger",
-      "injury": "Unknown",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Sadik Fofana",
-      "position": "Defensive Midfield",
       "injury": "Unknown",
       "since": "",
       "status": "out"

@@ -4,12 +4,19 @@
   "away": "Cremonese",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-16T20:09:44Z",
+  "generated": "2026-05-17T09:09:14Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
+    {
+      "player": "Nicolò Zaniolo",
+      "position": "Second Striker",
+      "injury": "Unknown",
+      "since": "",
+      "status": "out"
+    },
     {
       "player": "Jurgen Ekkelenkamp",
       "position": "Central Midfield",
@@ -27,13 +34,6 @@
   ],
   "away_injuries": [
     {
-      "player": "Martín Payero",
-      "position": "Central Midfield",
-      "injury": "bruise",
-      "since": "",
-      "status": "out"
-    },
-    {
       "player": "Faris Moumbagna",
       "position": "Centre-Forward",
       "injury": "Adductor injury",
@@ -41,8 +41,15 @@
       "status": "out"
     },
     {
-      "player": "Romano Floriani Mussolini",
-      "position": "Right-Back",
+      "player": "Warren Bondo",
+      "position": "Central Midfield",
+      "injury": "Muscle fatigue",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Federico Ceccherini",
+      "position": "Centre-Back",
       "injury": "Unknown",
       "since": "",
       "status": "out"
