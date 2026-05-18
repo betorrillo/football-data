@@ -119,24 +119,8 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-18 to 2026-06-01",
-    "count": 13,
+    "count": 12,
     "fixtures": [
-      {
-        "id": 538147,
-        "matchday": 37,
-        "date": "2026-05-18",
-        "time": "19:00",
-        "home_team": "Arsenal FC",
-        "home_short": "Arsenal",
-        "away_team": "Burnley FC",
-        "away_short": "Burnley",
-        "referees": [
-          {
-            "name": "Paul Tierney",
-            "nationality": "England"
-          }
-        ]
-      },
       {
         "id": 538145,
         "matchday": 37,
@@ -295,8 +279,8 @@
       {
         "id": 537185,
         "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
+        "date": "2026-05-22",
+        "time": "18:45",
         "home_team": "ACF Fiorentina",
         "home_short": "Fiorentina",
         "away_team": "Atalanta BC",
@@ -304,25 +288,25 @@
         "referees": []
       },
       {
-        "id": 537186,
-        "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
-        "home_team": "AC Milan",
-        "home_short": "Milan",
-        "away_team": "Cagliari Calcio",
-        "away_short": "Cagliari",
-        "referees": []
-      },
-      {
         "id": 537187,
         "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
+        "date": "2026-05-23",
+        "time": "16:00",
         "home_team": "Bologna FC 1909",
         "home_short": "Bologna",
         "away_team": "FC Internazionale Milano",
         "away_short": "Inter",
+        "referees": []
+      },
+      {
+        "id": 537190,
+        "matchday": 38,
+        "date": "2026-05-23",
+        "time": "18:45",
+        "home_team": "SS Lazio",
+        "home_short": "Lazio",
+        "away_team": "AC Pisa 1909",
+        "away_short": "AC Pisa",
         "referees": []
       },
       {
@@ -334,28 +318,6 @@
         "home_short": "Torino",
         "away_team": "Juventus FC",
         "away_short": "Juventus",
-        "referees": []
-      },
-      {
-        "id": 537189,
-        "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
-        "home_team": "Hellas Verona FC",
-        "home_short": "Verona",
-        "away_team": "AS Roma",
-        "away_short": "Roma",
-        "referees": []
-      },
-      {
-        "id": 537190,
-        "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
-        "home_team": "SS Lazio",
-        "home_short": "Lazio",
-        "away_team": "AC Pisa 1909",
-        "away_short": "AC Pisa",
         "referees": []
       },
       {
@@ -373,7 +335,7 @@
         "id": 537192,
         "matchday": 38,
         "date": "2026-05-24",
-        "time": "13:00",
+        "time": "16:00",
         "home_team": "SSC Napoli",
         "home_short": "Napoli",
         "away_team": "Udinese Calcio",
@@ -381,10 +343,32 @@
         "referees": []
       },
       {
+        "id": 537186,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "18:45",
+        "home_team": "AC Milan",
+        "home_short": "Milan",
+        "away_team": "Cagliari Calcio",
+        "away_short": "Cagliari",
+        "referees": []
+      },
+      {
+        "id": 537189,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "18:45",
+        "home_team": "Hellas Verona FC",
+        "home_short": "Verona",
+        "away_team": "AS Roma",
+        "away_short": "Roma",
+        "referees": []
+      },
+      {
         "id": 537193,
         "matchday": 38,
         "date": "2026-05-24",
-        "time": "13:00",
+        "time": "18:45",
         "home_team": "US Cremonese",
         "home_short": "Cremonese",
         "away_team": "Como 1907",
@@ -395,7 +379,7 @@
         "id": 537194,
         "matchday": 38,
         "date": "2026-05-24",
-        "time": "13:00",
+        "time": "18:45",
         "home_team": "US Lecce",
         "home_short": "Lecce",
         "away_team": "Genoa CFC",

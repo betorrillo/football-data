@@ -226,16 +226,16 @@
       "home_injuries": [],
       "away_injuries": [
         {
-          "player": "Julen Agirrezabala",
-          "position": "Goalkeeper",
-          "injury": "Meniscus tear",
+          "player": "Dimitri Foulquier",
+          "position": "Right-Back",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Dimitri Foulquier",
-          "position": "Right-Back",
-          "injury": "Knee injury",
+          "player": "Julen Agirrezabala",
+          "position": "Goalkeeper",
+          "injury": "Meniscus tear",
           "since": "",
           "status": "out"
         },
@@ -247,16 +247,16 @@
           "status": "out"
         },
         {
-          "player": "Mouctar Diakhaby",
+          "player": "Jos\u00e9 Copete",
           "position": "Centre-Back",
-          "injury": "Muscle injury",
+          "injury": "Meniscus tear",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Jos\u00e9 Copete",
+          "player": "Mouctar Diakhaby",
           "position": "Centre-Back",
-          "injury": "Meniscus tear",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         }
@@ -344,6 +344,13 @@
           "injury": "Muscle tear",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Ferm\u00edn L\u00f3pez",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [
@@ -376,7 +383,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",

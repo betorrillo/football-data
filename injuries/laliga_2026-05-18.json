@@ -2,44 +2,37 @@
   "generated": "2026-05-18",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 28,
+  "total_injured": 29,
   "teams_affected": 13,
   "teams": {
-    "Girona FC": [
+    "Sevilla FC": [
       {
-        "player": "Juan Carlos",
-        "position": "Goalkeeper",
-        "injury": "Knee injury",
+        "player": "Marc\u00e3o",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Portu",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Vladyslav Vanat",
-        "position": "Centre-Forward",
-        "injury": "Torn thigh muscle",
+        "player": "Manu Bueno",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
     ],
     "Valencia CF": [
       {
-        "player": "Julen Agirrezabala",
-        "position": "Goalkeeper",
-        "injury": "Meniscus tear",
+        "player": "Dimitri Foulquier",
+        "position": "Right-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Dimitri Foulquier",
-        "position": "Right-Back",
-        "injury": "Knee injury",
+        "player": "Julen Agirrezabala",
+        "position": "Goalkeeper",
+        "injury": "Meniscus tear",
         "since": "",
         "status": "out"
       },
@@ -51,32 +44,16 @@
         "status": "out"
       },
       {
-        "player": "Mouctar Diakhaby",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Jos\u00e9 Copete",
         "position": "Centre-Back",
         "injury": "Meniscus tear",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Real Betis Balompi\u00e9": [
-      {
-        "player": "\u00c1ngel Ortiz",
-        "position": "Right-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
       },
       {
-        "player": "Aitor Ruibal",
-        "position": "Right Winger",
-        "injury": "Meniscus injury",
+        "player": "Mouctar Diakhaby",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
@@ -97,18 +74,41 @@
         "status": "out"
       }
     ],
-    "Sevilla FC": [
+    "Real Betis Balompi\u00e9": [
       {
-        "player": "Marc\u00e3o",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "\u00c1ngel Ortiz",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Manu Bueno",
-        "position": "Central Midfield",
-        "injury": "Unknown",
+        "player": "Aitor Ruibal",
+        "position": "Right Winger",
+        "injury": "Meniscus injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Girona FC": [
+      {
+        "player": "Juan Carlos",
+        "position": "Goalkeeper",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Portu",
+        "position": "Right Winger",
+        "injury": "Torn knee ligaments",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "position": "Centre-Forward",
+        "injury": "Torn thigh muscle",
         "since": "",
         "status": "out"
       }
@@ -171,6 +171,13 @@
         "player": "Lamine Yamal",
         "position": "Right Winger",
         "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ferm\u00edn L\u00f3pez",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
