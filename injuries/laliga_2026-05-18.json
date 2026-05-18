@@ -1,26 +1,10 @@
 {
-  "generated": "2026-05-17",
+  "generated": "2026-05-18",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 31,
+  "total_injured": 28,
   "teams_affected": 13,
   "teams": {
-    "Atl\u00e9tico de Madrid": [
-      {
-        "player": "Johnny Cardoso",
-        "position": "Central Midfield",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Pablo Barrios",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Girona FC": [
       {
         "player": "Juan Carlos",
@@ -30,9 +14,9 @@
         "status": "out"
       },
       {
-        "player": "Marc-Andr\u00e9 ter Stegen",
-        "position": "Goalkeeper",
-        "injury": "Hamstring injury",
+        "player": "Portu",
+        "position": "Right Winger",
+        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       },
@@ -40,13 +24,6 @@
         "player": "Vladyslav Vanat",
         "position": "Centre-Forward",
         "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Portu",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -136,37 +113,23 @@
         "status": "out"
       }
     ],
-    "FC Barcelona": [
+    "Atl\u00e9tico de Madrid": [
       {
-        "player": "Frenkie de Jong",
+        "player": "Johnny Cardoso",
         "position": "Central Midfield",
-        "injury": "unknown injury",
+        "injury": "Ankle surgery",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ferran Torres",
-        "position": "Centre-Forward",
-        "injury": "Muscle strain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lamine Yamal",
-        "position": "Right Winger",
-        "injury": "Muscle tear",
+        "player": "Pablo Barrios",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
     ],
     "Real Madrid": [
-      {
-        "player": "Arda G\u00fcler",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Federico Valverde",
         "position": "Central Midfield",
@@ -192,6 +155,22 @@
         "player": "Ferland Mendy",
         "position": "Left-Back",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Barcelona": [
+      {
+        "player": "Ferran Torres",
+        "position": "Centre-Forward",
+        "injury": "Muscle strain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lamine Yamal",
+        "position": "Right Winger",
+        "injury": "Muscle tear",
         "since": "",
         "status": "out"
       }

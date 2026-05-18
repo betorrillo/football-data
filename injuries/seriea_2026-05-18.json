@@ -1,36 +1,45 @@
 {
-  "generated": "2026-05-17",
+  "generated": "2026-05-18",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 58,
+  "total_injured": 62,
   "teams_affected": 17,
   "teams": {
-    "AS Roma": [
+    "SSC Napoli": [
       {
-        "player": "Manu Kon\u00e9",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bryan Zaragoza",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lorenzo Pellegrini",
-        "position": "Attacking Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Evan Ferguson",
+        "player": "Romelu Lukaku",
         "position": "Centre-Forward",
-        "injury": "Ankle problems",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Torino FC": [
+      {
+        "player": "Adrien Tam\u00e8ze",
+        "position": "Defensive Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Tino Anjorin",
+        "position": "Attacking Midfield",
+        "injury": "Hip bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ardian Ismajli",
+        "position": "Centre-Back",
+        "injury": "Hamstring muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "position": "Right Winger",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -63,6 +72,36 @@
         "player": "Medon Berisha",
         "position": "Central Midfield",
         "injury": "Torn thigh muscle",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SS Lazio": [
+      {
+        "player": "Edoardo Motta",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mattia Zaccagni",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Patric",
+        "position": "Centre-Back",
+        "injury": "Achilles tendon problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -113,37 +152,14 @@
         "status": "out"
       }
     ],
-    "SS Lazio": [
-      {
-        "player": "Edoardo Motta",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mattia Zaccagni",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Patric",
-        "position": "Centre-Back",
-        "injury": "Achilles tendon problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "US Cremonese": [
+      {
+        "player": "Antonio Sanabria",
+        "position": "Centre-Forward",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Faris Moumbagna",
         "position": "Centre-Forward",
@@ -152,16 +168,16 @@
         "status": "out"
       },
       {
-        "player": "Federico Ceccherini",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "Warren Bondo",
+        "position": "Central Midfield",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Warren Bondo",
-        "position": "Central Midfield",
-        "injury": "Muscle fatigue",
+        "player": "Federico Ceccherini",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -219,6 +235,13 @@
     ],
     "US Sassuolo": [
       {
+        "player": "Filippo Romagna",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Sebastian Walukiewicz",
         "position": "Right-Back",
         "injury": "Unknown",
@@ -226,9 +249,23 @@
         "status": "out"
       },
       {
-        "player": "Filippo Romagna",
-        "position": "Centre-Back",
+        "player": "Aster Vranckx",
+        "position": "Central Midfield",
         "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Edoardo Pieragnolo",
+        "position": "Left-Back",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jay Idzes",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -247,27 +284,11 @@
         "status": "out"
       }
     ],
-    "SSC Napoli": [
-      {
-        "player": "Romelu Lukaku",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Neres",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Parma Calcio 1913": [
       {
-        "player": "Adri\u00e1n Bernab\u00e9",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
+        "player": "Gaetano Oristanio",
+        "position": "Attacking Midfield",
+        "injury": "Knee problems",
         "since": "",
         "status": "out"
       },
@@ -279,9 +300,9 @@
         "status": "out"
       },
       {
-        "player": "Gaetano Oristanio",
-        "position": "Attacking Midfield",
-        "injury": "Knee problems",
+        "player": "Adri\u00e1n Bernab\u00e9",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
@@ -303,6 +324,36 @@
         "player": "Jacob Ondrejka",
         "position": "Left Winger",
         "injury": "surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AS Roma": [
+      {
+        "player": "Bryan Zaragoza",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Manu Kon\u00e9",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lorenzo Pellegrini",
+        "position": "Attacking Midfield",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Evan Ferguson",
+        "position": "Centre-Forward",
+        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       }
@@ -367,57 +418,11 @@
         "status": "out"
       }
     ],
-    "Torino FC": [
-      {
-        "player": "Tino Anjorin",
-        "position": "Attacking Midfield",
-        "injury": "Hip bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ardian Ismajli",
-        "position": "Centre-Back",
-        "injury": "Hamstring muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Zakaria Aboukhlal",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "ACF Fiorentina": [
       {
         "player": "Moise Kean",
         "position": "Centre-Forward",
         "injury": "Shin bruise",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Udinese Calcio": [
-      {
-        "player": "Nicol\u00f2 Zaniolo",
-        "position": "Second Striker",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jurgen Ekkelenkamp",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alessandro Zanoli",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -441,6 +446,29 @@
         "player": "Suat Serdar",
         "position": "Central Midfield",
         "injury": "Cruciate ligament surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Udinese Calcio": [
+      {
+        "player": "Nicol\u00f2 Zaniolo",
+        "position": "Second Striker",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jurgen Ekkelenkamp",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alessandro Zanoli",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

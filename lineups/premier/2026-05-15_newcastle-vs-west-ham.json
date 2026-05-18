@@ -4,12 +4,19 @@
   "away": "West Ham",
   "league": "ENG1",
   "date": "2026-05-15",
-  "generated": "2026-05-17T20:12:40Z",
+  "generated": "2026-05-18T11:11:13Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
+    {
+      "player": "Joelinton",
+      "position": "Central Midfield",
+      "injury": "Hamstring injury",
+      "since": "",
+      "status": "out"
+    },
     {
       "player": "Tino Livramento",
       "position": "Right-Back",
@@ -18,16 +25,23 @@
       "status": "out"
     },
     {
-      "player": "Lewis Miley",
-      "position": "Central Midfield",
-      "injury": "Unknown",
+      "player": "Emil Krafth",
+      "position": "Right-Back",
+      "injury": "Knee surgery",
       "since": "",
       "status": "out"
     },
     {
-      "player": "Emil Krafth",
-      "position": "Right-Back",
-      "injury": "Knee surgery",
+      "player": "Fabian Schär",
+      "position": "Centre-Back",
+      "injury": "Ankle injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Lewis Miley",
+      "position": "Central Midfield",
+      "injury": "Unknown",
       "since": "",
       "status": "out"
     }

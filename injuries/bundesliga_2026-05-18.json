@@ -1,22 +1,22 @@
 {
-  "generated": "2026-05-17",
+  "generated": "2026-05-18",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 57,
+  "total_injured": 51,
   "teams_affected": 17,
   "teams": {
     "SV Werder Bremen": [
       {
-        "player": "Karl Hein",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
+        "player": "Karl Hein",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -33,34 +33,34 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      },
+      }
+    ],
+    "1.FSV Mainz 05": [
       {
-        "player": "Maximilian W\u00f6ber",
-        "position": "Centre-Back",
+        "player": "Silas",
+        "position": "Right Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Hamburger SV": [
+      },
       {
-        "player": "Robert Glatzel",
+        "player": "Benedict Hollerbach",
         "position": "Centre-Forward",
-        "injury": "Calf strain",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kasey Bos",
+        "position": "Left-Back",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       }
@@ -81,13 +81,6 @@
         "status": "out"
       },
       {
-        "player": "Tom Krau\u00df",
-        "position": "Defensive Midfield",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Ragnar Ache",
         "position": "Centre-Forward",
         "injury": "Muscle injury",
@@ -95,18 +88,41 @@
         "status": "out"
       }
     ],
-    "SC Freiburg": [
+    "Hamburger SV": [
       {
-        "player": "Yuito Suzuki",
-        "position": "Second Striker",
-        "injury": "Unknown",
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       },
       {
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SC Freiburg": [
+      {
         "player": "Patrick Osterhage",
         "position": "Defensive Midfield",
         "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Yuito Suzuki",
+        "position": "Second Striker",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -148,20 +164,6 @@
         "status": "out"
       },
       {
-        "player": "Jonas Wind",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kilian Fischer",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Maximilian Arnold",
         "position": "Central Midfield",
         "injury": "Groin problems",
@@ -170,20 +172,6 @@
       }
     ],
     "1.FC Union Berlin": [
-      {
-        "player": "Janik Haberer",
-        "position": "Central Midfield",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Skov",
-        "position": "Left Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Matheo Raab",
         "position": "Goalkeeper",
@@ -201,16 +189,9 @@
     ],
     "FC Augsburg": [
       {
-        "player": "Mads Pedersen",
-        "position": "Left-Back",
-        "injury": "Knee problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Arthur Chaves",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Alexis Claude-Maurice",
+        "position": "Attacking Midfield",
+        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       },
@@ -277,32 +258,18 @@
         "status": "out"
       }
     ],
-    "Bayern Munich": [
+    "Eintracht Frankfurt": [
       {
-        "player": "Manuel Neuer",
-        "position": "Goalkeeper",
-        "injury": "Calf problems",
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Alphonso Davies",
-        "position": "Left-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Serge Gnabry",
-        "position": "Second Striker",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Santos Daiber",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       }
@@ -319,6 +286,13 @@
         "player": "Martin Terrier",
         "position": "Left Winger",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Christian Kofane",
+        "position": "Centre-Forward",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -346,27 +320,41 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Rocco Reitz",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
       }
     ],
-    "Eintracht Frankfurt": [
+    "Bayern Munich": [
       {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Manuel Neuer",
+        "position": "Goalkeeper",
+        "injury": "Calf problems",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "player": "Alphonso Davies",
+        "position": "Left-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Min-jae Kim",
+        "position": "Centre-Back",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Serge Gnabry",
+        "position": "Second Striker",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Santos Daiber",
+        "position": "Defensive Midfield",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -376,20 +364,6 @@
         "player": "Manolis Saliakas",
         "position": "Right-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Nemeth",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jannik Robatsch",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
@@ -406,34 +380,18 @@
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
-      }
-    ],
-    "1.FSV Mainz 05": [
+      },
       {
-        "player": "Silas",
-        "position": "Right Winger",
+        "player": "David Nemeth",
+        "position": "Centre-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maxim Leitsch",
+        "player": "Jannik Robatsch",
         "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
-        "injury": "Shoulder injury",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
