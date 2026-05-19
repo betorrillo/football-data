@@ -5,19 +5,35 @@
   "league": "ENG1",
   "date": "2026-05-15",
   "source_seasons": "epl",
-  "h2h_count": 7,
+  "h2h_count": 8,
   "aggregates": {
-    "total": 7,
-    "home_wins": 3,
+    "total": 8,
+    "home_wins": 4,
     "draws": 1,
     "away_wins": 3,
-    "btts_pct": 57.1,
-    "over_2_5_pct": 71.4,
-    "avg_corners": 12.57,
-    "avg_yellow": 4.29,
-    "avg_red": 0.14
+    "btts_pct": 62.5,
+    "over_2_5_pct": 75.0,
+    "avg_corners": 12.62,
+    "avg_yellow": 4.12,
+    "avg_red": 0.12
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Man United",
+      "away": "Nott'm Forest",
+      "ft_home": 3,
+      "ft_away": 2,
+      "ht_home": 1,
+      "ht_away": 0,
+      "home_corners": 7,
+      "away_corners": 6,
+      "home_yellow": 2,
+      "away_yellow": 1,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-11-01",
       "season": "2025-26",
@@ -131,5 +147,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

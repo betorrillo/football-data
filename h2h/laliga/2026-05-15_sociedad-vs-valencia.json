@@ -5,19 +5,35 @@
   "league": "ESP1",
   "date": "2026-05-15",
   "source_seasons": "laliga",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
+    "total": 10,
     "home_wins": 3,
     "draws": 4,
-    "away_wins": 2,
-    "btts_pct": 22.2,
-    "over_2_5_pct": 11.1,
-    "avg_corners": 10.56,
-    "avg_yellow": 5.67,
-    "avg_red": 0.33
+    "away_wins": 3,
+    "btts_pct": 30.0,
+    "over_2_5_pct": 20.0,
+    "avg_corners": 10.0,
+    "avg_yellow": 5.5,
+    "avg_red": 0.4
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Sociedad",
+      "away": "Valencia",
+      "ft_home": 3,
+      "ft_away": 4,
+      "ht_home": 1,
+      "ht_away": 2,
+      "home_corners": 3,
+      "away_corners": 2,
+      "home_yellow": 4,
+      "away_yellow": 0,
+      "home_red": 0,
+      "away_red": 1
+    },
     {
       "date": "2025-08-16",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 62,
+  "total_injured": 59,
   "teams_affected": 19,
   "teams": {
     "Nottingham Forest": [
       {
-        "player": "Murillo",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
+        "player": "Nicol\u00f2 Savona",
+        "position": "Right-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
@@ -28,16 +28,9 @@
         "status": "out"
       },
       {
-        "player": "Dan Ndoye",
-        "position": "Right Winger",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Savona",
-        "position": "Right-Back",
-        "injury": "Knee injury",
+        "player": "Murillo",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -88,29 +81,6 @@
         "status": "out"
       }
     ],
-    "Chelsea FC": [
-      {
-        "player": "Caleb Wiley",
-        "position": "Left-Back",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jamie Gittens",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Est\u00eav\u00e3o",
-        "position": "Right Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Leeds United": [
       {
         "player": "Ilia Gruev",
@@ -152,25 +122,34 @@
         "status": "out"
       }
     ],
+    "Chelsea FC": [
+      {
+        "player": "Caleb Wiley",
+        "position": "Left-Back",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jamie Gittens",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Est\u00eav\u00e3o",
+        "position": "Right Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Tottenham Hotspur": [
       {
         "player": "Ben Davies",
         "position": "Centre-Back",
         "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Guglielmo Vicario",
-        "position": "Goalkeeper",
-        "injury": "surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Dominic Solanke",
-        "position": "Centre-Forward",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
@@ -182,16 +161,16 @@
         "status": "out"
       },
       {
-        "player": "Mohammed Kudus",
-        "position": "Right Winger",
-        "injury": "Hamstring injury",
+        "player": "Cristian Romero",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Cristian Romero",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Mohammed Kudus",
+        "position": "Right Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -329,16 +308,16 @@
         "status": "out"
       },
       {
-        "player": "Diego G\u00f3mez",
-        "position": "Central Midfield",
-        "injury": "Knee injury",
+        "player": "Adam Webster",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Adam Webster",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament injury",
+        "player": "Diego G\u00f3mez",
+        "position": "Central Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
@@ -382,9 +361,9 @@
         "status": "out"
       },
       {
-        "player": "Tino Livramento",
-        "position": "Right-Back",
-        "injury": "Thigh problems",
+        "player": "Fabian Sch\u00e4r",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
@@ -396,9 +375,9 @@
         "status": "out"
       },
       {
-        "player": "Fabian Sch\u00e4r",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Tino Livramento",
+        "position": "Right-Back",
+        "injury": "Thigh problems",
         "since": "",
         "status": "out"
       },
@@ -411,13 +390,6 @@
       }
     ],
     "Liverpool FC": [
-      {
-        "player": "Alisson",
-        "position": "Goalkeeper",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Wataru Endo",
         "position": "Defensive Midfield",
@@ -436,6 +408,13 @@
         "player": "Jeremie Frimpong",
         "position": "Right-Back",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alisson",
+        "position": "Goalkeeper",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },

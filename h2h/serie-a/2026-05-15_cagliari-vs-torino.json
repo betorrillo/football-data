@@ -5,19 +5,35 @@
   "league": "ITA1",
   "date": "2026-05-15",
   "source_seasons": "seriea",
-  "h2h_count": 7,
+  "h2h_count": 8,
   "aggregates": {
-    "total": 7,
-    "home_wins": 3,
+    "total": 8,
+    "home_wins": 4,
     "draws": 2,
     "away_wins": 2,
-    "btts_pct": 71.4,
-    "over_2_5_pct": 57.1,
-    "avg_corners": 10.43,
-    "avg_yellow": 4.0,
+    "btts_pct": 75.0,
+    "over_2_5_pct": 62.5,
+    "avg_corners": 9.88,
+    "avg_yellow": 3.75,
     "avg_red": 0.0
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Cagliari",
+      "away": "Torino",
+      "ft_home": 2,
+      "ft_away": 1,
+      "ht_home": 2,
+      "ht_away": 1,
+      "home_corners": 5,
+      "away_corners": 1,
+      "home_yellow": 1,
+      "away_yellow": 1,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-12-27",
       "season": "2025-26",
@@ -131,5 +147,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

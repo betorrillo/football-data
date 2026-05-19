@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "ESPN API",
   "league": "LaLiga",
   "season": "2025-26",
-  "total_matches": 360,
+  "total_matches": 370,
   "matches": [
     {
       "event_id": "748152",
@@ -15989,6 +15989,386 @@
         }
       ],
       "cards": []
+    },
+    {
+      "event_id": "748506",
+      "home": "Athletic Club",
+      "away": "Celta Vigo",
+      "goals": [
+        {
+          "team": "Celta Vigo",
+          "minute": 4,
+          "type": "Goal"
+        },
+        {
+          "team": "Athletic Club",
+          "minute": 52,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Celta Vigo",
+          "minute": 10,
+          "type": "yellow"
+        },
+        {
+          "team": "Athletic Club",
+          "minute": 38,
+          "type": "yellow"
+        },
+        {
+          "team": "Celta Vigo",
+          "minute": 42,
+          "type": "yellow"
+        },
+        {
+          "team": "Athletic Club",
+          "minute": 68,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748509",
+      "home": "Atl\u00e9tico Madrid",
+      "away": "Girona",
+      "goals": [
+        {
+          "team": "Atl\u00e9tico Madrid",
+          "minute": 21,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Atl\u00e9tico Madrid",
+          "minute": 23,
+          "type": "yellow"
+        },
+        {
+          "team": "Atl\u00e9tico Madrid",
+          "minute": 85,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748507",
+      "home": "Elche",
+      "away": "Getafe",
+      "goals": [
+        {
+          "team": "Elche",
+          "minute": 19,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Getafe",
+          "minute": 39,
+          "type": "red"
+        },
+        {
+          "team": "Elche",
+          "minute": 66,
+          "type": "yellow"
+        },
+        {
+          "team": "Elche",
+          "minute": 69,
+          "type": "yellow"
+        },
+        {
+          "team": "Elche",
+          "minute": 78,
+          "type": "yellow"
+        },
+        {
+          "team": "Getafe",
+          "minute": 95,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748510",
+      "home": "Levante",
+      "away": "Mallorca",
+      "goals": [
+        {
+          "team": "Levante",
+          "minute": 32,
+          "type": "Goal"
+        },
+        {
+          "team": "Levante",
+          "minute": 87,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Levante",
+          "minute": 30,
+          "type": "yellow"
+        },
+        {
+          "team": "Levante",
+          "minute": 78,
+          "type": "yellow"
+        },
+        {
+          "team": "Mallorca",
+          "minute": 85,
+          "type": "red"
+        },
+        {
+          "team": "Levante",
+          "minute": 85,
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "event_id": "748511",
+      "home": "Osasuna",
+      "away": "Espanyol",
+      "goals": [
+        {
+          "team": "Espanyol",
+          "minute": 27,
+          "type": "Goal"
+        },
+        {
+          "team": "Osasuna",
+          "minute": 49,
+          "type": "Goal"
+        },
+        {
+          "team": "Espanyol",
+          "minute": 53,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Espanyol",
+          "minute": 11,
+          "type": "yellow"
+        },
+        {
+          "team": "Osasuna",
+          "minute": 83,
+          "type": "yellow"
+        },
+        {
+          "team": "Espanyol",
+          "minute": 90,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748512",
+      "home": "Rayo Vallecano",
+      "away": "Villarreal",
+      "goals": [
+        {
+          "team": "Rayo Vallecano",
+          "minute": 28,
+          "type": "Goal"
+        },
+        {
+          "team": "Rayo Vallecano",
+          "minute": 47,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Rayo Vallecano",
+          "minute": 61,
+          "type": "yellow"
+        },
+        {
+          "team": "Rayo Vallecano",
+          "minute": 82,
+          "type": "yellow"
+        },
+        {
+          "team": "Villarreal",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748513",
+      "home": "Real Oviedo",
+      "away": "Alav\u00e9s",
+      "goals": [
+        {
+          "team": "Alav\u00e9s",
+          "minute": 17,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Real Oviedo",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Oviedo",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Oviedo",
+          "minute": 71,
+          "type": "yellow"
+        },
+        {
+          "team": "Alav\u00e9s",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748505",
+      "home": "Real Sociedad",
+      "away": "Valencia",
+      "goals": [
+        {
+          "team": "Real Sociedad",
+          "minute": 3,
+          "type": "Goal"
+        },
+        {
+          "team": "Valencia",
+          "minute": 8,
+          "type": "Goal"
+        },
+        {
+          "team": "Valencia",
+          "minute": 22,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Real Sociedad",
+          "minute": 60,
+          "type": "Own Goal"
+        },
+        {
+          "team": "Real Sociedad",
+          "minute": 63,
+          "type": "Goal"
+        },
+        {
+          "team": "Valencia",
+          "minute": 89,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Valencia",
+          "minute": 93,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Real Sociedad",
+          "minute": 25,
+          "type": "yellow"
+        },
+        {
+          "team": "Valencia",
+          "minute": 70,
+          "type": "red"
+        },
+        {
+          "team": "Real Sociedad",
+          "minute": 86,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad",
+          "minute": 88,
+          "type": "yellow"
+        },
+        {
+          "team": "Real Sociedad",
+          "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748504",
+      "home": "Sevilla",
+      "away": "Real Madrid",
+      "goals": [
+        {
+          "team": "Real Madrid",
+          "minute": 15,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Sevilla",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 80,
+          "type": "yellow"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 84,
+          "type": "yellow"
+        },
+        {
+          "team": "Sevilla",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "748508",
+      "home": "Barcelona",
+      "away": "Real Betis",
+      "goals": [
+        {
+          "team": "Barcelona",
+          "minute": 28,
+          "type": "Goal - Free-kick"
+        },
+        {
+          "team": "Barcelona",
+          "minute": 62,
+          "type": "Goal"
+        },
+        {
+          "team": "Barcelona",
+          "minute": 74,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Barcelona",
+          "minute": 38,
+          "type": "yellow"
+        }
+      ]
     }
   ]
 }

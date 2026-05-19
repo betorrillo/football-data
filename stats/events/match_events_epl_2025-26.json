@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "ESPN API",
   "league": "Premier League",
   "season": "2025-26",
-  "total_matches": 357,
+  "total_matches": 365,
   "matches": [
     {
       "event_id": "740935",
@@ -14698,6 +14698,323 @@
         {
           "team": "Crystal Palace",
           "minute": 81,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740957",
+      "home": "Aston Villa",
+      "away": "Liverpool",
+      "goals": [
+        {
+          "team": "Aston Villa",
+          "minute": 42,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 52,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 57,
+          "type": "Goal"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 73,
+          "type": "Goal"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 89,
+          "type": "Goal"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 92,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Aston Villa",
+          "minute": 39,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "Liverpool",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "Aston Villa",
+          "minute": 66,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740963",
+      "home": "Manchester United",
+      "away": "Nottingham Forest",
+      "goals": [
+        {
+          "team": "Manchester United",
+          "minute": 5,
+          "type": "Goal"
+        },
+        {
+          "team": "Nottingham Forest",
+          "minute": 53,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 55,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 76,
+          "type": "Goal"
+        },
+        {
+          "team": "Nottingham Forest",
+          "minute": 78,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Manchester United",
+          "minute": 78,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester United",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "Nottingham Forest",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740959",
+      "home": "Brentford",
+      "away": "Crystal Palace",
+      "goals": [
+        {
+          "team": "Brentford",
+          "minute": 40,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 52,
+          "type": "Goal"
+        },
+        {
+          "team": "Brentford",
+          "minute": 88,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Crystal Palace",
+          "minute": 83,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 89,
+          "type": "yellow"
+        },
+        {
+          "team": "Brentford",
+          "minute": 95,
+          "type": "yellow"
+        },
+        {
+          "team": "Crystal Palace",
+          "minute": 95,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740961",
+      "home": "Everton",
+      "away": "Sunderland",
+      "goals": [
+        {
+          "team": "Everton",
+          "minute": 43,
+          "type": "Goal"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 59,
+          "type": "Goal"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 81,
+          "type": "Goal"
+        },
+        {
+          "team": "Sunderland",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Everton",
+          "minute": 25,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Everton",
+          "minute": 96,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740962",
+      "home": "Leeds United",
+      "away": "Brighton & Hove Albion",
+      "goals": [
+        {
+          "team": "Leeds United",
+          "minute": 96,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Leeds United",
+          "minute": 97,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740965",
+      "home": "Wolverhampton Wanderers",
+      "away": "Fulham",
+      "goals": [
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 25,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Wolverhampton Wanderers",
+          "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740964",
+      "home": "Newcastle United",
+      "away": "West Ham United",
+      "goals": [
+        {
+          "team": "Newcastle United",
+          "minute": 15,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 19,
+          "type": "Goal"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 65,
+          "type": "Goal"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 69,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "West Ham United",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 67,
+          "type": "yellow"
+        },
+        {
+          "team": "West Ham United",
+          "minute": 80,
+          "type": "yellow"
+        },
+        {
+          "team": "Newcastle United",
+          "minute": 83,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740956",
+      "home": "Arsenal",
+      "away": "Burnley",
+      "goals": [
+        {
+          "team": "Arsenal",
+          "minute": 37,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Burnley",
+          "minute": 28,
+          "type": "yellow"
+        },
+        {
+          "team": "Arsenal",
+          "minute": 67,
+          "type": "yellow"
+        },
+        {
+          "team": "Burnley",
+          "minute": 91,
+          "type": "yellow"
+        },
+        {
+          "team": "Burnley",
+          "minute": 94,
           "type": "yellow"
         }
       ]

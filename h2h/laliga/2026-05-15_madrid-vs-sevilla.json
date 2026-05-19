@@ -5,19 +5,35 @@
   "league": "ESP1",
   "date": "2026-05-15",
   "source_seasons": "laliga",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
-    "home_wins": 8,
+    "total": 10,
+    "home_wins": 9,
     "draws": 1,
     "away_wins": 0,
-    "btts_pct": 66.7,
-    "over_2_5_pct": 55.6,
-    "avg_corners": 7.33,
-    "avg_yellow": 5.11,
-    "avg_red": 0.44
+    "btts_pct": 60.0,
+    "over_2_5_pct": 50.0,
+    "avg_corners": 7.4,
+    "avg_yellow": 5.0,
+    "avg_red": 0.4
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Sevilla",
+      "away": "Real Madrid",
+      "ft_home": 0,
+      "ft_away": 1,
+      "ht_home": 0,
+      "ht_away": 1,
+      "home_corners": 4,
+      "away_corners": 4,
+      "home_yellow": 4,
+      "away_yellow": 0,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-12-20",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

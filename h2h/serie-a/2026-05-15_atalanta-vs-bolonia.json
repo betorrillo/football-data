@@ -5,19 +5,35 @@
   "league": "ITA1",
   "date": "2026-05-15",
   "source_seasons": "seriea",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
+    "total": 10,
     "home_wins": 4,
     "draws": 2,
-    "away_wins": 3,
-    "btts_pct": 33.3,
-    "over_2_5_pct": 22.2,
-    "avg_corners": 8.22,
-    "avg_yellow": 4.44,
-    "avg_red": 0.11
+    "away_wins": 4,
+    "btts_pct": 30.0,
+    "over_2_5_pct": 20.0,
+    "avg_corners": 8.1,
+    "avg_yellow": 4.2,
+    "avg_red": 0.1
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Atalanta",
+      "away": "Bologna",
+      "ft_home": 0,
+      "ft_away": 1,
+      "ht_home": 0,
+      "ht_away": 0,
+      "home_corners": 2,
+      "away_corners": 5,
+      "home_yellow": 1,
+      "away_yellow": 1,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2026-01-07",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

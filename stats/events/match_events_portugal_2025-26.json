@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "ESPN API",
   "league": "Primeira Liga",
   "season": "2025-26",
-  "total_matches": 18,
+  "total_matches": 27,
   "matches": [
     {
       "event_id": "750525",
@@ -840,6 +840,340 @@
         {
           "team": "Vit\u00f3ria de Guimaraes",
           "minute": 78,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750544",
+      "home": "FC Porto",
+      "away": "Santa Clara",
+      "goals": [
+        {
+          "team": "FC Porto",
+          "minute": 69,
+          "type": "Own Goal"
+        }
+      ],
+      "cards": []
+    },
+    {
+      "event_id": "750546",
+      "home": "Moreirense",
+      "away": "AVS",
+      "goals": [],
+      "cards": [
+        {
+          "team": "Moreirense",
+          "minute": 5,
+          "type": "yellow"
+        },
+        {
+          "team": "AVS",
+          "minute": 35,
+          "type": "yellow"
+        },
+        {
+          "team": "AVS",
+          "minute": 39,
+          "type": "yellow"
+        },
+        {
+          "team": "Moreirense",
+          "minute": 73,
+          "type": "yellow"
+        },
+        {
+          "team": "AVS",
+          "minute": 84,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750543",
+      "home": "Arouca",
+      "away": "Tondela",
+      "goals": [
+        {
+          "team": "Arouca",
+          "minute": 20,
+          "type": "Goal"
+        },
+        {
+          "team": "Tondela",
+          "minute": 65,
+          "type": "Goal"
+        },
+        {
+          "team": "Arouca",
+          "minute": 77,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Arouca",
+          "minute": 85,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Arouca",
+          "minute": 39,
+          "type": "yellow"
+        },
+        {
+          "team": "Tondela",
+          "minute": 41,
+          "type": "yellow"
+        },
+        {
+          "team": "Arouca",
+          "minute": 41,
+          "type": "yellow"
+        },
+        {
+          "team": "Arouca",
+          "minute": 81,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750547",
+      "home": "Braga",
+      "away": "Estrela",
+      "goals": [
+        {
+          "team": "Estrela",
+          "minute": 5,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Braga",
+          "minute": 15,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Estrela",
+          "minute": 96,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Braga",
+          "minute": 37,
+          "type": "yellow"
+        },
+        {
+          "team": "Estrela",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "Estrela",
+          "minute": 61,
+          "type": "yellow"
+        },
+        {
+          "team": "Estrela",
+          "minute": 87,
+          "type": "yellow"
+        },
+        {
+          "team": "Estrela",
+          "minute": 87,
+          "type": "yellow"
+        },
+        {
+          "team": "Estrela",
+          "minute": 97,
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "event_id": "750551",
+      "home": "C.D. Nacional",
+      "away": "Vit\u00f3ria de Guimaraes",
+      "goals": [
+        {
+          "team": "C.D. Nacional",
+          "minute": 69,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Vit\u00f3ria de Guimaraes",
+          "minute": 14,
+          "type": "yellow"
+        },
+        {
+          "team": "C.D. Nacional",
+          "minute": 25,
+          "type": "yellow"
+        },
+        {
+          "team": "C.D. Nacional",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "C.D. Nacional",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "Vit\u00f3ria de Guimaraes",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "C.D. Nacional",
+          "minute": 54,
+          "type": "yellow"
+        },
+        {
+          "team": "Vit\u00f3ria de Guimaraes",
+          "minute": 84,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750548",
+      "home": "Casa Pia",
+      "away": "Rio Ave",
+      "goals": [
+        {
+          "team": "Casa Pia",
+          "minute": 35,
+          "type": "Goal"
+        },
+        {
+          "team": "Rio Ave",
+          "minute": 52,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Casa Pia",
+          "minute": 80,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750549",
+      "home": "Estoril",
+      "away": "Benfica",
+      "goals": [
+        {
+          "team": "Benfica",
+          "minute": 7,
+          "type": "Goal"
+        },
+        {
+          "team": "Benfica",
+          "minute": 15,
+          "type": "Goal"
+        },
+        {
+          "team": "Benfica",
+          "minute": 16,
+          "type": "Goal"
+        },
+        {
+          "team": "Estoril",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Estoril",
+          "minute": 22,
+          "type": "yellow"
+        },
+        {
+          "team": "Benfica",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Estoril",
+          "minute": 52,
+          "type": "yellow"
+        },
+        {
+          "team": "Estoril",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Benfica",
+          "minute": 68,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750545",
+      "home": "FC Famalicao",
+      "away": "Alverca",
+      "goals": [
+        {
+          "team": "FC Famalicao",
+          "minute": 83,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Alverca",
+          "minute": 20,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Famalicao",
+          "minute": 38,
+          "type": "yellow"
+        },
+        {
+          "team": "Alverca",
+          "minute": 86,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "750550",
+      "home": "Sporting CP",
+      "away": "Gil Vicente",
+      "goals": [
+        {
+          "team": "Sporting CP",
+          "minute": 15,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Sporting CP",
+          "minute": 34,
+          "type": "Goal"
+        },
+        {
+          "team": "Sporting CP",
+          "minute": 93,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Gil Vicente",
+          "minute": 63,
           "type": "yellow"
         }
       ]

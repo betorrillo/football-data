@@ -5,19 +5,35 @@
   "league": "ITA1",
   "date": "2026-05-15",
   "source_seasons": "seriea",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
+    "total": 10,
     "home_wins": 4,
     "draws": 3,
-    "away_wins": 2,
-    "btts_pct": 33.3,
-    "over_2_5_pct": 22.2,
-    "avg_corners": 9.89,
-    "avg_yellow": 4.89,
-    "avg_red": 0.11
+    "away_wins": 3,
+    "btts_pct": 30.0,
+    "over_2_5_pct": 20.0,
+    "avg_corners": 9.7,
+    "avg_yellow": 4.8,
+    "avg_red": 0.2
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Juventus",
+      "away": "Fiorentina",
+      "ft_home": 0,
+      "ft_away": 2,
+      "ht_home": 0,
+      "ht_away": 1,
+      "home_corners": 6,
+      "away_corners": 2,
+      "home_yellow": 1,
+      "away_yellow": 3,
+      "home_red": 0,
+      "away_red": 1
+    },
     {
       "date": "2025-11-22",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 1
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

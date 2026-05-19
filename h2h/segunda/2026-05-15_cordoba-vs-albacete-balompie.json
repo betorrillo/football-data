@@ -5,19 +5,35 @@
   "league": "ESP2",
   "date": "2026-05-15",
   "source_seasons": "segunda",
-  "h2h_count": 3,
+  "h2h_count": 4,
   "aggregates": {
-    "total": 3,
+    "total": 4,
     "home_wins": 1,
     "draws": 2,
-    "away_wins": 0,
+    "away_wins": 1,
     "btts_pct": 100.0,
-    "over_2_5_pct": 33.3,
-    "avg_corners": 12.67,
-    "avg_yellow": 2.67,
+    "over_2_5_pct": 50.0,
+    "avg_corners": 14.25,
+    "avg_yellow": 3.0,
     "avg_red": 0.0
   },
   "last_matches": [
+    {
+      "date": "2026-05-15",
+      "season": "2025-26",
+      "home": "Cordoba",
+      "away": "Albacete",
+      "ft_home": 1,
+      "ft_away": 2,
+      "ht_home": 0,
+      "ht_away": 2,
+      "home_corners": 12,
+      "away_corners": 7,
+      "home_yellow": 3,
+      "away_yellow": 1,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-10-25",
       "season": "2025-26",
@@ -67,5 +83,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

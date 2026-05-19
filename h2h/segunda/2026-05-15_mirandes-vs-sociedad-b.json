@@ -5,19 +5,35 @@
   "league": "ESP2",
   "date": "2026-05-15",
   "source_seasons": "segunda",
-  "h2h_count": 3,
+  "h2h_count": 4,
   "aggregates": {
-    "total": 3,
+    "total": 4,
     "home_wins": 3,
-    "draws": 0,
+    "draws": 1,
     "away_wins": 0,
-    "btts_pct": 33.3,
-    "over_2_5_pct": 33.3,
-    "avg_corners": 8.0,
-    "avg_yellow": 5.0,
-    "avg_red": 0.33
+    "btts_pct": 50.0,
+    "over_2_5_pct": 50.0,
+    "avg_corners": 7.75,
+    "avg_yellow": 4.5,
+    "avg_red": 0.25
   },
   "last_matches": [
+    {
+      "date": "2026-05-16",
+      "season": "2025-26",
+      "home": "Sociedad B",
+      "away": "Mirandes",
+      "ft_home": 2,
+      "ft_away": 2,
+      "ht_home": 1,
+      "ht_away": 1,
+      "home_corners": 5,
+      "away_corners": 2,
+      "home_yellow": 1,
+      "away_yellow": 2,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-11-30",
       "season": "2025-26",
@@ -67,5 +83,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

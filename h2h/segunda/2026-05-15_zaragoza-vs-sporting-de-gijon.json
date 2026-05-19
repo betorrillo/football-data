@@ -5,19 +5,35 @@
   "league": "ESP2",
   "date": "2026-05-15",
   "source_seasons": "segunda",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
+    "total": 10,
     "home_wins": 4,
     "draws": 2,
-    "away_wins": 3,
-    "btts_pct": 33.3,
-    "over_2_5_pct": 33.3,
-    "avg_corners": 10.11,
-    "avg_yellow": 5.67,
-    "avg_red": 0.56
+    "away_wins": 4,
+    "btts_pct": 40.0,
+    "over_2_5_pct": 40.0,
+    "avg_corners": 10.2,
+    "avg_yellow": 5.5,
+    "avg_red": 0.5
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Zaragoza",
+      "away": "Sp Gijon",
+      "ft_home": 1,
+      "ft_away": 3,
+      "ht_home": 1,
+      "ht_away": 2,
+      "home_corners": 9,
+      "away_corners": 2,
+      "home_yellow": 1,
+      "away_yellow": 3,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-10-26",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

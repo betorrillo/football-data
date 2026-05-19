@@ -5,19 +5,35 @@
   "league": "ESP1",
   "date": "2026-05-15",
   "source_seasons": "laliga",
-  "h2h_count": 1,
+  "h2h_count": 2,
   "aggregates": {
-    "total": 1,
-    "home_wins": 0,
+    "total": 2,
+    "home_wins": 1,
     "draws": 1,
     "away_wins": 0,
-    "btts_pct": 100.0,
+    "btts_pct": 50.0,
     "over_2_5_pct": 0.0,
-    "avg_corners": 13.0,
-    "avg_yellow": 6.0,
-    "avg_red": 2.0
+    "avg_corners": 10.0,
+    "avg_yellow": 5.0,
+    "avg_red": 1.0
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Oviedo",
+      "away": "Alaves",
+      "ft_home": 0,
+      "ft_away": 1,
+      "ht_home": 0,
+      "ht_away": 1,
+      "home_corners": 5,
+      "away_corners": 2,
+      "home_yellow": 3,
+      "away_yellow": 1,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2026-01-04",
       "season": "2025-26",
@@ -35,5 +51,5 @@
       "away_red": 1
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

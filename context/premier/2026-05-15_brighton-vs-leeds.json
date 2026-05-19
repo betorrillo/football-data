@@ -6,29 +6,29 @@
   "date": "2026-05-15",
   "home_stats": {
     "team": "Brighton",
-    "mp": 36,
+    "mp": 37,
     "w": 14,
     "d": 11,
-    "l": 11,
+    "l": 12,
     "gf": 52,
-    "ga": 42,
-    "gd": 10,
+    "ga": 43,
+    "gd": 9,
     "pts": 53,
     "avg": {
-      "gf": 1.44,
-      "ga": 1.17,
-      "corners_for": 4.92,
-      "corners_against": 4.81,
-      "total_corners": 9.72,
-      "shots": 12.86,
-      "shots_against": 11.81,
-      "shots_target": 4.61,
-      "shots_target_against": 3.89,
-      "fouls": 12.08,
-      "fouls_against": 10.17,
-      "yellows": 2.39,
-      "opponent_yellows": 2.08,
-      "total_match_cards": 4.47
+      "gf": 1.41,
+      "ga": 1.16,
+      "corners_for": 5.0,
+      "corners_against": 4.86,
+      "total_corners": 9.86,
+      "shots": 13.03,
+      "shots_against": 11.68,
+      "shots_target": 4.7,
+      "shots_target_against": 3.81,
+      "fouls": 11.95,
+      "fouls_against": 10.14,
+      "yellows": 2.32,
+      "opponent_yellows": 2.05,
+      "total_match_cards": 4.38
     },
     "avg_home": {
       "gf": 1.67,
@@ -38,35 +38,35 @@
       "over_25_pct": 55.6
     },
     "avg_away": {
-      "gf": 1.22,
-      "ga": 1.39,
-      "corners_for": 4.61,
-      "corners_against": 5.0,
-      "over_25_pct": 44.4
+      "gf": 1.16,
+      "ga": 1.37,
+      "corners_for": 4.79,
+      "corners_against": 5.11,
+      "over_25_pct": 42.1
     },
     "pct": {
-      "over_15": 83.3,
-      "over_25": 50.0,
-      "over_35": 19.4,
-      "btts": 58.3,
-      "clean_sheet": 27.8,
-      "failed_to_score": 19.4
+      "over_15": 81.1,
+      "over_25": 48.6,
+      "over_35": 18.9,
+      "btts": 56.8,
+      "clean_sheet": 27.0,
+      "failed_to_score": 21.6
     },
     "avg_ht": {
-      "gf_1h": 0.56,
-      "ga_1h": 0.64,
-      "gf_2h": 0.89,
-      "ga_2h": 0.53,
-      "total_1h": 1.19,
-      "total_2h": 1.42
+      "gf_1h": 0.54,
+      "ga_1h": 0.62,
+      "gf_2h": 0.86,
+      "ga_2h": 0.54,
+      "total_1h": 1.16,
+      "total_2h": 1.41
     },
     "pct_ht": {
-      "over_05_1h": 77.8,
-      "over_15_1h": 27.8,
-      "over_05_2h": 86.1,
-      "over_15_2h": 44.4,
-      "btts_1h": 16.7,
-      "btts_2h": 27.8
+      "over_05_1h": 75.7,
+      "over_15_1h": 27.0,
+      "over_05_2h": 86.5,
+      "over_15_2h": 43.2,
+      "btts_1h": 16.2,
+      "btts_2h": 27.0
     },
     "xg": 52.8,
     "xga": 48.1,
@@ -78,36 +78,36 @@
   },
   "away_stats": {
     "team": "Leeds",
-    "mp": 36,
-    "w": 10,
+    "mp": 37,
+    "w": 11,
     "d": 14,
     "l": 12,
-    "gf": 48,
+    "gf": 49,
     "ga": 53,
-    "gd": -5,
-    "pts": 44,
+    "gd": -4,
+    "pts": 47,
     "avg": {
-      "gf": 1.33,
-      "ga": 1.47,
-      "corners_for": 4.36,
-      "corners_against": 4.97,
-      "total_corners": 9.33,
-      "shots": 12.72,
-      "shots_against": 12.25,
-      "shots_target": 4.08,
-      "shots_target_against": 4.03,
-      "fouls": 10.42,
-      "fouls_against": 11.33,
-      "yellows": 1.61,
-      "opponent_yellows": 1.86,
-      "total_match_cards": 3.47
+      "gf": 1.32,
+      "ga": 1.43,
+      "corners_for": 4.43,
+      "corners_against": 5.05,
+      "total_corners": 9.49,
+      "shots": 12.57,
+      "shots_against": 12.43,
+      "shots_target": 4.0,
+      "shots_target_against": 4.14,
+      "fouls": 10.38,
+      "fouls_against": 11.22,
+      "yellows": 1.59,
+      "opponent_yellows": 1.81,
+      "total_match_cards": 3.41
     },
     "avg_home": {
-      "gf": 1.56,
-      "ga": 1.17,
-      "corners_for": 5.5,
-      "corners_against": 4.0,
-      "over_25_pct": 61.1
+      "gf": 1.53,
+      "ga": 1.11,
+      "corners_for": 5.58,
+      "corners_against": 4.21,
+      "over_25_pct": 57.9
     },
     "avg_away": {
       "gf": 1.11,
@@ -117,28 +117,28 @@
       "over_25_pct": 50.0
     },
     "pct": {
-      "over_15": 75.0,
-      "over_25": 55.6,
-      "over_35": 38.9,
-      "btts": 61.1,
-      "clean_sheet": 19.4,
-      "failed_to_score": 30.6
+      "over_15": 73.0,
+      "over_25": 54.1,
+      "over_35": 37.8,
+      "btts": 59.5,
+      "clean_sheet": 21.6,
+      "failed_to_score": 29.7
     },
     "avg_ht": {
-      "gf_1h": 0.67,
-      "ga_1h": 0.44,
-      "gf_2h": 0.67,
-      "ga_2h": 1.03,
-      "total_1h": 1.11,
-      "total_2h": 1.69
+      "gf_1h": 0.65,
+      "ga_1h": 0.43,
+      "gf_2h": 0.68,
+      "ga_2h": 1.0,
+      "total_1h": 1.08,
+      "total_2h": 1.68
     },
     "pct_ht": {
-      "over_05_1h": 63.9,
-      "over_15_1h": 38.9,
-      "over_05_2h": 83.3,
-      "over_15_2h": 50.0,
-      "btts_1h": 13.9,
-      "btts_2h": 36.1
+      "over_05_1h": 62.2,
+      "over_15_1h": 37.8,
+      "over_05_2h": 83.8,
+      "over_15_2h": 48.6,
+      "btts_1h": 13.5,
+      "btts_2h": 35.1
     },
     "xg": 52.4,
     "xga": 49.3,
@@ -148,5 +148,5 @@
     "red_cards_total": 1,
     "yc_per_match": 1.63
   },
-  "generated": "2026-05-18T20:31:23Z"
+  "generated": "2026-05-19T10:44:21Z"
 }

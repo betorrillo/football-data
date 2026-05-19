@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "ESPN API",
   "league": "Serie A",
   "season": "2025-26",
-  "total_matches": 359,
+  "total_matches": 369,
   "matches": [
     {
       "event_id": "737115",
@@ -14036,6 +14036,396 @@
         {
           "team": "Napoli",
           "minute": 84,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737148",
+      "home": "AS Roma",
+      "away": "Lazio",
+      "goals": [
+        {
+          "team": "AS Roma",
+          "minute": 40,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "AS Roma",
+          "minute": 66,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Lazio",
+          "minute": 21,
+          "type": "yellow"
+        },
+        {
+          "team": "AS Roma",
+          "minute": 42,
+          "type": "yellow"
+        },
+        {
+          "team": "Lazio",
+          "minute": 42,
+          "type": "yellow"
+        },
+        {
+          "team": "Lazio",
+          "minute": 64,
+          "type": "yellow"
+        },
+        {
+          "team": "Lazio",
+          "minute": 70,
+          "type": "red"
+        },
+        {
+          "team": "AS Roma",
+          "minute": 70,
+          "type": "red"
+        },
+        {
+          "team": "AS Roma",
+          "minute": 85,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737153",
+      "home": "Como",
+      "away": "Parma",
+      "goals": [
+        {
+          "team": "Como",
+          "minute": 58,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Como",
+          "minute": 65,
+          "type": "yellow"
+        },
+        {
+          "team": "Como",
+          "minute": 88,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737152",
+      "home": "Genoa",
+      "away": "AC Milan",
+      "goals": [
+        {
+          "team": "AC Milan",
+          "minute": 81,
+          "type": "Goal"
+        },
+        {
+          "team": "Genoa",
+          "minute": 86,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Genoa",
+          "minute": 48,
+          "type": "yellow"
+        },
+        {
+          "team": "AC Milan",
+          "minute": 62,
+          "type": "yellow"
+        },
+        {
+          "team": "Genoa",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "AC Milan",
+          "minute": 72,
+          "type": "yellow"
+        },
+        {
+          "team": "AC Milan",
+          "minute": 86,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737150",
+      "home": "Juventus",
+      "away": "Fiorentina",
+      "goals": [
+        {
+          "team": "Fiorentina",
+          "minute": 34,
+          "type": "Goal"
+        },
+        {
+          "team": "Fiorentina",
+          "minute": 83,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Fiorentina",
+          "minute": 22,
+          "type": "yellow"
+        },
+        {
+          "team": "Juventus",
+          "minute": 45,
+          "type": "yellow"
+        },
+        {
+          "team": "Fiorentina",
+          "minute": 72,
+          "type": "red"
+        },
+        {
+          "team": "Fiorentina",
+          "minute": 85,
+          "type": "yellow"
+        },
+        {
+          "team": "Fiorentina",
+          "minute": 91,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737149",
+      "home": "Pisa",
+      "away": "Napoli",
+      "goals": [
+        {
+          "team": "Napoli",
+          "minute": 21,
+          "type": "Goal"
+        },
+        {
+          "team": "Napoli",
+          "minute": 27,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Napoli",
+          "minute": 92,
+          "type": "Goal - Volley"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Pisa",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Napoli",
+          "minute": 53,
+          "type": "yellow"
+        },
+        {
+          "team": "Napoli",
+          "minute": 78,
+          "type": "yellow"
+        },
+        {
+          "team": "Pisa",
+          "minute": 78,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737151",
+      "home": "Internazionale",
+      "away": "Hellas Verona",
+      "goals": [
+        {
+          "team": "Internazionale",
+          "minute": 47,
+          "type": "Own Goal"
+        },
+        {
+          "team": "Hellas Verona",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Hellas Verona",
+          "minute": 60,
+          "type": "yellow"
+        },
+        {
+          "team": "Hellas Verona",
+          "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737144",
+      "home": "Atalanta",
+      "away": "Bologna",
+      "goals": [
+        {
+          "team": "Bologna",
+          "minute": 78,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Bologna",
+          "minute": 52,
+          "type": "yellow"
+        },
+        {
+          "team": "Atalanta",
+          "minute": 77,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737145",
+      "home": "Cagliari",
+      "away": "Torino",
+      "goals": [
+        {
+          "team": "Torino",
+          "minute": 37,
+          "type": "Goal"
+        },
+        {
+          "team": "Cagliari",
+          "minute": 39,
+          "type": "Goal"
+        },
+        {
+          "team": "Cagliari",
+          "minute": 47,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Torino",
+          "minute": 82,
+          "type": "yellow"
+        },
+        {
+          "team": "Cagliari",
+          "minute": 82,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737147",
+      "home": "Sassuolo",
+      "away": "Lecce",
+      "goals": [
+        {
+          "team": "Lecce",
+          "minute": 14,
+          "type": "Goal"
+        },
+        {
+          "team": "Sassuolo",
+          "minute": 20,
+          "type": "Goal"
+        },
+        {
+          "team": "Lecce",
+          "minute": 25,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Sassuolo",
+          "minute": 82,
+          "type": "Goal"
+        },
+        {
+          "team": "Lecce",
+          "minute": 96,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Lecce",
+          "minute": 54,
+          "type": "yellow"
+        },
+        {
+          "team": "Sassuolo",
+          "minute": 77,
+          "type": "yellow"
+        },
+        {
+          "team": "Lecce",
+          "minute": 81,
+          "type": "yellow"
+        },
+        {
+          "team": "Lecce",
+          "minute": 85,
+          "type": "yellow"
+        },
+        {
+          "team": "Lecce",
+          "minute": 91,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "737146",
+      "home": "Udinese",
+      "away": "Cremonese",
+      "goals": [
+        {
+          "team": "Cremonese",
+          "minute": 9,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Cremonese",
+          "minute": 51,
+          "type": "yellow"
+        },
+        {
+          "team": "Cremonese",
+          "minute": 55,
+          "type": "yellow"
+        },
+        {
+          "team": "Udinese",
+          "minute": 67,
+          "type": "yellow"
+        },
+        {
+          "team": "Cremonese",
+          "minute": 91,
           "type": "yellow"
         }
       ]

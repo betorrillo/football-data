@@ -5,19 +5,35 @@
   "league": "ESP1",
   "date": "2026-05-15",
   "source_seasons": "laliga",
-  "h2h_count": 9,
+  "h2h_count": 10,
   "aggregates": {
-    "total": 9,
+    "total": 10,
     "home_wins": 5,
-    "draws": 0,
+    "draws": 1,
     "away_wins": 4,
-    "btts_pct": 55.6,
-    "over_2_5_pct": 55.6,
-    "avg_corners": 8.11,
-    "avg_yellow": 3.67,
+    "btts_pct": 60.0,
+    "over_2_5_pct": 50.0,
+    "avg_corners": 7.8,
+    "avg_yellow": 3.7,
     "avg_red": 0.0
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Ath Bilbao",
+      "away": "Celta",
+      "ft_home": 1,
+      "ft_away": 1,
+      "ht_home": 0,
+      "ht_away": 1,
+      "home_corners": 5,
+      "away_corners": 0,
+      "home_yellow": 2,
+      "away_yellow": 2,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-12-14",
       "season": "2025-26",
@@ -163,5 +179,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

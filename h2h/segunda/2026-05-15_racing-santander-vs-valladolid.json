@@ -5,19 +5,35 @@
   "league": "ESP2",
   "date": "2026-05-15",
   "source_seasons": "segunda",
-  "h2h_count": 3,
+  "h2h_count": 4,
   "aggregates": {
-    "total": 3,
-    "home_wins": 0,
+    "total": 4,
+    "home_wins": 1,
     "draws": 1,
     "away_wins": 2,
     "btts_pct": 100.0,
-    "over_2_5_pct": 66.7,
-    "avg_corners": 5.0,
-    "avg_yellow": 5.33,
-    "avg_red": 0.67
+    "over_2_5_pct": 75.0,
+    "avg_corners": 5.75,
+    "avg_yellow": 4.25,
+    "avg_red": 0.75
   },
   "last_matches": [
+    {
+      "date": "2026-05-16",
+      "season": "2025-26",
+      "home": "Santander",
+      "away": "Valladolid",
+      "ft_home": 4,
+      "ft_away": 1,
+      "ht_home": 1,
+      "ht_away": 1,
+      "home_corners": 6,
+      "away_corners": 2,
+      "home_yellow": 1,
+      "away_yellow": 0,
+      "home_red": 0,
+      "away_red": 1
+    },
     {
       "date": "2026-01-03",
       "season": "2025-26",
@@ -67,5 +83,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

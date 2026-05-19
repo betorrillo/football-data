@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-18",
+  "generated": "2026-05-19",
   "source": "ESPN API",
   "league": "Bundesliga",
   "season": "2025-26",
-  "total_matches": 294,
+  "total_matches": 303,
   "matches": [
     {
       "event_id": "746988",
@@ -12666,6 +12666,401 @@
           "type": "yellow"
         }
       ]
+    },
+    {
+      "event_id": "747015",
+      "home": "1. FC Heidenheim 1846",
+      "away": "Mainz",
+      "goals": [
+        {
+          "team": "Mainz",
+          "minute": 7,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Mainz",
+          "minute": 43,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "1. FC Heidenheim 1846",
+          "minute": 70,
+          "type": "yellow"
+        },
+        {
+          "team": "Mainz",
+          "minute": 70,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747016",
+      "home": "1. FC Union Berlin",
+      "away": "FC Augsburg",
+      "goals": [
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 10,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 42,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 54,
+          "type": "Goal"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 89,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 24,
+          "type": "yellow"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 26,
+          "type": "yellow"
+        },
+        {
+          "team": "FC Augsburg",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "1. FC Union Berlin",
+          "minute": 70,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747017",
+      "home": "Bayer Leverkusen",
+      "away": "Hamburg SV",
+      "goals": [
+        {
+          "team": "Hamburg SV",
+          "minute": 61,
+          "type": "Goal"
+        },
+        {
+          "team": "Bayer Leverkusen",
+          "minute": 78,
+          "type": "Goal - Header"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Hamburg SV",
+          "minute": 24,
+          "type": "yellow"
+        },
+        {
+          "team": "Bayer Leverkusen",
+          "minute": 66,
+          "type": "yellow"
+        },
+        {
+          "team": "Hamburg SV",
+          "minute": 78,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747020",
+      "home": "Bayern Munich",
+      "away": "FC Cologne",
+      "goals": [
+        {
+          "team": "Bayern Munich",
+          "minute": 10,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Bayern Munich",
+          "minute": 13,
+          "type": "Goal - Free-kick"
+        },
+        {
+          "team": "FC Cologne",
+          "minute": 18,
+          "type": "Goal"
+        },
+        {
+          "team": "Bayern Munich",
+          "minute": 22,
+          "type": "Goal"
+        },
+        {
+          "team": "Bayern Munich",
+          "minute": 69,
+          "type": "Goal"
+        },
+        {
+          "team": "Bayern Munich",
+          "minute": 83,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "FC Cologne",
+          "minute": 34,
+          "type": "yellow"
+        },
+        {
+          "team": "Bayern Munich",
+          "minute": 37,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747018",
+      "home": "Borussia M\u00f6nchengladbach",
+      "away": "TSG Hoffenheim",
+      "goals": [
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 14,
+          "type": "Goal - Volley"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 23,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 81,
+          "type": "Goal"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 91,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 32,
+          "type": "yellow"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 35,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 40,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 43,
+          "type": "yellow"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 46,
+          "type": "red"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 60,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 66,
+          "type": "yellow"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 69,
+          "type": "yellow"
+        },
+        {
+          "team": "TSG Hoffenheim",
+          "minute": 79,
+          "type": "yellow"
+        },
+        {
+          "team": "Borussia M\u00f6nchengladbach",
+          "minute": 89,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747023",
+      "home": "Eintracht Frankfurt",
+      "away": "VfB Stuttgart",
+      "goals": [
+        {
+          "team": "VfB Stuttgart",
+          "minute": 10,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 49,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "VfB Stuttgart",
+          "minute": 27,
+          "type": "yellow"
+        },
+        {
+          "team": "Eintracht Frankfurt",
+          "minute": 47,
+          "type": "yellow"
+        },
+        {
+          "team": "Eintracht Frankfurt",
+          "minute": 60,
+          "type": "yellow"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "VfB Stuttgart",
+          "minute": 66,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747019",
+      "home": "SC Freiburg",
+      "away": "RB Leipzig",
+      "goals": [
+        {
+          "team": "SC Freiburg",
+          "minute": 24,
+          "type": "Goal"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 26,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "RB Leipzig",
+          "minute": 33,
+          "type": "Goal"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 47,
+          "type": "Goal"
+        },
+        {
+          "team": "SC Freiburg",
+          "minute": 75,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "RB Leipzig",
+          "minute": 77,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747021",
+      "home": "St. Pauli",
+      "away": "VfL Wolfsburg",
+      "goals": [
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 37,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "St. Pauli",
+          "minute": 57,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 64,
+          "type": "Own Goal"
+        },
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 80,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 18,
+          "type": "yellow"
+        },
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 33,
+          "type": "yellow"
+        },
+        {
+          "team": "St. Pauli",
+          "minute": 88,
+          "type": "yellow"
+        },
+        {
+          "team": "VfL Wolfsburg",
+          "minute": 94,
+          "type": "yellow"
+        },
+        {
+          "team": "St. Pauli",
+          "minute": 95,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "747022",
+      "home": "Werder Bremen",
+      "away": "Borussia Dortmund",
+      "goals": [
+        {
+          "team": "Borussia Dortmund",
+          "minute": 59,
+          "type": "Goal - Header"
+        },
+        {
+          "team": "Borussia Dortmund",
+          "minute": 95,
+          "type": "Goal"
+        }
+      ],
+      "cards": []
     }
   ]
 }

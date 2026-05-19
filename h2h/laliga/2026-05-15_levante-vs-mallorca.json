@@ -5,19 +5,35 @@
   "league": "ESP1",
   "date": "2026-05-15",
   "source_seasons": "laliga",
-  "h2h_count": 3,
+  "h2h_count": 4,
   "aggregates": {
-    "total": 3,
-    "home_wins": 1,
+    "total": 4,
+    "home_wins": 2,
     "draws": 1,
     "away_wins": 1,
-    "btts_pct": 33.3,
+    "btts_pct": 25.0,
     "over_2_5_pct": 0.0,
     "avg_corners": 10.0,
-    "avg_yellow": 5.67,
-    "avg_red": 0.33
+    "avg_yellow": 4.75,
+    "avg_red": 0.75
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Levante",
+      "away": "Mallorca",
+      "ft_home": 2,
+      "ft_away": 0,
+      "ht_home": 1,
+      "ht_away": 0,
+      "home_corners": 4,
+      "away_corners": 6,
+      "home_yellow": 2,
+      "away_yellow": 0,
+      "home_red": 1,
+      "away_red": 1
+    },
     {
       "date": "2025-10-26",
       "season": "2025-26",
@@ -67,5 +83,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

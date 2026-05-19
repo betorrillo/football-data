@@ -5,19 +5,35 @@
   "league": "ESP2",
   "date": "2026-05-15",
   "source_seasons": "segunda",
-  "h2h_count": 3,
+  "h2h_count": 4,
   "aggregates": {
-    "total": 3,
+    "total": 4,
     "home_wins": 0,
-    "draws": 1,
+    "draws": 2,
     "away_wins": 2,
-    "btts_pct": 33.3,
-    "over_2_5_pct": 33.3,
-    "avg_corners": 12.33,
-    "avg_yellow": 4.0,
+    "btts_pct": 50.0,
+    "over_2_5_pct": 25.0,
+    "avg_corners": 11.0,
+    "avg_yellow": 5.25,
     "avg_red": 0.0
   },
   "last_matches": [
+    {
+      "date": "2026-05-15",
+      "season": "2025-26",
+      "home": "Castellon",
+      "away": "Cadiz",
+      "ft_home": 1,
+      "ft_away": 1,
+      "ht_home": 0,
+      "ht_away": 0,
+      "home_corners": 6,
+      "away_corners": 1,
+      "home_yellow": 3,
+      "away_yellow": 6,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-12-21",
       "season": "2025-26",
@@ -67,5 +83,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:06Z"
+  "generated": "2026-05-19T10:44:04Z"
 }

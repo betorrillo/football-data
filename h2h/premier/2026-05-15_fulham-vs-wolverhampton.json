@@ -5,19 +5,35 @@
   "league": "ENG1",
   "date": "2026-05-15",
   "source_seasons": "epl",
-  "h2h_count": 7,
+  "h2h_count": 8,
   "aggregates": {
-    "total": 7,
+    "total": 8,
     "home_wins": 3,
-    "draws": 2,
+    "draws": 3,
     "away_wins": 2,
-    "btts_pct": 71.4,
-    "over_2_5_pct": 71.4,
-    "avg_corners": 8.86,
-    "avg_yellow": 3.86,
-    "avg_red": 0.14
+    "btts_pct": 75.0,
+    "over_2_5_pct": 62.5,
+    "avg_corners": 8.88,
+    "avg_yellow": 3.5,
+    "avg_red": 0.12
   },
   "last_matches": [
+    {
+      "date": "2026-05-17",
+      "season": "2025-26",
+      "home": "Wolves",
+      "away": "Fulham",
+      "ft_home": 1,
+      "ft_away": 1,
+      "ht_home": 1,
+      "ht_away": 1,
+      "home_corners": 3,
+      "away_corners": 6,
+      "home_yellow": 1,
+      "away_yellow": 0,
+      "home_red": 0,
+      "away_red": 0
+    },
     {
       "date": "2025-11-01",
       "season": "2025-26",
@@ -131,5 +147,5 @@
       "away_red": 0
     }
   ],
-  "generated": "2026-05-18T20:31:05Z"
+  "generated": "2026-05-19T10:44:04Z"
 }
