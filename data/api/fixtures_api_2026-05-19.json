@@ -119,40 +119,8 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-19 to 2026-06-02",
-    "count": 12,
+    "count": 10,
     "fixtures": [
-      {
-        "id": 538145,
-        "matchday": 37,
-        "date": "2026-05-19",
-        "time": "18:30",
-        "home_team": "AFC Bournemouth",
-        "home_short": "Bournemouth",
-        "away_team": "Manchester City FC",
-        "away_short": "Man City",
-        "referees": [
-          {
-            "name": "Anthony Taylor",
-            "nationality": "England"
-          }
-        ]
-      },
-      {
-        "id": 538149,
-        "matchday": 37,
-        "date": "2026-05-19",
-        "time": "19:15",
-        "home_team": "Chelsea FC",
-        "home_short": "Chelsea",
-        "away_team": "Tottenham Hotspur FC",
-        "away_short": "Tottenham",
-        "referees": [
-          {
-            "name": "Stuart Attwell",
-            "nationality": "England"
-          }
-        ]
-      },
       {
         "id": 538155,
         "matchday": 38,
@@ -310,17 +278,6 @@
         "referees": []
       },
       {
-        "id": 537188,
-        "matchday": 38,
-        "date": "2026-05-24",
-        "time": "13:00",
-        "home_team": "Torino FC",
-        "home_short": "Torino",
-        "away_team": "Juventus FC",
-        "away_short": "Juventus",
-        "referees": []
-      },
-      {
         "id": 537191,
         "matchday": 38,
         "date": "2026-05-24",
@@ -351,6 +308,17 @@
         "home_short": "Milan",
         "away_team": "Cagliari Calcio",
         "away_short": "Cagliari",
+        "referees": []
+      },
+      {
+        "id": 537188,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "18:45",
+        "home_team": "Torino FC",
+        "home_short": "Torino",
+        "away_team": "Juventus FC",
+        "away_short": "Juventus",
         "referees": []
       },
       {

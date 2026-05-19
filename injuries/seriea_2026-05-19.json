@@ -2,7 +2,7 @@
   "generated": "2026-05-19",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 57,
+  "total_injured": 58,
   "teams_affected": 17,
   "teams": {
     "AS Roma": [
@@ -28,85 +28,14 @@
         "status": "out"
       }
     ],
-    "Bologna FC 1909": [
+    "Torino FC": [
       {
-        "player": "Martin Vit\u00edk",
+        "player": "Luca Marianucci",
         "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Cambiaghi",
-        "position": "Left Winger",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Casale",
-        "position": "Centre-Back",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "US Lecce": [
-      {
-        "player": "Riccardo Sottil",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Medon Berisha",
-        "position": "Central Midfield",
-        "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Atalanta BC": [
-      {
-        "player": "Lorenzo Bernasconi",
-        "position": "Left Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Odilon Kossounou",
-        "position": "Centre-Back",
-        "injury": "Hamstring muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Como 1907": [
-      {
-        "player": "Nico Paz",
-        "position": "Attacking Midfield",
         "injury": "Bruised knee",
         "since": "",
         "status": "out"
       },
-      {
-        "player": "\u00c1lex Valle",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jayden Addai",
-        "position": "Right Winger",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Torino FC": [
       {
         "player": "Adrien Tam\u00e8ze",
         "position": "Defensive Midfield",
@@ -152,16 +81,16 @@
         "status": "out"
       },
       {
-        "player": "Federico Ceccherini",
-        "position": "Centre-Back",
-        "injury": "Unknown",
+        "player": "Warren Bondo",
+        "position": "Central Midfield",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Warren Bondo",
-        "position": "Central Midfield",
-        "injury": "Muscle fatigue",
+        "player": "Federico Ceccherini",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -203,11 +132,66 @@
         "status": "out"
       }
     ],
+    "Como 1907": [
+      {
+        "player": "Nico Paz",
+        "position": "Attacking Midfield",
+        "injury": "Bruised knee",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "\u00c1lex Valle",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jayden Addai",
+        "position": "Right Winger",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Atalanta BC": [
+      {
+        "player": "Lorenzo Bernasconi",
+        "position": "Left Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Odilon Kossounou",
+        "position": "Centre-Back",
+        "injury": "Hamstring muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "SSC Napoli": [
       {
         "player": "Romelu Lukaku",
         "position": "Centre-Forward",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "US Lecce": [
+      {
+        "player": "Riccardo Sottil",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Medon Berisha",
+        "position": "Central Midfield",
+        "injury": "Torn thigh muscle",
         "since": "",
         "status": "out"
       }
@@ -286,11 +270,34 @@
         "status": "out"
       }
     ],
+    "Bologna FC 1909": [
+      {
+        "player": "Martin Vit\u00edk",
+        "position": "Centre-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Cambiaghi",
+        "position": "Left Winger",
+        "injury": "Thigh problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Casale",
+        "position": "Centre-Back",
+        "injury": "Calf muscle tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Parma Calcio 1913": [
       {
-        "player": "Adri\u00e1n Bernab\u00e9",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
+        "player": "Gaetano Oristanio",
+        "position": "Attacking Midfield",
+        "injury": "Knee problems",
         "since": "",
         "status": "out"
       },
@@ -302,9 +309,9 @@
         "status": "out"
       },
       {
-        "player": "Gaetano Oristanio",
-        "position": "Attacking Midfield",
-        "injury": "Knee problems",
+        "player": "Adri\u00e1n Bernab\u00e9",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
