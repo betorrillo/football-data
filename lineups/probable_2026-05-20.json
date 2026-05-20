@@ -563,15 +563,15 @@
         "scoring_consistency": "variable"
       },
       "away_profile": {
-        "total_matches": 36,
-        "last5_goals_scored": 2,
-        "last5_goals_conceded": 11,
-        "last5_results": "LLLLD",
-        "last5_avg_shots": 13.2,
-        "last5_avg_sot": 2.8,
-        "last5_avg_corners": 5.6,
-        "last5_avg_yellows": 2.4,
-        "last10_goals_scored": 8,
+        "total_matches": 37,
+        "last5_goals_scored": 4,
+        "last5_goals_conceded": 9,
+        "last5_results": "LLLDW",
+        "last5_avg_shots": 12.6,
+        "last5_avg_sot": 3.0,
+        "last5_avg_corners": 5.4,
+        "last5_avg_yellows": 2.6,
+        "last10_goals_scored": 9,
         "last10_goals_conceded": 19,
         "trajectory": "declining",
         "scoring_consistency": "variable"
@@ -1236,16 +1236,16 @@
       "home": "Tottenham",
       "away": "Leeds United",
       "home_profile": {
-        "total_matches": 36,
-        "last5_goals_scored": 6,
-        "last5_goals_conceded": 5,
-        "last5_results": "LDWWD",
-        "last5_avg_shots": 12.2,
-        "last5_avg_sot": 4.6,
-        "last5_avg_corners": 7.4,
+        "total_matches": 37,
+        "last5_goals_scored": 7,
+        "last5_goals_conceded": 6,
+        "last5_results": "DWWDL",
+        "last5_avg_shots": 11.8,
+        "last5_avg_sot": 3.8,
+        "last5_avg_corners": 7.0,
         "last5_avg_yellows": 3.6,
         "last10_goals_scored": 10,
-        "last10_goals_conceded": 18,
+        "last10_goals_conceded": 16,
         "trajectory": "improving",
         "scoring_consistency": "consistent"
       },
@@ -1531,6 +1531,13 @@
           "status": "out"
         },
         {
+          "player": "Kilian Fischer",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Patrick Wimmer",
           "position": "Right Winger",
           "injury": "Unknown",
@@ -1603,7 +1610,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 6,
+      "home_injury_count": 7,
       "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
@@ -1620,13 +1627,6 @@
       "home_injuries": [],
       "away_injuries": [
         {
-          "player": "Patrick Osterhage",
-          "position": "Defensive Midfield",
-          "injury": "Knee surgery",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Yuito Suzuki",
           "position": "Second Striker",
           "injury": "Unknown",
@@ -1635,7 +1635,7 @@
         }
       ],
       "home_injury_count": 0,
-      "away_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2158,28 +2158,21 @@
           "status": "out"
         },
         {
-          "player": "Jacob Ondrejka",
-          "position": "Left Winger",
-          "injury": "surgery",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Matija Frigan",
           "position": "Centre-Forward",
           "injury": "Unknown",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Jacob Ondrejka",
+          "position": "Left Winger",
+          "injury": "surgery",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [
-        {
-          "player": "Manu Kon\u00e9",
-          "position": "Central Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
         {
           "player": "Bryan Zaragoza",
           "position": "Left Winger",
@@ -2196,7 +2189,7 @@
         }
       ],
       "home_injury_count": 6,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

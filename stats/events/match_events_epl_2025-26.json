@@ -3,7 +3,7 @@
   "source": "ESPN API",
   "league": "Premier League",
   "season": "2025-26",
-  "total_matches": 365,
+  "total_matches": 367,
   "matches": [
     {
       "event_id": "740935",
@@ -15015,6 +15015,114 @@
         {
           "team": "Burnley",
           "minute": 94,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740958",
+      "home": "AFC Bournemouth",
+      "away": "Manchester City",
+      "goals": [
+        {
+          "team": "AFC Bournemouth",
+          "minute": 39,
+          "type": "Goal"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 95,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "AFC Bournemouth",
+          "minute": 37,
+          "type": "yellow"
+        },
+        {
+          "team": "AFC Bournemouth",
+          "minute": 59,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "AFC Bournemouth",
+          "minute": 93,
+          "type": "yellow"
+        },
+        {
+          "team": "AFC Bournemouth",
+          "minute": 96,
+          "type": "yellow"
+        },
+        {
+          "team": "Manchester City",
+          "minute": 97,
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "event_id": "740960",
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "goals": [
+        {
+          "team": "Chelsea",
+          "minute": 18,
+          "type": "Goal"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 67,
+          "type": "Goal"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 74,
+          "type": "Goal"
+        }
+      ],
+      "cards": [
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 28,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 43,
+          "type": "yellow"
+        },
+        {
+          "team": "Tottenham Hotspur",
+          "minute": 63,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 79,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 85,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 87,
+          "type": "yellow"
+        },
+        {
+          "team": "Chelsea",
+          "minute": 92,
           "type": "yellow"
         }
       ]

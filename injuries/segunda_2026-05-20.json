@@ -2,56 +2,13 @@
   "generated": "2026-05-20",
   "source": "transfermarkt.com",
   "league": "Segunda Division",
-  "total_injured": 22,
+  "total_injured": 23,
   "teams_affected": 14,
   "teams": {
-    "Granada CF": [
-      {
-        "player": "Luca Zidane",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SD Huesca": [
-      {
-        "player": "Diego Aznar",
-        "position": "Centre-Forward",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "C\u00e1diz CF": [
-      {
-        "player": "Iuri Tabatadze",
-        "position": "Right Winger",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "UD Las Palmas": [
       {
         "player": "Jerem\u00eda Recoba",
         "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Racing Santander": [
-      {
-        "player": "Facundo Gonz\u00e1lez",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Manex Lozano",
-        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
@@ -82,6 +39,15 @@
         "status": "out"
       }
     ],
+    "C\u00e1diz CF": [
+      {
+        "player": "Iuri Tabatadze",
+        "position": "Right Winger",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "M\u00e1laga CF": [
       {
         "player": "Luismi S\u00e1nchez",
@@ -101,6 +67,47 @@
         "player": "Juanpe",
         "position": "Central Midfield",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Racing Santander": [
+      {
+        "player": "Facundo Gonz\u00e1lez",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Giorgi Guliashvili",
+        "position": "Centre-Forward",
+        "injury": "Fracture of fibula shaft",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Manex Lozano",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Granada CF": [
+      {
+        "player": "Luca Zidane",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SD Huesca": [
+      {
+        "player": "Diego Aznar",
+        "position": "Centre-Forward",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
