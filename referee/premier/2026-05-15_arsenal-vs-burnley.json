@@ -4,32 +4,64 @@
   "away": "Burnley",
   "league": "ENG1",
   "date": "2026-05-15",
-  "mode": "assigned_official",
-  "referee": {
-    "name": "Paul Tierney",
-    "nationality": null,
-    "matched": true,
-    "career_matches": 530,
-    "career_yc": 1803,
-    "career_rc": 61,
-    "career_pk": 123,
-    "career_yc_per_match": 3.4,
-    "career_rc_per_match": 0.12,
-    "career_pk_per_match": 0.23,
-    "career_total_cards_per_match": 3.52,
-    "verdict": "MEDIO"
-  },
-  "var": "James Bell",
-  "official_source": {
-    "url": "https://referee-equipment.com/blogs/the-ah-blog/premier-league-referee-appointments-matchweek-37-2025-26",
-    "home_as_published": "Arsenal",
-    "away_as_published": "Burnley",
-    "kickoff_time": null,
-    "date_as_published": "2026-05-18"
-  },
-  "flags": [
-    "date_drift"
+  "mode": "pool",
+  "note": "No per-match referee assignment from official or API source. Listing the top-5 most-active referees of the competition.",
+  "referee_pool": [
+    {
+      "name": "Anthony Taylor",
+      "career_matches": 946,
+      "career_yc": 3328,
+      "career_rc": 149,
+      "career_pk": 286,
+      "career_yc_per_match": 3.52,
+      "career_rc_per_match": 0.16,
+      "career_total_cards_per_match": 3.68,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Michael Oliver",
+      "career_matches": 941,
+      "career_yc": 3070,
+      "career_rc": 128,
+      "career_pk": 285,
+      "career_yc_per_match": 3.26,
+      "career_rc_per_match": 0.14,
+      "career_total_cards_per_match": 3.4,
+      "verdict": "BAJO"
+    },
+    {
+      "name": "Craig Pawson",
+      "career_matches": 695,
+      "career_yc": 2469,
+      "career_rc": 96,
+      "career_pk": 157,
+      "career_yc_per_match": 3.55,
+      "career_rc_per_match": 0.14,
+      "career_total_cards_per_match": 3.69,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Stuart Attwell",
+      "career_matches": 610,
+      "career_yc": 2206,
+      "career_rc": 84,
+      "career_pk": 130,
+      "career_yc_per_match": 3.62,
+      "career_rc_per_match": 0.14,
+      "career_total_cards_per_match": 3.75,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Simon Hooper",
+      "career_matches": 551,
+      "career_yc": 1848,
+      "career_rc": 62,
+      "career_pk": 125,
+      "career_yc_per_match": 3.35,
+      "career_rc_per_match": 0.11,
+      "career_total_cards_per_match": 3.47,
+      "verdict": "BAJO"
+    }
   ],
-  "generated": "2026-05-19T20:36:17Z",
-  "warning": "Date mismatch: manifest says 2026-05-15, official source publishes 2026-05-18. Same fixture (same ordered teams), different scheduled date — could be a manifest scraping artifact or a fixture postponement."
+  "generated": "2026-05-20T10:30:15Z"
 }

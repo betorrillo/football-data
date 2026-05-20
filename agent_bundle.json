@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-05-19",
-  "generated_at": "2026-05-19T20:36:17Z",
+  "generated": "2026-05-20",
+  "generated_at": "2026-05-20T10:30:15Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14734,14 +14734,14 @@
     {
      "name": "Stuart Attwell",
      "transfermarkt_id": "1622",
-     "career_matches": 608,
-     "career_yc": 2192,
-     "career_yc_per_match": 3.61,
+     "career_matches": 610,
+     "career_yc": 2206,
+     "career_yc_per_match": 3.62,
      "career_rc": 84,
      "career_rc_per_match": 0.14,
      "career_pk": 130,
      "career_pk_per_match": 0.21,
-     "career_total_cards_per_match": 3.74,
+     "career_total_cards_per_match": 3.75,
      "verdict": "MEDIO"
     },
     {
@@ -14799,14 +14799,14 @@
     {
      "name": "Anthony Taylor",
      "transfermarkt_id": "847",
-     "career_matches": 944,
-     "career_yc": 3318,
-     "career_yc_per_match": 3.51,
+     "career_matches": 946,
+     "career_yc": 3328,
+     "career_yc_per_match": 3.52,
      "career_rc": 149,
      "career_rc_per_match": 0.16,
      "career_pk": 286,
      "career_pk_per_match": 0.3,
-     "career_total_cards_per_match": 3.67,
+     "career_total_cards_per_match": 3.68,
      "verdict": "MEDIO"
     },
     {
@@ -15511,10 +15511,6 @@
    ],
    "total": 20
   },
-  "champions": {
-   "referees": [],
-   "total": 0
-  },
   "seriea": {
    "referees": [
     {
@@ -15845,6 +15841,10 @@
    ],
    "total": 25
   },
+  "champions": {
+   "referees": [],
+   "total": 0
+  },
   "portugal": {
    "referees": [
     {
@@ -15890,13 +15890,13 @@
      "name": "Gustavo Correia",
      "transfermarkt_id": "31678",
      "career_matches": 262,
-     "career_yc": 1410,
-     "career_yc_per_match": 5.38,
+     "career_yc": 1415,
+     "career_yc_per_match": 5.4,
      "career_rc": 126,
      "career_rc_per_match": 0.48,
      "career_pk": 126,
      "career_pk_per_match": 0.48,
-     "career_total_cards_per_match": 5.86,
+     "career_total_cards_per_match": 5.88,
      "verdict": "MUY ALTO"
     },
     {
@@ -16580,67 +16580,51 @@
    ]
   },
   "epl": {
-   "Nottingham Forest": [
+   "Tottenham Hotspur": [
     {
-     "player": "Nicol\u00f2 Savona",
-     "position": "Right-Back",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Willy Boly",
+     "player": "Ben Davies",
      "position": "Centre-Back",
-     "injury": "Knee injury",
+     "injury": "Ankle surgery",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Ola Aina",
-     "position": "Right-Back",
-     "injury": "Knock",
+     "player": "Dejan Kulusevski",
+     "position": "Attacking Midfield",
+     "injury": "Knee surgery",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Murillo",
-     "position": "Centre-Back",
+     "player": "Mohammed Kudus",
+     "position": "Right Winger",
      "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Callum Hudson-Odoi",
-     "position": "Left Winger",
-     "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "Wolverhampton Wanderers": [
-    {
-     "player": "Jos\u00e9 S\u00e1",
-     "position": "Goalkeeper",
-     "injury": "Ankle injury",
+     "player": "Cristian Romero",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Sam Johnstone",
-     "position": "Goalkeeper",
-     "injury": "Shoulder injury",
+     "player": "Wilson Odobert",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Xavi Simons",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
      "since": "",
      "status": "out"
     }
    ],
    "Aston Villa": [
-    {
-     "player": "Alysson",
-     "position": "Right Winger",
-     "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    },
     {
      "player": "Amadou Onana",
      "position": "Defensive Midfield",
@@ -16649,9 +16633,39 @@
      "status": "out"
     },
     {
+     "player": "Alysson",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
      "player": "Boubacar Kamara",
      "position": "Defensive Midfield",
      "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Fulham FC": [
+    {
+     "player": "Alex Iwobi",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ra\u00fal Jim\u00e9nez",
+     "position": "Centre-Forward",
+     "injury": "Knock",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ryan Sessegnon",
+     "position": "Left-Back",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     }
@@ -16697,119 +16711,6 @@
      "status": "out"
     }
    ],
-   "Chelsea FC": [
-    {
-     "player": "Caleb Wiley",
-     "position": "Left-Back",
-     "injury": "Adductor injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Jamie Gittens",
-     "position": "Left Winger",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Est\u00eav\u00e3o",
-     "position": "Right Winger",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "Tottenham Hotspur": [
-    {
-     "player": "Ben Davies",
-     "position": "Centre-Back",
-     "injury": "Ankle surgery",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Dejan Kulusevski",
-     "position": "Attacking Midfield",
-     "injury": "Knee surgery",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Cristian Romero",
-     "position": "Centre-Back",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Mohammed Kudus",
-     "position": "Right Winger",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Wilson Odobert",
-     "position": "Left Winger",
-     "injury": "Cruciate ligament tear",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Xavi Simons",
-     "position": "Attacking Midfield",
-     "injury": "Cruciate ligament tear",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "Crystal Palace": [
-    {
-     "player": "Evann Guessand",
-     "position": "Right Winger",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Caleb Kporha",
-     "position": "Right-Back",
-     "injury": "Back injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Eddie Nketiah",
-     "position": "Centre-Forward",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "Fulham FC": [
-    {
-     "player": "Ra\u00fal Jim\u00e9nez",
-     "position": "Centre-Forward",
-     "injury": "Knock",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Alex Iwobi",
-     "position": "Left Winger",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Ryan Sessegnon",
-     "position": "Left-Back",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Manchester United": [
     {
      "player": "Matthijs de Ligt",
@@ -16831,6 +16732,15 @@
      "player": "Matai Akinmboni",
      "position": "Centre-Back",
      "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Wolverhampton Wanderers": [
+    {
+     "player": "Sam Johnstone",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     }
@@ -16874,6 +16784,89 @@
      "status": "out"
     }
    ],
+   "Chelsea FC": [
+    {
+     "player": "Caleb Wiley",
+     "position": "Left-Back",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jamie Gittens",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Est\u00eav\u00e3o",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Nottingham Forest": [
+    {
+     "player": "Willy Boly",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ola Aina",
+     "position": "Right-Back",
+     "injury": "Knock",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nicol\u00f2 Savona",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Murillo",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Callum Hudson-Odoi",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Crystal Palace": [
+    {
+     "player": "Caleb Kporha",
+     "position": "Right-Back",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Evann Guessand",
+     "position": "Right Winger",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Eddie Nketiah",
+     "position": "Centre-Forward",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "Brighton &amp; Hove Albion": [
     {
      "player": "Kaoru Mitoma",
@@ -16904,29 +16897,6 @@
      "status": "out"
     }
    ],
-   "Arsenal FC": [
-    {
-     "player": "Mikel Merino",
-     "position": "Central Midfield",
-     "injury": "Foot surgery",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Jurri\u00ebn Timber",
-     "position": "Right-Back",
-     "injury": "Hip injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Ben White",
-     "position": "Right-Back",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Newcastle United": [
     {
      "player": "Joelinton",
@@ -16936,9 +16906,9 @@
      "status": "out"
     },
     {
-     "player": "Fabian Sch\u00e4r",
-     "position": "Centre-Back",
-     "injury": "Ankle injury",
+     "player": "Tino Livramento",
+     "position": "Right-Back",
+     "injury": "Thigh problems",
      "since": "",
      "status": "out"
     },
@@ -16950,9 +16920,9 @@
      "status": "out"
     },
     {
-     "player": "Tino Livramento",
-     "position": "Right-Back",
-     "injury": "Thigh problems",
+     "player": "Fabian Sch\u00e4r",
+     "position": "Centre-Back",
+     "injury": "Ankle injury",
      "since": "",
      "status": "out"
     },
@@ -16966,9 +16936,9 @@
    ],
    "Liverpool FC": [
     {
-     "player": "Wataru Endo",
-     "position": "Defensive Midfield",
-     "injury": "Ankle ligament tear",
+     "player": "Jeremie Frimpong",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
      "since": "",
      "status": "out"
     },
@@ -16980,9 +16950,9 @@
      "status": "out"
     },
     {
-     "player": "Jeremie Frimpong",
-     "position": "Right-Back",
-     "injury": "Muscle injury",
+     "player": "Wataru Endo",
+     "position": "Defensive Midfield",
+     "injury": "Ankle ligament tear",
      "since": "",
      "status": "out"
     },
@@ -17011,6 +16981,29 @@
      "player": "Hugo Ekitik\u00e9",
      "position": "Centre-Forward",
      "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Arsenal FC": [
+    {
+     "player": "Jurri\u00ebn Timber",
+     "position": "Right-Back",
+     "injury": "Hip injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mikel Merino",
+     "position": "Central Midfield",
+     "injury": "Foot surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ben White",
+     "position": "Right-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     }
@@ -18908,9 +18901,9 @@
    },
    "home_injuries": [
     {
-     "player": "Wataru Endo",
-     "position": "Defensive Midfield",
-     "injury": "Ankle ligament tear",
+     "player": "Jeremie Frimpong",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
      "since": "",
      "status": "out"
     },
@@ -18922,9 +18915,9 @@
      "status": "out"
     },
     {
-     "player": "Jeremie Frimpong",
-     "position": "Right-Back",
-     "injury": "Muscle injury",
+     "player": "Wataru Endo",
+     "position": "Defensive Midfield",
+     "injury": "Ankle ligament tear",
      "since": "",
      "status": "out"
     },
@@ -19039,13 +19032,6 @@
    ],
    "away_injuries": [
     {
-     "player": "Jos\u00e9 S\u00e1",
-     "position": "Goalkeeper",
-     "injury": "Ankle injury",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "Sam Johnstone",
      "position": "Goalkeeper",
      "injury": "Shoulder injury",
@@ -19054,7 +19040,7 @@
     }
    ],
    "home_injury_count": 4,
-   "away_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -19082,16 +19068,16 @@
    "away_profile": null,
    "home_injuries": [
     {
-     "player": "Ra\u00fal Jim\u00e9nez",
-     "position": "Centre-Forward",
-     "injury": "Knock",
+     "player": "Alex Iwobi",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Alex Iwobi",
-     "position": "Left Winger",
-     "injury": "Hamstring injury",
+     "player": "Ra\u00fal Jim\u00e9nez",
+     "position": "Centre-Forward",
+     "injury": "Knock",
      "since": "",
      "status": "out"
     },
@@ -19287,16 +19273,16 @@
    ],
    "away_injuries": [
     {
-     "player": "Alysson",
-     "position": "Right Winger",
-     "injury": "Unknown",
+     "player": "Amadou Onana",
+     "position": "Defensive Midfield",
+     "injury": "Calf problems",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Amadou Onana",
-     "position": "Defensive Midfield",
-     "injury": "Calf problems",
+     "player": "Alysson",
+     "position": "Right Winger",
+     "injury": "Unknown",
      "since": "",
      "status": "out"
     },
@@ -19350,16 +19336,16 @@
    },
    "home_injuries": [
     {
-     "player": "Evann Guessand",
-     "position": "Right Winger",
-     "injury": "Knee injury",
+     "player": "Caleb Kporha",
+     "position": "Right-Back",
+     "injury": "Back injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Caleb Kporha",
-     "position": "Right-Back",
-     "injury": "Back injury",
+     "player": "Evann Guessand",
+     "position": "Right Winger",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     },
@@ -19416,13 +19402,6 @@
    },
    "home_injuries": [
     {
-     "player": "Nicol\u00f2 Savona",
-     "position": "Right-Back",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "Willy Boly",
      "position": "Centre-Back",
      "injury": "Knee injury",
@@ -19433,6 +19412,13 @@
      "player": "Ola Aina",
      "position": "Right-Back",
      "injury": "Knock",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nicol\u00f2 Savona",
+     "position": "Right-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     },
@@ -19460,9 +19446,9 @@
      "status": "out"
     },
     {
-     "player": "Fabian Sch\u00e4r",
-     "position": "Centre-Back",
-     "injury": "Ankle injury",
+     "player": "Tino Livramento",
+     "position": "Right-Back",
+     "injury": "Thigh problems",
      "since": "",
      "status": "out"
     },
@@ -19474,9 +19460,9 @@
      "status": "out"
     },
     {
-     "player": "Tino Livramento",
-     "position": "Right-Back",
-     "injury": "Thigh problems",
+     "player": "Fabian Sch\u00e4r",
+     "position": "Centre-Back",
+     "injury": "Ankle injury",
      "since": "",
      "status": "out"
     },
@@ -19539,16 +19525,16 @@
    ],
    "away_injuries": [
     {
-     "player": "Mikel Merino",
-     "position": "Central Midfield",
-     "injury": "Foot surgery",
+     "player": "Jurri\u00ebn Timber",
+     "position": "Right-Back",
+     "injury": "Hip injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Jurri\u00ebn Timber",
-     "position": "Right-Back",
-     "injury": "Hip injury",
+     "player": "Mikel Merino",
+     "position": "Central Midfield",
+     "injury": "Foot surgery",
      "since": "",
      "status": "out"
     },
@@ -19603,16 +19589,16 @@
      "status": "out"
     },
     {
-     "player": "Cristian Romero",
-     "position": "Centre-Back",
-     "injury": "Knee injury",
+     "player": "Mohammed Kudus",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Mohammed Kudus",
-     "position": "Right Winger",
-     "injury": "Hamstring injury",
+     "player": "Cristian Romero",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     },
