@@ -2,7 +2,7 @@
   "generated": "2026-05-21",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 51,
+  "total_injured": 50,
   "teams_affected": 17,
   "teams": {
     "SV Werder Bremen": [
@@ -35,31 +35,24 @@
         "status": "out"
       }
     ],
-    "1.FSV Mainz 05": [
+    "Hamburger SV": [
       {
-        "player": "Silas",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benedict Hollerbach",
+        "player": "Robert Glatzel",
         "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
+        "injury": "Calf strain",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"
@@ -84,29 +77,6 @@
         "player": "Ragnar Ache",
         "position": "Centre-Forward",
         "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Hamburger SV": [
-      {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }
@@ -322,6 +292,36 @@
         "status": "out"
       }
     ],
+    "1.FSV Mainz 05": [
+      {
+        "player": "Silas",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kasey Bos",
+        "position": "Left-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Bayern Munich": [
       {
         "player": "Manuel Neuer",
@@ -371,13 +371,6 @@
         "player": "James Sands",
         "position": "Defensive Midfield",
         "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Nemeth",
-        "position": "Centre-Back",
-        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
