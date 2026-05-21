@@ -1,32 +1,16 @@
 {
-  "generated": "2026-05-20",
+  "generated": "2026-05-21",
   "source": "transfermarkt.com",
-  "total_injured": 299,
+  "total_injured": 296,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "LaLiga",
-      "total_injured": 29,
+      "total_injured": 27,
       "teams_affected": 13,
       "teams": {
-        "Sevilla FC": [
-          {
-            "player": "Marc\u00e3o",
-            "position": "Centre-Back",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Manu Bueno",
-            "position": "Central Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Valencia CF": [
           {
             "player": "Dimitri Foulquier",
@@ -39,13 +23,6 @@
             "player": "Julen Agirrezabala",
             "position": "Goalkeeper",
             "injury": "Meniscus tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Thierry Correia",
-            "position": "Right-Back",
-            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           },
@@ -64,34 +41,34 @@
             "status": "out"
           }
         ],
-        "RCD Mallorca": [
+        "Atl\u00e9tico de Madrid": [
           {
-            "player": "Jan Salas",
+            "player": "Johnny Cardoso",
+            "position": "Central Midfield",
+            "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pablo Barrios",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sevilla FC": [
+          {
+            "player": "Manu Bueno",
             "position": "Central Midfield",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Mateo Joseph",
-            "position": "Centre-Forward",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Real Betis Balompi\u00e9": [
-          {
-            "player": "\u00c1ngel Ortiz",
-            "position": "Right-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Aitor Ruibal",
-            "position": "Right Winger",
-            "injury": "Meniscus injury",
+            "player": "Marc\u00e3o",
+            "position": "Centre-Back",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -119,48 +96,34 @@
             "status": "out"
           }
         ],
-        "Atl\u00e9tico de Madrid": [
+        "Real Betis Balompi\u00e9": [
           {
-            "player": "Johnny Cardoso",
-            "position": "Central Midfield",
-            "injury": "Ankle surgery",
+            "player": "\u00c1ngel Ortiz",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Pablo Barrios",
-            "position": "Central Midfield",
-            "injury": "Muscle injury",
+            "player": "Aitor Ruibal",
+            "position": "Right Winger",
+            "injury": "Meniscus injury",
             "since": "",
             "status": "out"
           }
         ],
-        "Real Madrid": [
+        "RCD Mallorca": [
           {
-            "player": "Federico Valverde",
+            "player": "Jan Salas",
             "position": "Central Midfield",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "\u00c9der Milit\u00e3o",
-            "position": "Centre-Back",
-            "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Rodrygo",
-            "position": "Right Winger",
+            "player": "Mateo Joseph",
+            "position": "Centre-Forward",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Ferland Mendy",
-            "position": "Left-Back",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -231,6 +194,29 @@
             "status": "out"
           }
         ],
+        "Real Madrid": [
+          {
+            "player": "\u00c9der Milit\u00e3o",
+            "position": "Centre-Back",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Rodrygo",
+            "position": "Right Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ferland Mendy",
+            "position": "Left-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Real Sociedad": [
           {
             "player": "\u00c1lvaro Odriozola",
@@ -243,12 +229,39 @@
       }
     },
     "segunda": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 23,
       "teams_affected": 14,
       "teams": {
+        "Granada CF": [
+          {
+            "player": "Luca Zidane",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SD Huesca": [
+          {
+            "player": "Diego Aznar",
+            "position": "Centre-Forward",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "C\u00e1diz CF": [
+          {
+            "player": "Iuri Tabatadze",
+            "position": "Right Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "UD Las Palmas": [
           {
             "player": "Jerem\u00eda Recoba",
@@ -270,47 +283,6 @@
             "player": "Edward Cede\u00f1o",
             "position": "Defensive Midfield",
             "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Deportivo de La Coru\u00f1a": [
-          {
-            "player": "David Mella",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "C\u00e1diz CF": [
-          {
-            "player": "Iuri Tabatadze",
-            "position": "Right Winger",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "M\u00e1laga CF": [
-          {
-            "player": "Luismi S\u00e1nchez",
-            "position": "Defensive Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "\u00c1lex Pastor",
-            "position": "Centre-Back",
-            "injury": "Torn knee ligaments",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Juanpe",
-            "position": "Central Midfield",
-            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           }
@@ -338,20 +310,34 @@
             "status": "out"
           }
         ],
-        "Granada CF": [
+        "M\u00e1laga CF": [
           {
-            "player": "Luca Zidane",
-            "position": "Goalkeeper",
+            "player": "Luismi S\u00e1nchez",
+            "position": "Defensive Midfield",
             "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "\u00c1lex Pastor",
+            "position": "Centre-Back",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Juanpe",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           }
         ],
-        "SD Huesca": [
+        "Deportivo de La Coru\u00f1a": [
           {
-            "player": "Diego Aznar",
-            "position": "Centre-Forward",
-            "injury": "Knee injury",
+            "player": "David Mella",
+            "position": "Right Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -441,10 +427,10 @@
       }
     },
     "epl": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Premier League",
-      "total_injured": 58,
+      "total_injured": 57,
       "teams_affected": 19,
       "teams": {
         "Tottenham Hotspur": [
@@ -487,29 +473,6 @@
             "player": "Xavi Simons",
             "position": "Attacking Midfield",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Aston Villa": [
-          {
-            "player": "Amadou Onana",
-            "position": "Defensive Midfield",
-            "injury": "Calf problems",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Alysson",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Boubacar Kamara",
-            "position": "Defensive Midfield",
-            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }
@@ -590,6 +553,22 @@
             "player": "Benjamin Sesko",
             "position": "Centre-Forward",
             "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Aston Villa": [
+          {
+            "player": "Alysson",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Boubacar Kamara",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }
@@ -894,7 +873,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 51,
@@ -1294,7 +1273,7 @@
       }
     },
     "seriea": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Serie A",
       "total_injured": 57,
@@ -1736,7 +1715,7 @@
       }
     },
     "ligue1": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 61,
@@ -2208,7 +2187,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-05-20",
+      "generated": "2026-05-21",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 20,

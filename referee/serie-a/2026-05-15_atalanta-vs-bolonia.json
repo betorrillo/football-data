@@ -4,20 +4,64 @@
   "away": "Bolonia",
   "league": "ITA1",
   "date": "2026-05-15",
-  "mode": "assigned_official",
-  "referee": {
-    "name": "PERENZONI",
-    "nationality": null,
-    "matched": false
-  },
-  "var": "PEZZUTO",
-  "official_source": {
-    "url": "https://www.aia-figc.it/news/serie-a-enilive-designazioni-37a-giornata-27391/",
-    "home_as_published": "Atalanta",
-    "away_as_published": "Bologna",
-    "kickoff_time": "18:00",
-    "date_as_published": null
-  },
-  "flags": [],
-  "generated": "2026-05-20T21:06:51Z"
+  "mode": "pool",
+  "note": "No per-match referee assignment from official or API source. Listing the top-5 most-active referees of the competition.",
+  "referee_pool": [
+    {
+      "name": "Daniele Doveri",
+      "career_matches": 576,
+      "career_yc": 2368,
+      "career_rc": 128,
+      "career_pk": 186,
+      "career_yc_per_match": 4.11,
+      "career_rc_per_match": 0.22,
+      "career_total_cards_per_match": 4.33,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Davide Massa",
+      "career_matches": 526,
+      "career_yc": 2521,
+      "career_rc": 134,
+      "career_pk": 169,
+      "career_yc_per_match": 4.79,
+      "career_rc_per_match": 0.25,
+      "career_total_cards_per_match": 5.05,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Marco Guida",
+      "career_matches": 485,
+      "career_yc": 2311,
+      "career_rc": 122,
+      "career_pk": 172,
+      "career_yc_per_match": 4.76,
+      "career_rc_per_match": 0.25,
+      "career_total_cards_per_match": 5.02,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Maurizio Mariani",
+      "career_matches": 448,
+      "career_yc": 2007,
+      "career_rc": 138,
+      "career_pk": 148,
+      "career_yc_per_match": 4.48,
+      "career_rc_per_match": 0.31,
+      "career_total_cards_per_match": 4.79,
+      "verdict": "ALTO"
+    },
+    {
+      "name": "Marco Di Bello",
+      "career_matches": 429,
+      "career_yc": 1857,
+      "career_rc": 105,
+      "career_pk": 161,
+      "career_yc_per_match": 4.33,
+      "career_rc_per_match": 0.24,
+      "career_total_cards_per_match": 4.57,
+      "verdict": "ALTO"
+    }
+  ],
+  "generated": "2026-05-21T10:44:40Z"
 }
