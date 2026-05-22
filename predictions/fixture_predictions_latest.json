@@ -1,7 +1,7 @@
 {
   "generated": "2026-05-22",
-  "total_fixtures": 31,
-  "fixtures_with_referee": 20,
+  "total_fixtures": 30,
+  "fixtures_with_referee": 19,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
@@ -386,24 +386,6 @@
       "competition": "Serie A",
       "fixtures": [
         {
-          "date": "2026-05-22",
-          "time": "18:45",
-          "home": "Fiorentina",
-          "away": "Atalanta",
-          "matchday": 38,
-          "referee": "Mario Perri",
-          "cards_analysis": {
-            "team_cards_avg": 3.8,
-            "blended_cards_prediction": 3.8,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.35,
-          "home_goals_2h_avg": 0.57,
-          "away_goals_1h_avg": 0.57,
-          "away_goals_2h_avg": 0.7
-        },
-        {
           "date": "2026-05-23",
           "time": "16:00",
           "home": "Bologna",
@@ -578,7 +560,7 @@
           "away_goals_2h_avg": 0.59
         }
       ],
-      "total": 10
+      "total": 9
     },
     "FL1": {
       "competition": "Ligue 1",

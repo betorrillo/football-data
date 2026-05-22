@@ -4,17 +4,32 @@
   "away": "Fiorentina",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-22T10:29:20Z",
+  "generated": "2026-05-22T20:38:15Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Kenan Yıldız",
+      "position": "Left Winger",
+      "injury": "Calf injury",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Moise Kean",
       "position": "Centre-Forward",
       "injury": "Shin bruise",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Fabiano Parisi",
+      "position": "Left-Back",
+      "injury": "Cruciate ligament injury",
       "since": "",
       "status": "out"
     }
