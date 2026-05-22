@@ -1,82 +1,22 @@
 {
-  "generated": "2026-05-21",
+  "generated": "2026-05-22",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 57,
+  "total_injured": 56,
   "teams_affected": 19,
   "teams": {
-    "Tottenham Hotspur": [
+    "Aston Villa": [
       {
-        "player": "Ben Davies",
-        "position": "Centre-Back",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Dejan Kulusevski",
-        "position": "Attacking Midfield",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mohammed Kudus",
+        "player": "Alysson",
         "position": "Right Winger",
-        "injury": "Hamstring injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Cristian Romero",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Wilson Odobert",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Xavi Simons",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Fulham FC": [
-      {
-        "player": "Alex Iwobi",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ra\u00fal Jim\u00e9nez",
-        "position": "Centre-Forward",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ryan Sessegnon",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Leeds United": [
-      {
-        "player": "Ilia Gruev",
+        "player": "Boubacar Kamara",
         "position": "Defensive Midfield",
-        "injury": "Meniscus injury",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -113,6 +53,29 @@
         "status": "out"
       }
     ],
+    "Fulham FC": [
+      {
+        "player": "Ra\u00fal Jim\u00e9nez",
+        "position": "Centre-Forward",
+        "injury": "Knock",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alex Iwobi",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ryan Sessegnon",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Manchester United": [
       {
         "player": "Matthijs de Ligt",
@@ -129,18 +92,34 @@
         "status": "out"
       }
     ],
-    "Aston Villa": [
+    "Leeds United": [
       {
-        "player": "Alysson",
-        "position": "Right Winger",
-        "injury": "Unknown",
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Meniscus injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Crystal Palace": [
+      {
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Boubacar Kamara",
-        "position": "Defensive Midfield",
+        "player": "Evann Guessand",
+        "position": "Right Winger",
         "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Eddie Nketiah",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -150,15 +129,6 @@
         "player": "Matai Akinmboni",
         "position": "Centre-Back",
         "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Wolverhampton Wanderers": [
-      {
-        "player": "Sam Johnstone",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -179,25 +149,11 @@
         "status": "out"
       }
     ],
-    "Brentford FC": [
+    "Wolverhampton Wanderers": [
       {
-        "player": "Jordan Henderson",
-        "position": "Defensive Midfield",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Antoni Milambo",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "F\u00e1bio Carvalho",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
+        "player": "Sam Johnstone",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -262,29 +218,6 @@
         "status": "out"
       }
     ],
-    "Crystal Palace": [
-      {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Evann Guessand",
-        "position": "Right Winger",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Eddie Nketiah",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Brighton &amp; Hove Albion": [
       {
         "player": "Kaoru Mitoma",
@@ -331,16 +264,16 @@
         "status": "out"
       },
       {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
+        "player": "Fabian Sch\u00e4r",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Fabian Sch\u00e4r",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Emil Krafth",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
@@ -426,6 +359,50 @@
         "status": "out"
       }
     ],
+    "Tottenham Hotspur": [
+      {
+        "player": "Dejan Kulusevski",
+        "position": "Attacking Midfield",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ben Davies",
+        "position": "Centre-Back",
+        "injury": "Ankle surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Cristian Romero",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mohammed Kudus",
+        "position": "Right Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Wilson Odobert",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Xavi Simons",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Everton FC": [
       {
         "player": "Jarrad Branthwaite",
@@ -438,6 +415,22 @@
         "player": "Jack Grealish",
         "position": "Left Winger",
         "injury": "Foot surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Brentford FC": [
+      {
+        "player": "Antoni Milambo",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "F\u00e1bio Carvalho",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

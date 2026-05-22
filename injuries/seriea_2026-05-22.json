@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-21",
+  "generated": "2026-05-22",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 57,
+  "total_injured": 55,
   "teams_affected": 17,
   "teams": {
     "AS Roma": [
@@ -33,13 +33,6 @@
         "player": "Adrien Tam\u00e8ze",
         "position": "Defensive Midfield",
         "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Tino Anjorin",
-        "position": "Attacking Midfield",
-        "injury": "Hip bruise",
         "since": "",
         "status": "out"
       },
@@ -332,13 +325,6 @@
     ],
     "Pisa Sporting Club": [
       {
-        "player": "Francesco Coppola",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Matteo Tramoni",
         "position": "Attacking Midfield",
         "injury": "Unknown",
@@ -358,29 +344,6 @@
         "player": "Moise Kean",
         "position": "Centre-Forward",
         "injury": "Shin bruise",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Udinese Calcio": [
-      {
-        "player": "Nicol\u00f2 Zaniolo",
-        "position": "Second Striker",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jurgen Ekkelenkamp",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alessandro Zanoli",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -433,6 +396,29 @@
       {
         "player": "Riyad Idrissi",
         "position": "Left-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Udinese Calcio": [
+      {
+        "player": "Nicol\u00f2 Zaniolo",
+        "position": "Second Striker",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jurgen Ekkelenkamp",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alessandro Zanoli",
+        "position": "Right-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
