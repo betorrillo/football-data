@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22",
+  "generated": "2026-05-23",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1641,13 +1641,6 @@
           "status": "out"
         },
         {
-          "player": "Mattia Felici",
-          "position": "Left Winger",
-          "injury": "Cruciate ligament tear",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Leonardo Pavoletti",
           "position": "Centre-Forward",
           "injury": "Unknown",
@@ -1685,7 +1678,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 4,
+      "home_injury_count": 3,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -1830,16 +1823,16 @@
       },
       "home_injuries": [
         {
-          "player": "Daniel Oyegoke",
-          "position": "Right-Back",
-          "injury": "Ankle sprain",
+          "player": "Daniel Mosquera",
+          "position": "Centre-Forward",
+          "injury": "Meniscus damage",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Daniel Mosquera",
-          "position": "Centre-Forward",
-          "injury": "Meniscus damage",
+          "player": "Daniel Oyegoke",
+          "position": "Right-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },
@@ -1916,13 +1909,6 @@
       },
       "home_injuries": [
         {
-          "player": "Antonio Sanabria",
-          "position": "Centre-Forward",
-          "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Faris Moumbagna",
           "position": "Centre-Forward",
           "injury": "Adductor injury",
@@ -1930,16 +1916,9 @@
           "status": "out"
         },
         {
-          "player": "Federico Ceccherini",
-          "position": "Centre-Back",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Warren Bondo",
-          "position": "Central Midfield",
-          "injury": "Muscle fatigue",
+          "player": "Antonio Sanabria",
+          "position": "Centre-Forward",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -1953,13 +1932,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Matteo Tramoni",
-          "position": "Attacking Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Daniel Denoon",
           "position": "Centre-Back",
           "injury": "Ankle problems",
@@ -1967,8 +1939,8 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 5,
-      "away_injury_count": 2,
+      "home_injury_count": 3,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2009,6 +1981,13 @@
       },
       "home_injuries": [
         {
+          "player": "Jacopo Fazzini",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Moise Kean",
           "position": "Centre-Forward",
           "injury": "Shin bruise",
@@ -2046,13 +2025,6 @@
           "status": "out"
         },
         {
-          "player": "Brooke Norton-Cuffy",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Junior Messias",
           "position": "Right Winger",
           "injury": "Adductor injury",
@@ -2060,8 +2032,8 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
-      "away_injury_count": 5,
+      "home_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2089,9 +2061,9 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Adri\u00e1n Bernab\u00e9",
-          "position": "Central Midfield",
-          "injury": "Muscle injury",
+          "player": "Gaetano Oristanio",
+          "position": "Attacking Midfield",
+          "injury": "Knee problems",
           "since": "",
           "status": "out"
         },
@@ -2103,9 +2075,9 @@
           "status": "out"
         },
         {
-          "player": "Gaetano Oristanio",
-          "position": "Attacking Midfield",
-          "injury": "Knee problems",
+          "player": "Adri\u00e1n Bernab\u00e9",
+          "position": "Central Midfield",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
@@ -2147,16 +2119,16 @@
           "status": "out"
         },
         {
-          "player": "Evan Ferguson",
-          "position": "Centre-Forward",
-          "injury": "Ankle problems",
+          "player": "Lorenzo Pellegrini",
+          "position": "Attacking Midfield",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Lorenzo Pellegrini",
-          "position": "Attacking Midfield",
-          "injury": "Hamstring injury",
+          "player": "Evan Ferguson",
+          "position": "Centre-Forward",
+          "injury": "Ankle problems",
           "since": "",
           "status": "out"
         }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-22",
+  "generated": "2026-05-23",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 50,
+  "total_injured": 51,
   "teams_affected": 17,
   "teams": {
     "SV Werder Bremen": [
@@ -35,24 +35,31 @@
         "status": "out"
       }
     ],
-    "Hamburger SV": [
+    "1.FSV Mainz 05": [
       {
-        "player": "Robert Glatzel",
+        "player": "Silas",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benedict Hollerbach",
         "position": "Centre-Forward",
-        "injury": "Calf strain",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
+        "player": "Kasey Bos",
+        "position": "Left-Back",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"
@@ -77,6 +84,29 @@
         "player": "Ragnar Ache",
         "position": "Centre-Forward",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Hamburger SV": [
+      {
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }
@@ -230,16 +260,16 @@
     ],
     "Eintracht Frankfurt": [
       {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -285,39 +315,16 @@
     ],
     "Borussia M\u00f6nchengladbach": [
       {
+        "player": "Haris Tabakovic",
+        "position": "Centre-Forward",
+        "injury": "Metatarsal fracture",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Nathan Ngoumou",
         "position": "Right Winger",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "1.FSV Mainz 05": [
-      {
-        "player": "Silas",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
