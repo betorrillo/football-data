@@ -249,7 +249,7 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-16 to 2026-05-23",
-    "count": 8,
+    "count": 9,
     "matches": [
       {
         "id": 538152,
@@ -415,6 +415,30 @@
         "referees": [
           {
             "name": "Paul Tierney",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538145,
+        "matchday": 37,
+        "date": "2026-05-19",
+        "time": "18:30",
+        "status": "FINISHED",
+        "home_team": "AFC Bournemouth",
+        "home_short": "Bournemouth",
+        "home_tla": "BOU",
+        "away_team": "Manchester City FC",
+        "away_short": "Man City",
+        "away_tla": "MCI",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Anthony Taylor",
             "nationality": "England"
           }
         ]
@@ -671,7 +695,7 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-05-16 to 2026-05-23",
-    "count": 11,
+    "count": 12,
     "matches": [
       {
         "id": 537175,
@@ -933,6 +957,30 @@
         "referees": [
           {
             "name": "Mario Perri",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537187,
+        "matchday": 38,
+        "date": "2026-05-23",
+        "time": "16:00",
+        "status": "FINISHED",
+        "home_team": "Bologna FC 1909",
+        "home_short": "Bologna",
+        "home_tla": "BOL",
+        "away_team": "FC Internazionale Milano",
+        "away_short": "Inter",
+        "away_tla": "INT",
+        "ft_home": 3,
+        "ft_away": 3,
+        "ht_home": 2,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Kevin Bonacina",
             "nationality": "Italy"
           }
         ]

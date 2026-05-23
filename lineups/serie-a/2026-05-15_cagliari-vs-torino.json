@@ -4,12 +4,19 @@
   "away": "Torino",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-23T09:08:06Z",
+  "generated": "2026-05-23T20:11:33Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
+    {
+      "player": "Michael Folorunsho",
+      "position": "Central Midfield",
+      "injury": "Muscle fatigue",
+      "since": "",
+      "status": "out"
+    },
     {
       "player": "Joseph Liteta",
       "position": "Central Midfield",
@@ -34,16 +41,23 @@
   ],
   "away_injuries": [
     {
-      "player": "Adrien Tamèze",
-      "position": "Defensive Midfield",
-      "injury": "unknown injury",
+      "player": "Luca Marianucci",
+      "position": "Centre-Back",
+      "injury": "Bruised knee",
       "since": "",
       "status": "out"
     },
     {
-      "player": "Luca Marianucci",
-      "position": "Centre-Back",
-      "injury": "Bruised knee",
+      "player": "Tino Anjorin",
+      "position": "Attacking Midfield",
+      "injury": "Hip bruise",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Zanos Savva",
+      "position": "Right Winger",
+      "injury": "unknown injury",
       "since": "",
       "status": "out"
     },
