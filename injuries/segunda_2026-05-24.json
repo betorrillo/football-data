@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-23",
+  "generated": "2026-05-24",
   "source": "transfermarkt.com",
   "league": "Segunda Division",
-  "total_injured": 22,
+  "total_injured": 21,
   "teams_affected": 14,
   "teams": {
     "Granada CF": [
@@ -46,11 +46,29 @@
         "status": "out"
       }
     ],
+    "SD Huesca": [
+      {
+        "player": "Diego Aznar",
+        "position": "Centre-Forward",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Deportivo de La Coru\u00f1a": [
       {
         "player": "David Mella",
         "position": "Right Winger",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "C\u00e1diz CF": [
+      {
+        "player": "Iuri Tabatadze",
+        "position": "Right Winger",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
@@ -78,15 +96,6 @@
         "status": "out"
       }
     ],
-    "SD Huesca": [
-      {
-        "player": "Diego Aznar",
-        "position": "Centre-Forward",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Albacete Balompi\u00e9": [
       {
         "player": "Higinio Mar\u00edn",
@@ -99,31 +108,6 @@
         "player": "Edward Cede\u00f1o",
         "position": "Defensive Midfield",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "C\u00e1diz CF": [
-      {
-        "player": "Iuri Tabatadze",
-        "position": "Right Winger",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "FC Andorra": [
-      {
-        "player": "Edgar Gonz\u00e1lez",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Th\u00e9o Le Normand",
-        "position": "Central Midfield",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -182,6 +166,15 @@
       {
         "player": "Sergi Can\u00f3s",
         "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Andorra": [
+      {
+        "player": "Th\u00e9o Le Normand",
+        "position": "Central Midfield",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"

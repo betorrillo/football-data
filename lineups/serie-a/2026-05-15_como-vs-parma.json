@@ -4,7 +4,7 @@
   "away": "Parma",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-23T20:11:33Z",
+  "generated": "2026-05-24T09:24:47Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -48,8 +48,15 @@
       "status": "out"
     },
     {
-      "player": "Enrico Delprato",
-      "position": "Right-Back",
+      "player": "Benja Cremaschi",
+      "position": "Central Midfield",
+      "injury": "Meniscus injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Nahuel Estévez",
+      "position": "Defensive Midfield",
       "injury": "unknown injury",
       "since": "",
       "status": "out"
@@ -62,30 +69,16 @@
       "status": "out"
     },
     {
-      "player": "Nahuel Estévez",
-      "position": "Defensive Midfield",
+      "player": "Enrico Delprato",
+      "position": "Right-Back",
       "injury": "unknown injury",
       "since": "",
       "status": "out"
     },
     {
-      "player": "Benja Cremaschi",
-      "position": "Central Midfield",
-      "injury": "Meniscus injury",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Nesta Elphege",
-      "position": "Centre-Forward",
-      "injury": "Unknown",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Matija Frigan",
-      "position": "Centre-Forward",
-      "injury": "Unknown",
+      "player": "Filippo Rinaldi",
+      "position": "Goalkeeper",
+      "injury": "Shoulder injury",
       "since": "",
       "status": "out"
     },
@@ -97,9 +90,16 @@
       "status": "out"
     },
     {
-      "player": "Filippo Rinaldi",
-      "position": "Goalkeeper",
-      "injury": "Shoulder injury",
+      "player": "Matija Frigan",
+      "position": "Centre-Forward",
+      "injury": "Unknown",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Nesta Elphege",
+      "position": "Centre-Forward",
+      "injury": "Unknown",
       "since": "",
       "status": "out"
     }
