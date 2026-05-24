@@ -2,7 +2,7 @@
   "generated": "2026-05-24",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 23,
+  "total_injured": 24,
   "teams_affected": 13,
   "teams": {
     "Atl\u00e9tico de Madrid": [
@@ -10,6 +10,29 @@
         "player": "Johnny Cardoso",
         "position": "Central Midfield",
         "injury": "Ankle surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Girona FC": [
+      {
+        "player": "Juan Carlos",
+        "position": "Goalkeeper",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "position": "Centre-Forward",
+        "injury": "Torn thigh muscle",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Portu",
+        "position": "Right Winger",
+        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -62,29 +85,6 @@
         "status": "out"
       }
     ],
-    "Girona FC": [
-      {
-        "player": "Juan Carlos",
-        "position": "Goalkeeper",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Vladyslav Vanat",
-        "position": "Centre-Forward",
-        "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Portu",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Valencia CF": [
       {
         "player": "Dimitri Foulquier",
@@ -104,6 +104,13 @@
         "player": "Mouctar Diakhaby",
         "position": "Centre-Back",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Diego L\u00f3pez",
+        "position": "Right Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

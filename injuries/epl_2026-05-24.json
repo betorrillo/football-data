@@ -5,20 +5,32 @@
   "total_injured": 45,
   "teams_affected": 19,
   "teams": {
-    "Wolverhampton Wanderers": [
+    "Brighton &amp; Hove Albion": [
       {
-        "player": "Sam Johnstone",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Manchester United": [
+      },
       {
-        "player": "Matthijs de Ligt",
+        "player": "Adam Webster",
         "position": "Centre-Back",
-        "injury": "Back injury",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Diego G\u00f3mez",
+        "position": "Central Midfield",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -32,13 +44,6 @@
         "status": "out"
       },
       {
-        "player": "Nicol\u00f2 Savona",
-        "position": "Right-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Murillo",
         "position": "Centre-Back",
         "injury": "Hamstring injury",
@@ -46,64 +51,16 @@
         "status": "out"
       },
       {
-        "player": "Callum Hudson-Odoi",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Leeds United": [
-      {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
-        "injury": "Meniscus injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Crystal Palace": [
-      {
-        "player": "Caleb Kporha",
+        "player": "Nicol\u00f2 Savona",
         "position": "Right-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Evann Guessand",
-        "position": "Right Winger",
         "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Eddie Nketiah",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Sunderland AFC": [
-      {
-        "player": "Simon Moore",
-        "position": "Goalkeeper",
+        "player": "Callum Hudson-Odoi",
+        "position": "Left Winger",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Romaine Mundle",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nilson Angulo",
-        "position": "Left Winger",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
@@ -124,57 +81,11 @@
         "status": "out"
       }
     ],
-    "Burnley FC": [
+    "Wolverhampton Wanderers": [
       {
-        "player": "Jordan Beyer",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Josh Cullen",
-        "position": "Central Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Brighton &amp; Hove Albion": [
-      {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Diego G\u00f3mez",
-        "position": "Central Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Adam Webster",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "West Ham United": [
-      {
-        "player": "Lukasz Fabianski",
+        "player": "Sam Johnstone",
         "position": "Goalkeeper",
-        "injury": "Back injury",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -195,11 +106,100 @@
         "status": "out"
       }
     ],
+    "Leeds United": [
+      {
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Meniscus injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "West Ham United": [
+      {
+        "player": "Lukasz Fabianski",
+        "position": "Goalkeeper",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Sunderland AFC": [
+      {
+        "player": "Nilson Angulo",
+        "position": "Left Winger",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Romaine Mundle",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Simon Moore",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Crystal Palace": [
+      {
+        "player": "Evann Guessand",
+        "position": "Right Winger",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Eddie Nketiah",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Manchester United": [
+      {
+        "player": "Matthijs de Ligt",
+        "position": "Centre-Back",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "AFC Bournemouth": [
       {
         "player": "Matai Akinmboni",
         "position": "Centre-Back",
         "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Burnley FC": [
+      {
+        "player": "Jordan Beyer",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Josh Cullen",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -305,16 +305,16 @@
     ],
     "Newcastle United": [
       {
-        "player": "Emil Krafth",
+        "player": "Tino Livramento",
         "position": "Right-Back",
-        "injury": "Knee surgery",
+        "injury": "Thigh problems",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Tino Livramento",
+        "player": "Emil Krafth",
         "position": "Right-Back",
-        "injury": "Thigh problems",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },

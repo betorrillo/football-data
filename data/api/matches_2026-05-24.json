@@ -465,7 +465,7 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-17 to 2026-05-24",
-    "count": 9,
+    "count": 19,
     "matches": [
       {
         "id": 538152,
@@ -682,6 +682,246 @@
             "nationality": "England"
           }
         ]
+      },
+      {
+        "id": 538155,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Sunderland AFC",
+        "home_short": "Sunderland",
+        "home_tla": "SUN",
+        "away_team": "Chelsea FC",
+        "away_short": "Chelsea",
+        "away_tla": "CHE",
+        "ft_home": 2,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Chris Kavanagh",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538156,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Brighton & Hove Albion FC",
+        "home_short": "Brighton Hove",
+        "home_tla": "BHA",
+        "away_team": "Manchester United FC",
+        "away_short": "Man United",
+        "away_tla": "MUN",
+        "ft_home": 0,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Sam Barrott",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538157,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Crystal Palace FC",
+        "home_short": "Crystal Palace",
+        "home_tla": "CRY",
+        "away_team": "Arsenal FC",
+        "away_short": "Arsenal",
+        "away_tla": "ARS",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Farai Hallam",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538158,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Burnley FC",
+        "home_short": "Burnley",
+        "home_tla": "BUR",
+        "away_team": "Wolverhampton Wanderers FC",
+        "away_short": "Wolverhampton",
+        "away_tla": "WOL",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Andrew Kitchen",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538159,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Fulham FC",
+        "home_short": "Fulham",
+        "home_tla": "FUL",
+        "away_team": "Newcastle United FC",
+        "away_short": "Newcastle",
+        "away_tla": "NEW",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Robert Jones",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538160,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Liverpool FC",
+        "home_short": "Liverpool",
+        "home_tla": "LIV",
+        "away_team": "Brentford FC",
+        "away_short": "Brentford",
+        "away_tla": "BRE",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Darren England",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538161,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Manchester City FC",
+        "home_short": "Man City",
+        "home_tla": "MCI",
+        "away_team": "Aston Villa FC",
+        "away_short": "Aston Villa",
+        "away_tla": "AVL",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Andy Madley",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538162,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Nottingham Forest FC",
+        "home_short": "Nottingham",
+        "home_tla": "NOT",
+        "away_team": "AFC Bournemouth",
+        "away_short": "Bournemouth",
+        "away_tla": "BOU",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Craig Pawson",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538163,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Tottenham Hotspur FC",
+        "home_short": "Tottenham",
+        "home_tla": "TOT",
+        "away_team": "Everton FC",
+        "away_short": "Everton",
+        "away_tla": "EVE",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Michael Oliver",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 538164,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "West Ham United FC",
+        "home_short": "West Ham",
+        "home_tla": "WHU",
+        "away_team": "Leeds United FC",
+        "away_short": "Leeds United",
+        "away_tla": "LEE",
+        "ft_home": 3,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Anthony Taylor",
+            "nationality": "England"
+          }
+        ]
       }
     ]
   },
@@ -694,7 +934,7 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-05-17 to 2026-05-24",
-    "count": 13,
+    "count": 15,
     "matches": [
       {
         "id": 537175,
@@ -1004,6 +1244,54 @@
         "referees": [
           {
             "name": "Maria Caputi",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537191,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "13:00",
+        "status": "FINISHED",
+        "home_team": "Parma Calcio 1913",
+        "home_short": "Parma",
+        "home_tla": "PAR",
+        "away_team": "US Sassuolo Calcio",
+        "away_short": "Sassuolo",
+        "away_tla": "SAS",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Niccolò Turrini",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 537192,
+        "matchday": 38,
+        "date": "2026-05-24",
+        "time": "16:00",
+        "status": "FINISHED",
+        "home_team": "SSC Napoli",
+        "home_short": "Napoli",
+        "home_tla": "NAP",
+        "away_team": "Udinese Calcio",
+        "away_short": "Udinese",
+        "away_tla": "UDI",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Andrea Zanotti",
             "nationality": "Italy"
           }
         ]
