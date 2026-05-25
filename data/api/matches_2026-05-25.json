@@ -244,7 +244,7 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-05-18 to 2026-05-25",
-    "count": 13,
+    "count": 12,
     "matches": [
       {
         "id": 538147,
@@ -266,30 +266,6 @@
         "referees": [
           {
             "name": "Paul Tierney",
-            "nationality": "England"
-          }
-        ]
-      },
-      {
-        "id": 538145,
-        "matchday": 37,
-        "date": "2026-05-19",
-        "time": "18:30",
-        "status": "FINISHED",
-        "home_team": "AFC Bournemouth",
-        "home_short": "Bournemouth",
-        "home_tla": "BOU",
-        "away_team": "Manchester City FC",
-        "away_short": "Man City",
-        "away_tla": "MCI",
-        "ft_home": 1,
-        "ft_away": 1,
-        "ht_home": 1,
-        "ht_away": 0,
-        "winner": "DRAW",
-        "referees": [
-          {
-            "name": "Anthony Taylor",
             "nationality": "England"
           }
         ]
@@ -474,11 +450,11 @@
         "away_team": "Aston Villa FC",
         "away_short": "Aston Villa",
         "away_tla": "AVL",
-        "ft_home": 1,
+        "ft_home": 2,
         "ft_away": 2,
         "ht_home": 1,
         "ht_away": 0,
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "referees": [
           {
             "name": "Andy Madley",

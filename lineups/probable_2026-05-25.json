@@ -801,6 +801,13 @@
           "status": "out"
         },
         {
+          "player": "Rico Henry",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Antoni Milambo",
           "position": "Attacking Midfield",
           "injury": "Cruciate ligament tear",
@@ -816,7 +823,7 @@
         }
       ],
       "home_injury_count": 0,
-      "away_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1002,16 +1009,16 @@
           "status": "out"
         },
         {
-          "player": "Murillo",
-          "position": "Centre-Back",
-          "injury": "Hamstring injury",
+          "player": "Nicol\u00f2 Savona",
+          "position": "Right-Back",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Nicol\u00f2 Savona",
-          "position": "Right-Back",
-          "injury": "Knee injury",
+          "player": "Murillo",
+          "position": "Centre-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -1025,6 +1032,13 @@
       ],
       "away_injuries": [
         {
+          "player": "Fabian Sch\u00e4r",
+          "position": "Centre-Back",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Tino Livramento",
           "position": "Right-Back",
           "injury": "Thigh problems",
@@ -1035,13 +1049,6 @@
           "player": "Emil Krafth",
           "position": "Right-Back",
           "injury": "Knee surgery",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Fabian Sch\u00e4r",
-          "position": "Centre-Back",
-          "injury": "Ankle injury",
           "since": "",
           "status": "out"
         },
@@ -1147,9 +1154,9 @@
           "status": "out"
         },
         {
-          "player": "Mohammed Kudus",
-          "position": "Right Winger",
-          "injury": "Hamstring injury",
+          "player": "Ben Davies",
+          "position": "Centre-Back",
+          "injury": "Ankle surgery",
           "since": "",
           "status": "out"
         },
@@ -1161,9 +1168,9 @@
           "status": "out"
         },
         {
-          "player": "Ben Davies",
-          "position": "Centre-Back",
-          "injury": "Ankle surgery",
+          "player": "Mohammed Kudus",
+          "position": "Right Winger",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -1550,16 +1557,16 @@
       },
       "home_injuries": [
         {
-          "player": "Joseph Liteta",
+          "player": "Michael Folorunsho",
           "position": "Central Midfield",
-          "injury": "Hamstring injury",
+          "injury": "Muscle fatigue",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Michael Folorunsho",
+          "player": "Joseph Liteta",
           "position": "Central Midfield",
-          "injury": "Muscle fatigue",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -1753,16 +1760,16 @@
       },
       "home_injuries": [
         {
-          "player": "Daniel Oyegoke",
-          "position": "Right-Back",
-          "injury": "Ankle sprain",
+          "player": "Daniel Mosquera",
+          "position": "Centre-Forward",
+          "injury": "Meniscus damage",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Daniel Mosquera",
-          "position": "Centre-Forward",
-          "injury": "Meniscus damage",
+          "player": "Daniel Oyegoke",
+          "position": "Right-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },
@@ -1976,13 +1983,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
-          "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Maxwel Cornet",
           "position": "Left Winger",
           "injury": "Muscle fatigue",
@@ -1997,16 +1997,16 @@
           "status": "out"
         },
         {
-          "player": "Tommaso Baldanzi",
-          "position": "Attacking Midfield",
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Leo \u00d8stig\u00e5rd",
-          "position": "Centre-Back",
-          "injury": "Knock",
+          "player": "Tommaso Baldanzi",
+          "position": "Attacking Midfield",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -2018,16 +2018,23 @@
           "status": "out"
         },
         {
-          "player": "Caleb Ekuban",
+          "player": "Jeff Ekhator",
           "position": "Centre-Forward",
-          "injury": "unknown injury",
+          "injury": "Metatarsal bruise",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Jeff Ekhator",
+          "player": "Leo \u00d8stig\u00e5rd",
+          "position": "Centre-Back",
+          "injury": "Knock",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Caleb Ekuban",
           "position": "Centre-Forward",
-          "injury": "Metatarsal bruise",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -2082,8 +2089,8 @@
           "status": "out"
         },
         {
-          "player": "Enrico Delprato",
-          "position": "Right-Back",
+          "player": "Nahuel Est\u00e9vez",
+          "position": "Defensive Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2096,8 +2103,8 @@
           "status": "out"
         },
         {
-          "player": "Nahuel Est\u00e9vez",
-          "position": "Defensive Midfield",
+          "player": "Enrico Delprato",
+          "position": "Right-Back",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2124,28 +2131,21 @@
           "status": "out"
         },
         {
-          "player": "Jacob Ondrejka",
-          "position": "Left Winger",
-          "injury": "surgery",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Filippo Rinaldi",
           "position": "Goalkeeper",
           "injury": "Shoulder injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Jacob Ondrejka",
+          "position": "Left Winger",
+          "injury": "surgery",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [
-        {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
         {
           "player": "Evan Ndicka",
           "position": "Centre-Back",
@@ -2154,9 +2154,9 @@
           "status": "out"
         },
         {
-          "player": "Evan Ferguson",
-          "position": "Centre-Forward",
-          "injury": "Ankle problems",
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -2164,6 +2164,13 @@
           "player": "Lorenzo Pellegrini",
           "position": "Attacking Midfield",
           "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Evan Ferguson",
+          "position": "Centre-Forward",
+          "injury": "Ankle problems",
           "since": "",
           "status": "out"
         }
@@ -2261,15 +2268,15 @@
           "status": "out"
         },
         {
-          "player": "Leonardo Spinazzola",
-          "position": "Left-Back",
+          "player": "Alessandro Buongiorno",
+          "position": "Centre-Back",
           "injury": "Knee bruise",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Alessandro Buongiorno",
-          "position": "Centre-Back",
+          "player": "Leonardo Spinazzola",
+          "position": "Left-Back",
           "injury": "Knee bruise",
           "since": "",
           "status": "out"
@@ -2284,16 +2291,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Martin Vit\u00edk",
-          "position": "Centre-Back",
-          "injury": "Ankle sprain",
+          "player": "Riccardo Orsolini",
+          "position": "Right Winger",
+          "injury": "Adductor pain",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Riccardo Orsolini",
-          "position": "Right Winger",
-          "injury": "Adductor pain",
+          "player": "Martin Vit\u00edk",
+          "position": "Centre-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },

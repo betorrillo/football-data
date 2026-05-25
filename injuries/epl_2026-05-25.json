@@ -2,35 +2,14 @@
   "generated": "2026-05-25",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 45,
+  "total_injured": 46,
   "teams_affected": 19,
   "teams": {
-    "Brighton &amp; Hove Albion": [
+    "Manchester United": [
       {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Adam Webster",
+        "player": "Matthijs de Ligt",
         "position": "Centre-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Diego G\u00f3mez",
-        "position": "Central Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -44,13 +23,6 @@
         "status": "out"
       },
       {
-        "player": "Murillo",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Nicol\u00f2 Savona",
         "position": "Right-Back",
         "injury": "Knee injury",
@@ -58,9 +30,39 @@
         "status": "out"
       },
       {
+        "player": "Murillo",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Callum Hudson-Odoi",
         "position": "Left Winger",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Crystal Palace": [
+      {
+        "player": "Evann Guessand",
+        "position": "Right Winger",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Eddie Nketiah",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -147,38 +149,6 @@
         "status": "out"
       }
     ],
-    "Crystal Palace": [
-      {
-        "player": "Evann Guessand",
-        "position": "Right Winger",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Eddie Nketiah",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Manchester United": [
-      {
-        "player": "Matthijs de Ligt",
-        "position": "Centre-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "AFC Bournemouth": [
       {
         "player": "Matai Akinmboni",
@@ -213,6 +183,13 @@
         "status": "out"
       },
       {
+        "player": "Rico Henry",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Antoni Milambo",
         "position": "Attacking Midfield",
         "injury": "Cruciate ligament tear",
@@ -227,6 +204,36 @@
         "status": "out"
       }
     ],
+    "Brighton &amp; Hove Albion": [
+      {
+        "player": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Adam Webster",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Diego G\u00f3mez",
+        "position": "Central Midfield",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Tottenham Hotspur": [
       {
         "player": "Dejan Kulusevski",
@@ -236,9 +243,9 @@
         "status": "out"
       },
       {
-        "player": "Mohammed Kudus",
-        "position": "Right Winger",
-        "injury": "Hamstring injury",
+        "player": "Ben Davies",
+        "position": "Centre-Back",
+        "injury": "Ankle surgery",
         "since": "",
         "status": "out"
       },
@@ -250,9 +257,9 @@
         "status": "out"
       },
       {
-        "player": "Ben Davies",
-        "position": "Centre-Back",
-        "injury": "Ankle surgery",
+        "player": "Mohammed Kudus",
+        "position": "Right Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -312,6 +319,13 @@
     ],
     "Newcastle United": [
       {
+        "player": "Fabian Sch\u00e4r",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Tino Livramento",
         "position": "Right-Back",
         "injury": "Thigh problems",
@@ -322,13 +336,6 @@
         "player": "Emil Krafth",
         "position": "Right-Back",
         "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fabian Sch\u00e4r",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
