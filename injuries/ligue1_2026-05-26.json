@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-25",
+  "generated": "2026-05-26",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 60,
+  "total_injured": 61,
   "teams_affected": 18,
   "teams": {
     "LOSC Lille": [
@@ -37,6 +37,13 @@
     ],
     "Le Havre AC": [
       {
+        "player": "Abdoulaye Tour\u00e9",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Yanis Zouaoui",
         "position": "Left-Back",
         "injury": "Calf injury",
@@ -54,13 +61,6 @@
         "player": "Stephan Zagadou",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Abdoulaye Tour\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -130,6 +130,43 @@
         "player": "R\u00e9mi Himbert",
         "position": "Left Winger",
         "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AS Monaco": [
+      {
+        "player": "Caio Henrique",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mohammed Salisu",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stanis Idumbo",
+        "position": "Attacking Midfield",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kassoum Ouattara",
+        "position": "Left-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Takumi Minamino",
+        "position": "Left Winger",
+        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -235,13 +272,6 @@
     ],
     "FC Metz": [
       {
-        "player": "Jessy Deminguet",
-        "position": "Central Midfield",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Boubacar Traor\u00e9",
         "position": "Defensive Midfield",
         "injury": "Calf injury",
@@ -249,46 +279,16 @@
         "status": "out"
       },
       {
+        "player": "Jessy Deminguet",
+        "position": "Central Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Joseph Mangondo",
         "position": "Centre-Forward",
         "injury": "Knee problems",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AS Monaco": [
-      {
-        "player": "Caio Henrique",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mohammed Salisu",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stanis Idumbo",
-        "position": "Attacking Midfield",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kassoum Ouattara",
-        "position": "Left-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Takumi Minamino",
-        "position": "Left Winger",
-        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -443,6 +443,13 @@
         "player": "Emmanuel Emegha",
         "position": "Centre-Forward",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Andrew Omobamidele",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
