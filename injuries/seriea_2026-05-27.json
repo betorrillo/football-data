@@ -1,29 +1,29 @@
 {
-  "generated": "2026-05-26",
+  "generated": "2026-05-27",
   "source": "transfermarkt.com",
   "league": "Serie A",
   "total_injured": 75,
   "teams_affected": 19,
   "teams": {
-    "Como 1907": [
+    "Bologna FC 1909": [
       {
-        "player": "Nico Paz",
-        "position": "Attacking Midfield",
-        "injury": "Bruised knee",
+        "player": "Martin Vit\u00edk",
+        "position": "Centre-Back",
+        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       },
       {
-        "player": "\u00c1lex Valle",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jayden Addai",
+        "player": "Riccardo Orsolini",
         "position": "Right Winger",
-        "injury": "Achilles tendon rupture",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Casale",
+        "position": "Centre-Back",
+        "injury": "Calf muscle tear",
         "since": "",
         "status": "out"
       }
@@ -51,20 +51,6 @@
         "status": "out"
       },
       {
-        "player": "Caleb Ekuban",
-        "position": "Centre-Forward",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jeff Ekhator",
-        "position": "Centre-Forward",
-        "injury": "Metatarsal bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Leo \u00d8stig\u00e5rd",
         "position": "Centre-Back",
         "injury": "Knock",
@@ -79,9 +65,39 @@
         "status": "out"
       },
       {
+        "player": "Caleb Ekuban",
+        "position": "Centre-Forward",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jeff Ekhator",
+        "position": "Centre-Forward",
+        "injury": "Metatarsal bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Junior Messias",
         "position": "Right Winger",
         "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SS Lazio": [
+      {
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -178,29 +194,6 @@
         "status": "out"
       }
     ],
-    "Bologna FC 1909": [
-      {
-        "player": "Riccardo Orsolini",
-        "position": "Right Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Casale",
-        "position": "Centre-Back",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "AS Roma": [
       {
         "player": "Evan Ndicka",
@@ -227,6 +220,29 @@
         "player": "Lorenzo Pellegrini",
         "position": "Attacking Midfield",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Como 1907": [
+      {
+        "player": "Nico Paz",
+        "position": "Attacking Midfield",
+        "injury": "Bruised knee",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "\u00c1lex Valle",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jayden Addai",
+        "position": "Right Winger",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       }
@@ -430,9 +446,9 @@
         "status": "out"
       },
       {
-        "player": "Nesta Elphege",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Jacob Ondrejka",
+        "position": "Left Winger",
+        "injury": "surgery",
         "since": "",
         "status": "out"
       },
@@ -451,9 +467,9 @@
         "status": "out"
       },
       {
-        "player": "Jacob Ondrejka",
-        "position": "Left Winger",
-        "injury": "surgery",
+        "player": "Nesta Elphege",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -516,22 +532,6 @@
         "player": "Suat Serdar",
         "position": "Central Midfield",
         "injury": "Cruciate ligament surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SS Lazio": [
-      {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
