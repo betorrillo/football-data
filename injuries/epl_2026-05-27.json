@@ -2,7 +2,7 @@
   "generated": "2026-05-27",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 47,
+  "total_injured": 46,
   "teams_affected": 19,
   "teams": {
     "Manchester United": [
@@ -294,36 +294,6 @@
         "status": "out"
       }
     ],
-    "Brighton &amp; Hove Albion": [
-      {
-        "player": "Diego G\u00f3mez",
-        "position": "Central Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Adam Webster",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Newcastle United": [
       {
         "player": "Fabian Sch\u00e4r",
@@ -350,6 +320,29 @@
         "player": "Lewis Miley",
         "position": "Central Midfield",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Brighton &amp; Hove Albion": [
+      {
+        "player": "Adam Webster",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

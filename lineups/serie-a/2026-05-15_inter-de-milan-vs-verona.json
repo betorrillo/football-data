@@ -4,12 +4,19 @@
   "away": "Verona",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-05-27T11:01:42Z",
+  "generated": "2026-05-27T21:07:28Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
+    {
+      "player": "Stefan de Vrij",
+      "position": "Centre-Back",
+      "injury": "Groin injury",
+      "since": "",
+      "status": "out"
+    },
     {
       "player": "Davide Frattesi",
       "position": "Central Midfield",
@@ -20,16 +27,16 @@
   ],
   "away_injuries": [
     {
-      "player": "Daniel Oyegoke",
-      "position": "Right-Back",
-      "injury": "Ankle sprain",
+      "player": "Daniel Mosquera",
+      "position": "Centre-Forward",
+      "injury": "Meniscus damage",
       "since": "",
       "status": "out"
     },
     {
-      "player": "Daniel Mosquera",
-      "position": "Centre-Forward",
-      "injury": "Meniscus damage",
+      "player": "Daniel Oyegoke",
+      "position": "Right-Back",
+      "injury": "Ankle sprain",
       "since": "",
       "status": "out"
     },
