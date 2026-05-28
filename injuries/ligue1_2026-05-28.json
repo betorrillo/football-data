@@ -1,22 +1,22 @@
 {
-  "generated": "2026-05-27",
+  "generated": "2026-05-28",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 61,
+  "total_injured": 60,
   "teams_affected": 18,
   "teams": {
     "Olympique Lyon": [
       {
-        "player": "Tanner Tessmann",
+        "player": "Tyler Morton",
         "position": "Defensive Midfield",
-        "injury": "Muscle injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Tyler Morton",
+        "player": "Tanner Tessmann",
         "position": "Defensive Midfield",
-        "injury": "Unknown",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
@@ -28,32 +28,32 @@
         "status": "out"
       }
     ],
-    "Paris FC": [
+    "RC Strasbourg Alsace": [
       {
-        "player": "Julien Lopez",
-        "position": "Left Winger",
-        "injury": "Back injury",
+        "player": "Andrew Omobamidele",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Tuomas Ollila",
-        "position": "Left-Back",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jean-Philippe Krasso",
+        "player": "Emmanuel Emegha",
         "position": "Centre-Forward",
-        "injury": "Knee injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Pierre-Yves Hamel",
+        "player": "Aar\u00f3n Anselmino",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Joaqu\u00edn Panichelli",
         "position": "Centre-Forward",
-        "injury": "Calf injury",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -67,16 +67,16 @@
         "status": "out"
       },
       {
-        "player": "Mama Bald\u00e9",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Junior Dina Ebimbe",
+        "position": "Right Midfield",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Junior Dina Ebimbe",
-        "position": "Right Midfield",
-        "injury": "Muscle injury",
+        "player": "Mama Bald\u00e9",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -152,36 +152,6 @@
       {
         "player": "Fabien Centonze",
         "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "RC Strasbourg Alsace": [
-      {
-        "player": "Andrew Omobamidele",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Emmanuel Emegha",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Aar\u00f3n Anselmino",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Joaqu\u00edn Panichelli",
-        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
@@ -296,6 +266,29 @@
         "player": "Cl\u00e9ment Akpa",
         "position": "Centre-Back",
         "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Paris FC": [
+      {
+        "player": "Jean-Philippe Krasso",
+        "position": "Centre-Forward",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Pierre-Yves Hamel",
+        "position": "Centre-Forward",
+        "injury": "Calf injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Julien Lopez",
+        "position": "Left Winger",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }

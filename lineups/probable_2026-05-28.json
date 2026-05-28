@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27",
+  "generated": "2026-05-28",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -653,6 +653,13 @@
       ],
       "away_injuries": [
         {
+          "player": "Enso Gonz\u00e1lez",
+          "position": "Left Winger",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Sam Johnstone",
           "position": "Goalkeeper",
           "injury": "Shoulder injury",
@@ -661,7 +668,7 @@
         }
       ],
       "home_injury_count": 3,
-      "away_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1002,16 +1009,16 @@
           "status": "out"
         },
         {
-          "player": "Nicol\u00f2 Savona",
-          "position": "Right-Back",
-          "injury": "Knee injury",
+          "player": "Murillo",
+          "position": "Centre-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Murillo",
-          "position": "Centre-Back",
-          "injury": "Hamstring injury",
+          "player": "Nicol\u00f2 Savona",
+          "position": "Right-Back",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
@@ -1025,9 +1032,9 @@
       ],
       "away_injuries": [
         {
-          "player": "Fabian Sch\u00e4r",
-          "position": "Centre-Back",
-          "injury": "Ankle injury",
+          "player": "Tino Livramento",
+          "position": "Right-Back",
+          "injury": "Thigh problems",
           "since": "",
           "status": "out"
         },
@@ -1039,9 +1046,9 @@
           "status": "out"
         },
         {
-          "player": "Tino Livramento",
-          "position": "Right-Back",
-          "injury": "Thigh problems",
+          "player": "Fabian Sch\u00e4r",
+          "position": "Centre-Back",
+          "injury": "Ankle injury",
           "since": "",
           "status": "out"
         },
@@ -1196,10 +1203,38 @@
           "injury": "Meniscus injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Noah Okafor",
+          "position": "Left Winger",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Anton Stach",
+          "position": "Defensive Midfield",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Gabriel Gudmundsson",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Sean Longstaff",
+          "position": "Central Midfield",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 6,
-      "away_injury_count": 1,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1997,8 +2032,8 @@
           "status": "out"
         },
         {
-          "player": "Ruslan Malinovskyi",
-          "position": "Central Midfield",
+          "player": "Caleb Ekuban",
+          "position": "Centre-Forward",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2018,8 +2053,8 @@
           "status": "out"
         },
         {
-          "player": "Caleb Ekuban",
-          "position": "Centre-Forward",
+          "player": "Ruslan Malinovskyi",
+          "position": "Central Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2110,13 +2145,6 @@
           "status": "out"
         },
         {
-          "player": "Filippo Rinaldi",
-          "position": "Goalkeeper",
-          "injury": "Shoulder injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Matija Frigan",
           "position": "Centre-Forward",
           "injury": "Unknown",
@@ -2127,6 +2155,13 @@
           "player": "Jacob Ondrejka",
           "position": "Left Winger",
           "injury": "surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Filippo Rinaldi",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         }
@@ -2284,16 +2319,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Martin Vit\u00edk",
-          "position": "Centre-Back",
-          "injury": "Ankle sprain",
+          "player": "Riccardo Orsolini",
+          "position": "Right Winger",
+          "injury": "Adductor pain",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Riccardo Orsolini",
-          "position": "Right Winger",
-          "injury": "Adductor pain",
+          "player": "Martin Vit\u00edk",
+          "position": "Centre-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },
@@ -2795,16 +2830,16 @@
           "status": "out"
         },
         {
-          "player": "Mama Bald\u00e9",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Junior Dina Ebimbe",
+          "position": "Right Midfield",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Junior Dina Ebimbe",
-          "position": "Right Midfield",
-          "injury": "Muscle injury",
+          "player": "Mama Bald\u00e9",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -2854,20 +2889,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Julien Lopez",
-          "position": "Left Winger",
-          "injury": "Back injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Tuomas Ollila",
-          "position": "Left-Back",
-          "injury": "Calf injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Jean-Philippe Krasso",
           "position": "Centre-Forward",
           "injury": "Knee injury",
@@ -2880,10 +2901,17 @@
           "injury": "Calf injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Julien Lopez",
+          "position": "Left Winger",
+          "injury": "Back injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 2,
-      "away_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2933,16 +2961,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Tanner Tessmann",
+          "player": "Tyler Morton",
           "position": "Defensive Midfield",
-          "injury": "Muscle injury",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Tyler Morton",
+          "player": "Tanner Tessmann",
           "position": "Defensive Midfield",
-          "injury": "Unknown",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
