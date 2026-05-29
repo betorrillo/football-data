@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28",
+  "generated": "2026-05-29",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1795,16 +1795,16 @@
       },
       "home_injuries": [
         {
-          "player": "Daniel Mosquera",
-          "position": "Centre-Forward",
-          "injury": "Meniscus damage",
+          "player": "Daniel Oyegoke",
+          "position": "Right-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Daniel Oyegoke",
-          "position": "Right-Back",
-          "injury": "Ankle sprain",
+          "player": "Daniel Mosquera",
+          "position": "Centre-Forward",
+          "injury": "Meniscus damage",
           "since": "",
           "status": "out"
         },
@@ -1925,16 +1925,16 @@
           "status": "out"
         },
         {
-          "player": "Marius Marin",
-          "position": "Defensive Midfield",
-          "injury": "Knee problems",
+          "player": "Matteo Tramoni",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Matteo Tramoni",
-          "position": "Attacking Midfield",
-          "injury": "Unknown",
+          "player": "Marius Marin",
+          "position": "Defensive Midfield",
+          "injury": "Knee problems",
           "since": "",
           "status": "out"
         },
@@ -2039,9 +2039,9 @@
           "status": "out"
         },
         {
-          "player": "Jeff Ekhator",
-          "position": "Centre-Forward",
-          "injury": "Metatarsal bruise",
+          "player": "Ruslan Malinovskyi",
+          "position": "Central Midfield",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -2053,9 +2053,9 @@
           "status": "out"
         },
         {
-          "player": "Ruslan Malinovskyi",
-          "position": "Central Midfield",
-          "injury": "unknown injury",
+          "player": "Jeff Ekhator",
+          "position": "Centre-Forward",
+          "injury": "Metatarsal bruise",
           "since": "",
           "status": "out"
         },
@@ -2110,8 +2110,8 @@
           "status": "out"
         },
         {
-          "player": "Enrico Delprato",
-          "position": "Right-Back",
+          "player": "Nahuel Est\u00e9vez",
+          "position": "Defensive Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2124,8 +2124,8 @@
           "status": "out"
         },
         {
-          "player": "Nahuel Est\u00e9vez",
-          "position": "Defensive Midfield",
+          "player": "Enrico Delprato",
+          "position": "Right-Back",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -2134,20 +2134,6 @@
           "player": "Benja Cremaschi",
           "position": "Central Midfield",
           "injury": "Meniscus injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Nesta Elphege",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Matija Frigan",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -2162,6 +2148,20 @@
           "player": "Filippo Rinaldi",
           "position": "Goalkeeper",
           "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Matija Frigan",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nesta Elphege",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -2289,20 +2289,6 @@
           "status": "out"
         },
         {
-          "player": "Alessandro Buongiorno",
-          "position": "Centre-Back",
-          "injury": "Knee bruise",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Leonardo Spinazzola",
-          "position": "Left-Back",
-          "injury": "Knee bruise",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "David Neres",
           "position": "Right Winger",
           "injury": "Unknown",
@@ -2340,7 +2326,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 5,
+      "home_injury_count": 3,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",

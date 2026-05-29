@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-28",
+  "generated": "2026-05-29",
   "source": "transfermarkt.com",
-  "total_injured": 305,
+  "total_injured": 303,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 26,
@@ -222,7 +222,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 21,
@@ -406,7 +406,7 @@
       }
     },
     "epl": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 51,
@@ -810,7 +810,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 51,
@@ -1210,10 +1210,10 @@
       }
     },
     "seriea": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 77,
+      "total_injured": 75,
       "teams_affected": 19,
       "teams": {
         "Como 1907": [
@@ -1269,9 +1269,9 @@
             "status": "out"
           },
           {
-            "player": "Jeff Ekhator",
-            "position": "Centre-Forward",
-            "injury": "Metatarsal bruise",
+            "player": "Ruslan Malinovskyi",
+            "position": "Central Midfield",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           },
@@ -1283,9 +1283,9 @@
             "status": "out"
           },
           {
-            "player": "Ruslan Malinovskyi",
-            "position": "Central Midfield",
-            "injury": "unknown injury",
+            "player": "Jeff Ekhator",
+            "position": "Centre-Forward",
+            "injury": "Metatarsal bruise",
             "since": "",
             "status": "out"
           },
@@ -1343,16 +1343,16 @@
             "status": "out"
           },
           {
-            "player": "Zakaria Aboukhlal",
+            "player": "Zanos Savva",
             "position": "Right Winger",
-            "injury": "Unknown",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Zanos Savva",
+            "player": "Zakaria Aboukhlal",
             "position": "Right Winger",
-            "injury": "unknown injury",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1488,16 +1488,16 @@
             "status": "out"
           },
           {
-            "player": "Marius Marin",
-            "position": "Defensive Midfield",
-            "injury": "Knee problems",
+            "player": "Matteo Tramoni",
+            "position": "Attacking Midfield",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Matteo Tramoni",
-            "position": "Attacking Midfield",
-            "injury": "Unknown",
+            "player": "Marius Marin",
+            "position": "Defensive Midfield",
+            "injury": "Knee problems",
             "since": "",
             "status": "out"
           },
@@ -1521,20 +1521,6 @@
             "player": "Romelu Lukaku",
             "position": "Centre-Forward",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Alessandro Buongiorno",
-            "position": "Centre-Back",
-            "injury": "Knee bruise",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Leonardo Spinazzola",
-            "position": "Left-Back",
-            "injury": "Knee bruise",
             "since": "",
             "status": "out"
           },
@@ -1620,8 +1606,8 @@
             "status": "out"
           },
           {
-            "player": "Enrico Delprato",
-            "position": "Right-Back",
+            "player": "Nahuel Est\u00e9vez",
+            "position": "Defensive Midfield",
             "injury": "unknown injury",
             "since": "",
             "status": "out"
@@ -1634,8 +1620,8 @@
             "status": "out"
           },
           {
-            "player": "Nahuel Est\u00e9vez",
-            "position": "Defensive Midfield",
+            "player": "Enrico Delprato",
+            "position": "Right-Back",
             "injury": "unknown injury",
             "since": "",
             "status": "out"
@@ -1644,20 +1630,6 @@
             "player": "Benja Cremaschi",
             "position": "Central Midfield",
             "injury": "Meniscus injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Nesta Elphege",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Matija Frigan",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -1672,6 +1644,20 @@
             "player": "Filippo Rinaldi",
             "position": "Goalkeeper",
             "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Nesta Elphege",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1722,34 +1708,34 @@
             "status": "out"
           }
         ],
-        "SS Lazio": [
+        "Juventus FC": [
           {
-            "player": "Danilo Cataldi",
-            "position": "Defensive Midfield",
-            "injury": "Unknown",
+            "player": "Juan Cabal",
+            "position": "Left-Back",
+            "injury": "Muscle fatigue",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Ivan Provedel",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Kenan Y\u0131ld\u0131z",
+            "position": "Left Winger",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           }
         ],
         "Hellas Verona": [
           {
-            "player": "Daniel Mosquera",
-            "position": "Centre-Forward",
-            "injury": "Meniscus damage",
+            "player": "Daniel Oyegoke",
+            "position": "Right-Back",
+            "injury": "Ankle sprain",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Daniel Oyegoke",
-            "position": "Right-Back",
-            "injury": "Ankle sprain",
+            "player": "Daniel Mosquera",
+            "position": "Centre-Forward",
+            "injury": "Meniscus damage",
             "since": "",
             "status": "out"
           },
@@ -1777,18 +1763,18 @@
             "status": "out"
           }
         ],
-        "Juventus FC": [
+        "SS Lazio": [
           {
-            "player": "Juan Cabal",
-            "position": "Left-Back",
-            "injury": "Muscle fatigue",
+            "player": "Danilo Cataldi",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Kenan Y\u0131ld\u0131z",
-            "position": "Left Winger",
-            "injury": "Calf injury",
+            "player": "Ivan Provedel",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -1796,7 +1782,7 @@
       }
     },
     "ligue1": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 60,
@@ -1949,7 +1935,7 @@
           {
             "player": "Fabien Centonze",
             "position": "Right-Back",
-            "injury": "Cruciate ligament tear",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -2261,7 +2247,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-05-28",
+      "generated": "2026-05-29",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 19,
