@@ -1,6 +1,6 @@
 {
   "generated": "2026-05-30",
-  "total_fixtures": 1,
+  "total_fixtures": 0,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
@@ -30,26 +30,8 @@
     },
     "CL": {
       "competition": "Champions League",
-      "fixtures": [
-        {
-          "date": "2026-05-30",
-          "time": "16:00",
-          "home": "PSG",
-          "away": "Arsenal",
-          "matchday": null,
-          "cards_analysis": {
-            "team_cards_avg": 2.93,
-            "blended_cards_prediction": 2.93,
-            "cards_verdict": "BAJO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.81,
-          "home_goals_2h_avg": 1.16,
-          "away_goals_1h_avg": 0.68,
-          "away_goals_2h_avg": 1.08
-        }
-      ],
-      "total": 1
+      "fixtures": [],
+      "total": 0
     },
     "PPL": {
       "competition": "Primeira Liga",

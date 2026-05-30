@@ -2,28 +2,28 @@
   "generated": "2026-05-30",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 75,
+  "total_injured": 76,
   "teams_affected": 19,
   "teams": {
-    "Como 1907": [
+    "Bologna FC 1909": [
       {
-        "player": "Nico Paz",
-        "position": "Attacking Midfield",
-        "injury": "Bruised knee",
+        "player": "Martin Vit\u00edk",
+        "position": "Centre-Back",
+        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       },
       {
-        "player": "\u00c1lex Valle",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jayden Addai",
+        "player": "Riccardo Orsolini",
         "position": "Right Winger",
-        "injury": "Achilles tendon rupture",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Casale",
+        "position": "Centre-Back",
+        "injury": "Calf muscle tear",
         "since": "",
         "status": "out"
       }
@@ -51,15 +51,15 @@
         "status": "out"
       },
       {
-        "player": "Caleb Ekuban",
-        "position": "Centre-Forward",
+        "player": "Ruslan Malinovskyi",
+        "position": "Central Midfield",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ruslan Malinovskyi",
-        "position": "Central Midfield",
+        "player": "Caleb Ekuban",
+        "position": "Centre-Forward",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
@@ -146,6 +146,29 @@
         "status": "out"
       }
     ],
+    "Juventus FC": [
+      {
+        "player": "Emil Holm",
+        "position": "Right-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Juan Cabal",
+        "position": "Left-Back",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kenan Y\u0131ld\u0131z",
+        "position": "Left Winger",
+        "injury": "Calf injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Atalanta BC": [
       {
         "player": "Lorenzo Bernasconi",
@@ -178,29 +201,6 @@
         "status": "out"
       }
     ],
-    "Bologna FC 1909": [
-      {
-        "player": "Riccardo Orsolini",
-        "position": "Right Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Casale",
-        "position": "Centre-Back",
-        "injury": "Calf muscle tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "AS Roma": [
       {
         "player": "Evan Ndicka",
@@ -227,6 +227,29 @@
         "player": "Lorenzo Pellegrini",
         "position": "Attacking Midfield",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Como 1907": [
+      {
+        "player": "Nico Paz",
+        "position": "Attacking Midfield",
+        "injury": "Bruised knee",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "\u00c1lex Valle",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jayden Addai",
+        "position": "Right Winger",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       }
@@ -423,6 +446,13 @@
         "status": "out"
       },
       {
+        "player": "Nesta Elphege",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Jacob Ondrejka",
         "position": "Left Winger",
         "injury": "surgery",
@@ -438,13 +468,6 @@
       },
       {
         "player": "Matija Frigan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nesta Elphege",
         "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
@@ -497,22 +520,6 @@
         "status": "out"
       }
     ],
-    "Juventus FC": [
-      {
-        "player": "Juan Cabal",
-        "position": "Left-Back",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kenan Y\u0131ld\u0131z",
-        "position": "Left Winger",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Hellas Verona": [
       {
         "player": "Daniel Oyegoke",
@@ -536,22 +543,6 @@
         "status": "out"
       }
     ],
-    "ACF Fiorentina": [
-      {
-        "player": "Moise Kean",
-        "position": "Centre-Forward",
-        "injury": "Shin bruise",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fabiano Parisi",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "SS Lazio": [
       {
         "player": "Danilo Cataldi",
@@ -564,6 +555,22 @@
         "player": "Ivan Provedel",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "ACF Fiorentina": [
+      {
+        "player": "Moise Kean",
+        "position": "Centre-Forward",
+        "injury": "Shin bruise",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Fabiano Parisi",
+        "position": "Left-Back",
+        "injury": "Cruciate ligament injury",
         "since": "",
         "status": "out"
       }

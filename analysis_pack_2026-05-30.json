@@ -1,9 +1,9 @@
 {
   "generated": "2026-05-30",
-  "generated_at": "2026-05-30T09:21:04Z",
+  "generated_at": "2026-05-30T20:14:15Z",
   "version": "1.0",
   "description": "Pre-computed analysis data for upcoming fixtures. Agent reads this ONE file instead of 10+.",
-  "total_matches": 46,
+  "total_matches": 45,
   "matches": [
     {
       "match_id": "epl_2026-05-09_liverpool-vs-chelsea",
@@ -13992,59 +13992,6 @@
         "lineup": false
       },
       "missing_for_analysis": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "champions_2026-05-30_psg-vs-arsenal",
-      "competition": "champions",
-      "league_name": "Champions League",
-      "home": "PSG",
-      "away": "Arsenal",
-      "date": "2026-05-30",
-      "time": "16:00",
-      "matchday": "",
-      "home_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_home": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
-      },
-      "away_season": {
-        "mp": 0,
-        "record": "0W-0D-0L",
-        "pts": 0,
-        "gf": 0,
-        "ga": 0,
-        "avg": {},
-        "avg_away": {},
-        "pct": {},
-        "avg_ht": {},
-        "pct_ht": {}
-      },
-      "home_form_last5": [],
-      "away_form_last5": [],
-      "h2h": [],
-      "home_xg": null,
-      "away_xg": null,
-      "data_available": {
-        "season_stats": true,
-        "form": false,
-        "h2h": false,
-        "xg": false,
-        "referee": false,
-        "injuries": false,
-        "lineup": false
-      },
-      "missing_for_analysis": [
-        "xg",
         "referee",
         "injuries"
       ]

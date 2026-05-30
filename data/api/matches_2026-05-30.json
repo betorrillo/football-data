@@ -726,8 +726,33 @@
   "CL": {
     "competition": "Champions League",
     "date_range": "2026-05-23 to 2026-05-30",
-    "count": 0,
-    "matches": []
+    "count": 1,
+    "matches": [
+      {
+        "id": 552096,
+        "matchday": null,
+        "date": "2026-05-30",
+        "time": "16:00",
+        "status": "FINISHED",
+        "home_team": "Paris Saint-Germain FC",
+        "home_short": "PSG",
+        "home_tla": "PSG",
+        "away_team": "Arsenal FC",
+        "away_short": "Arsenal",
+        "away_tla": "ARS",
+        "ft_home": 5,
+        "ft_away": 4,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": null,
+        "referees": [
+          {
+            "name": "Daniel Siebert",
+            "nationality": "Germany"
+          }
+        ]
+      }
+    ]
   },
   "PPL": {
     "competition": "Primeira Liga",

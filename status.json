@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-05-30T09:21:04Z",
+  "server_time_utc": "2026-05-30T20:14:15Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-05-30.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-05-30.json",
-  "total_data_files": 409,
+  "total_data_files": 410,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-05-30",
-    "total_matches": 46
+    "to": "2026-05-12",
+    "total_matches": 45
   },
   "matches_summary": [
     {
@@ -577,19 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "champions_2026-05-30_psg-vs-arsenal",
-      "competition": "champions",
-      "home": "PSG",
-      "away": "Arsenal",
-      "date": "2026-05-30",
-      "time": "16:00",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]
