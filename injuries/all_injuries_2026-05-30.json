@@ -1,106 +1,37 @@
 {
-  "generated": "2026-05-29",
+  "generated": "2026-05-30",
   "source": "transfermarkt.com",
-  "total_injured": 303,
+  "total_injured": 302,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "LaLiga",
-      "total_injured": 26,
-      "teams_affected": 13,
+      "total_injured": 28,
+      "teams_affected": 14,
       "teams": {
-        "Atl\u00e9tico de Madrid": [
+        "Rayo Vallecano": [
           {
-            "player": "Johnny Cardoso",
-            "position": "Central Midfield",
-            "injury": "Ankle surgery",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Pablo Barrios",
-            "position": "Central Midfield",
-            "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "D\u00e1vid Hancko",
-            "position": "Centre-Back",
-            "injury": "Ankle problems",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Girona FC": [
-          {
-            "player": "Juan Carlos",
-            "position": "Goalkeeper",
-            "injury": "Knee injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Vladyslav Vanat",
-            "position": "Centre-Forward",
-            "injury": "Torn thigh muscle",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Portu",
-            "position": "Right Winger",
-            "injury": "Torn knee ligaments",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Real Betis Balompi\u00e9": [
-          {
-            "player": "\u00c1ngel Ortiz",
+            "player": "Andrei Ra\u021biu",
             "position": "Right-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Aitor Ruibal",
-            "position": "Right Winger",
-            "injury": "Meniscus injury",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
         ],
-        "RCD Mallorca": [
+        "Celta de Vigo": [
           {
-            "player": "Jan Salas",
-            "position": "Central Midfield",
+            "player": "Ionu\u021b Radu",
+            "position": "Goalkeeper",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Mateo Joseph",
-            "position": "Centre-Forward",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Sevilla FC": [
-          {
-            "player": "Marc\u00e3o",
-            "position": "Centre-Back",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Manu Bueno",
+            "player": "Miguel Rom\u00e1n",
             "position": "Central Midfield",
-            "injury": "Unknown",
+            "injury": "Metatarsal fracture",
             "since": "",
             "status": "out"
           }
@@ -135,6 +66,100 @@
             "status": "out"
           }
         ],
+        "Sevilla FC": [
+          {
+            "player": "Manu Bueno",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Marc\u00e3o",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RCD Mallorca": [
+          {
+            "player": "Jan Salas",
+            "position": "Central Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Mateo Joseph",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Betis Balompi\u00e9": [
+          {
+            "player": "\u00c1ngel Ortiz",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Aitor Ruibal",
+            "position": "Right Winger",
+            "injury": "Meniscus injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Girona FC": [
+          {
+            "player": "Juan Carlos",
+            "position": "Goalkeeper",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Portu",
+            "position": "Right Winger",
+            "injury": "Torn knee ligaments",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Vladyslav Vanat",
+            "position": "Centre-Forward",
+            "injury": "Torn thigh muscle",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Atl\u00e9tico de Madrid": [
+          {
+            "player": "Johnny Cardoso",
+            "position": "Central Midfield",
+            "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Pablo Barrios",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "D\u00e1vid Hancko",
+            "position": "Centre-Back",
+            "injury": "Ankle problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "FC Barcelona": [
           {
             "player": "Lamine Yamal",
@@ -156,15 +181,6 @@
             "player": "Nico Williams",
             "position": "Left Winger",
             "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Celta de Vigo": [
-          {
-            "player": "Miguel Rom\u00e1n",
-            "position": "Central Midfield",
-            "injury": "Metatarsal fracture",
             "since": "",
             "status": "out"
           }
@@ -222,7 +238,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 21,
@@ -406,7 +422,7 @@
       }
     },
     "epl": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 51,
@@ -810,10 +826,10 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 51,
+      "total_injured": 50,
       "teams_affected": 17,
       "teams": {
         "SV Werder Bremen": [
@@ -855,16 +871,16 @@
             "status": "out"
           },
           {
-            "player": "Alexander R\u00f8ssing-Lelesiit",
-            "position": "Left Winger",
-            "injury": "Ankle injury",
+            "player": "Fernando Dickes",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Fernando Dickes",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Alexander R\u00f8ssing-Lelesiit",
+            "position": "Left Winger",
+            "injury": "Ankle injury",
             "since": "",
             "status": "out"
           }
@@ -1092,13 +1108,6 @@
             "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Ramy Bensebaini",
-            "position": "Centre-Back",
-            "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
           }
         ],
         "Borussia M\u00f6nchengladbach": [
@@ -1113,36 +1122,6 @@
             "player": "Nathan Ngoumou",
             "position": "Right Winger",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "1.FSV Mainz 05": [
-          {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -1173,6 +1152,36 @@
             "player": "David Santos Daiber",
             "position": "Defensive Midfield",
             "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -1210,7 +1219,7 @@
       }
     },
     "seriea": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Serie A",
       "total_injured": 75,
@@ -1782,10 +1791,10 @@
       }
     },
     "ligue1": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 60,
+      "total_injured": 59,
       "teams_affected": 18,
       "teams": {
         "Olympique Lyon": [
@@ -2018,9 +2027,9 @@
         ],
         "AJ Auxerre": [
           {
-            "player": "Romain Faivre",
-            "position": "Attacking Midfield",
-            "injury": "Knock",
+            "player": "Bryan Okoh",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           },
@@ -2039,9 +2048,9 @@
             "status": "out"
           },
           {
-            "player": "Bryan Okoh",
-            "position": "Centre-Back",
-            "injury": "Cruciate ligament tear",
+            "player": "Romain Faivre",
+            "position": "Attacking Midfield",
+            "injury": "Knock",
             "since": "",
             "status": "out"
           },
@@ -2235,22 +2244,15 @@
             "injury": "Back injury",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Quentin Ndjantou",
-            "position": "Left Winger",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
           }
         ]
       }
     },
     "portugal": {
-      "generated": "2026-05-29",
+      "generated": "2026-05-30",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
-      "total_injured": 19,
+      "total_injured": 18,
       "teams_affected": 10,
       "teams": {
         "SC Braga": [
@@ -2272,13 +2274,6 @@
             "player": "Sikou Niakat\u00e9",
             "position": "Centre-Back",
             "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Diego Rodrigues",
-            "position": "Central Midfield",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
