@@ -51,10 +51,33 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Marc\u00e3o",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Manu Bueno",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Javi Puado",
+          "position": "Left Winger",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -83,10 +106,33 @@
       "away": "Real Betis",
       "home_profile": null,
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "\u00c1lvaro Odriozola",
+          "position": "Right-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "\u00c1ngel Ortiz",
+          "position": "Right-Back",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Aitor Ruibal",
+          "position": "Right Winger",
+          "injury": "Meniscus injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -125,10 +171,33 @@
         "trajectory": "improving",
         "scoring_consistency": "unpredictable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Jan Salas",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mateo Joseph",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Juan Foyth",
+          "position": "Centre-Back",
+          "injury": "Achilles tendon rupture",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -155,9 +224,38 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Dimitri Foulquier",
+          "position": "Right-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jos\u00e9 Copete",
+          "position": "Centre-Back",
+          "injury": "Meniscus tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mouctar Diakhaby",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Diego L\u00f3pez",
+          "position": "Right Winger",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -225,10 +323,40 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Ferm\u00edn L\u00f3pez",
+          "position": "Attacking Midfield",
+          "injury": "Metatarsal fracture",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "\u00c9der Milit\u00e3o",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Rodrygo",
+          "position": "Right Winger",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Ferland Mendy",
+          "position": "Left-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -254,10 +382,40 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Andrei Ra\u021biu",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Juan Carlos",
+          "position": "Goalkeeper",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Vladyslav Vanat",
+          "position": "Centre-Forward",
+          "injury": "Torn thigh muscle",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Portu",
+          "position": "Right Winger",
+          "injury": "Torn knee ligaments",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -312,9 +470,24 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "\u00c1ngel Ortiz",
+          "position": "Right-Back",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Aitor Ruibal",
+          "position": "Right Winger",
+          "injury": "Meniscus injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 2,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -383,10 +556,61 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Conor Bradley",
+          "position": "Right-Back",
+          "injury": "Knee surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Giovanni Leoni",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Hugo Ekitik\u00e9",
+          "position": "Centre-Forward",
+          "injury": "Achilles tendon rupture",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Caleb Wiley",
+          "position": "Left-Back",
+          "injury": "Adductor injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Rom\u00e9o Lavia",
+          "position": "Defensive Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jamie Gittens",
+          "position": "Left Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Est\u00eav\u00e3o",
+          "position": "Right Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -412,10 +636,47 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Adam Webster",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Kaoru Mitoma",
+          "position": "Left Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Stefanos Tzimas",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Enso Gonz\u00e1lez",
+          "position": "Left Winger",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Sam Johnstone",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -441,10 +702,26 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Ryan Sessegnon",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Matai Akinmboni",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -470,10 +747,40 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Simon Moore",
+          "position": "Goalkeeper",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Romaine Mundle",
+          "position": "Left Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Benjamin Sesko",
+          "position": "Centre-Forward",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Matthijs de Ligt",
+          "position": "Centre-Back",
+          "injury": "Back injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -500,9 +807,38 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Yegor Yarmolyuk",
+          "position": "Central Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Rico Henry",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Antoni Milambo",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "F\u00e1bio Carvalho",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -541,10 +877,47 @@
         "trajectory": "stable",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Michael Obafemi",
+          "position": "Centre-Forward",
+          "injury": "Ankle surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jordan Beyer",
+          "position": "Centre-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Josh Cullen",
+          "position": "Central Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Alysson",
+          "position": "Right Winger",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Boubacar Kamara",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -583,10 +956,33 @@
         "trajectory": "declining",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Caleb Kporha",
+          "position": "Right-Back",
+          "injury": "Back injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Eddie Nketiah",
+          "position": "Centre-Forward",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Jack Grealish",
+          "position": "Left Winger",
+          "injury": "Foot surgery",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -612,10 +1008,68 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Willy Boly",
+          "position": "Centre-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Murillo",
+          "position": "Centre-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nicol\u00f2 Savona",
+          "position": "Right-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Callum Hudson-Odoi",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Tino Livramento",
+          "position": "Right-Back",
+          "injury": "Thigh problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Fabian Sch\u00e4r",
+          "position": "Centre-Back",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Emil Krafth",
+          "position": "Right-Back",
+          "injury": "Knee surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Lewis Miley",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 4,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -654,10 +1108,33 @@
         "trajectory": "improving",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Lukasz Fabianski",
+          "position": "Goalkeeper",
+          "injury": "Back injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Adama Traor\u00e9",
+          "position": "Right Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Ben White",
+          "position": "Right-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -683,10 +1160,82 @@
         "scoring_consistency": "consistent"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Ben Davies",
+          "position": "Centre-Back",
+          "injury": "Ankle surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Cristian Romero",
+          "position": "Centre-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mohammed Kudus",
+          "position": "Right Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Dejan Kulusevski",
+          "position": "Attacking Midfield",
+          "injury": "Knee surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Wilson Odobert",
+          "position": "Left Winger",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Xavi Simons",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Ilia Gruev",
+          "position": "Defensive Midfield",
+          "injury": "Meniscus injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Anton Stach",
+          "position": "Defensive Midfield",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Gabriel Gudmundsson",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Sean Longstaff",
+          "position": "Central Midfield",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 6,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -712,10 +1261,61 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Leopold Zingerle",
+          "position": "Goalkeeper",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Viggo Gebel",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Ayodele Thomas",
+          "position": "Left Winger",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Manolis Saliakas",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "James Sands",
+          "position": "Defensive Midfield",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jannik Robatsch",
+          "position": "Centre-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mathias Pereira Lage",
+          "position": "Left Winger",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -744,9 +1344,17 @@
       "away": "B. M\u00f6nchengladbach",
       "home_profile": null,
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Alexis Claude-Maurice",
+          "position": "Attacking Midfield",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 1,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -774,9 +1382,38 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Mitchell Weiser",
+          "position": "Right-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Karl Hein",
+          "position": "Goalkeeper",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Keke Topp",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Juli\u00e1n Malatini",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -802,10 +1439,89 @@
         "trajectory": "stable",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Rog\u00e9rio",
+          "position": "Left-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Kilian Fischer",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Patrick Wimmer",
+          "position": "Right Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jenson Seelt",
+          "position": "Centre-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Bence D\u00e1rdai",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Cleiton",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Maximilian Arnold",
+          "position": "Central Midfield",
+          "injury": "Groin problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Manuel Neuer",
+          "position": "Goalkeeper",
+          "injury": "Calf problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Alphonso Davies",
+          "position": "Left-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Serge Gnabry",
+          "position": "Second Striker",
+          "injury": "Adductor injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "David Santos Daiber",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 7,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -819,9 +1535,17 @@
       "home_profile": null,
       "away_profile": null,
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Yuito Suzuki",
+          "position": "Second Striker",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -860,10 +1584,68 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Michael Folorunsho",
+          "position": "Central Midfield",
+          "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Joseph Liteta",
+          "position": "Central Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Leonardo Pavoletti",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Riyad Idrissi",
+          "position": "Left-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Juan Arizala",
+          "position": "Left Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nicol\u00f2 Zaniolo",
+          "position": "Second Striker",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jurgen Ekkelenkamp",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Alessandro Zanoli",
+          "position": "Right-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 4,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -889,9 +1671,24 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Danilo Cataldi",
+          "position": "Defensive Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Ivan Provedel",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 2,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -931,10 +1728,47 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Riccardo Sottil",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Medon Berisha",
+          "position": "Central Midfield",
+          "injury": "Torn thigh muscle",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Emil Holm",
+          "position": "Right-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Juan Cabal",
+          "position": "Left-Back",
+          "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Kenan Y\u0131ld\u0131z",
+          "position": "Left Winger",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -960,10 +1794,54 @@
         "trajectory": "declining",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Daniel Oyegoke",
+          "position": "Right-Back",
+          "injury": "Ankle sprain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Daniel Mosquera",
+          "position": "Centre-Forward",
+          "injury": "Meniscus damage",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Suat Serdar",
+          "position": "Central Midfield",
+          "injury": "Cruciate ligament surgery",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Nico Paz",
+          "position": "Attacking Midfield",
+          "injury": "Bruised knee",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "\u00c1lex Valle",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jayden Addai",
+          "position": "Right Winger",
+          "injury": "Achilles tendon rupture",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1002,10 +1880,82 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Faris Moumbagna",
+          "position": "Centre-Forward",
+          "injury": "Adductor injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Antonio Sanabria",
+          "position": "Centre-Forward",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mart\u00edn Payero",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Warren Bondo",
+          "position": "Central Midfield",
+          "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Federico Baschirotto",
+          "position": "Centre-Back",
+          "injury": "Hamstring strain",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Francesco Coppola",
+          "position": "Centre-Back",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Matteo Tramoni",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Marius Marin",
+          "position": "Defensive Midfield",
+          "injury": "Knee problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Lorran",
+          "position": "Attacking Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Daniel Denoon",
+          "position": "Centre-Back",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 5,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1044,10 +1994,82 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Moise Kean",
+          "position": "Centre-Forward",
+          "injury": "Shin bruise",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Fabiano Parisi",
+          "position": "Left-Back",
+          "injury": "Cruciate ligament injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Maxwel Cornet",
+          "position": "Left Winger",
+          "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jean Onana",
+          "position": "Defensive Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Ruslan Malinovskyi",
+          "position": "Central Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Caleb Ekuban",
+          "position": "Centre-Forward",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Leo \u00d8stig\u00e5rd",
+          "position": "Centre-Back",
+          "injury": "Knock",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jeff Ekhator",
+          "position": "Centre-Forward",
+          "injury": "Metatarsal bruise",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Junior Messias",
+          "position": "Right Winger",
+          "injury": "Adductor injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 8,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1073,10 +2095,110 @@
         "scoring_consistency": "consistent"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Gaetano Oristanio",
+          "position": "Attacking Midfield",
+          "injury": "Knee problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Adri\u00e1n Bernab\u00e9",
+          "position": "Central Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nahuel Est\u00e9vez",
+          "position": "Defensive Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Gabriel Strefezza",
+          "position": "Right Winger",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Enrico Delprato",
+          "position": "Right-Back",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Benja Cremaschi",
+          "position": "Central Midfield",
+          "injury": "Meniscus injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Matija Frigan",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Filippo Rinaldi",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jacob Ondrejka",
+          "position": "Left Winger",
+          "injury": "surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nesta Elphege",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Evan Ndicka",
+          "position": "Centre-Back",
+          "injury": "Hamstring muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Evan Ferguson",
+          "position": "Centre-Forward",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Lorenzo Pellegrini",
+          "position": "Attacking Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 10,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1103,9 +2225,24 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Lorenzo Bernasconi",
+          "position": "Left Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Odilon Kossounou",
+          "position": "Centre-Back",
+          "injury": "Hamstring muscle injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1144,10 +2281,61 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Romelu Lukaku",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "David Neres",
+          "position": "Right Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Stanislav Lobotka",
+          "position": "Defensive Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Billy Gilmour",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Martin Vit\u00edk",
+          "position": "Centre-Back",
+          "injury": "Ankle sprain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Riccardo Orsolini",
+          "position": "Right Winger",
+          "injury": "Adductor pain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nicol\u00f2 Casale",
+          "position": "Centre-Back",
+          "injury": "Calf muscle tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1173,10 +2361,54 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Oussama El Azzouzi",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Fredrik Oppeg\u00e5rd",
+          "position": "Left-Back",
+          "injury": "Ankle sprain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Bryan Okoh",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Romain Faivre",
+          "position": "Attacking Midfield",
+          "injury": "Knock",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Cl\u00e9ment Akpa",
+          "position": "Centre-Back",
+          "injury": "Adductor pain",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Mo\u00efse Bombito",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 5,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1215,10 +2447,68 @@
         "trajectory": "improving",
         "scoring_consistency": "unpredictable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Yassin Belkhdim",
+          "position": "Central Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Louis Mouton",
+          "position": "Attacking Midfield",
+          "injury": "Meniscus injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Marius Courcoul",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Prosper Peter",
+          "position": "Centre-Forward",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Harouna Djibirin",
+          "position": "Right Winger",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Emmanuel Emegha",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Andrew Omobamidele",
+          "position": "Centre-Back",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Joaqu\u00edn Panichelli",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 5,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1244,10 +2534,82 @@
         "trajectory": "declining",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Caio Henrique",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mohammed Salisu",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Stanis Idumbo",
+          "position": "Attacking Midfield",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Aleksandr Golovin",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Kassoum Ouattara",
+          "position": "Left-Back",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Takumi Minamino",
+          "position": "Left Winger",
+          "injury": "Torn knee ligaments",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Ousmane Tour\u00e9",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Marc-Aur\u00e8le Caillard",
+          "position": "Goalkeeper",
+          "injury": "Elbow injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Hamza Igamane",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Marius Broholm",
+          "position": "Right Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 6,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1286,10 +2648,61 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Stephan Zagadou",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Noam Obougou",
+          "position": "Centre-Forward",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Yanis Zouaoui",
+          "position": "Left-Back",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Geoffrey Kondogbia",
+          "position": "Defensive Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Hamed Traor\u00e9",
+          "position": "Left Winger",
+          "injury": "Adductor pain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "CJ Egan-Riley",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1328,10 +2741,40 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Jessy Deminguet",
+          "position": "Central Midfield",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Boubacar Traor\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Joseph Mangondo",
+          "position": "Centre-Forward",
+          "injury": "Knee problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Bingourou Kamara",
+          "position": "Goalkeeper",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 3,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1358,9 +2801,31 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Mama Bald\u00e9",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Junior Dina Ebimbe",
+          "position": "Right Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Souma\u00efla Coulibaly",
+          "position": "Centre-Back",
+          "injury": "Shin injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1386,10 +2851,47 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Przemyslaw Frankowski",
+          "position": "Right-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "J\u00e9r\u00e9my Jacquet",
+          "position": "Centre-Back",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Julien Lopez",
+          "position": "Left Winger",
+          "injury": "Back injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Pierre-Yves Hamel",
+          "position": "Centre-Forward",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Jean-Philippe Krasso",
+          "position": "Centre-Forward",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1428,10 +2930,40 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Rafik Messali",
+          "position": "Right-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Tyler Morton",
+          "position": "Defensive Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Tanner Tessmann",
+          "position": "Defensive Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "R\u00e9mi Himbert",
+          "position": "Left Winger",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
