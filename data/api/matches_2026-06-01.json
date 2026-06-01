@@ -1,0 +1,79 @@
+{
+  "PD": {
+    "competition": "LaLiga",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "PL": {
+    "competition": "Premier League",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "BL1": {
+    "competition": "Bundesliga",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "SA": {
+    "competition": "Serie A",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "FL1": {
+    "competition": "Ligue 1",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "CL": {
+    "competition": "Champions League",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 1,
+    "matches": [
+      {
+        "id": 552096,
+        "matchday": null,
+        "date": "2026-05-30",
+        "time": "16:00",
+        "status": "FINISHED",
+        "home_team": "Paris Saint-Germain FC",
+        "home_short": "PSG",
+        "home_tla": "PSG",
+        "away_team": "Arsenal FC",
+        "away_short": "Arsenal",
+        "away_tla": "ARS",
+        "ft_home": 5,
+        "ft_away": 4,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Daniel Siebert",
+            "nationality": "Germany"
+          }
+        ]
+      }
+    ]
+  },
+  "PPL": {
+    "competition": "Primeira Liga",
+    "date_range": "2026-05-25 to 2026-06-01",
+    "count": 0,
+    "matches": []
+  },
+  "EL": {
+    "competition": "Europa League",
+    "count": 0,
+    "matches": []
+  },
+  "ECL": {
+    "competition": "Conference League",
+    "count": 0,
+    "matches": []
+  }
+}

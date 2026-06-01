@@ -1,91 +1,22 @@
 {
-  "generated": "2026-05-31",
+  "generated": "2026-06-01",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 51,
-  "teams_affected": 19,
+  "total_injured": 43,
+  "teams_affected": 18,
   "teams": {
-    "Brentford FC": [
+    "West Ham United": [
       {
-        "player": "Yegor Yarmolyuk",
-        "position": "Central Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Rico Henry",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Antoni Milambo",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "F\u00e1bio Carvalho",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AFC Bournemouth": [
-      {
-        "player": "Matai Akinmboni",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Crystal Palace": [
-      {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
+        "player": "Lukasz Fabianski",
+        "position": "Goalkeeper",
         "injury": "Back injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Eddie Nketiah",
-        "position": "Centre-Forward",
+        "player": "Adama Traor\u00e9",
+        "position": "Right Winger",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Nottingham Forest": [
-      {
-        "player": "Willy Boly",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Murillo",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicol\u00f2 Savona",
-        "position": "Right-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Callum Hudson-Odoi",
-        "position": "Left Winger",
-        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -95,13 +26,6 @@
         "player": "Caleb Wiley",
         "position": "Left-Back",
         "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Rom\u00e9o Lavia",
-        "position": "Defensive Midfield",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
@@ -120,33 +44,17 @@
         "status": "out"
       }
     ],
-    "Sunderland AFC": [
+    "Crystal Palace": [
       {
-        "player": "Simon Moore",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Romaine Mundle",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "West Ham United": [
-      {
-        "player": "Lukasz Fabianski",
-        "position": "Goalkeeper",
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
         "injury": "Back injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Adama Traor\u00e9",
-        "position": "Right Winger",
+        "player": "Eddie Nketiah",
+        "position": "Centre-Forward",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
@@ -177,13 +85,6 @@
         "status": "out"
       },
       {
-        "player": "Anton Stach",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Gabriel Gudmundsson",
         "position": "Left-Back",
         "injury": "Hamstring injury",
@@ -198,20 +99,82 @@
         "status": "out"
       }
     ],
-    "Everton FC": [
+    "Nottingham Forest": [
       {
-        "player": "Jack Grealish",
+        "player": "Willy Boly",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Savona",
+        "position": "Right-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Callum Hudson-Odoi",
         "position": "Left Winger",
-        "injury": "Foot surgery",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Sunderland AFC": [
+      {
+        "player": "Simon Moore",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Romaine Mundle",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AFC Bournemouth": [
+      {
+        "player": "Matai Akinmboni",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Brentford FC": [
+      {
+        "player": "Yegor Yarmolyuk",
+        "position": "Central Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Antoni Milambo",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "F\u00e1bio Carvalho",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
     ],
     "Brighton &amp; Hove Albion": [
       {
-        "player": "Adam Webster",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament injury",
+        "player": "Ferdi Kad\u0131o\u011flu",
+        "position": "Left-Back",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
@@ -230,44 +193,7 @@
         "status": "out"
       }
     ],
-    "Newcastle United": [
-      {
-        "player": "Tino Livramento",
-        "position": "Right-Back",
-        "injury": "Thigh problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fabian Sch\u00e4r",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Tottenham Hotspur": [
-      {
-        "player": "Ben Davies",
-        "position": "Centre-Back",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Cristian Romero",
         "position": "Centre-Back",
@@ -345,25 +271,18 @@
         "status": "out"
       }
     ],
-    "Liverpool FC": [
+    "Newcastle United": [
       {
-        "player": "Conor Bradley",
+        "player": "Emil Krafth",
         "position": "Right-Back",
         "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Giovanni Leoni",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Hugo Ekitik\u00e9",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
+        "player": "Lewis Miley",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -387,6 +306,29 @@
         "player": "Josh Cullen",
         "position": "Central Midfield",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Liverpool FC": [
+      {
+        "player": "Conor Bradley",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Giovanni Leoni",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Hugo Ekitik\u00e9",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       }

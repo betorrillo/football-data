@@ -1,14 +1,37 @@
 {
-  "generated": "2026-05-31",
+  "generated": "2026-06-01",
   "source": "transfermarkt.com",
   "league": "Primeira Liga",
   "total_injured": 17,
   "teams_affected": 10,
   "teams": {
-    "Moreirense FC": [
+    "SC Braga": [
       {
-        "player": "Vasco Sousa",
-        "position": "Central Midfield",
+        "player": "Bright Arrey-Mbi",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Adrian Leon Barisic",
+        "position": "Centre-Back",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sikou Niakat\u00e9",
+        "position": "Centre-Back",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Avs Futebol": [
+      {
+        "player": "Antoine Baroan",
+        "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -30,11 +53,36 @@
         "status": "out"
       }
     ],
-    "Avs Futebol": [
+    "Rio Ave FC": [
       {
-        "player": "Antoine Baroan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Brandon Aguilera",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Cezary Miszta",
+        "position": "Goalkeeper",
+        "injury": "Back problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Gil Vicente FC": [
+      {
+        "player": "Mohamed Bamba",
+        "position": "Defensive Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "CD Santa Clara": [
+      {
+        "player": "MT",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -55,59 +103,11 @@
         "status": "out"
       }
     ],
-    "Gil Vicente FC": [
+    "Moreirense FC": [
       {
-        "player": "Mohamed Bamba",
-        "position": "Defensive Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Rio Ave FC": [
-      {
-        "player": "Brandon Aguilera",
+        "player": "Vasco Sousa",
         "position": "Central Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Cezary Miszta",
-        "position": "Goalkeeper",
-        "injury": "Back problems",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "CD Santa Clara": [
-      {
-        "player": "MT",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SC Braga": [
-      {
-        "player": "Adrian Leon Barisic",
-        "position": "Centre-Back",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bright Arrey-Mbi",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Sikou Niakat\u00e9",
-        "position": "Centre-Back",
-        "injury": "Achilles tendon rupture",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
