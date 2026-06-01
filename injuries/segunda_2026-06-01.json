@@ -2,7 +2,7 @@
   "generated": "2026-06-01",
   "source": "transfermarkt.com",
   "league": "Segunda Division",
-  "total_injured": 19,
+  "total_injured": 18,
   "teams_affected": 13,
   "teams": {
     "SD Huesca": [
@@ -14,20 +14,20 @@
         "status": "out"
       }
     ],
-    "UD Las Palmas": [
-      {
-        "player": "Jerem\u00eda Recoba",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "C\u00e1diz CF": [
       {
         "player": "Iuri Tabatadze",
         "position": "Right Winger",
         "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "UD Las Palmas": [
+      {
+        "player": "Jerem\u00eda Recoba",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -55,19 +55,19 @@
         "status": "out"
       }
     ],
-    "Deportivo de La Coru\u00f1a": [
+    "Albacete Balompi\u00e9": [
       {
-        "player": "David Mella",
-        "position": "Right Winger",
+        "player": "Higinio Mar\u00edn",
+        "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       }
     ],
-    "Albacete Balompi\u00e9": [
+    "Deportivo de La Coru\u00f1a": [
       {
-        "player": "Higinio Mar\u00edn",
-        "position": "Centre-Forward",
+        "player": "David Mella",
+        "position": "Right Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -96,27 +96,20 @@
         "status": "out"
       }
     ],
-    "CD Mirand\u00e9s": [
-      {
-        "player": "Alberto Mar\u00ed",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Pablo L\u00f3pez",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Sporting Gij\u00f3n": [
       {
         "player": "Andr\u00e9s Ferrari",
         "position": "Centre-Forward",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "CD Mirand\u00e9s": [
+      {
+        "player": "Pablo L\u00f3pez",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

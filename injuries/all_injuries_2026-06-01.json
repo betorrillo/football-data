@@ -1,7 +1,7 @@
 {
   "generated": "2026-06-01",
   "source": "transfermarkt.com",
-  "total_injured": 253,
+  "total_injured": 252,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
@@ -218,7 +218,7 @@
       "generated": "2026-06-01",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
-      "total_injured": 19,
+      "total_injured": 18,
       "teams_affected": 13,
       "teams": {
         "SD Huesca": [
@@ -230,20 +230,20 @@
             "status": "out"
           }
         ],
-        "UD Las Palmas": [
-          {
-            "player": "Jerem\u00eda Recoba",
-            "position": "Left Winger",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "C\u00e1diz CF": [
           {
             "player": "Iuri Tabatadze",
             "position": "Right Winger",
             "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "UD Las Palmas": [
+          {
+            "player": "Jerem\u00eda Recoba",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -271,19 +271,19 @@
             "status": "out"
           }
         ],
-        "Deportivo de La Coru\u00f1a": [
+        "Albacete Balompi\u00e9": [
           {
-            "player": "David Mella",
-            "position": "Right Winger",
+            "player": "Higinio Mar\u00edn",
+            "position": "Centre-Forward",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           }
         ],
-        "Albacete Balompi\u00e9": [
+        "Deportivo de La Coru\u00f1a": [
           {
-            "player": "Higinio Mar\u00edn",
-            "position": "Centre-Forward",
+            "player": "David Mella",
+            "position": "Right Winger",
             "injury": "Unknown",
             "since": "",
             "status": "out"
@@ -312,27 +312,20 @@
             "status": "out"
           }
         ],
-        "CD Mirand\u00e9s": [
-          {
-            "player": "Alberto Mar\u00ed",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Pablo L\u00f3pez",
-            "position": "Left Winger",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Sporting Gij\u00f3n": [
           {
             "player": "Andr\u00e9s Ferrari",
             "position": "Centre-Forward",
             "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "CD Mirand\u00e9s": [
+          {
+            "player": "Pablo L\u00f3pez",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -554,29 +547,6 @@
             "status": "out"
           }
         ],
-        "Brighton &amp; Hove Albion": [
-          {
-            "player": "Ferdi Kad\u0131o\u011flu",
-            "position": "Left-Back",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kaoru Mitoma",
-            "position": "Left Winger",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Stefanos Tzimas",
-            "position": "Centre-Forward",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Tottenham Hotspur": [
           {
             "player": "Cristian Romero",
@@ -626,6 +596,29 @@
             "player": "Boubacar Kamara",
             "position": "Defensive Midfield",
             "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Brighton &amp; Hove Albion": [
+          {
+            "player": "Ferdi Kad\u0131o\u011flu",
+            "position": "Left-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kaoru Mitoma",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Stefanos Tzimas",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -732,21 +725,21 @@
       "generated": "2026-06-01",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 49,
+      "total_injured": 50,
       "teams_affected": 17,
       "teams": {
         "SV Werder Bremen": [
           {
-            "player": "Mitchell Weiser",
-            "position": "Right-Back",
-            "injury": "Cruciate ligament tear",
+            "player": "Karl Hein",
+            "position": "Goalkeeper",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Karl Hein",
-            "position": "Goalkeeper",
-            "injury": "Unknown",
+            "player": "Mitchell Weiser",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           },
@@ -774,16 +767,16 @@
             "status": "out"
           },
           {
-            "player": "Alexander R\u00f8ssing-Lelesiit",
-            "position": "Left Winger",
-            "injury": "Ankle injury",
+            "player": "Fernando Dickes",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Fernando Dickes",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Alexander R\u00f8ssing-Lelesiit",
+            "position": "Left Winger",
+            "injury": "Ankle injury",
             "since": "",
             "status": "out"
           }
@@ -944,6 +937,13 @@
             "status": "out"
           },
           {
+            "player": "Christoph Baumgartner",
+            "position": "Attacking Midfield",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Viggo Gebel",
             "position": "Attacking Midfield",
             "injury": "Cruciate ligament tear",
@@ -1061,16 +1061,16 @@
             "status": "out"
           },
           {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
-            "injury": "Hamstring injury",
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
             "since": "",
             "status": "out"
           },
@@ -1118,21 +1118,21 @@
       "generated": "2026-06-01",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 47,
+      "total_injured": 46,
       "teams_affected": 19,
       "teams": {
-        "Juventus FC": [
+        "AS Roma": [
           {
-            "player": "Emil Holm",
-            "position": "Right-Back",
-            "injury": "Muscle injury",
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Kenan Y\u0131ld\u0131z",
-            "position": "Left Winger",
-            "injury": "Calf injury",
+            "player": "Evan Ndicka",
+            "position": "Centre-Back",
+            "injury": "Hamstring muscle injury",
             "since": "",
             "status": "out"
           }
@@ -1293,18 +1293,18 @@
             "status": "out"
           }
         ],
-        "AS Roma": [
+        "Juventus FC": [
           {
-            "player": "Evan Ndicka",
-            "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
+            "player": "Emil Holm",
+            "position": "Right-Back",
+            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Bryan Zaragoza",
+            "player": "Kenan Y\u0131ld\u0131z",
             "position": "Left Winger",
-            "injury": "Unknown",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           }
@@ -1318,16 +1318,16 @@
             "status": "out"
           },
           {
-            "player": "Zanos Savva",
+            "player": "Zakaria Aboukhlal",
             "position": "Right Winger",
-            "injury": "unknown injury",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Zakaria Aboukhlal",
+            "player": "Zanos Savva",
             "position": "Right Winger",
-            "injury": "Unknown",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           }
@@ -1362,13 +1362,6 @@
             "injury": "Groin injury",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Hakan \u00c7alhano\u011flu",
-            "position": "Defensive Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
           }
         ],
         "Parma Calcio 1913": [
@@ -1387,6 +1380,13 @@
             "status": "out"
           },
           {
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Filippo Rinaldi",
             "position": "Goalkeeper",
             "injury": "Shoulder injury",
@@ -1401,13 +1401,6 @@
             "status": "out"
           },
           {
-            "player": "Matija Frigan",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Nesta Elphege",
             "position": "Centre-Forward",
             "injury": "Unknown",
@@ -1416,13 +1409,6 @@
           }
         ],
         "Genoa CFC": [
-          {
-            "player": "Jean Onana",
-            "position": "Defensive Midfield",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
           {
             "player": "Benjamin Siegrist",
             "position": "Goalkeeper",
@@ -1434,6 +1420,13 @@
             "player": "Maxwel Cornet",
             "position": "Left Winger",
             "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jean Onana",
+            "position": "Defensive Midfield",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           },
