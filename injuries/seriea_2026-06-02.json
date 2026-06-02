@@ -1,22 +1,22 @@
 {
-  "generated": "2026-06-01",
+  "generated": "2026-06-02",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 46,
+  "total_injured": 45,
   "teams_affected": 19,
   "teams": {
-    "AS Roma": [
+    "Juventus FC": [
       {
-        "player": "Bryan Zaragoza",
-        "position": "Left Winger",
-        "injury": "Unknown",
+        "player": "Emil Holm",
+        "position": "Right-Back",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Evan Ndicka",
-        "position": "Centre-Back",
-        "injury": "Hamstring muscle injury",
+        "player": "Kenan Y\u0131ld\u0131z",
+        "position": "Left Winger",
+        "injury": "Calf injury",
         "since": "",
         "status": "out"
       }
@@ -54,29 +54,6 @@
         "player": "Fali Cand\u00e9",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SSC Napoli": [
-      {
-        "player": "Romelu Lukaku",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stanislav Lobotka",
-        "position": "Defensive Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Billy Gilmour",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -177,18 +154,18 @@
         "status": "out"
       }
     ],
-    "Juventus FC": [
+    "AS Roma": [
       {
-        "player": "Emil Holm",
-        "position": "Right-Back",
-        "injury": "Muscle injury",
+        "player": "Evan Ndicka",
+        "position": "Centre-Back",
+        "injury": "Hamstring muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Kenan Y\u0131ld\u0131z",
+        "player": "Bryan Zaragoza",
         "position": "Left Winger",
-        "injury": "Calf injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -202,16 +179,16 @@
         "status": "out"
       },
       {
-        "player": "Zakaria Aboukhlal",
+        "player": "Zanos Savva",
         "position": "Right Winger",
-        "injury": "Unknown",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Zanos Savva",
+        "player": "Zakaria Aboukhlal",
         "position": "Right Winger",
-        "injury": "unknown injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -264,13 +241,6 @@
         "status": "out"
       },
       {
-        "player": "Matija Frigan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Filippo Rinaldi",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
@@ -281,6 +251,13 @@
         "player": "Jacob Ondrejka",
         "position": "Left Winger",
         "injury": "surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Matija Frigan",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -301,13 +278,6 @@
         "status": "out"
       },
       {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Jean Onana",
         "position": "Defensive Midfield",
         "injury": "unknown injury",
@@ -315,9 +285,32 @@
         "status": "out"
       },
       {
+        "player": "Maxwel Cornet",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Junior Messias",
         "position": "Right Winger",
         "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SSC Napoli": [
+      {
+        "player": "Stanislav Lobotka",
+        "position": "Defensive Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Billy Gilmour",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
