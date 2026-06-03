@@ -1,29 +1,29 @@
 {
-  "generated": "2026-06-02",
+  "generated": "2026-06-03",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 48,
-  "teams_affected": 17,
+  "total_injured": 49,
+  "teams_affected": 18,
   "teams": {
-    "FC St. Pauli": [
+    "1.FC Union Berlin": [
       {
-        "player": "Manolis Saliakas",
-        "position": "Right-Back",
+        "player": "Matheo Raab",
+        "position": "Goalkeeper",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
+        "player": "Livan Burcu",
+        "position": "Left Winger",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
+        "player": "Frederik R\u00f6nnow",
+        "position": "Goalkeeper",
+        "injury": "Adductor injury",
         "since": "",
         "status": "out"
       }
@@ -58,18 +58,11 @@
         "status": "out"
       }
     ],
-    "Borussia M\u00f6nchengladbach": [
+    "VfB Stuttgart": [
       {
-        "player": "Haris Tabakovic",
-        "position": "Centre-Forward",
-        "injury": "Metatarsal fracture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nathan Ngoumou",
-        "position": "Right Winger",
-        "injury": "Unknown",
+        "player": "Lorenz Assignon",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -100,6 +93,22 @@
         "player": "David Santos Daiber",
         "position": "Defensive Midfield",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Borussia M\u00f6nchengladbach": [
+      {
+        "player": "Nathan Ngoumou",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Haris Tabakovic",
+        "position": "Centre-Forward",
+        "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
       }
@@ -157,25 +166,25 @@
         "status": "out"
       }
     ],
-    "1.FC Union Berlin": [
+    "FC St. Pauli": [
       {
-        "player": "Matheo Raab",
-        "position": "Goalkeeper",
+        "player": "Manolis Saliakas",
+        "position": "Right-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Livan Burcu",
-        "position": "Left Winger",
-        "injury": "unknown injury",
+        "player": "James Sands",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Frederik R\u00f6nnow",
-        "position": "Goalkeeper",
-        "injury": "Adductor injury",
+        "player": "Mathias Pereira Lage",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

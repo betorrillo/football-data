@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-02",
+  "generated": "2026-06-03",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 46,
+  "total_injured": 45,
   "teams_affected": 19,
   "teams": {
     "Genoa CFC": [
       {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
@@ -21,16 +21,9 @@
         "status": "out"
       },
       {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Junior Messias",
-        "position": "Right Winger",
-        "injury": "Adductor injury",
+        "player": "Maxwel Cornet",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       }
@@ -136,13 +129,6 @@
         "status": "out"
       },
       {
-        "player": "Filippo Rinaldi",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Nesta Elphege",
         "position": "Centre-Forward",
         "injury": "Unknown",
@@ -160,6 +146,13 @@
         "player": "Jacob Ondrejka",
         "position": "Left Winger",
         "injury": "surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Filippo Rinaldi",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -196,16 +189,16 @@
         "status": "out"
       },
       {
-        "player": "Zanos Savva",
+        "player": "Zakaria Aboukhlal",
         "position": "Right Winger",
-        "injury": "unknown injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Zakaria Aboukhlal",
+        "player": "Zanos Savva",
         "position": "Right Winger",
-        "injury": "Unknown",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
@@ -226,6 +219,22 @@
         "status": "out"
       }
     ],
+    "AS Roma": [
+      {
+        "player": "Bryan Zaragoza",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Evan Ndicka",
+        "position": "Centre-Back",
+        "injury": "Hamstring muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "SSC Napoli": [
       {
         "player": "Billy Gilmour",
@@ -242,38 +251,6 @@
         "status": "out"
       }
     ],
-    "Bologna FC 1909": [
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Riccardo Orsolini",
-        "position": "Right Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AS Roma": [
-      {
-        "player": "Evan Ndicka",
-        "position": "Centre-Back",
-        "injury": "Hamstring muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bryan Zaragoza",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Inter Milan": [
       {
         "player": "Stefan de Vrij",
@@ -283,18 +260,18 @@
         "status": "out"
       }
     ],
-    "SS Lazio": [
+    "Atalanta BC": [
       {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
+        "player": "Lorenzo Bernasconi",
+        "position": "Left Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Odilon Kossounou",
+        "position": "Centre-Back",
+        "injury": "Hamstring muscle injury",
         "since": "",
         "status": "out"
       }
@@ -315,18 +292,34 @@
         "status": "out"
       }
     ],
-    "Atalanta BC": [
+    "SS Lazio": [
       {
-        "player": "Lorenzo Bernasconi",
-        "position": "Left Midfield",
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Odilon Kossounou",
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Bologna FC 1909": [
+      {
+        "player": "Riccardo Orsolini",
+        "position": "Right Winger",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Martin Vit\u00edk",
         "position": "Centre-Back",
-        "injury": "Hamstring muscle injury",
+        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       }

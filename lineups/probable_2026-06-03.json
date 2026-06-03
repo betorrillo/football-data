@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02",
+  "generated": "2026-06-03",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -711,10 +711,17 @@
           "injury": "Muscle injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Julio Soler",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 1,
-      "away_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1271,9 +1278,17 @@
       "away": "Bayer Leverkusen",
       "home_profile": null,
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Lorenz Assignon",
+          "position": "Right-Back",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 1,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1850,9 +1865,9 @@
       ],
       "away_injuries": [
         {
-          "player": "Maxwel Cornet",
-          "position": "Left Winger",
-          "injury": "Muscle fatigue",
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -1864,22 +1879,15 @@
           "status": "out"
         },
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
-          "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Junior Messias",
-          "position": "Right Winger",
-          "injury": "Adductor injury",
+          "player": "Maxwel Cornet",
+          "position": "Left Winger",
+          "injury": "Muscle fatigue",
           "since": "",
           "status": "out"
         }
       ],
       "home_injury_count": 1,
-      "away_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1921,13 +1929,6 @@
           "status": "out"
         },
         {
-          "player": "Filippo Rinaldi",
-          "position": "Goalkeeper",
-          "injury": "Shoulder injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Nesta Elphege",
           "position": "Centre-Forward",
           "injury": "Unknown",
@@ -1947,20 +1948,27 @@
           "injury": "surgery",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Filippo Rinaldi",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [
         {
-          "player": "Evan Ndicka",
-          "position": "Centre-Back",
-          "injury": "Hamstring muscle injury",
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
+          "player": "Evan Ndicka",
+          "position": "Centre-Back",
+          "injury": "Hamstring muscle injury",
           "since": "",
           "status": "out"
         }
@@ -2067,16 +2075,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Martin Vit\u00edk",
-          "position": "Centre-Back",
-          "injury": "Ankle sprain",
+          "player": "Riccardo Orsolini",
+          "position": "Right Winger",
+          "injury": "Adductor pain",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Riccardo Orsolini",
-          "position": "Right Winger",
-          "injury": "Adductor pain",
+          "player": "Martin Vit\u00edk",
+          "position": "Centre-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         }
@@ -2110,6 +2118,13 @@
       },
       "home_injuries": [
         {
+          "player": "Oussama El Azzouzi",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Fredrik Oppeg\u00e5rd",
           "position": "Left-Back",
           "injury": "Ankle sprain",
@@ -2134,13 +2149,6 @@
           "player": "Cl\u00e9ment Akpa",
           "position": "Centre-Back",
           "injury": "Adductor pain",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Oussama El Azzouzi",
-          "position": "Defensive Midfield",
-          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         }
@@ -2188,13 +2196,6 @@
       },
       "home_injuries": [
         {
-          "player": "Prosper Peter",
-          "position": "Centre-Forward",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Yassin Belkhdim",
           "position": "Central Midfield",
           "injury": "Unknown",
@@ -2212,6 +2213,13 @@
           "player": "Marius Courcoul",
           "position": "Defensive Midfield",
           "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Prosper Peter",
+          "position": "Centre-Forward",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -2319,6 +2327,13 @@
       ],
       "away_injuries": [
         {
+          "player": "Ousmane Tour\u00e9",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Marc-Aur\u00e8le Caillard",
           "position": "Goalkeeper",
           "injury": "Elbow injury",
@@ -2336,13 +2351,6 @@
           "player": "Marius Broholm",
           "position": "Right Winger",
           "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Ousmane Tour\u00e9",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         }
@@ -2389,16 +2397,9 @@
       },
       "home_injuries": [
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Yanis Zouaoui",
-          "position": "Left-Back",
-          "injury": "Calf injury",
+          "player": "Stephan Zagadou",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -2410,9 +2411,16 @@
           "status": "out"
         },
         {
-          "player": "Stephan Zagadou",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
+          "player": "Yanis Zouaoui",
+          "position": "Left-Back",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         }
