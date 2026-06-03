@@ -695,15 +695,7 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [
-        {
-          "player": "Ryan Sessegnon",
-          "position": "Left-Back",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        }
-      ],
+      "home_injuries": [],
       "away_injuries": [
         {
           "player": "Matai Akinmboni",
@@ -720,7 +712,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 1,
+      "home_injury_count": 0,
       "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
@@ -2196,6 +2188,13 @@
       },
       "home_injuries": [
         {
+          "player": "Harouna Djibirin",
+          "position": "Right Winger",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Yassin Belkhdim",
           "position": "Central Midfield",
           "injury": "Unknown",
@@ -2220,13 +2219,6 @@
           "player": "Prosper Peter",
           "position": "Centre-Forward",
           "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Harouna Djibirin",
-          "position": "Right Winger",
-          "injury": "Ankle injury",
           "since": "",
           "status": "out"
         }
@@ -2327,13 +2319,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Ousmane Tour\u00e9",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Marc-Aur\u00e8le Caillard",
           "position": "Goalkeeper",
           "injury": "Elbow injury",
@@ -2351,6 +2336,13 @@
           "player": "Marius Broholm",
           "position": "Right Winger",
           "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Ousmane Tour\u00e9",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         }
@@ -2397,16 +2389,9 @@
       },
       "home_injuries": [
         {
-          "player": "Stephan Zagadou",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Noam Obougou",
-          "position": "Centre-Forward",
-          "injury": "Groin injury",
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
@@ -2418,21 +2403,21 @@
           "status": "out"
         },
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
+          "player": "Noam Obougou",
+          "position": "Centre-Forward",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Stephan Zagadou",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         }
       ],
       "away_injuries": [
-        {
-          "player": "Geoffrey Kondogbia",
-          "position": "Defensive Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
         {
           "player": "Hamed Traor\u00e9",
           "position": "Left Winger",
@@ -2443,6 +2428,13 @@
         {
           "player": "CJ Egan-Riley",
           "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Geoffrey Kondogbia",
+          "position": "Defensive Midfield",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -2509,13 +2501,6 @@
           "injury": "Knee problems",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "Giorgi Tsitaishvili",
-          "position": "Left Winger",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
         }
       ],
       "away_injuries": [
@@ -2527,7 +2512,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 4,
+      "home_injury_count": 3,
       "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
@@ -2612,13 +2597,6 @@
           "injury": "Muscle injury",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "J\u00e9r\u00e9my Jacquet",
-          "position": "Centre-Back",
-          "injury": "Shoulder injury",
-          "since": "",
-          "status": "out"
         }
       ],
       "away_injuries": [
@@ -2644,7 +2622,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 1,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",

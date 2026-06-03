@@ -4,6 +4,32 @@
   "league": "LaLiga",
   "referees": [
     {
+      "name": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+      "transfermarkt_id": "1651",
+      "career_matches": 620,
+      "career_yc": 3480,
+      "career_yc_per_match": 5.61,
+      "career_rc": 208,
+      "career_rc_per_match": 0.34,
+      "career_pk": 204,
+      "career_pk_per_match": 0.33,
+      "career_total_cards_per_match": 5.95,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Mateo Busquets Ferrer",
+      "transfermarkt_id": "27181",
+      "career_matches": 161,
+      "career_yc": 870,
+      "career_yc_per_match": 5.4,
+      "career_rc": 59,
+      "career_rc_per_match": 0.37,
+      "career_pk": 42,
+      "career_pk_per_match": 0.26,
+      "career_total_cards_per_match": 5.77,
+      "verdict": "MUY ALTO"
+    },
+    {
       "name": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
       "transfermarkt_id": "5708",
       "career_matches": 525,
@@ -121,6 +147,19 @@
       "verdict": "MUY ALTO"
     },
     {
+      "name": "C\u00e9sar Soto Grado",
+      "transfermarkt_id": "5120",
+      "career_matches": 339,
+      "career_yc": 1677,
+      "career_yc_per_match": 4.95,
+      "career_rc": 77,
+      "career_rc_per_match": 0.23,
+      "career_pk": 117,
+      "career_pk_per_match": 0.35,
+      "career_total_cards_per_match": 5.17,
+      "verdict": "MUY ALTO"
+    },
+    {
       "name": "Guillermo Cuadra Fern\u00e1ndez",
       "transfermarkt_id": "9444",
       "career_matches": 376,
@@ -145,6 +184,19 @@
       "career_pk_per_match": 0.14,
       "career_total_cards_per_match": 5.04,
       "verdict": "MUY ALTO"
+    },
+    {
+      "name": "De Burgos Bengoetxea",
+      "transfermarkt_id": "5102",
+      "career_matches": 542,
+      "career_yc": 2549,
+      "career_yc_per_match": 4.7,
+      "career_rc": 107,
+      "career_rc_per_match": 0.2,
+      "career_pk": 150,
+      "career_pk_per_match": 0.28,
+      "career_total_cards_per_match": 4.9,
+      "verdict": "ALTO"
     },
     {
       "name": "Juan Mart\u00ednez Munuera",
@@ -238,5 +290,5 @@
       "verdict": "BAJO"
     }
   ],
-  "total": 18
+  "total": 22
 }
