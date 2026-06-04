@@ -1,29 +1,22 @@
 {
-  "generated": "2026-06-03",
+  "generated": "2026-06-04",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 43,
+  "total_injured": 44,
   "teams_affected": 17,
   "teams": {
-    "Leeds United": [
+    "Arsenal FC": [
       {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
-        "injury": "Meniscus injury",
+        "player": "Jurri\u00ebn Timber",
+        "position": "Right-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Gabriel Gudmundsson",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Sean Longstaff",
-        "position": "Central Midfield",
-        "injury": "Groin injury",
+        "player": "Ben White",
+        "position": "Right-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -253,6 +246,29 @@
         "status": "out"
       }
     ],
+    "Leeds United": [
+      {
+        "player": "Gabriel Gudmundsson",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sean Longstaff",
+        "position": "Central Midfield",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Manchester United": [
       {
         "player": "Benjamin Sesko",
@@ -327,15 +343,6 @@
         "player": "Josh Cullen",
         "position": "Central Midfield",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Arsenal FC": [
-      {
-        "player": "Ben White",
-        "position": "Right-Back",
-        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-03",
+  "generated": "2026-06-04",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 49,
+  "total_injured": 48,
   "teams_affected": 18,
   "teams": {
     "1.FC Union Berlin": [
@@ -10,13 +10,6 @@
         "player": "Matheo Raab",
         "position": "Goalkeeper",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Livan Burcu",
-        "position": "Left Winger",
-        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
@@ -37,9 +30,9 @@
         "status": "out"
       },
       {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "player": "Karl Hein",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -51,9 +44,9 @@
         "status": "out"
       },
       {
-        "player": "Karl Hein",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -267,31 +260,24 @@
         "status": "out"
       }
     ],
-    "1.FSV Mainz 05": [
+    "Bayer 04 Leverkusen": [
       {
-        "player": "Silas",
+        "player": "Nathan Tella",
         "position": "Right Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
+        "player": "Martin Terrier",
+        "position": "Left Winger",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Benedict Hollerbach",
+        "player": "Christian Kofane",
         "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"
@@ -299,16 +285,16 @@
     ],
     "Eintracht Frankfurt": [
       {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -331,25 +317,32 @@
         "status": "out"
       }
     ],
-    "Bayer 04 Leverkusen": [
+    "1.FSV Mainz 05": [
       {
-        "player": "Christian Kofane",
-        "position": "Centre-Forward",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Martin Terrier",
-        "position": "Left Winger",
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nathan Tella",
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Silas",
         "position": "Right Winger",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kasey Bos",
+        "position": "Left-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }

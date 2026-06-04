@@ -1,14 +1,37 @@
 {
-  "generated": "2026-06-03",
+  "generated": "2026-06-04",
   "source": "transfermarkt.com",
   "league": "Primeira Liga",
   "total_injured": 18,
   "teams_affected": 10,
   "teams": {
-    "Moreirense FC": [
+    "SC Braga": [
       {
-        "player": "Vasco Sousa",
-        "position": "Central Midfield",
+        "player": "Bright Arrey-Mbi",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Adrian Leon Barisic",
+        "position": "Centre-Back",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sikou Niakat\u00e9",
+        "position": "Centre-Back",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Avs Futebol": [
+      {
+        "player": "Antoine Baroan",
+        "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -30,27 +53,18 @@
         "status": "out"
       }
     ],
-    "Avs Futebol": [
+    "Rio Ave FC": [
       {
-        "player": "Antoine Baroan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "CD Nacional": [
-      {
-        "player": "Ulisses",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
+        "player": "Brandon Aguilera",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ivanildo Fernandes",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
+        "player": "Cezary Miszta",
+        "position": "Goalkeeper",
+        "injury": "Back problems",
         "since": "",
         "status": "out"
       }
@@ -64,18 +78,11 @@
         "status": "out"
       }
     ],
-    "Rio Ave FC": [
+    "CD Santa Clara": [
       {
-        "player": "Brandon Aguilera",
-        "position": "Central Midfield",
+        "player": "MT",
+        "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Cezary Miszta",
-        "position": "Goalkeeper",
-        "injury": "Back problems",
         "since": "",
         "status": "out"
       }
@@ -103,34 +110,27 @@
         "status": "out"
       }
     ],
-    "CD Santa Clara": [
+    "CD Nacional": [
       {
-        "player": "MT",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SC Braga": [
-      {
-        "player": "Adrian Leon Barisic",
-        "position": "Centre-Back",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bright Arrey-Mbi",
+        "player": "Ulisses",
         "position": "Centre-Back",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Sikou Niakat\u00e9",
+        "player": "Ivanildo Fernandes",
         "position": "Centre-Back",
-        "injury": "Achilles tendon rupture",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Moreirense FC": [
+      {
+        "player": "Vasco Sousa",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
