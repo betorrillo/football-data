@@ -1,7 +1,7 @@
 {
   "generated": "2026-06-05",
   "source": "transfermarkt.com",
-  "total_injured": 251,
+  "total_injured": 248,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
@@ -1127,7 +1127,7 @@
       "generated": "2026-06-05",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 45,
+      "total_injured": 43,
       "teams_affected": 19,
       "teams": {
         "Juventus FC": [
@@ -1286,13 +1286,6 @@
             "injury": "Unknown",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Odilon Kossounou",
-            "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
-            "since": "",
-            "status": "out"
           }
         ],
         "AS Roma": [
@@ -1323,13 +1316,6 @@
             "player": "Zakaria Aboukhlal",
             "position": "Right Winger",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Zanos Savva",
-            "position": "Right Winger",
-            "injury": "unknown injury",
             "since": "",
             "status": "out"
           }
@@ -1398,16 +1384,16 @@
             "status": "out"
           },
           {
-            "player": "Matija Frigan",
+            "player": "Nesta Elphege",
             "position": "Centre-Forward",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Filippo Rinaldi",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -1419,9 +1405,9 @@
             "status": "out"
           },
           {
-            "player": "Nesta Elphege",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
+            "player": "Filippo Rinaldi",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -1489,7 +1475,7 @@
       "generated": "2026-06-05",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 51,
+      "total_injured": 50,
       "teams_affected": 16,
       "teams": {
         "FC Lorient": [
@@ -1528,13 +1514,6 @@
           {
             "player": "Deiver Machado",
             "position": "Left-Back",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kelvin Amian",
-            "position": "Right-Back",
             "injury": "Unknown",
             "since": "",
             "status": "out"
@@ -1609,13 +1588,6 @@
             "status": "out"
           },
           {
-            "player": "Noam Obougou",
-            "position": "Centre-Forward",
-            "injury": "Groin injury",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Abdoulaye Tour\u00e9",
             "position": "Defensive Midfield",
             "injury": "Knee injury",
@@ -1626,6 +1598,13 @@
             "player": "Yanis Zouaoui",
             "position": "Left-Back",
             "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Noam Obougou",
+            "position": "Centre-Forward",
+            "injury": "Groin injury",
             "since": "",
             "status": "out"
           }
@@ -1713,11 +1692,34 @@
             "status": "out"
           }
         ],
+        "FC Metz": [
+          {
+            "player": "Jessy Deminguet",
+            "position": "Central Midfield",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Boubacar Traor\u00e9",
+            "position": "Defensive Midfield",
+            "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Joseph Mangondo",
+            "position": "Centre-Forward",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "AS Monaco": [
           {
-            "player": "Caio Henrique",
-            "position": "Left-Back",
-            "injury": "Hamstring injury",
+            "player": "Stanis Idumbo",
+            "position": "Attacking Midfield",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
@@ -1729,9 +1731,9 @@
             "status": "out"
           },
           {
-            "player": "Stanis Idumbo",
-            "position": "Attacking Midfield",
-            "injury": "Shoulder injury",
+            "player": "Caio Henrique",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           },
@@ -1822,29 +1824,6 @@
             "player": "Cl\u00e9ment Akpa",
             "position": "Centre-Back",
             "injury": "Adductor pain",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "FC Metz": [
-          {
-            "player": "Jessy Deminguet",
-            "position": "Central Midfield",
-            "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Boubacar Traor\u00e9",
-            "position": "Defensive Midfield",
-            "injury": "Calf injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Joseph Mangondo",
-            "position": "Centre-Forward",
-            "injury": "Knee problems",
             "since": "",
             "status": "out"
           }

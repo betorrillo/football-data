@@ -2,7 +2,7 @@
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
   "generated": "2026-06-05",
-  "generated_at": "2026-06-05T10:51:35Z",
+  "generated_at": "2026-06-05T20:56:54Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14003,297 +14003,6 @@
   }
  ],
  "referees": {
-  "laliga": {
-   "referees": [
-    {
-     "name": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-     "transfermarkt_id": "1651",
-     "career_matches": 620,
-     "career_yc": 3480,
-     "career_yc_per_match": 5.61,
-     "career_rc": 208,
-     "career_rc_per_match": 0.34,
-     "career_pk": 204,
-     "career_pk_per_match": 0.33,
-     "career_total_cards_per_match": 5.95,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Mateo Busquets Ferrer",
-     "transfermarkt_id": "27181",
-     "career_matches": 161,
-     "career_yc": 870,
-     "career_yc_per_match": 5.4,
-     "career_rc": 59,
-     "career_rc_per_match": 0.37,
-     "career_pk": 42,
-     "career_pk_per_match": 0.26,
-     "career_total_cards_per_match": 5.77,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
-     "transfermarkt_id": "5708",
-     "career_matches": 525,
-     "career_yc": 2895,
-     "career_yc_per_match": 5.51,
-     "career_rc": 128,
-     "career_rc_per_match": 0.24,
-     "career_pk": 156,
-     "career_pk_per_match": 0.3,
-     "career_total_cards_per_match": 5.76,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Isidro D\u00edaz de Mera Escuderos",
-     "transfermarkt_id": "12633",
-     "career_matches": 320,
-     "career_yc": 1742,
-     "career_yc_per_match": 5.44,
-     "career_rc": 99,
-     "career_rc_per_match": 0.31,
-     "career_pk": 116,
-     "career_pk_per_match": 0.36,
-     "career_total_cards_per_match": 5.75,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Jes\u00fas Gil Manzano",
-     "transfermarkt_id": "3490",
-     "career_matches": 641,
-     "career_yc": 3467,
-     "career_yc_per_match": 5.41,
-     "career_rc": 200,
-     "career_rc_per_match": 0.31,
-     "career_pk": 240,
-     "career_pk_per_match": 0.37,
-     "career_total_cards_per_match": 5.72,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
-     "transfermarkt_id": "21740",
-     "career_matches": 169,
-     "career_yc": 898,
-     "career_yc_per_match": 5.31,
-     "career_rc": 46,
-     "career_rc_per_match": 0.27,
-     "career_pk": 49,
-     "career_pk_per_match": 0.29,
-     "career_total_cards_per_match": 5.59,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Iosu Galech Apeztegu\u00eda",
-     "transfermarkt_id": "8264",
-     "career_matches": 283,
-     "career_yc": 1418,
-     "career_yc_per_match": 5.01,
-     "career_rc": 87,
-     "career_rc_per_match": 0.31,
-     "career_pk": 75,
-     "career_pk_per_match": 0.27,
-     "career_total_cards_per_match": 5.32,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Francisco Jos\u00e9 Hern\u00e1ndez Maeso",
-     "transfermarkt_id": "8246",
-     "career_matches": 235,
-     "career_yc": 1197,
-     "career_yc_per_match": 5.09,
-     "career_rc": 50,
-     "career_rc_per_match": 0.21,
-     "career_pk": 56,
-     "career_pk_per_match": 0.24,
-     "career_total_cards_per_match": 5.31,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Adri\u00e1n Cordero Vega",
-     "transfermarkt_id": "7998",
-     "career_matches": 368,
-     "career_yc": 1848,
-     "career_yc_per_match": 5.02,
-     "career_rc": 64,
-     "career_rc_per_match": 0.17,
-     "career_pk": 133,
-     "career_pk_per_match": 0.36,
-     "career_total_cards_per_match": 5.2,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Alejandro Quintero Gonz\u00e1lez",
-     "transfermarkt_id": "42652",
-     "career_matches": 168,
-     "career_yc": 832,
-     "career_yc_per_match": 4.95,
-     "career_rc": 42,
-     "career_rc_per_match": 0.25,
-     "career_pk": 54,
-     "career_pk_per_match": 0.32,
-     "career_total_cards_per_match": 5.2,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Alejandro Mu\u00f1iz Ruiz",
-     "transfermarkt_id": "13446",
-     "career_matches": 263,
-     "career_yc": 1265,
-     "career_yc_per_match": 4.81,
-     "career_rc": 97,
-     "career_rc_per_match": 0.37,
-     "career_pk": 87,
-     "career_pk_per_match": 0.33,
-     "career_total_cards_per_match": 5.18,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "C\u00e9sar Soto Grado",
-     "transfermarkt_id": "5120",
-     "career_matches": 339,
-     "career_yc": 1677,
-     "career_yc_per_match": 4.95,
-     "career_rc": 77,
-     "career_rc_per_match": 0.23,
-     "career_pk": 117,
-     "career_pk_per_match": 0.35,
-     "career_total_cards_per_match": 5.17,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "Guillermo Cuadra Fern\u00e1ndez",
-     "transfermarkt_id": "9444",
-     "career_matches": 376,
-     "career_yc": 1793,
-     "career_yc_per_match": 4.77,
-     "career_rc": 113,
-     "career_rc_per_match": 0.3,
-     "career_pk": 132,
-     "career_pk_per_match": 0.35,
-     "career_total_cards_per_match": 5.07,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "V\u00edctor Garc\u00eda Acosta",
-     "transfermarkt_id": "55671",
-     "career_matches": 51,
-     "career_yc": 247,
-     "career_yc_per_match": 4.84,
-     "career_rc": 10,
-     "career_rc_per_match": 0.2,
-     "career_pk": 7,
-     "career_pk_per_match": 0.14,
-     "career_total_cards_per_match": 5.04,
-     "verdict": "MUY ALTO"
-    },
-    {
-     "name": "De Burgos Bengoetxea",
-     "transfermarkt_id": "5102",
-     "career_matches": 542,
-     "career_yc": 2549,
-     "career_yc_per_match": 4.7,
-     "career_rc": 107,
-     "career_rc_per_match": 0.2,
-     "career_pk": 150,
-     "career_pk_per_match": 0.28,
-     "career_total_cards_per_match": 4.9,
-     "verdict": "ALTO"
-    },
-    {
-     "name": "Juan Mart\u00ednez Munuera",
-     "transfermarkt_id": "4412",
-     "career_matches": 580,
-     "career_yc": 2736,
-     "career_yc_per_match": 4.72,
-     "career_rc": 108,
-     "career_rc_per_match": 0.19,
-     "career_pk": 170,
-     "career_pk_per_match": 0.29,
-     "career_total_cards_per_match": 4.9,
-     "verdict": "ALTO"
-    },
-    {
-     "name": "Jos\u00e9 Luis Munuera Montero",
-     "transfermarkt_id": "8265",
-     "career_matches": 499,
-     "career_yc": 2245,
-     "career_yc_per_match": 4.5,
-     "career_rc": 139,
-     "career_rc_per_match": 0.28,
-     "career_pk": 138,
-     "career_pk_per_match": 0.28,
-     "career_total_cards_per_match": 4.78,
-     "verdict": "ALTO"
-    },
-    {
-     "name": "Miguel \u00c1ngel Ortiz Arias",
-     "transfermarkt_id": "8228",
-     "career_matches": 285,
-     "career_yc": 1258,
-     "career_yc_per_match": 4.41,
-     "career_rc": 78,
-     "career_rc_per_match": 0.27,
-     "career_pk": 74,
-     "career_pk_per_match": 0.26,
-     "career_total_cards_per_match": 4.69,
-     "verdict": "ALTO"
-    },
-    {
-     "name": "V\u00edctor Garc\u00eda Verdura",
-     "transfermarkt_id": "21738",
-     "career_matches": 184,
-     "career_yc": 791,
-     "career_yc_per_match": 4.3,
-     "career_rc": 31,
-     "career_rc_per_match": 0.17,
-     "career_pk": 58,
-     "career_pk_per_match": 0.32,
-     "career_total_cards_per_match": 4.47,
-     "verdict": "MEDIO"
-    },
-    {
-     "name": "Miguel Sesma Espinosa",
-     "transfermarkt_id": "26991",
-     "career_matches": 140,
-     "career_yc": 588,
-     "career_yc_per_match": 4.2,
-     "career_rc": 26,
-     "career_rc_per_match": 0.19,
-     "career_pk": 42,
-     "career_pk_per_match": 0.3,
-     "career_total_cards_per_match": 4.39,
-     "verdict": "MEDIO"
-    },
-    {
-     "name": "Javier Alberola Rojas",
-     "transfermarkt_id": "9469",
-     "career_matches": 417,
-     "career_yc": 1472,
-     "career_yc_per_match": 3.53,
-     "career_rc": 68,
-     "career_rc_per_match": 0.16,
-     "career_pk": 141,
-     "career_pk_per_match": 0.34,
-     "career_total_cards_per_match": 3.69,
-     "verdict": "MEDIO"
-    },
-    {
-     "name": "Jos\u00e9 S\u00e1nchez Santos",
-     "transfermarkt_id": "61248",
-     "career_matches": 2,
-     "career_yc": 6,
-     "career_yc_per_match": 3.0,
-     "career_rc": 0,
-     "career_rc_per_match": 0.0,
-     "career_pk": 0,
-     "career_pk_per_match": 0.0,
-     "career_total_cards_per_match": 3.0,
-     "verdict": "BAJO"
-    }
-   ],
-   "total": 22
-  },
   "segunda": {
    "referees": [
     {
@@ -14581,6 +14290,297 @@
      "career_pk_per_match": 0.38,
      "career_total_cards_per_match": 3.91,
      "verdict": "MEDIO"
+    }
+   ],
+   "total": 22
+  },
+  "laliga": {
+   "referees": [
+    {
+     "name": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+     "transfermarkt_id": "1651",
+     "career_matches": 620,
+     "career_yc": 3480,
+     "career_yc_per_match": 5.61,
+     "career_rc": 208,
+     "career_rc_per_match": 0.34,
+     "career_pk": 204,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 5.95,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Mateo Busquets Ferrer",
+     "transfermarkt_id": "27181",
+     "career_matches": 161,
+     "career_yc": 870,
+     "career_yc_per_match": 5.4,
+     "career_rc": 59,
+     "career_rc_per_match": 0.37,
+     "career_pk": 42,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 5.77,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+     "transfermarkt_id": "5708",
+     "career_matches": 525,
+     "career_yc": 2895,
+     "career_yc_per_match": 5.51,
+     "career_rc": 128,
+     "career_rc_per_match": 0.24,
+     "career_pk": 156,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 5.76,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Isidro D\u00edaz de Mera Escuderos",
+     "transfermarkt_id": "12633",
+     "career_matches": 320,
+     "career_yc": 1742,
+     "career_yc_per_match": 5.44,
+     "career_rc": 99,
+     "career_rc_per_match": 0.31,
+     "career_pk": 116,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.75,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jes\u00fas Gil Manzano",
+     "transfermarkt_id": "3490",
+     "career_matches": 641,
+     "career_yc": 3467,
+     "career_yc_per_match": 5.41,
+     "career_rc": 200,
+     "career_rc_per_match": 0.31,
+     "career_pk": 240,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 5.72,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
+     "transfermarkt_id": "21740",
+     "career_matches": 169,
+     "career_yc": 898,
+     "career_yc_per_match": 5.31,
+     "career_rc": 46,
+     "career_rc_per_match": 0.27,
+     "career_pk": 49,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 5.59,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Iosu Galech Apeztegu\u00eda",
+     "transfermarkt_id": "8264",
+     "career_matches": 283,
+     "career_yc": 1418,
+     "career_yc_per_match": 5.01,
+     "career_rc": 87,
+     "career_rc_per_match": 0.31,
+     "career_pk": 75,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 5.32,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Francisco Jos\u00e9 Hern\u00e1ndez Maeso",
+     "transfermarkt_id": "8246",
+     "career_matches": 235,
+     "career_yc": 1197,
+     "career_yc_per_match": 5.09,
+     "career_rc": 50,
+     "career_rc_per_match": 0.21,
+     "career_pk": 56,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 5.31,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Adri\u00e1n Cordero Vega",
+     "transfermarkt_id": "7998",
+     "career_matches": 368,
+     "career_yc": 1848,
+     "career_yc_per_match": 5.02,
+     "career_rc": 64,
+     "career_rc_per_match": 0.17,
+     "career_pk": 133,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.2,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alejandro Quintero Gonz\u00e1lez",
+     "transfermarkt_id": "42652",
+     "career_matches": 168,
+     "career_yc": 832,
+     "career_yc_per_match": 4.95,
+     "career_rc": 42,
+     "career_rc_per_match": 0.25,
+     "career_pk": 54,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 5.2,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alejandro Mu\u00f1iz Ruiz",
+     "transfermarkt_id": "13446",
+     "career_matches": 263,
+     "career_yc": 1265,
+     "career_yc_per_match": 4.81,
+     "career_rc": 97,
+     "career_rc_per_match": 0.37,
+     "career_pk": 87,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 5.18,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "C\u00e9sar Soto Grado",
+     "transfermarkt_id": "5120",
+     "career_matches": 339,
+     "career_yc": 1677,
+     "career_yc_per_match": 4.95,
+     "career_rc": 77,
+     "career_rc_per_match": 0.23,
+     "career_pk": 117,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.17,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Guillermo Cuadra Fern\u00e1ndez",
+     "transfermarkt_id": "9444",
+     "career_matches": 376,
+     "career_yc": 1793,
+     "career_yc_per_match": 4.77,
+     "career_rc": 113,
+     "career_rc_per_match": 0.3,
+     "career_pk": 132,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.07,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "V\u00edctor Garc\u00eda Acosta",
+     "transfermarkt_id": "55671",
+     "career_matches": 51,
+     "career_yc": 247,
+     "career_yc_per_match": 4.84,
+     "career_rc": 10,
+     "career_rc_per_match": 0.2,
+     "career_pk": 7,
+     "career_pk_per_match": 0.14,
+     "career_total_cards_per_match": 5.04,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "De Burgos Bengoetxea",
+     "transfermarkt_id": "5102",
+     "career_matches": 542,
+     "career_yc": 2549,
+     "career_yc_per_match": 4.7,
+     "career_rc": 107,
+     "career_rc_per_match": 0.2,
+     "career_pk": 150,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.9,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Juan Mart\u00ednez Munuera",
+     "transfermarkt_id": "4412",
+     "career_matches": 580,
+     "career_yc": 2736,
+     "career_yc_per_match": 4.72,
+     "career_rc": 108,
+     "career_rc_per_match": 0.19,
+     "career_pk": 170,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 4.9,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Luis Munuera Montero",
+     "transfermarkt_id": "8265",
+     "career_matches": 499,
+     "career_yc": 2245,
+     "career_yc_per_match": 4.5,
+     "career_rc": 139,
+     "career_rc_per_match": 0.28,
+     "career_pk": 138,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.78,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Miguel \u00c1ngel Ortiz Arias",
+     "transfermarkt_id": "8228",
+     "career_matches": 285,
+     "career_yc": 1258,
+     "career_yc_per_match": 4.41,
+     "career_rc": 78,
+     "career_rc_per_match": 0.27,
+     "career_pk": 74,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 4.69,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "V\u00edctor Garc\u00eda Verdura",
+     "transfermarkt_id": "21738",
+     "career_matches": 184,
+     "career_yc": 791,
+     "career_yc_per_match": 4.3,
+     "career_rc": 31,
+     "career_rc_per_match": 0.17,
+     "career_pk": 58,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.47,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Miguel Sesma Espinosa",
+     "transfermarkt_id": "26991",
+     "career_matches": 140,
+     "career_yc": 588,
+     "career_yc_per_match": 4.2,
+     "career_rc": 26,
+     "career_rc_per_match": 0.19,
+     "career_pk": 42,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 4.39,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Javier Alberola Rojas",
+     "transfermarkt_id": "9469",
+     "career_matches": 417,
+     "career_yc": 1472,
+     "career_yc_per_match": 3.53,
+     "career_rc": 68,
+     "career_rc_per_match": 0.16,
+     "career_pk": 141,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 3.69,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Jos\u00e9 S\u00e1nchez Santos",
+     "transfermarkt_id": "61248",
+     "career_matches": 2,
+     "career_yc": 6,
+     "career_yc_per_match": 3.0,
+     "career_rc": 0,
+     "career_rc_per_match": 0.0,
+     "career_pk": 0,
+     "career_pk_per_match": 0.0,
+     "career_total_cards_per_match": 3.0,
+     "verdict": "BAJO"
     }
    ],
    "total": 22
@@ -17372,13 +17372,6 @@
      "injury": "Unknown",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Odilon Kossounou",
-     "position": "Centre-Back",
-     "injury": "Hamstring muscle injury",
-     "since": "",
-     "status": "out"
     }
    ],
    "AS Roma": [
@@ -17409,13 +17402,6 @@
      "player": "Zakaria Aboukhlal",
      "position": "Right Winger",
      "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Zanos Savva",
-     "position": "Right Winger",
-     "injury": "unknown injury",
      "since": "",
      "status": "out"
     }
@@ -17484,16 +17470,16 @@
      "status": "out"
     },
     {
-     "player": "Matija Frigan",
+     "player": "Nesta Elphege",
      "position": "Centre-Forward",
      "injury": "Unknown",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Filippo Rinaldi",
-     "position": "Goalkeeper",
-     "injury": "Shoulder injury",
+     "player": "Matija Frigan",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
      "since": "",
      "status": "out"
     },
@@ -17505,9 +17491,9 @@
      "status": "out"
     },
     {
-     "player": "Nesta Elphege",
-     "position": "Centre-Forward",
-     "injury": "Unknown",
+     "player": "Filippo Rinaldi",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     }
@@ -17612,13 +17598,6 @@
      "status": "out"
     },
     {
-     "player": "Kelvin Amian",
-     "position": "Right-Back",
-     "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "Fabien Centonze",
      "position": "Right-Back",
      "injury": "Unknown",
@@ -17688,13 +17667,6 @@
      "status": "out"
     },
     {
-     "player": "Noam Obougou",
-     "position": "Centre-Forward",
-     "injury": "Groin injury",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "Abdoulaye Tour\u00e9",
      "position": "Defensive Midfield",
      "injury": "Knee injury",
@@ -17705,6 +17677,13 @@
      "player": "Yanis Zouaoui",
      "position": "Left-Back",
      "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Noam Obougou",
+     "position": "Centre-Forward",
+     "injury": "Groin injury",
      "since": "",
      "status": "out"
     }
@@ -17792,11 +17771,34 @@
      "status": "out"
     }
    ],
+   "FC Metz": [
+    {
+     "player": "Jessy Deminguet",
+     "position": "Central Midfield",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Boubacar Traor\u00e9",
+     "position": "Defensive Midfield",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Joseph Mangondo",
+     "position": "Centre-Forward",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "AS Monaco": [
     {
-     "player": "Caio Henrique",
-     "position": "Left-Back",
-     "injury": "Hamstring injury",
+     "player": "Stanis Idumbo",
+     "position": "Attacking Midfield",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     },
@@ -17808,9 +17810,9 @@
      "status": "out"
     },
     {
-     "player": "Stanis Idumbo",
-     "position": "Attacking Midfield",
-     "injury": "Shoulder injury",
+     "player": "Caio Henrique",
+     "position": "Left-Back",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
@@ -17901,29 +17903,6 @@
      "player": "Cl\u00e9ment Akpa",
      "position": "Centre-Back",
      "injury": "Adductor pain",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "FC Metz": [
-    {
-     "player": "Jessy Deminguet",
-     "position": "Central Midfield",
-     "injury": "Ankle injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Boubacar Traor\u00e9",
-     "position": "Defensive Midfield",
-     "injury": "Calf injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Joseph Mangondo",
-     "position": "Centre-Forward",
-     "injury": "Knee problems",
      "since": "",
      "status": "out"
     }
@@ -19894,16 +19873,16 @@
      "status": "out"
     },
     {
-     "player": "Matija Frigan",
+     "player": "Nesta Elphege",
      "position": "Centre-Forward",
      "injury": "Unknown",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Filippo Rinaldi",
-     "position": "Goalkeeper",
-     "injury": "Shoulder injury",
+     "player": "Matija Frigan",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
      "since": "",
      "status": "out"
     },
@@ -19915,9 +19894,9 @@
      "status": "out"
     },
     {
-     "player": "Nesta Elphege",
-     "position": "Centre-Forward",
-     "injury": "Unknown",
+     "player": "Filippo Rinaldi",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     }
@@ -19973,17 +19952,10 @@
      "injury": "Unknown",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Odilon Kossounou",
-     "position": "Centre-Back",
-     "injury": "Hamstring muscle injury",
-     "since": "",
-     "status": "out"
     }
    ],
    "home_injury_count": 0,
-   "away_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -20248,9 +20220,9 @@
    },
    "home_injuries": [
     {
-     "player": "Caio Henrique",
-     "position": "Left-Back",
-     "injury": "Hamstring injury",
+     "player": "Stanis Idumbo",
+     "position": "Attacking Midfield",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     },
@@ -20262,9 +20234,9 @@
      "status": "out"
     },
     {
-     "player": "Stanis Idumbo",
-     "position": "Attacking Midfield",
-     "injury": "Shoulder injury",
+     "player": "Caio Henrique",
+     "position": "Left-Back",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
@@ -20369,13 +20341,6 @@
      "status": "out"
     },
     {
-     "player": "Noam Obougou",
-     "position": "Centre-Forward",
-     "injury": "Groin injury",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "Abdoulaye Tour\u00e9",
      "position": "Defensive Midfield",
      "injury": "Knee injury",
@@ -20386,6 +20351,13 @@
      "player": "Yanis Zouaoui",
      "position": "Left-Back",
      "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Noam Obougou",
+     "position": "Centre-Forward",
+     "injury": "Groin injury",
      "since": "",
      "status": "out"
     }
