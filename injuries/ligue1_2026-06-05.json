@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-04",
+  "generated": "2026-06-05",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 52,
-  "teams_affected": 17,
+  "total_injured": 51,
+  "teams_affected": 16,
   "teams": {
     "FC Lorient": [
       {
@@ -122,6 +122,13 @@
         "status": "out"
       },
       {
+        "player": "Noam Obougou",
+        "position": "Centre-Forward",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Abdoulaye Tour\u00e9",
         "position": "Defensive Midfield",
         "injury": "Knee injury",
@@ -132,13 +139,6 @@
         "player": "Yanis Zouaoui",
         "position": "Left-Back",
         "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Noam Obougou",
-        "position": "Centre-Forward",
-        "injury": "Groin injury",
         "since": "",
         "status": "out"
       }
@@ -226,34 +226,11 @@
         "status": "out"
       }
     ],
-    "FC Metz": [
-      {
-        "player": "Boubacar Traor\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Jessy Deminguet",
-        "position": "Central Midfield",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Joseph Mangondo",
-        "position": "Centre-Forward",
-        "injury": "Knee problems",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "AS Monaco": [
       {
-        "player": "Stanis Idumbo",
-        "position": "Attacking Midfield",
-        "injury": "Shoulder injury",
+        "player": "Caio Henrique",
+        "position": "Left-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -265,9 +242,9 @@
         "status": "out"
       },
       {
-        "player": "Caio Henrique",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
+        "player": "Stanis Idumbo",
+        "position": "Attacking Midfield",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       },
@@ -362,6 +339,29 @@
         "status": "out"
       }
     ],
+    "FC Metz": [
+      {
+        "player": "Jessy Deminguet",
+        "position": "Central Midfield",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Boubacar Traor\u00e9",
+        "position": "Defensive Midfield",
+        "injury": "Calf injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Joseph Mangondo",
+        "position": "Centre-Forward",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "FC Toulouse": [
       {
         "player": "Rafik Messali",
@@ -390,15 +390,6 @@
         "player": "Joaqu\u00edn Panichelli",
         "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "OGC Nice": [
-      {
-        "player": "Hicham Boudaoui",
-        "position": "Central Midfield",
-        "injury": "concussion",
         "since": "",
         "status": "out"
       }
