@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-05",
+  "generated": "2026-06-06",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 49,
+  "total_injured": 50,
   "teams_affected": 18,
   "teams": {
     "SV Werder Bremen": [
@@ -237,18 +237,39 @@
         "status": "out"
       }
     ],
-    "Eintracht Frankfurt": [
+    "Bayern Munich": [
       {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "player": "Manuel Neuer",
+        "position": "Goalkeeper",
+        "injury": "Calf problems",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nnamdi Collins",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Alphonso Davies",
+        "position": "Left-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lennart Karl",
+        "position": "Attacking Midfield",
+        "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Serge Gnabry",
+        "position": "Second Striker",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Santos Daiber",
+        "position": "Defensive Midfield",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -301,32 +322,18 @@
         "status": "out"
       }
     ],
-    "Bayern Munich": [
+    "Eintracht Frankfurt": [
       {
-        "player": "Manuel Neuer",
-        "position": "Goalkeeper",
-        "injury": "Calf problems",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Alphonso Davies",
-        "position": "Left-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Serge Gnabry",
-        "position": "Second Striker",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Santos Daiber",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       }

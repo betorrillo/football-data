@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-06-05",
-  "generated_at": "2026-06-05T20:56:54Z",
+  "generated": "2026-06-06",
+  "generated_at": "2026-06-06T09:30:00Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -17067,18 +17067,39 @@
      "status": "out"
     }
    ],
-   "Eintracht Frankfurt": [
+   "Bayern Munich": [
     {
-     "player": "Oscar H\u00f8jlund",
-     "position": "Central Midfield",
-     "injury": "Knock",
+     "player": "Manuel Neuer",
+     "position": "Goalkeeper",
+     "injury": "Calf problems",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Nnamdi Collins",
-     "position": "Centre-Back",
-     "injury": "Ankle injury",
+     "player": "Alphonso Davies",
+     "position": "Left-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Lennart Karl",
+     "position": "Attacking Midfield",
+     "injury": "Muscle tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Serge Gnabry",
+     "position": "Second Striker",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "David Santos Daiber",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     }
@@ -17131,32 +17152,18 @@
      "status": "out"
     }
    ],
-   "Bayern Munich": [
+   "Eintracht Frankfurt": [
     {
-     "player": "Manuel Neuer",
-     "position": "Goalkeeper",
-     "injury": "Calf problems",
+     "player": "Nnamdi Collins",
+     "position": "Centre-Back",
+     "injury": "Ankle injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Alphonso Davies",
-     "position": "Left-Back",
-     "injury": "Muscle injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Serge Gnabry",
-     "position": "Second Striker",
-     "injury": "Adductor injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "David Santos Daiber",
-     "position": "Defensive Midfield",
-     "injury": "Hamstring injury",
+     "player": "Oscar H\u00f8jlund",
+     "position": "Central Midfield",
+     "injury": "Knock",
      "since": "",
      "status": "out"
     }
@@ -19401,6 +19408,13 @@
      "status": "out"
     },
     {
+     "player": "Lennart Karl",
+     "position": "Attacking Midfield",
+     "injury": "Muscle tear",
+     "since": "",
+     "status": "out"
+    },
+    {
      "player": "Serge Gnabry",
      "position": "Second Striker",
      "injury": "Adductor injury",
@@ -19416,7 +19430,7 @@
     }
    ],
    "home_injury_count": 6,
-   "away_injury_count": 4,
+   "away_injury_count": 5,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

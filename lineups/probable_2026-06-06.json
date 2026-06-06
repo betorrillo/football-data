@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05",
+  "generated": "2026-06-06",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1463,6 +1463,13 @@
           "status": "out"
         },
         {
+          "player": "Lennart Karl",
+          "position": "Attacking Midfield",
+          "injury": "Muscle tear",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Serge Gnabry",
           "position": "Second Striker",
           "injury": "Adductor injury",
@@ -1478,7 +1485,7 @@
         }
       ],
       "home_injury_count": 6,
-      "away_injury_count": 4,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
