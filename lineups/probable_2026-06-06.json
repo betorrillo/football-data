@@ -2289,9 +2289,9 @@
       },
       "home_injuries": [
         {
-          "player": "Stanis Idumbo",
-          "position": "Attacking Midfield",
-          "injury": "Shoulder injury",
+          "player": "Caio Henrique",
+          "position": "Left-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -2303,9 +2303,9 @@
           "status": "out"
         },
         {
-          "player": "Caio Henrique",
-          "position": "Left-Back",
-          "injury": "Hamstring injury",
+          "player": "Stanis Idumbo",
+          "position": "Attacking Midfield",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         },
@@ -2410,9 +2410,9 @@
           "status": "out"
         },
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
+          "player": "Noam Obougou",
+          "position": "Centre-Forward",
+          "injury": "Groin injury",
           "since": "",
           "status": "out"
         },
@@ -2424,9 +2424,9 @@
           "status": "out"
         },
         {
-          "player": "Noam Obougou",
-          "position": "Centre-Forward",
-          "injury": "Groin injury",
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         }
@@ -2452,10 +2452,17 @@
           "injury": "Unknown",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Leonardo Balerdi",
+          "position": "Centre-Back",
+          "injury": "Muscle tear",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 4,
-      "away_injury_count": 3,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
