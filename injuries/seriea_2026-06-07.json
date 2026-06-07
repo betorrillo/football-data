@@ -2,7 +2,7 @@
   "generated": "2026-06-07",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 43,
+  "total_injured": 44,
   "teams_affected": 19,
   "teams": {
     "Genoa CFC": [
@@ -196,27 +196,27 @@
         "status": "out"
       }
     ],
-    "SS Lazio": [
+    "Como 1907": [
       {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
+        "player": "Nico Paz",
+        "position": "Attacking Midfield",
+        "injury": "Bruised knee",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Jayden Addai",
+        "position": "Right Winger",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       }
     ],
     "AS Roma": [
       {
-        "player": "Bryan Zaragoza",
-        "position": "Left Winger",
-        "injury": "Unknown",
+        "player": "Wesley",
+        "position": "Right-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
@@ -226,54 +226,11 @@
         "injury": "Hamstring muscle injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "Juventus FC": [
-      {
-        "player": "Emil Holm",
-        "position": "Right-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
       },
       {
-        "player": "Kenan Y\u0131ld\u0131z",
+        "player": "Bryan Zaragoza",
         "position": "Left Winger",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Atalanta BC": [
-      {
-        "player": "Lorenzo Bernasconi",
-        "position": "Left Midfield",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Inter Milan": [
-      {
-        "player": "Stefan de Vrij",
-        "position": "Centre-Back",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Bologna FC 1909": [
-      {
-        "player": "Riccardo Orsolini",
-        "position": "Right Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Martin Vit\u00edk",
-        "position": "Centre-Back",
-        "injury": "Ankle sprain",
         "since": "",
         "status": "out"
       }
@@ -294,18 +251,68 @@
         "status": "out"
       }
     ],
-    "Como 1907": [
+    "Inter Milan": [
       {
-        "player": "Nico Paz",
-        "position": "Attacking Midfield",
-        "injury": "Bruised knee",
+        "player": "Stefan de Vrij",
+        "position": "Centre-Back",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Atalanta BC": [
+      {
+        "player": "Lorenzo Bernasconi",
+        "position": "Left Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Juventus FC": [
+      {
+        "player": "Emil Holm",
+        "position": "Right-Back",
+        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Jayden Addai",
+        "player": "Kenan Y\u0131ld\u0131z",
+        "position": "Left Winger",
+        "injury": "Calf injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Bologna FC 1909": [
+      {
+        "player": "Martin Vit\u00edk",
+        "position": "Centre-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Riccardo Orsolini",
         "position": "Right Winger",
-        "injury": "Achilles tendon rupture",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SS Lazio": [
+      {
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }

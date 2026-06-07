@@ -2,7 +2,7 @@
   "generated": "2026-06-07",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 49,
+  "total_injured": 50,
   "teams_affected": 18,
   "teams": {
     "1.FC Union Berlin": [
@@ -21,36 +21,6 @@
         "status": "out"
       }
     ],
-    "SV Werder Bremen": [
-      {
-        "player": "Juli\u00e1n Malatini",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Karl Hein",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "VfB Stuttgart": [
       {
         "player": "Lorenz Assignon",
@@ -62,21 +32,28 @@
     ],
     "Borussia M\u00f6nchengladbach": [
       {
-        "player": "Nathan Ngoumou",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Haris Tabakovic",
         "position": "Centre-Forward",
         "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Nathan Ngoumou",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
       }
     ],
     "VfL Wolfsburg": [
+      {
+        "player": "Christian Eriksen",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Rog\u00e9rio",
         "position": "Left-Back",
@@ -350,6 +327,36 @@
         "player": "Yuito Suzuki",
         "position": "Second Striker",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SV Werder Bremen": [
+      {
+        "player": "Juli\u00e1n Malatini",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Karl Hein",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
