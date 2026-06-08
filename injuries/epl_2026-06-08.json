@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-07",
+  "generated": "2026-06-08",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 43,
+  "total_injured": 38,
   "teams_affected": 17,
   "teams": {
     "Arsenal FC": [
@@ -28,13 +28,6 @@
         "injury": "Knee injury",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Sam Johnstone",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
       }
     ],
     "West Ham United": [
@@ -42,13 +35,6 @@
         "player": "Lukasz Fabianski",
         "position": "Goalkeeper",
         "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Adama Traor\u00e9",
-        "position": "Right Winger",
-        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -154,80 +140,11 @@
         "status": "out"
       }
     ],
-    "Aston Villa": [
-      {
-        "player": "Alysson",
-        "position": "Right Winger",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Boubacar Kamara",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Leeds United": [
-      {
-        "player": "Gabriel Gudmundsson",
-        "position": "Left-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Sean Longstaff",
-        "position": "Central Midfield",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Sunderland AFC": [
-      {
-        "player": "Simon Moore",
-        "position": "Goalkeeper",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Romaine Mundle",
         "position": "Left Winger",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Brighton &amp; Hove Albion": [
-      {
-        "player": "Ferdi Kad\u0131o\u011flu",
-        "position": "Left-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -241,9 +158,32 @@
         "status": "out"
       },
       {
+        "player": "Noussair Mazraoui",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Matthijs de Ligt",
         "position": "Centre-Back",
         "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Brighton &amp; Hove Albion": [
+      {
+        "player": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -296,16 +236,16 @@
     ],
     "Liverpool FC": [
       {
-        "player": "Conor Bradley",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
+        "player": "Giovanni Leoni",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Giovanni Leoni",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
+        "player": "Conor Bradley",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
@@ -336,6 +276,31 @@
         "player": "Josh Cullen",
         "position": "Central Midfield",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Leeds United": [
+      {
+        "player": "Ilia Gruev",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Sean Longstaff",
+        "position": "Central Midfield",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Aston Villa": [
+      {
+        "player": "Boubacar Kamara",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
