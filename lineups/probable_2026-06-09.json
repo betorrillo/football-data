@@ -1659,10 +1659,17 @@
           "injury": "Muscle injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Kenan Y\u0131ld\u0131z",
+          "position": "Left Winger",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 2,
-      "away_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1701,7 +1708,7 @@
         {
           "player": "Nico Paz",
           "position": "Attacking Midfield",
-          "injury": "Bruised knee",
+          "injury": "Knee problems",
           "since": "",
           "status": "out"
         },
@@ -1900,6 +1907,13 @@
           "status": "out"
         },
         {
+          "player": "Matija Frigan",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Filippo Rinaldi",
           "position": "Goalkeeper",
           "injury": "Shoulder injury",
@@ -1914,13 +1928,6 @@
           "status": "out"
         },
         {
-          "player": "Matija Frigan",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Nesta Elphege",
           "position": "Centre-Forward",
           "injury": "Unknown",
@@ -1930,16 +1937,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
+          "player": "Evan Ndicka",
+          "position": "Centre-Back",
+          "injury": "Hamstring muscle injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Evan Ndicka",
-          "position": "Centre-Back",
-          "injury": "Hamstring muscle injury",
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },

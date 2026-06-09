@@ -1,7 +1,7 @@
 {
   "generated": "2026-06-09",
   "source": "transfermarkt.com",
-  "total_injured": 242,
+  "total_injured": 243,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
@@ -1099,28 +1099,21 @@
       "generated": "2026-06-09",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 41,
+      "total_injured": 42,
       "teams_affected": 19,
       "teams": {
-        "AS Roma": [
+        "Juventus FC": [
           {
-            "player": "Bryan Zaragoza",
-            "position": "Left Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Evan Ndicka",
-            "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Wesley",
+            "player": "Emil Holm",
             "position": "Right-Back",
-            "injury": "Hamstring injury",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kenan Y\u0131ld\u0131z",
+            "position": "Left Winger",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           }
@@ -1214,7 +1207,7 @@
           {
             "player": "Nico Paz",
             "position": "Attacking Midfield",
-            "injury": "Bruised knee",
+            "injury": "Knee problems",
             "since": "",
             "status": "out"
           },
@@ -1260,11 +1253,25 @@
             "status": "out"
           }
         ],
-        "Juventus FC": [
+        "AS Roma": [
           {
-            "player": "Emil Holm",
+            "player": "Evan Ndicka",
+            "position": "Centre-Back",
+            "injury": "Hamstring muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wesley",
             "position": "Right-Back",
-            "injury": "Muscle injury",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
@@ -1326,6 +1333,13 @@
             "status": "out"
           },
           {
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Filippo Rinaldi",
             "position": "Goalkeeper",
             "injury": "Shoulder injury",
@@ -1336,13 +1350,6 @@
             "player": "Jacob Ondrejka",
             "position": "Left Winger",
             "injury": "surgery",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Matija Frigan",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
