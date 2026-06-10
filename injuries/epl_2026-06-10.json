@@ -21,18 +21,20 @@
         "status": "out"
       }
     ],
-    "Crystal Palace": [
+    "Wolverhampton Wanderers": [
       {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
+        "player": "Enso Gonz\u00e1lez",
+        "position": "Left Winger",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
-      },
+      }
+    ],
+    "West Ham United": [
       {
-        "player": "Eddie Nketiah",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
+        "player": "Lukasz Fabianski",
+        "position": "Goalkeeper",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -60,6 +62,22 @@
         "status": "out"
       }
     ],
+    "Crystal Palace": [
+      {
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Eddie Nketiah",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Chelsea FC": [
       {
         "player": "Caleb Wiley",
@@ -83,11 +101,25 @@
         "status": "out"
       }
     ],
-    "Wolverhampton Wanderers": [
+    "Brighton &amp; Hove Albion": [
       {
-        "player": "Enso Gonz\u00e1lez",
+        "player": "Bart Verbruggen",
+        "position": "Goalkeeper",
+        "injury": "Hip injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kaoru Mitoma",
         "position": "Left Winger",
-        "injury": "Knee injury",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -104,15 +136,6 @@
         "player": "Julio Soler",
         "position": "Left-Back",
         "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "West Ham United": [
-      {
-        "player": "Lukasz Fabianski",
-        "position": "Goalkeeper",
-        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -135,29 +158,6 @@
       {
         "player": "F\u00e1bio Carvalho",
         "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Brighton &amp; Hove Albion": [
-      {
-        "player": "Bart Verbruggen",
-        "position": "Goalkeeper",
-        "injury": "Hip injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
@@ -195,22 +195,6 @@
         "status": "out"
       }
     ],
-    "Newcastle United": [
-      {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Tottenham Hotspur": [
       {
         "player": "Mohammed Kudus",
@@ -241,18 +225,34 @@
         "status": "out"
       }
     ],
-    "Liverpool FC": [
+    "Newcastle United": [
       {
-        "player": "Conor Bradley",
+        "player": "Emil Krafth",
         "position": "Right-Back",
         "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
       {
+        "player": "Lewis Miley",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Liverpool FC": [
+      {
         "player": "Giovanni Leoni",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Conor Bradley",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       },
