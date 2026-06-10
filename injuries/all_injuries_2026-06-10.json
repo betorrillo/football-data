@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-09",
+  "generated": "2026-06-10",
   "source": "transfermarkt.com",
-  "total_injured": 243,
+  "total_injured": 240,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 26,
@@ -222,7 +222,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 19,
@@ -392,7 +392,7 @@
       }
     },
     "epl": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 39,
@@ -708,7 +708,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 49,
@@ -1096,24 +1096,31 @@
       }
     },
     "seriea": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 42,
+      "total_injured": 41,
       "teams_affected": 19,
       "teams": {
-        "Juventus FC": [
+        "AS Roma": [
           {
-            "player": "Emil Holm",
-            "position": "Right-Back",
-            "injury": "Muscle injury",
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Kenan Y\u0131ld\u0131z",
-            "position": "Left Winger",
-            "injury": "Calf injury",
+            "player": "Evan Ndicka",
+            "position": "Centre-Back",
+            "injury": "Hamstring muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wesley",
+            "position": "Right-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
@@ -1203,22 +1210,6 @@
             "status": "out"
           }
         ],
-        "Como 1907": [
-          {
-            "player": "Nico Paz",
-            "position": "Attacking Midfield",
-            "injury": "Knee problems",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Jayden Addai",
-            "position": "Right Winger",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Bologna FC 1909": [
           {
             "player": "Riccardo Orsolini",
@@ -1253,25 +1244,18 @@
             "status": "out"
           }
         ],
-        "AS Roma": [
+        "Juventus FC": [
           {
-            "player": "Evan Ndicka",
-            "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Bryan Zaragoza",
-            "position": "Left Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Wesley",
+            "player": "Emil Holm",
             "position": "Right-Back",
-            "injury": "Hamstring injury",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kenan Y\u0131ld\u0131z",
+            "position": "Left Winger",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           }
@@ -1308,55 +1292,18 @@
             "status": "out"
           }
         ],
-        "Inter Milan": [
+        "SS Lazio": [
           {
-            "player": "Stefan de Vrij",
-            "position": "Centre-Back",
-            "injury": "Groin injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Parma Calcio 1913": [
-          {
-            "player": "Adri\u00e1n Bernab\u00e9",
-            "position": "Central Midfield",
-            "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Gaetano Oristanio",
-            "position": "Attacking Midfield",
-            "injury": "Knee problems",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Matija Frigan",
-            "position": "Centre-Forward",
+            "player": "Danilo Cataldi",
+            "position": "Defensive Midfield",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Filippo Rinaldi",
+            "player": "Ivan Provedel",
             "position": "Goalkeeper",
             "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Jacob Ondrejka",
-            "position": "Left Winger",
-            "injury": "surgery",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Nesta Elphege",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1384,18 +1331,55 @@
             "status": "out"
           }
         ],
-        "SS Lazio": [
+        "Inter Milan": [
           {
-            "player": "Danilo Cataldi",
-            "position": "Defensive Midfield",
+            "player": "Stefan de Vrij",
+            "position": "Centre-Back",
+            "injury": "Groin injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Parma Calcio 1913": [
+          {
+            "player": "Adri\u00e1n Bernab\u00e9",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Gaetano Oristanio",
+            "position": "Attacking Midfield",
+            "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Filippo Rinaldi",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jacob Ondrejka",
+            "position": "Left Winger",
+            "injury": "surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Matija Frigan",
+            "position": "Centre-Forward",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Ivan Provedel",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Nesta Elphege",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1412,6 +1396,15 @@
             "player": "Riyad Idrissi",
             "position": "Left-Back",
             "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Como 1907": [
+          {
+            "player": "Jayden Addai",
+            "position": "Right Winger",
+            "injury": "Achilles tendon rupture",
             "since": "",
             "status": "out"
           }
@@ -1437,10 +1430,10 @@
       }
     },
     "ligue1": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 50,
+      "total_injured": 48,
       "teams_affected": 16,
       "teams": {
         "FC Lorient": [
@@ -1468,16 +1461,16 @@
             "status": "out"
           },
           {
-            "player": "Abdoulaye Tour\u00e9",
-            "position": "Defensive Midfield",
-            "injury": "Knee injury",
+            "player": "Yanis Zouaoui",
+            "position": "Left-Back",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Yanis Zouaoui",
-            "position": "Left-Back",
-            "injury": "Calf injury",
+            "player": "Abdoulaye Tour\u00e9",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }
@@ -1609,13 +1602,6 @@
             "injury": "Muscle injury",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Souma\u00efla Coulibaly",
-            "position": "Centre-Back",
-            "injury": "Shin injury",
-            "since": "",
-            "status": "out"
           }
         ],
         "Paris FC": [
@@ -1643,9 +1629,9 @@
         ],
         "AJ Auxerre": [
           {
-            "player": "Cl\u00e9ment Akpa",
-            "position": "Centre-Back",
-            "injury": "Adductor pain",
+            "player": "Romain Faivre",
+            "position": "Attacking Midfield",
+            "injury": "Knock",
             "since": "",
             "status": "out"
           },
@@ -1671,18 +1657,18 @@
             "status": "out"
           },
           {
-            "player": "Romain Faivre",
-            "position": "Attacking Midfield",
-            "injury": "Knock",
+            "player": "Cl\u00e9ment Akpa",
+            "position": "Centre-Back",
+            "injury": "Adductor pain",
             "since": "",
             "status": "out"
           }
         ],
         "AS Monaco": [
           {
-            "player": "Stanis Idumbo",
-            "position": "Attacking Midfield",
-            "injury": "Shoulder injury",
+            "player": "Caio Henrique",
+            "position": "Left-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           },
@@ -1694,16 +1680,9 @@
             "status": "out"
           },
           {
-            "player": "Caio Henrique",
-            "position": "Left-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Aleksandr Golovin",
+            "player": "Stanis Idumbo",
             "position": "Attacking Midfield",
-            "injury": "Unknown",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
@@ -1828,7 +1807,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-06-09",
+      "generated": "2026-06-10",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 18,
