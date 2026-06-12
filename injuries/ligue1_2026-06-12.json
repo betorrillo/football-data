@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-11",
+  "generated": "2026-06-12",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 49,
+  "total_injured": 50,
   "teams_affected": 16,
   "teams": {
     "Angers SCO": [
@@ -38,6 +38,43 @@
         "player": "Prosper Peter",
         "position": "Centre-Forward",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Olympique Marseille": [
+      {
+        "player": "Geoffrey Kondogbia",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nayef Aguerd",
+        "position": "Centre-Back",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Hamed Traor\u00e9",
+        "position": "Left Winger",
+        "injury": "Adductor pain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Leonardo Balerdi",
+        "position": "Centre-Back",
+        "injury": "Calf injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "CJ Egan-Riley",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -228,43 +265,6 @@
         "status": "out"
       }
     ],
-    "Olympique Marseille": [
-      {
-        "player": "Nayef Aguerd",
-        "position": "Centre-Back",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Hamed Traor\u00e9",
-        "position": "Left Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Leonardo Balerdi",
-        "position": "Centre-Back",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "CJ Egan-Riley",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Geoffrey Kondogbia",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "AS Monaco": [
       {
         "player": "Caio Henrique",
@@ -367,6 +367,13 @@
         "player": "Samson Baidoo",
         "position": "Centre-Back",
         "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nidal Celik",
+        "position": "Centre-Back",
+        "injury": "Meniscus injury",
         "since": "",
         "status": "out"
       }
