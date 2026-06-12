@@ -21,6 +21,47 @@
         "status": "out"
       }
     ],
+    "Wolverhampton Wanderers": [
+      {
+        "player": "Enso Gonz\u00e1lez",
+        "position": "Left Winger",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "West Ham United": [
+      {
+        "player": "Lukasz Fabianski",
+        "position": "Goalkeeper",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Nottingham Forest": [
+      {
+        "player": "Willy Boly",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nicol\u00f2 Savona",
+        "position": "Right-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Callum Hudson-Odoi",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Liverpool FC": [
       {
         "player": "Wataru Endo",
@@ -67,29 +108,6 @@
         "status": "out"
       }
     ],
-    "Brighton &amp; Hove Albion": [
-      {
-        "player": "Bart Verbruggen",
-        "position": "Goalkeeper",
-        "injury": "Hip injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Chelsea FC": [
       {
         "player": "Caleb Wiley",
@@ -113,34 +131,25 @@
         "status": "out"
       }
     ],
-    "Nottingham Forest": [
+    "Brighton &amp; Hove Albion": [
       {
-        "player": "Willy Boly",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Bart Verbruggen",
+        "position": "Goalkeeper",
+        "injury": "Hip injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Nicol\u00f2 Savona",
-        "position": "Right-Back",
-        "injury": "Knee injury",
+        "player": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Callum Hudson-Odoi",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Wolverhampton Wanderers": [
-      {
-        "player": "Enso Gonz\u00e1lez",
-        "position": "Left Winger",
-        "injury": "Knee injury",
+        "player": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -184,15 +193,6 @@
         "status": "out"
       }
     ],
-    "West Ham United": [
-      {
-        "player": "Lukasz Fabianski",
-        "position": "Goalkeeper",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Manchester United": [
       {
         "player": "Noussair Mazraoui",
@@ -225,22 +225,6 @@
         "status": "out"
       }
     ],
-    "Newcastle United": [
-      {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Tottenham Hotspur": [
       {
         "player": "Mohammed Kudus",
@@ -267,6 +251,22 @@
         "player": "Xavi Simons",
         "position": "Attacking Midfield",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Newcastle United": [
+      {
+        "player": "Emil Krafth",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lewis Miley",
+        "position": "Central Midfield",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }

@@ -2,7 +2,7 @@
   "generated": "2026-06-12",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 47,
+  "total_injured": 46,
   "teams_affected": 17,
   "teams": {
     "FC St. Pauli": [
@@ -30,21 +30,28 @@
     ],
     "Borussia M\u00f6nchengladbach": [
       {
-        "player": "Haris Tabakovic",
-        "position": "Centre-Forward",
-        "injury": "Metatarsal fracture",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Nathan Ngoumou",
         "position": "Right Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Haris Tabakovic",
+        "position": "Centre-Forward",
+        "injury": "Metatarsal fracture",
+        "since": "",
+        "status": "out"
       }
     ],
     "VfL Wolfsburg": [
+      {
+        "player": "Christian Eriksen",
+        "position": "Attacking Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Rog\u00e9rio",
         "position": "Left-Back",
@@ -76,13 +83,6 @@
       {
         "player": "Cleiton",
         "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Christian Eriksen",
-        "position": "Attacking Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -123,6 +123,29 @@
         "player": "Frederik R\u00f6nnow",
         "position": "Goalkeeper",
         "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Bayern Munich": [
+      {
+        "player": "Lennart Karl",
+        "position": "Attacking Midfield",
+        "injury": "Muscle tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Serge Gnabry",
+        "position": "Second Striker",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "David Santos Daiber",
+        "position": "Defensive Midfield",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -205,62 +228,11 @@
         "status": "out"
       }
     ],
-    "1.FSV Mainz 05": [
+    "VfB Stuttgart": [
       {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Silas",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
+        "player": "Lorenz Assignon",
+        "position": "Right-Back",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Bayern Munich": [
-      {
-        "player": "Alphonso Davies",
-        "position": "Left-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lennart Karl",
-        "position": "Attacking Midfield",
-        "injury": "Muscle tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Serge Gnabry",
-        "position": "Second Striker",
-        "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "David Santos Daiber",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -313,10 +285,31 @@
         "status": "out"
       }
     ],
-    "VfB Stuttgart": [
+    "1.FSV Mainz 05": [
       {
-        "player": "Lorenz Assignon",
-        "position": "Right-Back",
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Silas",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kasey Bos",
+        "position": "Left-Back",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"

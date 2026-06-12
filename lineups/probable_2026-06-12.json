@@ -1377,6 +1377,13 @@
       },
       "home_injuries": [
         {
+          "player": "Christian Eriksen",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Rog\u00e9rio",
           "position": "Left-Back",
           "injury": "Muscle injury",
@@ -1412,13 +1419,6 @@
           "status": "out"
         },
         {
-          "player": "Christian Eriksen",
-          "position": "Attacking Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Maximilian Arnold",
           "position": "Central Midfield",
           "injury": "Groin problems",
@@ -1427,13 +1427,6 @@
         }
       ],
       "away_injuries": [
-        {
-          "player": "Alphonso Davies",
-          "position": "Left-Back",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
-        },
         {
           "player": "Lennart Karl",
           "position": "Attacking Midfield",
@@ -1457,7 +1450,7 @@
         }
       ],
       "home_injury_count": 7,
-      "away_injury_count": 4,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2074,6 +2067,13 @@
       },
       "home_injuries": [
         {
+          "player": "Bryan Okoh",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Oussama El Azzouzi",
           "position": "Defensive Midfield",
           "injury": "Hamstring injury",
@@ -2084,13 +2084,6 @@
           "player": "Fredrik Oppeg\u00e5rd",
           "position": "Left-Back",
           "injury": "Ankle sprain",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Bryan Okoh",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -2152,13 +2145,6 @@
       },
       "home_injuries": [
         {
-          "player": "Harouna Djibirin",
-          "position": "Right Winger",
-          "injury": "Ankle injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Yassin Belkhdim",
           "position": "Central Midfield",
           "injury": "Unknown",
@@ -2183,6 +2169,13 @@
           "player": "Prosper Peter",
           "position": "Centre-Forward",
           "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Harouna Djibirin",
+          "position": "Right Winger",
+          "injury": "Ankle injury",
           "since": "",
           "status": "out"
         }
@@ -2346,16 +2339,9 @@
       },
       "home_injuries": [
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Yanis Zouaoui",
-          "position": "Left-Back",
-          "injury": "Calf injury",
+          "player": "Stephan Zagadou",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -2367,9 +2353,16 @@
           "status": "out"
         },
         {
-          "player": "Stephan Zagadou",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
+          "player": "Yanis Zouaoui",
+          "position": "Left-Back",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         }
@@ -2513,16 +2506,16 @@
       "home_injuries": [],
       "away_injuries": [
         {
-          "player": "Junior Dina Ebimbe",
-          "position": "Right Midfield",
-          "injury": "Muscle injury",
+          "player": "Mama Bald\u00e9",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Mama Bald\u00e9",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Junior Dina Ebimbe",
+          "position": "Right Midfield",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         }
