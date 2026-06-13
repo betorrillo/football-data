@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12",
+  "generated": "2026-06-13",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -579,16 +579,16 @@
           "status": "out"
         },
         {
-          "player": "Giovanni Leoni",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
+          "player": "Conor Bradley",
+          "position": "Right-Back",
+          "injury": "Knee surgery",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Conor Bradley",
-          "position": "Right-Back",
-          "injury": "Knee surgery",
+          "player": "Giovanni Leoni",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -764,13 +764,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Noussair Mazraoui",
-          "position": "Right-Back",
-          "injury": "Shoulder injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Benjamin Sesko",
           "position": "Centre-Forward",
           "injury": "Calf injury",
@@ -786,7 +779,7 @@
         }
       ],
       "home_injury_count": 1,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1644,17 +1637,10 @@
           "injury": "Muscle injury",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "Kenan Y\u0131ld\u0131z",
-          "position": "Left Winger",
-          "injury": "Calf injury",
-          "since": "",
-          "status": "out"
         }
       ],
       "home_injury_count": 2,
-      "away_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1885,9 +1871,9 @@
           "status": "out"
         },
         {
-          "player": "Jacob Ondrejka",
-          "position": "Left Winger",
-          "injury": "surgery",
+          "player": "Matija Frigan",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -1899,9 +1885,9 @@
           "status": "out"
         },
         {
-          "player": "Matija Frigan",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Jacob Ondrejka",
+          "position": "Left Winger",
+          "injury": "surgery",
           "since": "",
           "status": "out"
         },
@@ -1915,13 +1901,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Wesley",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Evan Ndicka",
           "position": "Centre-Back",
           "injury": "Hamstring muscle injury",
@@ -1932,6 +1911,13 @@
           "player": "Bryan Zaragoza",
           "position": "Left Winger",
           "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         }
@@ -2067,13 +2053,6 @@
       },
       "home_injuries": [
         {
-          "player": "Bryan Okoh",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Oussama El Azzouzi",
           "position": "Defensive Midfield",
           "injury": "Hamstring injury",
@@ -2084,6 +2063,13 @@
           "player": "Fredrik Oppeg\u00e5rd",
           "position": "Left-Back",
           "injury": "Ankle sprain",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Bryan Okoh",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -2145,6 +2131,13 @@
       },
       "home_injuries": [
         {
+          "player": "Harouna Djibirin",
+          "position": "Right Winger",
+          "injury": "Ankle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Yassin Belkhdim",
           "position": "Central Midfield",
           "injury": "Unknown",
@@ -2169,13 +2162,6 @@
           "player": "Prosper Peter",
           "position": "Centre-Forward",
           "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Harouna Djibirin",
-          "position": "Right Winger",
-          "injury": "Ankle injury",
           "since": "",
           "status": "out"
         }
@@ -2339,16 +2325,9 @@
       },
       "home_injuries": [
         {
-          "player": "Stephan Zagadou",
-          "position": "Centre-Back",
-          "injury": "Cruciate ligament tear",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Noam Obougou",
-          "position": "Centre-Forward",
-          "injury": "Groin injury",
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         },
@@ -2360,9 +2339,16 @@
           "status": "out"
         },
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
+          "player": "Noam Obougou",
+          "position": "Centre-Forward",
+          "injury": "Groin injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Stephan Zagadou",
+          "position": "Centre-Back",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         }
@@ -2506,16 +2492,16 @@
       "home_injuries": [],
       "away_injuries": [
         {
-          "player": "Mama Bald\u00e9",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Junior Dina Ebimbe",
+          "position": "Right Midfield",
+          "injury": "Muscle injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Junior Dina Ebimbe",
-          "position": "Right Midfield",
-          "injury": "Muscle injury",
+          "player": "Mama Bald\u00e9",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }

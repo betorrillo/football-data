@@ -1,28 +1,21 @@
 {
-  "generated": "2026-06-12",
+  "generated": "2026-06-13",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 41,
+  "total_injured": 40,
   "teams_affected": 19,
   "teams": {
-    "Genoa CFC": [
+    "SSC Napoli": [
       {
-        "player": "Jean Onana",
+        "player": "Billy Gilmour",
         "position": "Defensive Midfield",
-        "injury": "unknown injury",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
+        "player": "Stanislav Lobotka",
+        "position": "Defensive Midfield",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
@@ -129,9 +122,9 @@
         "status": "out"
       },
       {
-        "player": "Jacob Ondrejka",
-        "position": "Left Winger",
-        "injury": "surgery",
+        "player": "Matija Frigan",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -143,9 +136,9 @@
         "status": "out"
       },
       {
-        "player": "Matija Frigan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Jacob Ondrejka",
+        "position": "Left Winger",
+        "injury": "surgery",
         "since": "",
         "status": "out"
       },
@@ -153,6 +146,29 @@
         "player": "Filippo Rinaldi",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Genoa CFC": [
+      {
+        "player": "Jean Onana",
+        "position": "Defensive Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxwel Cornet",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
@@ -173,34 +189,11 @@
         "status": "out"
       }
     ],
-    "Torino FC": [
+    "Inter Milan": [
       {
-        "player": "Luca Marianucci",
+        "player": "Stefan de Vrij",
         "position": "Centre-Back",
-        "injury": "Bruised knee",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Zakaria Aboukhlal",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SSC Napoli": [
-      {
-        "player": "Billy Gilmour",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stanislav Lobotka",
-        "position": "Defensive Midfield",
-        "injury": "unknown injury",
+        "injury": "Groin injury",
         "since": "",
         "status": "out"
       }
@@ -230,15 +223,6 @@
         "status": "out"
       }
     ],
-    "Inter Milan": [
-      {
-        "player": "Stefan de Vrij",
-        "position": "Centre-Back",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Atalanta BC": [
       {
         "player": "Lorenzo Bernasconi",
@@ -255,23 +239,9 @@
         "injury": "Muscle injury",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Kenan Y\u0131ld\u0131z",
-        "position": "Left Winger",
-        "injury": "Calf injury",
-        "since": "",
-        "status": "out"
       }
     ],
     "AS Roma": [
-      {
-        "player": "Wesley",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Evan Ndicka",
         "position": "Centre-Back",
@@ -282,6 +252,29 @@
       {
         "player": "Bryan Zaragoza",
         "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Wesley",
+        "position": "Right-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Torino FC": [
+      {
+        "player": "Luca Marianucci",
+        "position": "Centre-Back",
+        "injury": "Bruised knee",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Zakaria Aboukhlal",
+        "position": "Right Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
