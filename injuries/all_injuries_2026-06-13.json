@@ -228,20 +228,29 @@
       "total_injured": 19,
       "teams_affected": 14,
       "teams": {
+        "SD Huesca": [
+          {
+            "player": "Diego Aznar",
+            "position": "Centre-Forward",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "C\u00e1diz CF": [
+          {
+            "player": "Iuri Tabatadze",
+            "position": "Right Winger",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "UD Las Palmas": [
           {
             "player": "Jerem\u00eda Recoba",
             "position": "Left Winger",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Albacete Balompi\u00e9": [
-          {
-            "player": "Higinio Mar\u00edn",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -269,20 +278,20 @@
             "status": "out"
           }
         ],
-        "Deportivo de La Coru\u00f1a": [
+        "Albacete Balompi\u00e9": [
           {
-            "player": "David Mella",
-            "position": "Right Winger",
+            "player": "Higinio Mar\u00edn",
+            "position": "Centre-Forward",
             "injury": "Unknown",
             "since": "",
             "status": "out"
           }
         ],
-        "C\u00e1diz CF": [
+        "Deportivo de La Coru\u00f1a": [
           {
-            "player": "Iuri Tabatadze",
+            "player": "David Mella",
             "position": "Right Winger",
-            "injury": "unknown injury",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -306,15 +315,6 @@
             "player": "Juanpe",
             "position": "Central Midfield",
             "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "SD Huesca": [
-          {
-            "player": "Diego Aznar",
-            "position": "Centre-Forward",
-            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }
