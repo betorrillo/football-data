@@ -1,7 +1,7 @@
 {
   "generated": "2026-06-15",
   "source": "transfermarkt.com",
-  "total_injured": 228,
+  "total_injured": 227,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
@@ -651,65 +651,17 @@
       "generated": "2026-06-15",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 45,
+      "total_injured": 44,
       "teams_affected": 17,
       "teams": {
-        "SV Werder Bremen": [
+        "VfL Wolfsburg": [
           {
-            "player": "Mitchell Weiser",
-            "position": "Right-Back",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Keke Topp",
-            "position": "Centre-Forward",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Juli\u00e1n Malatini",
+            "player": "Cleiton",
             "position": "Centre-Back",
             "injury": "Unknown",
             "since": "",
             "status": "out"
-          }
-        ],
-        "Hamburger SV": [
-          {
-            "player": "Fernando Dickes",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
           },
-          {
-            "player": "Alexander R\u00f8ssing-Lelesiit",
-            "position": "Left Winger",
-            "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Robert Glatzel",
-            "position": "Centre-Forward",
-            "injury": "Calf strain",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "VfB Stuttgart": [
-          {
-            "player": "Lorenz Assignon",
-            "position": "Right-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "VfL Wolfsburg": [
           {
             "player": "Christian Eriksen",
             "position": "Attacking Midfield",
@@ -746,16 +698,41 @@
             "status": "out"
           },
           {
-            "player": "Cleiton",
-            "position": "Centre-Back",
-            "injury": "Unknown",
+            "player": "Maximilian Arnold",
+            "position": "Central Midfield",
+            "injury": "Groin problems",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Hamburger SV": [
+          {
+            "player": "Robert Glatzel",
+            "position": "Centre-Forward",
+            "injury": "Calf strain",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Maximilian Arnold",
-            "position": "Central Midfield",
-            "injury": "Groin problems",
+            "player": "Fernando Dickes",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Alexander R\u00f8ssing-Lelesiit",
+            "position": "Left Winger",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "VfB Stuttgart": [
+          {
+            "player": "Lorenz Assignon",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -779,6 +756,22 @@
             "player": "Ragnar Ache",
             "position": "Centre-Forward",
             "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SV Werder Bremen": [
+          {
+            "player": "Mitchell Weiser",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Keke Topp",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -870,11 +863,41 @@
             "status": "out"
           }
         ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Bayer 04 Leverkusen": [
           {
-            "player": "Christian Kofane",
-            "position": "Centre-Forward",
-            "injury": "Shoulder injury",
+            "player": "Nathan Tella",
+            "position": "Right Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -886,9 +909,9 @@
             "status": "out"
           },
           {
-            "player": "Nathan Tella",
-            "position": "Right Winger",
-            "injury": "Unknown",
+            "player": "Christian Kofane",
+            "position": "Centre-Forward",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -969,36 +992,6 @@
             "player": "Mathias Pereira Lage",
             "position": "Left Winger",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "1.FSV Mainz 05": [
-          {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
