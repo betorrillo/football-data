@@ -4,7 +4,7 @@
   "away": "Parma",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-06-13T20:22:11Z",
+  "generated": "2026-06-15T13:08:20Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
@@ -20,6 +20,13 @@
   ],
   "away_injuries": [
     {
+      "player": "Adrián Bernabé",
+      "position": "Central Midfield",
+      "injury": "Muscle injury",
+      "since": "",
+      "status": "out"
+    },
+    {
       "player": "Gaetano Oristanio",
       "position": "Attacking Midfield",
       "injury": "Knee problems",
@@ -27,9 +34,16 @@
       "status": "out"
     },
     {
-      "player": "Adrián Bernabé",
-      "position": "Central Midfield",
-      "injury": "Muscle injury",
+      "player": "Filippo Rinaldi",
+      "position": "Goalkeeper",
+      "injury": "Shoulder injury",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Jacob Ondrejka",
+      "position": "Left Winger",
+      "injury": "surgery",
       "since": "",
       "status": "out"
     },
@@ -44,20 +58,6 @@
       "player": "Nesta Elphege",
       "position": "Centre-Forward",
       "injury": "Unknown",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Jacob Ondrejka",
-      "position": "Left Winger",
-      "injury": "surgery",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Filippo Rinaldi",
-      "position": "Goalkeeper",
-      "injury": "Shoulder injury",
       "since": "",
       "status": "out"
     }
