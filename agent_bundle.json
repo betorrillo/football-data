@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-06-16",
-  "generated_at": "2026-06-16T21:45:38Z",
+  "generated": "2026-06-17",
+  "generated_at": "2026-06-17T11:40:11Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14003,46 +14003,3779 @@
   }
  ],
  "referees": {
-  "segunda": {
-   "referees": [],
-   "total": 0
-  },
   "laliga": {
-   "referees": [],
-   "total": 0
+   "referees": [
+    {
+     "name": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+     "transfermarkt_id": "1651",
+     "career_matches": 620,
+     "career_yc": 3480,
+     "career_yc_per_match": 5.61,
+     "career_rc": 208,
+     "career_rc_per_match": 0.34,
+     "career_pk": 204,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 5.95,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Mateo Busquets Ferrer",
+     "transfermarkt_id": "27181",
+     "career_matches": 161,
+     "career_yc": 870,
+     "career_yc_per_match": 5.4,
+     "career_rc": 59,
+     "career_rc_per_match": 0.37,
+     "career_pk": 42,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 5.77,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+     "transfermarkt_id": "5708",
+     "career_matches": 525,
+     "career_yc": 2895,
+     "career_yc_per_match": 5.51,
+     "career_rc": 128,
+     "career_rc_per_match": 0.24,
+     "career_pk": 156,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 5.76,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Isidro D\u00edaz de Mera Escuderos",
+     "transfermarkt_id": "12633",
+     "career_matches": 320,
+     "career_yc": 1742,
+     "career_yc_per_match": 5.44,
+     "career_rc": 99,
+     "career_rc_per_match": 0.31,
+     "career_pk": 116,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.75,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jes\u00fas Gil Manzano",
+     "transfermarkt_id": "3490",
+     "career_matches": 641,
+     "career_yc": 3467,
+     "career_yc_per_match": 5.41,
+     "career_rc": 200,
+     "career_rc_per_match": 0.31,
+     "career_pk": 240,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 5.72,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
+     "transfermarkt_id": "21740",
+     "career_matches": 169,
+     "career_yc": 898,
+     "career_yc_per_match": 5.31,
+     "career_rc": 46,
+     "career_rc_per_match": 0.27,
+     "career_pk": 49,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 5.59,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Iosu Galech Apeztegu\u00eda",
+     "transfermarkt_id": "8264",
+     "career_matches": 283,
+     "career_yc": 1418,
+     "career_yc_per_match": 5.01,
+     "career_rc": 87,
+     "career_rc_per_match": 0.31,
+     "career_pk": 75,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 5.32,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Francisco Jos\u00e9 Hern\u00e1ndez Maeso",
+     "transfermarkt_id": "8246",
+     "career_matches": 235,
+     "career_yc": 1197,
+     "career_yc_per_match": 5.09,
+     "career_rc": 50,
+     "career_rc_per_match": 0.21,
+     "career_pk": 56,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 5.31,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Adri\u00e1n Cordero Vega",
+     "transfermarkt_id": "7998",
+     "career_matches": 368,
+     "career_yc": 1848,
+     "career_yc_per_match": 5.02,
+     "career_rc": 64,
+     "career_rc_per_match": 0.17,
+     "career_pk": 133,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.2,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alejandro Quintero Gonz\u00e1lez",
+     "transfermarkt_id": "42652",
+     "career_matches": 168,
+     "career_yc": 832,
+     "career_yc_per_match": 4.95,
+     "career_rc": 42,
+     "career_rc_per_match": 0.25,
+     "career_pk": 54,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 5.2,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alejandro Mu\u00f1iz Ruiz",
+     "transfermarkt_id": "13446",
+     "career_matches": 263,
+     "career_yc": 1265,
+     "career_yc_per_match": 4.81,
+     "career_rc": 97,
+     "career_rc_per_match": 0.37,
+     "career_pk": 87,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 5.18,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "C\u00e9sar Soto Grado",
+     "transfermarkt_id": "5120",
+     "career_matches": 339,
+     "career_yc": 1677,
+     "career_yc_per_match": 4.95,
+     "career_rc": 77,
+     "career_rc_per_match": 0.23,
+     "career_pk": 117,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.17,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Guillermo Cuadra Fern\u00e1ndez",
+     "transfermarkt_id": "9444",
+     "career_matches": 376,
+     "career_yc": 1793,
+     "career_yc_per_match": 4.77,
+     "career_rc": 113,
+     "career_rc_per_match": 0.3,
+     "career_pk": 132,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.07,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "V\u00edctor Garc\u00eda Acosta",
+     "transfermarkt_id": "55671",
+     "career_matches": 51,
+     "career_yc": 247,
+     "career_yc_per_match": 4.84,
+     "career_rc": 10,
+     "career_rc_per_match": 0.2,
+     "career_pk": 7,
+     "career_pk_per_match": 0.14,
+     "career_total_cards_per_match": 5.04,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "De Burgos Bengoetxea",
+     "transfermarkt_id": "5102",
+     "career_matches": 542,
+     "career_yc": 2549,
+     "career_yc_per_match": 4.7,
+     "career_rc": 107,
+     "career_rc_per_match": 0.2,
+     "career_pk": 150,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.9,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Juan Mart\u00ednez Munuera",
+     "transfermarkt_id": "4412",
+     "career_matches": 580,
+     "career_yc": 2736,
+     "career_yc_per_match": 4.72,
+     "career_rc": 108,
+     "career_rc_per_match": 0.19,
+     "career_pk": 170,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 4.9,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Luis Munuera Montero",
+     "transfermarkt_id": "8265",
+     "career_matches": 499,
+     "career_yc": 2245,
+     "career_yc_per_match": 4.5,
+     "career_rc": 139,
+     "career_rc_per_match": 0.28,
+     "career_pk": 138,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.78,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Miguel \u00c1ngel Ortiz Arias",
+     "transfermarkt_id": "8228",
+     "career_matches": 285,
+     "career_yc": 1258,
+     "career_yc_per_match": 4.41,
+     "career_rc": 78,
+     "career_rc_per_match": 0.27,
+     "career_pk": 74,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 4.69,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "V\u00edctor Garc\u00eda Verdura",
+     "transfermarkt_id": "21738",
+     "career_matches": 184,
+     "career_yc": 791,
+     "career_yc_per_match": 4.3,
+     "career_rc": 31,
+     "career_rc_per_match": 0.17,
+     "career_pk": 58,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.47,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Miguel Sesma Espinosa",
+     "transfermarkt_id": "26991",
+     "career_matches": 140,
+     "career_yc": 588,
+     "career_yc_per_match": 4.2,
+     "career_rc": 26,
+     "career_rc_per_match": 0.19,
+     "career_pk": 42,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 4.39,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Javier Alberola Rojas",
+     "transfermarkt_id": "9469",
+     "career_matches": 417,
+     "career_yc": 1472,
+     "career_yc_per_match": 3.53,
+     "career_rc": 68,
+     "career_rc_per_match": 0.16,
+     "career_pk": 141,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 3.69,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Jos\u00e9 S\u00e1nchez Santos",
+     "transfermarkt_id": "61248",
+     "career_matches": 2,
+     "career_yc": 6,
+     "career_yc_per_match": 3.0,
+     "career_rc": 0,
+     "career_rc_per_match": 0.0,
+     "career_pk": 0,
+     "career_pk_per_match": 0.0,
+     "career_total_cards_per_match": 3.0,
+     "verdict": "BAJO"
+    }
+   ],
+   "total": 22
+  },
+  "segunda": {
+   "referees": [
+    {
+     "name": "Manuel \u00c1ngel P\u00e9rez Hern\u00e1ndez",
+     "transfermarkt_id": "31869",
+     "career_matches": 138,
+     "career_yc": 831,
+     "career_yc_per_match": 6.02,
+     "career_rc": 45,
+     "career_rc_per_match": 0.33,
+     "career_pk": 63,
+     "career_pk_per_match": 0.46,
+     "career_total_cards_per_match": 6.35,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Antonio S\u00e1nchez Villalobos",
+     "transfermarkt_id": "12428",
+     "career_matches": 152,
+     "career_yc": 863,
+     "career_yc_per_match": 5.68,
+     "career_rc": 35,
+     "career_rc_per_match": 0.23,
+     "career_pk": 34,
+     "career_pk_per_match": 0.22,
+     "career_total_cards_per_match": 5.91,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alejandro Ojaos Valera",
+     "transfermarkt_id": "47923",
+     "career_matches": 83,
+     "career_yc": 458,
+     "career_yc_per_match": 5.52,
+     "career_rc": 24,
+     "career_rc_per_match": 0.29,
+     "career_pk": 36,
+     "career_pk_per_match": 0.43,
+     "career_total_cards_per_match": 5.81,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Manuel Jes\u00fas Orellana Cid",
+     "transfermarkt_id": "27051",
+     "career_matches": 148,
+     "career_yc": 814,
+     "career_yc_per_match": 5.5,
+     "career_rc": 40,
+     "career_rc_per_match": 0.27,
+     "career_pk": 27,
+     "career_pk_per_match": 0.18,
+     "career_total_cards_per_match": 5.77,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Germ\u00e1n Cid Camacho",
+     "transfermarkt_id": "8046",
+     "career_matches": 197,
+     "career_yc": 1070,
+     "career_yc_per_match": 5.43,
+     "career_rc": 61,
+     "career_rc_per_match": 0.31,
+     "career_pk": 45,
+     "career_pk_per_match": 0.23,
+     "career_total_cards_per_match": 5.74,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "D\u00e1maso Arcediano Monescillo",
+     "transfermarkt_id": "5706",
+     "career_matches": 522,
+     "career_yc": 2822,
+     "career_yc_per_match": 5.41,
+     "career_rc": 152,
+     "career_rc_per_match": 0.29,
+     "career_pk": 168,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 5.7,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Daniel Palencia Caballero",
+     "transfermarkt_id": "21742",
+     "career_matches": 163,
+     "career_yc": 857,
+     "career_yc_per_match": 5.26,
+     "career_rc": 58,
+     "career_rc_per_match": 0.36,
+     "career_pk": 58,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.61,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alonso de Ena Wolf",
+     "transfermarkt_id": "31877",
+     "career_matches": 138,
+     "career_yc": 732,
+     "career_yc_per_match": 5.3,
+     "career_rc": 40,
+     "career_rc_per_match": 0.29,
+     "career_pk": 24,
+     "career_pk_per_match": 0.17,
+     "career_total_cards_per_match": 5.59,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "\u00c1lvaro Moreno Arag\u00f3n",
+     "transfermarkt_id": "8183",
+     "career_matches": 316,
+     "career_yc": 1597,
+     "career_yc_per_match": 5.05,
+     "career_rc": 123,
+     "career_rc_per_match": 0.39,
+     "career_pk": 126,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 5.44,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Salvador Lax Franco",
+     "transfermarkt_id": "12430",
+     "career_matches": 172,
+     "career_yc": 876,
+     "career_yc_per_match": 5.09,
+     "career_rc": 51,
+     "career_rc_per_match": 0.3,
+     "career_pk": 31,
+     "career_pk_per_match": 0.18,
+     "career_total_cards_per_match": 5.39,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Luis Bestard Servera",
+     "transfermarkt_id": "37592",
+     "career_matches": 106,
+     "career_yc": 541,
+     "career_yc_per_match": 5.1,
+     "career_rc": 24,
+     "career_rc_per_match": 0.23,
+     "career_pk": 29,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 5.33,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Andr\u00e9s Fuentes Molina",
+     "transfermarkt_id": "42640",
+     "career_matches": 172,
+     "career_yc": 849,
+     "career_yc_per_match": 4.94,
+     "career_rc": 52,
+     "career_rc_per_match": 0.3,
+     "career_pk": 45,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 5.24,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Eder Mallo Fern\u00e1ndez",
+     "transfermarkt_id": "31885",
+     "career_matches": 122,
+     "career_yc": 614,
+     "career_yc_per_match": 5.03,
+     "career_rc": 21,
+     "career_rc_per_match": 0.17,
+     "career_pk": 27,
+     "career_pk_per_match": 0.22,
+     "career_total_cards_per_match": 5.2,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Rafael S\u00e1nchez L\u00f3pez",
+     "transfermarkt_id": "17213",
+     "career_matches": 222,
+     "career_yc": 1068,
+     "career_yc_per_match": 4.81,
+     "career_rc": 65,
+     "career_rc_per_match": 0.29,
+     "career_pk": 57,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 5.1,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jon Ander Gonz\u00e1lez Esteban",
+     "transfermarkt_id": "8039",
+     "career_matches": 315,
+     "career_yc": 1428,
+     "career_yc_per_match": 4.53,
+     "career_rc": 102,
+     "career_rc_per_match": 0.32,
+     "career_pk": 92,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 4.86,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Sa\u00fal Ais Reig",
+     "transfermarkt_id": "9479",
+     "career_matches": 388,
+     "career_yc": 1805,
+     "career_yc_per_match": 4.65,
+     "career_rc": 79,
+     "career_rc_per_match": 0.2,
+     "career_pk": 104,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 4.86,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Marta Huerta de Haza",
+     "transfermarkt_id": "37599",
+     "career_matches": 95,
+     "career_yc": 434,
+     "career_yc_per_match": 4.57,
+     "career_rc": 26,
+     "career_rc_per_match": 0.27,
+     "career_pk": 23,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.84,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Miguel Gonz\u00e1lez D\u00edaz",
+     "transfermarkt_id": "37597",
+     "career_matches": 137,
+     "career_yc": 632,
+     "career_yc_per_match": 4.61,
+     "career_rc": 31,
+     "career_rc_per_match": 0.23,
+     "career_pk": 33,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.84,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Gorka Etayo Herrera",
+     "transfermarkt_id": "31878",
+     "career_matches": 122,
+     "career_yc": 565,
+     "career_yc_per_match": 4.63,
+     "career_rc": 17,
+     "career_rc_per_match": 0.14,
+     "career_pk": 21,
+     "career_pk_per_match": 0.17,
+     "career_total_cards_per_match": 4.77,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Alejandro Morilla Turri\u00f3n",
+     "transfermarkt_id": "47933",
+     "career_matches": 83,
+     "career_yc": 382,
+     "career_yc_per_match": 4.6,
+     "career_rc": 12,
+     "career_rc_per_match": 0.14,
+     "career_pk": 16,
+     "career_pk_per_match": 0.19,
+     "career_total_cards_per_match": 4.75,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Sergiu Claudiu Muresan",
+     "transfermarkt_id": "37584",
+     "career_matches": 121,
+     "career_yc": 527,
+     "career_yc_per_match": 4.36,
+     "career_rc": 34,
+     "career_rc_per_match": 0.28,
+     "career_pk": 39,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.64,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Carlos Mu\u00f1iz Mu\u00f1oz",
+     "transfermarkt_id": "47922",
+     "career_matches": 109,
+     "career_yc": 397,
+     "career_yc_per_match": 3.64,
+     "career_rc": 29,
+     "career_rc_per_match": 0.27,
+     "career_pk": 41,
+     "career_pk_per_match": 0.38,
+     "career_total_cards_per_match": 3.91,
+     "verdict": "MEDIO"
+    }
+   ],
+   "total": 22
   },
   "epl": {
-   "referees": [],
-   "total": 0
+   "referees": [
+    {
+     "name": "Jarred Gillett",
+     "transfermarkt_id": "4929",
+     "career_matches": 491,
+     "career_yc": 2005,
+     "career_yc_per_match": 4.08,
+     "career_rc": 85,
+     "career_rc_per_match": 0.17,
+     "career_pk": 169,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 4.26,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Matthew Donohue",
+     "transfermarkt_id": "15529",
+     "career_matches": 319,
+     "career_yc": 1236,
+     "career_yc_per_match": 3.87,
+     "career_rc": 55,
+     "career_rc_per_match": 0.17,
+     "career_pk": 57,
+     "career_pk_per_match": 0.18,
+     "career_total_cards_per_match": 4.05,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Peter Bankes",
+     "transfermarkt_id": "3851",
+     "career_matches": 436,
+     "career_yc": 1668,
+     "career_yc_per_match": 3.83,
+     "career_rc": 65,
+     "career_rc_per_match": 0.15,
+     "career_pk": 84,
+     "career_pk_per_match": 0.19,
+     "career_total_cards_per_match": 3.97,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "John Brooks",
+     "transfermarkt_id": "7836",
+     "career_matches": 288,
+     "career_yc": 1104,
+     "career_yc_per_match": 3.83,
+     "career_rc": 33,
+     "career_rc_per_match": 0.11,
+     "career_pk": 71,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 3.95,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Lewis Smith",
+     "transfermarkt_id": "25420",
+     "career_matches": 204,
+     "career_yc": 769,
+     "career_yc_per_match": 3.77,
+     "career_rc": 34,
+     "career_rc_per_match": 0.17,
+     "career_pk": 58,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.94,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Thomas Kirk",
+     "transfermarkt_id": "20130",
+     "career_matches": 132,
+     "career_yc": 511,
+     "career_yc_per_match": 3.87,
+     "career_rc": 8,
+     "career_rc_per_match": 0.06,
+     "career_pk": 34,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 3.93,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Darren England",
+     "transfermarkt_id": "5888",
+     "career_matches": 340,
+     "career_yc": 1298,
+     "career_yc_per_match": 3.82,
+     "career_rc": 33,
+     "career_rc_per_match": 0.1,
+     "career_pk": 94,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.91,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Tim Robinson",
+     "transfermarkt_id": "4874",
+     "career_matches": 496,
+     "career_yc": 1829,
+     "career_yc_per_match": 3.69,
+     "career_rc": 83,
+     "career_rc_per_match": 0.17,
+     "career_pk": 107,
+     "career_pk_per_match": 0.22,
+     "career_total_cards_per_match": 3.85,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Stuart Attwell",
+     "transfermarkt_id": "1622",
+     "career_matches": 610,
+     "career_yc": 2206,
+     "career_yc_per_match": 3.62,
+     "career_rc": 84,
+     "career_rc_per_match": 0.14,
+     "career_pk": 130,
+     "career_pk_per_match": 0.21,
+     "career_total_cards_per_match": 3.75,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Chris Kavanagh",
+     "transfermarkt_id": "6345",
+     "career_matches": 504,
+     "career_yc": 1818,
+     "career_yc_per_match": 3.61,
+     "career_rc": 64,
+     "career_rc_per_match": 0.13,
+     "career_pk": 121,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 3.73,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Robert Jones",
+     "transfermarkt_id": "5880",
+     "career_matches": 353,
+     "career_yc": 1281,
+     "career_yc_per_match": 3.63,
+     "career_rc": 30,
+     "career_rc_per_match": 0.08,
+     "career_pk": 104,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 3.71,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Craig Pawson",
+     "transfermarkt_id": "2289",
+     "career_matches": 697,
+     "career_yc": 2473,
+     "career_yc_per_match": 3.55,
+     "career_rc": 96,
+     "career_rc_per_match": 0.14,
+     "career_pk": 157,
+     "career_pk_per_match": 0.23,
+     "career_total_cards_per_match": 3.69,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Samuel Barrott",
+     "transfermarkt_id": "34683",
+     "career_matches": 198,
+     "career_yc": 708,
+     "career_yc_per_match": 3.58,
+     "career_rc": 21,
+     "career_rc_per_match": 0.11,
+     "career_pk": 42,
+     "career_pk_per_match": 0.21,
+     "career_total_cards_per_match": 3.68,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Anthony Taylor",
+     "transfermarkt_id": "847",
+     "career_matches": 948,
+     "career_yc": 3334,
+     "career_yc_per_match": 3.52,
+     "career_rc": 149,
+     "career_rc_per_match": 0.16,
+     "career_pk": 286,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 3.67,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Thomas Bramall",
+     "transfermarkt_id": "11934",
+     "career_matches": 218,
+     "career_yc": 742,
+     "career_yc_per_match": 3.4,
+     "career_rc": 31,
+     "career_rc_per_match": 0.14,
+     "career_pk": 52,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 3.55,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Paul Tierney",
+     "transfermarkt_id": "1207",
+     "career_matches": 530,
+     "career_yc": 1803,
+     "career_yc_per_match": 3.4,
+     "career_rc": 61,
+     "career_rc_per_match": 0.12,
+     "career_pk": 123,
+     "career_pk_per_match": 0.23,
+     "career_total_cards_per_match": 3.52,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Simon Hooper",
+     "transfermarkt_id": "2320",
+     "career_matches": 551,
+     "career_yc": 1848,
+     "career_yc_per_match": 3.35,
+     "career_rc": 62,
+     "career_rc_per_match": 0.11,
+     "career_pk": 125,
+     "career_pk_per_match": 0.23,
+     "career_total_cards_per_match": 3.47,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Farai Hallam",
+     "transfermarkt_id": "35374",
+     "career_matches": 115,
+     "career_yc": 390,
+     "career_yc_per_match": 3.39,
+     "career_rc": 6,
+     "career_rc_per_match": 0.05,
+     "career_pk": 17,
+     "career_pk_per_match": 0.15,
+     "career_total_cards_per_match": 3.44,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Michael Oliver",
+     "transfermarkt_id": "902",
+     "career_matches": 943,
+     "career_yc": 3078,
+     "career_yc_per_match": 3.26,
+     "career_rc": 128,
+     "career_rc_per_match": 0.14,
+     "career_pk": 285,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 3.4,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Tony Harrington",
+     "transfermarkt_id": "3986",
+     "career_matches": 389,
+     "career_yc": 1260,
+     "career_yc_per_match": 3.24,
+     "career_rc": 55,
+     "career_rc_per_match": 0.14,
+     "career_pk": 111,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 3.38,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Andrew Madley",
+     "transfermarkt_id": "3569",
+     "career_matches": 499,
+     "career_yc": 1606,
+     "career_yc_per_match": 3.22,
+     "career_rc": 64,
+     "career_rc_per_match": 0.13,
+     "career_pk": 123,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 3.35,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Michael Salisbury",
+     "transfermarkt_id": "6178",
+     "career_matches": 236,
+     "career_yc": 706,
+     "career_yc_per_match": 2.99,
+     "career_rc": 40,
+     "career_rc_per_match": 0.17,
+     "career_pk": 46,
+     "career_pk_per_match": 0.19,
+     "career_total_cards_per_match": 3.16,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Andrew Kitchen",
+     "transfermarkt_id": "37177",
+     "career_matches": 178,
+     "career_yc": 514,
+     "career_yc_per_match": 2.89,
+     "career_rc": 14,
+     "career_rc_per_match": 0.08,
+     "career_pk": 36,
+     "career_pk_per_match": 0.2,
+     "career_total_cards_per_match": 2.97,
+     "verdict": "BAJO"
+    }
+   ],
+   "total": 23
   },
   "bundesliga": {
-   "referees": [],
-   "total": 0
+   "referees": [
+    {
+     "name": "Robin Braun",
+     "transfermarkt_id": "14868",
+     "career_matches": 175,
+     "career_yc": 775,
+     "career_yc_per_match": 4.43,
+     "career_rc": 25,
+     "career_rc_per_match": 0.14,
+     "career_pk": 57,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 4.57,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Patrick Ittrich",
+     "transfermarkt_id": "789",
+     "career_matches": 351,
+     "career_yc": 1502,
+     "career_yc_per_match": 4.28,
+     "career_rc": 99,
+     "career_rc_per_match": 0.28,
+     "career_pk": 109,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 4.56,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Daniel Schlager",
+     "transfermarkt_id": "3564",
+     "career_matches": 312,
+     "career_yc": 1307,
+     "career_yc_per_match": 4.19,
+     "career_rc": 58,
+     "career_rc_per_match": 0.19,
+     "career_pk": 111,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 4.38,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "S\u00f6ren Storks",
+     "transfermarkt_id": "4694",
+     "career_matches": 263,
+     "career_yc": 1067,
+     "career_yc_per_match": 4.06,
+     "career_rc": 59,
+     "career_rc_per_match": 0.22,
+     "career_pk": 72,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 4.28,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Felix Zwayer",
+     "transfermarkt_id": "124",
+     "career_matches": 709,
+     "career_yc": 2914,
+     "career_yc_per_match": 4.11,
+     "career_rc": 113,
+     "career_rc_per_match": 0.16,
+     "career_pk": 184,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 4.27,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Christian Dingert",
+     "transfermarkt_id": "15",
+     "career_matches": 613,
+     "career_yc": 2490,
+     "career_yc_per_match": 4.06,
+     "career_rc": 100,
+     "career_rc_per_match": 0.16,
+     "career_pk": 169,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.23,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Timo Gerach",
+     "transfermarkt_id": "1573",
+     "career_matches": 257,
+     "career_yc": 1029,
+     "career_yc_per_match": 4.0,
+     "career_rc": 44,
+     "career_rc_per_match": 0.17,
+     "career_pk": 93,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 4.18,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Frank Willenborg",
+     "transfermarkt_id": "121",
+     "career_matches": 416,
+     "career_yc": 1669,
+     "career_yc_per_match": 4.01,
+     "career_rc": 62,
+     "career_rc_per_match": 0.15,
+     "career_pk": 114,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 4.16,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Martin Petersen",
+     "transfermarkt_id": "880",
+     "career_matches": 378,
+     "career_yc": 1500,
+     "career_yc_per_match": 3.97,
+     "career_rc": 68,
+     "career_rc_per_match": 0.18,
+     "career_pk": 118,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 4.15,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Harm Osmers",
+     "transfermarkt_id": "1616",
+     "career_matches": 442,
+     "career_yc": 1705,
+     "career_yc_per_match": 3.86,
+     "career_rc": 77,
+     "career_rc_per_match": 0.17,
+     "career_pk": 112,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 4.03,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Benjamin Brand",
+     "transfermarkt_id": "1832",
+     "career_matches": 310,
+     "career_yc": 1184,
+     "career_yc_per_match": 3.82,
+     "career_rc": 61,
+     "career_rc_per_match": 0.2,
+     "career_pk": 94,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 4.02,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Deniz Aytekin",
+     "transfermarkt_id": "95",
+     "career_matches": 690,
+     "career_yc": 2618,
+     "career_yc_per_match": 3.79,
+     "career_rc": 154,
+     "career_rc_per_match": 0.22,
+     "career_pk": 222,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.02,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Daniel Siebert",
+     "transfermarkt_id": "732",
+     "career_matches": 558,
+     "career_yc": 2162,
+     "career_yc_per_match": 3.87,
+     "career_rc": 66,
+     "career_rc_per_match": 0.12,
+     "career_pk": 140,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 3.99,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Robert Schr\u00f6der",
+     "transfermarkt_id": "1849",
+     "career_matches": 304,
+     "career_yc": 1151,
+     "career_yc_per_match": 3.79,
+     "career_rc": 60,
+     "career_rc_per_match": 0.2,
+     "career_pk": 92,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 3.98,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Dr. Matthias J\u00f6llenbeck",
+     "transfermarkt_id": "2073",
+     "career_matches": 256,
+     "career_yc": 983,
+     "career_yc_per_match": 3.84,
+     "career_rc": 34,
+     "career_rc_per_match": 0.13,
+     "career_pk": 94,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 3.97,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Sascha Stegemann",
+     "transfermarkt_id": "2278",
+     "career_matches": 486,
+     "career_yc": 1822,
+     "career_yc_per_match": 3.75,
+     "career_rc": 87,
+     "career_rc_per_match": 0.18,
+     "career_pk": 109,
+     "career_pk_per_match": 0.22,
+     "career_total_cards_per_match": 3.93,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Tobias Welz",
+     "transfermarkt_id": "47",
+     "career_matches": 481,
+     "career_yc": 1802,
+     "career_yc_per_match": 3.75,
+     "career_rc": 84,
+     "career_rc_per_match": 0.17,
+     "career_pk": 152,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 3.92,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Bastian Dankert",
+     "transfermarkt_id": "685",
+     "career_matches": 495,
+     "career_yc": 1837,
+     "career_yc_per_match": 3.71,
+     "career_rc": 82,
+     "career_rc_per_match": 0.17,
+     "career_pk": 138,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.88,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Tobias Reichel",
+     "transfermarkt_id": "1921",
+     "career_matches": 266,
+     "career_yc": 980,
+     "career_yc_per_match": 3.68,
+     "career_rc": 28,
+     "career_rc_per_match": 0.11,
+     "career_pk": 57,
+     "career_pk_per_match": 0.21,
+     "career_total_cards_per_match": 3.79,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Sven Jablonski",
+     "transfermarkt_id": "1940",
+     "career_matches": 380,
+     "career_yc": 1375,
+     "career_yc_per_match": 3.62,
+     "career_rc": 43,
+     "career_rc_per_match": 0.11,
+     "career_pk": 90,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 3.73,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Florian Badst\u00fcbner",
+     "transfermarkt_id": "4437",
+     "career_matches": 313,
+     "career_yc": 1115,
+     "career_yc_per_match": 3.56,
+     "career_rc": 51,
+     "career_rc_per_match": 0.16,
+     "career_pk": 105,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 3.73,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Tobias Stieler",
+     "transfermarkt_id": "107",
+     "career_matches": 583,
+     "career_yc": 2022,
+     "career_yc_per_match": 3.47,
+     "career_rc": 115,
+     "career_rc_per_match": 0.2,
+     "career_pk": 202,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 3.67,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Robert Hartmann",
+     "transfermarkt_id": "283",
+     "career_matches": 556,
+     "career_yc": 1975,
+     "career_yc_per_match": 3.55,
+     "career_rc": 67,
+     "career_rc_per_match": 0.12,
+     "career_pk": 138,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 3.67,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Florian Exner",
+     "transfermarkt_id": "11110",
+     "career_matches": 282,
+     "career_yc": 776,
+     "career_yc_per_match": 2.75,
+     "career_rc": 91,
+     "career_rc_per_match": 0.32,
+     "career_pk": 78,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.07,
+     "verdict": "BAJO"
+    }
+   ],
+   "total": 24
   },
   "ligue1": {
-   "referees": [],
-   "total": 0
-  },
-  "seriea": {
-   "referees": [],
-   "total": 0
+   "referees": [
+    {
+     "name": "Mathieu Vernice",
+     "transfermarkt_id": "26725",
+     "career_matches": 231,
+     "career_yc": 946,
+     "career_yc_per_match": 4.1,
+     "career_rc": 69,
+     "career_rc_per_match": 0.3,
+     "career_pk": 92,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 4.39,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Guillaume Paradis",
+     "transfermarkt_id": "22808",
+     "career_matches": 291,
+     "career_yc": 1162,
+     "career_yc_per_match": 3.99,
+     "career_rc": 101,
+     "career_rc_per_match": 0.35,
+     "career_pk": 110,
+     "career_pk_per_match": 0.38,
+     "career_total_cards_per_match": 4.34,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "J\u00e9r\u00e9mie Pignard",
+     "transfermarkt_id": "22832",
+     "career_matches": 304,
+     "career_yc": 1200,
+     "career_yc_per_match": 3.95,
+     "career_rc": 90,
+     "career_rc_per_match": 0.3,
+     "career_pk": 126,
+     "career_pk_per_match": 0.41,
+     "career_total_cards_per_match": 4.24,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Fran\u00e7ois Letexier",
+     "transfermarkt_id": "14311",
+     "career_matches": 450,
+     "career_yc": 1767,
+     "career_yc_per_match": 3.93,
+     "career_rc": 117,
+     "career_rc_per_match": 0.26,
+     "career_pk": 171,
+     "career_pk_per_match": 0.38,
+     "career_total_cards_per_match": 4.19,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Hakim Ben El Hadj",
+     "transfermarkt_id": "5282",
+     "career_matches": 459,
+     "career_yc": 1788,
+     "career_yc_per_match": 3.9,
+     "career_rc": 99,
+     "career_rc_per_match": 0.22,
+     "career_pk": 108,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.11,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Bastien Dechepy",
+     "transfermarkt_id": "13917",
+     "career_matches": 330,
+     "career_yc": 1247,
+     "career_yc_per_match": 3.78,
+     "career_rc": 95,
+     "career_rc_per_match": 0.29,
+     "career_pk": 122,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 4.07,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Ruddy Buquet",
+     "transfermarkt_id": "1268",
+     "career_matches": 785,
+     "career_yc": 2955,
+     "career_yc_per_match": 3.76,
+     "career_rc": 198,
+     "career_rc_per_match": 0.25,
+     "career_pk": 213,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 4.02,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Beno\u00eet Bastien",
+     "transfermarkt_id": "4481",
+     "career_matches": 646,
+     "career_yc": 2420,
+     "career_yc_per_match": 3.75,
+     "career_rc": 172,
+     "career_rc_per_match": 0.27,
+     "career_pk": 198,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 4.01,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Beno\u00eet Millot",
+     "transfermarkt_id": "3896",
+     "career_matches": 629,
+     "career_yc": 2396,
+     "career_yc_per_match": 3.81,
+     "career_rc": 115,
+     "career_rc_per_match": 0.18,
+     "career_pk": 165,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 3.99,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "St\u00e9phanie Frappart",
+     "transfermarkt_id": "11852",
+     "career_matches": 370,
+     "career_yc": 1393,
+     "career_yc_per_match": 3.76,
+     "career_rc": 78,
+     "career_rc_per_match": 0.21,
+     "career_pk": 97,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 3.98,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Thomas L\u00e9onard",
+     "transfermarkt_id": "5285",
+     "career_matches": 454,
+     "career_yc": 1697,
+     "career_yc_per_match": 3.74,
+     "career_rc": 102,
+     "career_rc_per_match": 0.22,
+     "career_pk": 117,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 3.96,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "J\u00e9r\u00f4me Brisard",
+     "transfermarkt_id": "16771",
+     "career_matches": 429,
+     "career_yc": 1531,
+     "career_yc_per_match": 3.57,
+     "career_rc": 132,
+     "career_rc_per_match": 0.31,
+     "career_pk": 145,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 3.88,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Marc Bollengier",
+     "transfermarkt_id": "15245",
+     "career_matches": 191,
+     "career_yc": 696,
+     "career_yc_per_match": 3.64,
+     "career_rc": 44,
+     "career_rc_per_match": 0.23,
+     "career_pk": 76,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 3.87,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Willy Delajod",
+     "transfermarkt_id": "16924",
+     "career_matches": 379,
+     "career_yc": 1338,
+     "career_yc_per_match": 3.53,
+     "career_rc": 104,
+     "career_rc_per_match": 0.27,
+     "career_pk": 152,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 3.8,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Romain Lissorgue",
+     "transfermarkt_id": "16743",
+     "career_matches": 292,
+     "career_yc": 1029,
+     "career_yc_per_match": 3.52,
+     "career_rc": 54,
+     "career_rc_per_match": 0.18,
+     "career_pk": 82,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.71,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "J\u00e9r\u00e9my Stinat",
+     "transfermarkt_id": "16812",
+     "career_matches": 353,
+     "career_yc": 1222,
+     "career_yc_per_match": 3.46,
+     "career_rc": 79,
+     "career_rc_per_match": 0.22,
+     "career_pk": 115,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 3.69,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Abdelatif Kherradji",
+     "transfermarkt_id": "22793",
+     "career_matches": 280,
+     "career_yc": 949,
+     "career_yc_per_match": 3.39,
+     "career_rc": 71,
+     "career_rc_per_match": 0.25,
+     "career_pk": 83,
+     "career_pk_per_match": 0.3,
+     "career_total_cards_per_match": 3.64,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Cl\u00e9ment Turpin",
+     "transfermarkt_id": "1276",
+     "career_matches": 745,
+     "career_yc": 2342,
+     "career_yc_per_match": 3.14,
+     "career_rc": 202,
+     "career_rc_per_match": 0.27,
+     "career_pk": 253,
+     "career_pk_per_match": 0.34,
+     "career_total_cards_per_match": 3.41,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Ga\u00ebl Angoula",
+     "transfermarkt_id": "30312",
+     "career_matches": 226,
+     "career_yc": 733,
+     "career_yc_per_match": 3.24,
+     "career_rc": 38,
+     "career_rc_per_match": 0.17,
+     "career_pk": 57,
+     "career_pk_per_match": 0.25,
+     "career_total_cards_per_match": 3.41,
+     "verdict": "BAJO"
+    },
+    {
+     "name": "Eric Wattellier",
+     "transfermarkt_id": "13924",
+     "career_matches": 365,
+     "career_yc": 1089,
+     "career_yc_per_match": 2.98,
+     "career_rc": 67,
+     "career_rc_per_match": 0.18,
+     "career_pk": 143,
+     "career_pk_per_match": 0.39,
+     "career_total_cards_per_match": 3.17,
+     "verdict": "BAJO"
+    }
+   ],
+   "total": 20
   },
   "champions": {
    "referees": [],
    "total": 0
   },
+  "seriea": {
+   "referees": [
+    {
+     "name": "Fabio Maresca",
+     "transfermarkt_id": "4684",
+     "career_matches": 386,
+     "career_yc": 2044,
+     "career_yc_per_match": 5.3,
+     "career_rc": 145,
+     "career_rc_per_match": 0.38,
+     "career_pk": 118,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 5.67,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Giovanni Ayroldi",
+     "transfermarkt_id": "16865",
+     "career_matches": 197,
+     "career_yc": 1006,
+     "career_yc_per_match": 5.11,
+     "career_rc": 69,
+     "career_rc_per_match": 0.35,
+     "career_pk": 63,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 5.46,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Rosario Abisso",
+     "transfermarkt_id": "6042",
+     "career_matches": 321,
+     "career_yc": 1579,
+     "career_yc_per_match": 4.92,
+     "career_rc": 98,
+     "career_rc_per_match": 0.31,
+     "career_pk": 140,
+     "career_pk_per_match": 0.44,
+     "career_total_cards_per_match": 5.22,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Alberto Ruben Arena",
+     "transfermarkt_id": "22758",
+     "career_matches": 125,
+     "career_yc": 617,
+     "career_yc_per_match": 4.94,
+     "career_rc": 29,
+     "career_rc_per_match": 0.23,
+     "career_pk": 26,
+     "career_pk_per_match": 0.21,
+     "career_total_cards_per_match": 5.17,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Davide Massa",
+     "transfermarkt_id": "2640",
+     "career_matches": 527,
+     "career_yc": 2526,
+     "career_yc_per_match": 4.79,
+     "career_rc": 134,
+     "career_rc_per_match": 0.25,
+     "career_pk": 164,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 5.05,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Marco Guida",
+     "transfermarkt_id": "3408",
+     "career_matches": 487,
+     "career_yc": 2319,
+     "career_yc_per_match": 4.76,
+     "career_rc": 122,
+     "career_rc_per_match": 0.25,
+     "career_pk": 172,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.01,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Andrea Colombo",
+     "transfermarkt_id": "17223",
+     "career_matches": 179,
+     "career_yc": 849,
+     "career_yc_per_match": 4.74,
+     "career_rc": 42,
+     "career_rc_per_match": 0.23,
+     "career_pk": 55,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 4.98,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Luca Pairetto",
+     "transfermarkt_id": "4717",
+     "career_matches": 379,
+     "career_yc": 1753,
+     "career_yc_per_match": 4.63,
+     "career_rc": 129,
+     "career_rc_per_match": 0.34,
+     "career_pk": 176,
+     "career_pk_per_match": 0.46,
+     "career_total_cards_per_match": 4.97,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Valerio Crezzini",
+     "transfermarkt_id": "28550",
+     "career_matches": 105,
+     "career_yc": 492,
+     "career_yc_per_match": 4.69,
+     "career_rc": 27,
+     "career_rc_per_match": 0.26,
+     "career_pk": 25,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.94,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Federico La Penna",
+     "transfermarkt_id": "4760",
+     "career_matches": 333,
+     "career_yc": 1535,
+     "career_yc_per_match": 4.61,
+     "career_rc": 99,
+     "career_rc_per_match": 0.3,
+     "career_pk": 103,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 4.91,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Francesco Fourneau",
+     "transfermarkt_id": "10665",
+     "career_matches": 240,
+     "career_yc": 1113,
+     "career_yc_per_match": 4.64,
+     "career_rc": 60,
+     "career_rc_per_match": 0.25,
+     "career_pk": 85,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 4.89,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Matteo Marcenaro",
+     "transfermarkt_id": "17358",
+     "career_matches": 169,
+     "career_yc": 778,
+     "career_yc_per_match": 4.6,
+     "career_rc": 36,
+     "career_rc_per_match": 0.21,
+     "career_pk": 37,
+     "career_pk_per_match": 0.22,
+     "career_total_cards_per_match": 4.82,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Maurizio Mariani",
+     "transfermarkt_id": "4705",
+     "career_matches": 448,
+     "career_yc": 2007,
+     "career_yc_per_match": 4.48,
+     "career_rc": 138,
+     "career_rc_per_match": 0.31,
+     "career_pk": 148,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 4.79,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Michael Fabbri",
+     "transfermarkt_id": "4041",
+     "career_matches": 383,
+     "career_yc": 1710,
+     "career_yc_per_match": 4.46,
+     "career_rc": 88,
+     "career_rc_per_match": 0.23,
+     "career_pk": 109,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.69,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Marco Di Bello",
+     "transfermarkt_id": "4708",
+     "career_matches": 429,
+     "career_yc": 1857,
+     "career_yc_per_match": 4.33,
+     "career_rc": 105,
+     "career_rc_per_match": 0.24,
+     "career_pk": 161,
+     "career_pk_per_match": 0.38,
+     "career_total_cards_per_match": 4.57,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Giuseppe Collu",
+     "transfermarkt_id": "17750",
+     "career_matches": 135,
+     "career_yc": 580,
+     "career_yc_per_match": 4.3,
+     "career_rc": 32,
+     "career_rc_per_match": 0.24,
+     "career_pk": 32,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.53,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Juan Luca Sacchi",
+     "transfermarkt_id": "6082",
+     "career_matches": 301,
+     "career_yc": 1259,
+     "career_yc_per_match": 4.18,
+     "career_rc": 63,
+     "career_rc_per_match": 0.21,
+     "career_pk": 62,
+     "career_pk_per_match": 0.21,
+     "career_total_cards_per_match": 4.39,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Gianluca Manganiello",
+     "transfermarkt_id": "4683",
+     "career_matches": 360,
+     "career_yc": 1461,
+     "career_yc_per_match": 4.06,
+     "career_rc": 117,
+     "career_rc_per_match": 0.33,
+     "career_pk": 102,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 4.38,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Daniele Doveri",
+     "transfermarkt_id": "2455",
+     "career_matches": 578,
+     "career_yc": 2372,
+     "career_yc_per_match": 4.1,
+     "career_rc": 128,
+     "career_rc_per_match": 0.22,
+     "career_pk": 186,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.33,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Kevin Bonacina",
+     "transfermarkt_id": "32219",
+     "career_matches": 107,
+     "career_yc": 442,
+     "career_yc_per_match": 4.13,
+     "career_rc": 20,
+     "career_rc_per_match": 0.19,
+     "career_pk": 28,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 4.32,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Simone Sozza",
+     "transfermarkt_id": "10670",
+     "career_matches": 218,
+     "career_yc": 892,
+     "career_yc_per_match": 4.09,
+     "career_rc": 39,
+     "career_rc_per_match": 0.18,
+     "career_pk": 82,
+     "career_pk_per_match": 0.38,
+     "career_total_cards_per_match": 4.27,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Daniele Chiffi",
+     "transfermarkt_id": "6047",
+     "career_matches": 350,
+     "career_yc": 1387,
+     "career_yc_per_match": 3.96,
+     "career_rc": 68,
+     "career_rc_per_match": 0.19,
+     "career_pk": 85,
+     "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 4.16,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Matteo Marchetti",
+     "transfermarkt_id": "10690",
+     "career_matches": 187,
+     "career_yc": 711,
+     "career_yc_per_match": 3.8,
+     "career_rc": 38,
+     "career_rc_per_match": 0.2,
+     "career_pk": 66,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 4.01,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Ermanno Feliciani",
+     "transfermarkt_id": "17847",
+     "career_matches": 142,
+     "career_yc": 534,
+     "career_yc_per_match": 3.76,
+     "career_rc": 24,
+     "career_rc_per_match": 0.17,
+     "career_pk": 37,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 3.93,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Luca Zufferli",
+     "transfermarkt_id": "14328",
+     "career_matches": 167,
+     "career_yc": 589,
+     "career_yc_per_match": 3.53,
+     "career_rc": 38,
+     "career_rc_per_match": 0.23,
+     "career_pk": 59,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 3.75,
+     "verdict": "MEDIO"
+    }
+   ],
+   "total": 25
+  },
   "portugal": {
-   "referees": [],
-   "total": 0
+   "referees": [
+    {
+     "name": "Ricardo Baixinho",
+     "transfermarkt_id": "12457",
+     "career_matches": 177,
+     "career_yc": 1098,
+     "career_yc_per_match": 6.2,
+     "career_rc": 93,
+     "career_rc_per_match": 0.53,
+     "career_pk": 89,
+     "career_pk_per_match": 0.5,
+     "career_total_cards_per_match": 6.73,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Diogo Rosa",
+     "transfermarkt_id": "46204",
+     "career_matches": 98,
+     "career_yc": 580,
+     "career_yc_per_match": 5.92,
+     "career_rc": 24,
+     "career_rc_per_match": 0.24,
+     "career_pk": 36,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 6.16,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "F\u00e1bio Ver\u00edssimo",
+     "transfermarkt_id": "8495",
+     "career_matches": 551,
+     "career_yc": 3138,
+     "career_yc_per_match": 5.7,
+     "career_rc": 195,
+     "career_rc_per_match": 0.35,
+     "career_pk": 195,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 6.05,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Gustavo Correia",
+     "transfermarkt_id": "31678",
+     "career_matches": 262,
+     "career_yc": 1415,
+     "career_yc_per_match": 5.4,
+     "career_rc": 126,
+     "career_rc_per_match": 0.48,
+     "career_pk": 126,
+     "career_pk_per_match": 0.48,
+     "career_total_cards_per_match": 5.88,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "David Silva",
+     "transfermarkt_id": "36182",
+     "career_matches": 201,
+     "career_yc": 1122,
+     "career_yc_per_match": 5.58,
+     "career_rc": 47,
+     "career_rc_per_match": 0.23,
+     "career_pk": 55,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 5.82,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Ant\u00f3nio Nobre",
+     "transfermarkt_id": "22600",
+     "career_matches": 361,
+     "career_yc": 1959,
+     "career_yc_per_match": 5.43,
+     "career_rc": 128,
+     "career_rc_per_match": 0.35,
+     "career_pk": 113,
+     "career_pk_per_match": 0.31,
+     "career_total_cards_per_match": 5.78,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Lu\u00eds Godinho",
+     "transfermarkt_id": "12766",
+     "career_matches": 496,
+     "career_yc": 2638,
+     "career_yc_per_match": 5.32,
+     "career_rc": 158,
+     "career_rc_per_match": 0.32,
+     "career_pk": 172,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.64,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Anzhony Rodrigues",
+     "transfermarkt_id": "22111",
+     "career_matches": 160,
+     "career_yc": 840,
+     "career_yc_per_match": 5.25,
+     "career_rc": 62,
+     "career_rc_per_match": 0.39,
+     "career_pk": 56,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.64,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jos\u00e9 Bessa",
+     "transfermarkt_id": "56699",
+     "career_matches": 109,
+     "career_yc": 580,
+     "career_yc_per_match": 5.32,
+     "career_rc": 32,
+     "career_rc_per_match": 0.29,
+     "career_pk": 38,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 5.61,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "H\u00e9lder Malheiro",
+     "transfermarkt_id": "4709",
+     "career_matches": 442,
+     "career_yc": 2313,
+     "career_yc_per_match": 5.23,
+     "career_rc": 146,
+     "career_rc_per_match": 0.33,
+     "career_pk": 143,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 5.56,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Miguel Fonseca",
+     "transfermarkt_id": "40002",
+     "career_matches": 99,
+     "career_yc": 518,
+     "career_yc_per_match": 5.23,
+     "career_rc": 22,
+     "career_rc_per_match": 0.22,
+     "career_pk": 40,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 5.45,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Andr\u00e9 Narciso",
+     "transfermarkt_id": "11966",
+     "career_matches": 331,
+     "career_yc": 1711,
+     "career_yc_per_match": 5.17,
+     "career_rc": 82,
+     "career_rc_per_match": 0.25,
+     "career_pk": 142,
+     "career_pk_per_match": 0.43,
+     "career_total_cards_per_match": 5.42,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jo\u00e3o Gon\u00e7alves",
+     "transfermarkt_id": "18555",
+     "career_matches": 228,
+     "career_yc": 1127,
+     "career_yc_per_match": 4.94,
+     "career_rc": 97,
+     "career_rc_per_match": 0.43,
+     "career_pk": 81,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.37,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Pedro Ramalho",
+     "transfermarkt_id": "31660",
+     "career_matches": 138,
+     "career_yc": 695,
+     "career_yc_per_match": 5.04,
+     "career_rc": 40,
+     "career_rc_per_match": 0.29,
+     "career_pk": 56,
+     "career_pk_per_match": 0.41,
+     "career_total_cards_per_match": 5.33,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "H\u00e9lder Carvalho",
+     "transfermarkt_id": "38350",
+     "career_matches": 162,
+     "career_yc": 805,
+     "career_yc_per_match": 4.97,
+     "career_rc": 40,
+     "career_rc_per_match": 0.25,
+     "career_pk": 64,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 5.22,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Cl\u00e1udio Pereira",
+     "transfermarkt_id": "26634",
+     "career_matches": 316,
+     "career_yc": 1541,
+     "career_yc_per_match": 4.88,
+     "career_rc": 95,
+     "career_rc_per_match": 0.3,
+     "career_pk": 103,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 5.18,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Miguel Nogueira",
+     "transfermarkt_id": "36083",
+     "career_matches": 229,
+     "career_yc": 1088,
+     "career_yc_per_match": 4.75,
+     "career_rc": 75,
+     "career_rc_per_match": 0.33,
+     "career_pk": 83,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 5.08,
+     "verdict": "MUY ALTO"
+    },
+    {
+     "name": "Jo\u00e3o Pinheiro",
+     "transfermarkt_id": "14261",
+     "career_matches": 510,
+     "career_yc": 2433,
+     "career_yc_per_match": 4.77,
+     "career_rc": 109,
+     "career_rc_per_match": 0.21,
+     "career_pk": 181,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 4.98,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "S\u00e9rgio Guelho",
+     "transfermarkt_id": "37125",
+     "career_matches": 109,
+     "career_yc": 518,
+     "career_yc_per_match": 4.75,
+     "career_rc": 18,
+     "career_rc_per_match": 0.17,
+     "career_pk": 38,
+     "career_pk_per_match": 0.35,
+     "career_total_cards_per_match": 4.92,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Carlos Macedo",
+     "transfermarkt_id": "22112",
+     "career_matches": 208,
+     "career_yc": 947,
+     "career_yc_per_match": 4.55,
+     "career_rc": 46,
+     "career_rc_per_match": 0.22,
+     "career_pk": 76,
+     "career_pk_per_match": 0.37,
+     "career_total_cards_per_match": 4.77,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "M\u00e1rcio Torres",
+     "transfermarkt_id": "55532",
+     "career_matches": 87,
+     "career_yc": 404,
+     "career_yc_per_match": 4.64,
+     "career_rc": 11,
+     "career_rc_per_match": 0.13,
+     "career_pk": 35,
+     "career_pk_per_match": 0.4,
+     "career_total_cards_per_match": 4.77,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Iancu Vasilica",
+     "transfermarkt_id": "11965",
+     "career_matches": 277,
+     "career_yc": 1191,
+     "career_yc_per_match": 4.3,
+     "career_rc": 88,
+     "career_rc_per_match": 0.32,
+     "career_pk": 73,
+     "career_pk_per_match": 0.26,
+     "career_total_cards_per_match": 4.62,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Lu\u00eds Filipe",
+     "transfermarkt_id": "55555",
+     "career_matches": 72,
+     "career_yc": 321,
+     "career_yc_per_match": 4.46,
+     "career_rc": 12,
+     "career_rc_per_match": 0.17,
+     "career_pk": 9,
+     "career_pk_per_match": 0.12,
+     "career_total_cards_per_match": 4.62,
+     "verdict": "ALTO"
+    },
+    {
+     "name": "Bruno Jos\u00e9 Costa",
+     "transfermarkt_id": "39767",
+     "career_matches": 127,
+     "career_yc": 534,
+     "career_yc_per_match": 4.2,
+     "career_rc": 31,
+     "career_rc_per_match": 0.24,
+     "career_pk": 42,
+     "career_pk_per_match": 0.33,
+     "career_total_cards_per_match": 4.45,
+     "verdict": "MEDIO"
+    }
+   ],
+   "total": 24
   }
  },
  "injuries": {
-  "laliga": {},
-  "segunda": {},
-  "epl": {},
-  "bundesliga": {},
-  "seriea": {},
-  "ligue1": {}
+  "laliga": {
+   "FC Barcelona": [
+    {
+     "player": "Ronald Araujo",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ferm\u00edn L\u00f3pez",
+     "position": "Attacking Midfield",
+     "injury": "Metatarsal fracture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Atl\u00e9tico de Madrid": [
+    {
+     "player": "Johnny Cardoso",
+     "position": "Central Midfield",
+     "injury": "Ankle surgery",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Girona FC": [
+    {
+     "player": "Juan Carlos",
+     "position": "Goalkeeper",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Vladyslav Vanat",
+     "position": "Centre-Forward",
+     "injury": "Torn thigh muscle",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Portu",
+     "position": "Right Winger",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Betis Balompi\u00e9": [
+    {
+     "player": "\u00c1ngel Ortiz",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Abde Ezzalzouli",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Aitor Ruibal",
+     "position": "Right Winger",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RCD Mallorca": [
+    {
+     "player": "Jan Salas",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mateo Joseph",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Rayo Vallecano": [
+    {
+     "player": "Andrei Ra\u021biu",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Sevilla FC": [
+    {
+     "player": "Marc\u00e3o",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Manu Bueno",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Valencia CF": [
+    {
+     "player": "Dimitri Foulquier",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jos\u00e9 Copete",
+     "position": "Centre-Back",
+     "injury": "Meniscus tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mouctar Diakhaby",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Diego L\u00f3pez",
+     "position": "Right Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Celta de Vigo": [
+    {
+     "player": "Ionu\u021b Radu",
+     "position": "Goalkeeper",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Miguel Rom\u00e1n",
+     "position": "Central Midfield",
+     "injury": "Metatarsal fracture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Villarreal CF": [
+    {
+     "player": "Juan Foyth",
+     "position": "Centre-Back",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RCD Espanyol Barcelona": [
+    {
+     "player": "Javi Puado",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Madrid": [
+    {
+     "player": "\u00c9der Milit\u00e3o",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Rodrygo",
+     "position": "Right Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ferland Mendy",
+     "position": "Left-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Sociedad": [
+    {
+     "player": "\u00c1lvaro Odriozola",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
+  "segunda": {
+   "UD Las Palmas": [
+    {
+     "player": "Jerem\u00eda Recoba",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Racing Santander": [
+    {
+     "player": "Facundo Gonz\u00e1lez",
+     "position": "Centre-Back",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Giorgi Guliashvili",
+     "position": "Centre-Forward",
+     "injury": "Fracture of fibula shaft",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Manex Lozano",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Deportivo de La Coru\u00f1a": [
+    {
+     "player": "David Mella",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "M\u00e1laga CF": [
+    {
+     "player": "Luismi S\u00e1nchez",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "\u00c1lex Pastor",
+     "position": "Centre-Back",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Juanpe",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Albacete Balompi\u00e9": [
+    {
+     "player": "Higinio Mar\u00edn",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "C\u00e1diz CF": [
+    {
+     "player": "Iuri Tabatadze",
+     "position": "Right Winger",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SD Huesca": [
+    {
+     "player": "Diego Aznar",
+     "position": "Centre-Forward",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Zaragoza": [
+    {
+     "player": "Paulino de la Fuente",
+     "position": "Right Winger",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "C\u00f3rdoba CF": [
+    {
+     "player": "Adilson",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Valladolid CF": [
+    {
+     "player": "Guille Bueno",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sergi Can\u00f3s",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Andorra": [
+    {
+     "player": "Th\u00e9o Le Normand",
+     "position": "Central Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
+  "epl": {
+   "Arsenal FC": [
+    {
+     "player": "Jurri\u00ebn Timber",
+     "position": "Right-Back",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ben White",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Brentford FC": [
+    {
+     "player": "Yegor Yarmolyuk",
+     "position": "Central Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Antoni Milambo",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "F\u00e1bio Carvalho",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "AFC Bournemouth": [
+    {
+     "player": "Matai Akinmboni",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Crystal Palace": [
+    {
+     "player": "Caleb Kporha",
+     "position": "Right-Back",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Newcastle United": [
+    {
+     "player": "Tino Livramento",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Emil Krafth",
+     "position": "Right-Back",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Lewis Miley",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Nottingham Forest": [
+    {
+     "player": "Willy Boly",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nicol\u00f2 Savona",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Callum Hudson-Odoi",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Chelsea FC": [
+    {
+     "player": "Caleb Wiley",
+     "position": "Left-Back",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jamie Gittens",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Est\u00eav\u00e3o",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Wolverhampton Wanderers": [
+    {
+     "player": "Enso Gonz\u00e1lez",
+     "position": "Left Winger",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "West Ham United": [
+    {
+     "player": "Lukasz Fabianski",
+     "position": "Goalkeeper",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Liverpool FC": [
+    {
+     "player": "Wataru Endo",
+     "position": "Defensive Midfield",
+     "injury": "Foot injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Conor Bradley",
+     "position": "Right-Back",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hugo Ekitik\u00e9",
+     "position": "Centre-Forward",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Brighton &amp; Hove Albion": [
+    {
+     "player": "Kaoru Mitoma",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stefanos Tzimas",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Manchester United": [
+    {
+     "player": "Matthijs de Ligt",
+     "position": "Centre-Back",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Tottenham Hotspur": [
+    {
+     "player": "Mohammed Kudus",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Dejan Kulusevski",
+     "position": "Attacking Midfield",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wilson Odobert",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Xavi Simons",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Burnley FC": [
+    {
+     "player": "Michael Obafemi",
+     "position": "Centre-Forward",
+     "injury": "Ankle surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jordan Beyer",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Josh Cullen",
+     "position": "Central Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Leeds United": [
+    {
+     "player": "Ilia Gruev",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sean Longstaff",
+     "position": "Central Midfield",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Aston Villa": [
+    {
+     "player": "Boubacar Kamara",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
+  "bundesliga": {
+   "VfL Wolfsburg": [
+    {
+     "player": "Cleiton",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Christian Eriksen",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Rog\u00e9rio",
+     "position": "Left-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kilian Fischer",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jenson Seelt",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Bence D\u00e1rdai",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Maximilian Arnold",
+     "position": "Central Midfield",
+     "injury": "Groin problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Hamburger SV": [
+    {
+     "player": "Robert Glatzel",
+     "position": "Centre-Forward",
+     "injury": "Calf strain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fernando Dickes",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alexander R\u00f8ssing-Lelesiit",
+     "position": "Left Winger",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "VfB Stuttgart": [
+    {
+     "player": "Lorenz Assignon",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "1.FC K\u00f6ln": [
+    {
+     "player": "Luca Kilian",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Timo H\u00fcbers",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ragnar Ache",
+     "position": "Centre-Forward",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SV Werder Bremen": [
+    {
+     "player": "Mitchell Weiser",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Keke Topp",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "1.FC Union Berlin": [
+    {
+     "player": "Matheo Raab",
+     "position": "Goalkeeper",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Frederik R\u00f6nnow",
+     "position": "Goalkeeper",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Augsburg": [
+    {
+     "player": "Dimitrios Giannoulis",
+     "position": "Left-Back",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alexis Claude-Maurice",
+     "position": "Attacking Midfield",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "TSG 1899 Hoffenheim": [
+    {
+     "player": "Koki Machida",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Valentin Gendrey",
+     "position": "Right-Back",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "1.FC Heidenheim 1846": [
+    {
+     "player": "Leart Pa\u00e7arada",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sirlord Conteh",
+     "position": "Right Winger",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RB Leipzig": [
+    {
+     "player": "Leopold Zingerle",
+     "position": "Goalkeeper",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ayodele Thomas",
+     "position": "Left Winger",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Christoph Baumgartner",
+     "position": "Attacking Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "1.FSV Mainz 05": [
+    {
+     "player": "Silas",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Maxim Leitsch",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Benedict Hollerbach",
+     "position": "Centre-Forward",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kasey Bos",
+     "position": "Left-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Bayer 04 Leverkusen": [
+    {
+     "player": "Nathan Tella",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Martin Terrier",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Christian Kofane",
+     "position": "Centre-Forward",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Borussia Dortmund": [
+    {
+     "player": "Emre Can",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Borussia M\u00f6nchengladbach": [
+    {
+     "player": "Nathan Ngoumou",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Eintracht Frankfurt": [
+    {
+     "player": "Nnamdi Collins",
+     "position": "Centre-Back",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Oscar H\u00f8jlund",
+     "position": "Central Midfield",
+     "injury": "Knock",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Bayern Munich": [
+    {
+     "player": "Lennart Karl",
+     "position": "Attacking Midfield",
+     "injury": "Muscle tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Serge Gnabry",
+     "position": "Second Striker",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "David Santos Daiber",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC St. Pauli": [
+    {
+     "player": "Manolis Saliakas",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "James Sands",
+     "position": "Defensive Midfield",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mathias Pereira Lage",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
+  "seriea": {
+   "Torino FC": [
+    {
+     "player": "Luca Marianucci",
+     "position": "Centre-Back",
+     "injury": "Bruised knee",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Zakaria Aboukhlal",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "US Sassuolo": [
+    {
+     "player": "Darryl Bakola",
+     "position": "Attacking Midfield",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Aster Vranckx",
+     "position": "Central Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sebastian Walukiewicz",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Filippo Romagna",
+     "position": "Centre-Back",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fali Cand\u00e9",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SSC Napoli": [
+    {
+     "player": "Billy Gilmour",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Pisa Sporting Club": [
+    {
+     "player": "Francesco Coppola",
+     "position": "Centre-Back",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Daniel Denoon",
+     "position": "Centre-Back",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "US Cremonese": [
+    {
+     "player": "Faris Moumbagna",
+     "position": "Centre-Forward",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Federico Baschirotto",
+     "position": "Centre-Back",
+     "injury": "Hamstring strain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Bologna FC 1909": [
+    {
+     "player": "Riccardo Orsolini",
+     "position": "Right Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "US Lecce": [
+    {
+     "player": "Riccardo Sottil",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Medon Berisha",
+     "position": "Central Midfield",
+     "injury": "Torn thigh muscle",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Atalanta BC": [
+    {
+     "player": "Lorenzo Bernasconi",
+     "position": "Left Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Juventus FC": [
+    {
+     "player": "Emil Holm",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "AS Roma": [
+    {
+     "player": "Evan Ndicka",
+     "position": "Centre-Back",
+     "injury": "Hamstring muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Bryan Zaragoza",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wesley",
+     "position": "Right-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Udinese Calcio": [
+    {
+     "player": "Juan Arizala",
+     "position": "Left Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessandro Zanoli",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SS Lazio": [
+    {
+     "player": "Danilo Cataldi",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ivan Provedel",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Genoa CFC": [
+    {
+     "player": "Jean Onana",
+     "position": "Defensive Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Maxwel Cornet",
+     "position": "Left Winger",
+     "injury": "Muscle fatigue",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Benjamin Siegrist",
+     "position": "Goalkeeper",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Inter Milan": [
+    {
+     "player": "Stefan de Vrij",
+     "position": "Centre-Back",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Parma Calcio 1913": [
+    {
+     "player": "Adri\u00e1n Bernab\u00e9",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Gaetano Oristanio",
+     "position": "Attacking Midfield",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Filippo Rinaldi",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jacob Ondrejka",
+     "position": "Left Winger",
+     "injury": "surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Matija Frigan",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nesta Elphege",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Cagliari Calcio": [
+    {
+     "player": "Leonardo Pavoletti",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Riyad Idrissi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Como 1907": [
+    {
+     "player": "Jayden Addai",
+     "position": "Right Winger",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Hellas Verona": [
+    {
+     "player": "Suat Serdar",
+     "position": "Central Midfield",
+     "injury": "Cruciate ligament surgery",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "ACF Fiorentina": [
+    {
+     "player": "Fabiano Parisi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament injury",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
+  "ligue1": {
+   "LOSC Lille": [
+    {
+     "player": "Marius Broholm",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Marc-Aur\u00e8le Caillard",
+     "position": "Goalkeeper",
+     "injury": "Elbow injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hamza Igamane",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ousmane Tour\u00e9",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Le Havre AC": [
+    {
+     "player": "Noam Obougou",
+     "position": "Centre-Forward",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stephan Zagadou",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Yanis Zouaoui",
+     "position": "Left-Back",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Abdoulaye Tour\u00e9",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RC Lens": [
+    {
+     "player": "R\u00e9gis Gurtner",
+     "position": "Goalkeeper",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jonathan Gradit",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Samson Baidoo",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nidal Celik",
+     "position": "Centre-Back",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Olympique Lyon": [
+    {
+     "player": "Tyler Morton",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Tanner Tessmann",
+     "position": "Defensive Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "R\u00e9mi Himbert",
+     "position": "Left Winger",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Lorient": [
+    {
+     "player": "Bingourou Kamara",
+     "position": "Goalkeeper",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Angers SCO": [
+    {
+     "player": "Yassin Belkhdim",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Louis Mouton",
+     "position": "Attacking Midfield",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Marius Courcoul",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Prosper Peter",
+     "position": "Centre-Forward",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Harouna Djibirin",
+     "position": "Right Winger",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Stade Brestois 29": [
+    {
+     "player": "Mama Bald\u00e9",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Paris FC": [
+    {
+     "player": "Julien Lopez",
+     "position": "Left Winger",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Pierre-Yves Hamel",
+     "position": "Centre-Forward",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jean-Philippe Krasso",
+     "position": "Centre-Forward",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "AJ Auxerre": [
+    {
+     "player": "Bryan Okoh",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Oussama El Azzouzi",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fredrik Oppeg\u00e5rd",
+     "position": "Left-Back",
+     "injury": "Ankle sprain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Romain Faivre",
+     "position": "Attacking Midfield",
+     "injury": "Knock",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Cl\u00e9ment Akpa",
+     "position": "Centre-Back",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "AS Monaco": [
+    {
+     "player": "Caio Henrique",
+     "position": "Left-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mohammed Salisu",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stanis Idumbo",
+     "position": "Attacking Midfield",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kassoum Ouattara",
+     "position": "Left-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Takumi Minamino",
+     "position": "Left Winger",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Olympique Marseille": [
+    {
+     "player": "Geoffrey Kondogbia",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nayef Aguerd",
+     "position": "Centre-Back",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hamed Traor\u00e9",
+     "position": "Left Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Leonardo Balerdi",
+     "position": "Centre-Back",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "CJ Egan-Riley",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Stade Rennais FC": [
+    {
+     "player": "Przemyslaw Frankowski",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Metz": [
+    {
+     "player": "Jessy Deminguet",
+     "position": "Central Midfield",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Boubacar Traor\u00e9",
+     "position": "Defensive Midfield",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Joseph Mangondo",
+     "position": "Centre-Forward",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Toulouse": [
+    {
+     "player": "Rafik Messali",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RC Strasbourg Alsace": [
+    {
+     "player": "Emmanuel Emegha",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Andrew Omobamidele",
+     "position": "Centre-Back",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Joaqu\u00edn Panichelli",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "FC Nantes": [
+    {
+     "player": "Fabien Centonze",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  }
  },
  "lineups": [
   {
@@ -14092,10 +17825,33 @@
     "scoring_consistency": "variable"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Marc\u00e3o",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Manu Bueno",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Javi Puado",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14124,10 +17880,40 @@
    "away": "Real Betis",
    "home_profile": null,
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "\u00c1lvaro Odriozola",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "\u00c1ngel Ortiz",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Abde Ezzalzouli",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Aitor Ruibal",
+     "position": "Right Winger",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14166,10 +17952,33 @@
     "trajectory": "improving",
     "scoring_consistency": "unpredictable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Jan Salas",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mateo Joseph",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Juan Foyth",
+     "position": "Centre-Back",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14196,9 +18005,38 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Dimitri Foulquier",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jos\u00e9 Copete",
+     "position": "Centre-Back",
+     "injury": "Meniscus tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mouctar Diakhaby",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Diego L\u00f3pez",
+     "position": "Right Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 4,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14266,10 +18104,47 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Ronald Araujo",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ferm\u00edn L\u00f3pez",
+     "position": "Attacking Midfield",
+     "injury": "Metatarsal fracture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "\u00c9der Milit\u00e3o",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Rodrygo",
+     "position": "Right Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ferland Mendy",
+     "position": "Left-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14295,10 +18170,40 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Andrei Ra\u021biu",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Juan Carlos",
+     "position": "Goalkeeper",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Vladyslav Vanat",
+     "position": "Centre-Forward",
+     "injury": "Torn thigh muscle",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Portu",
+     "position": "Right Winger",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14353,9 +18258,31 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "\u00c1ngel Ortiz",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Abde Ezzalzouli",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Aitor Ruibal",
+     "position": "Right Winger",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 3,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -14424,10 +18351,54 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Wataru Endo",
+     "position": "Defensive Midfield",
+     "injury": "Foot injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Conor Bradley",
+     "position": "Right-Back",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hugo Ekitik\u00e9",
+     "position": "Centre-Forward",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Caleb Wiley",
+     "position": "Left-Back",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jamie Gittens",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Est\u00eav\u00e3o",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 3,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14453,10 +18424,33 @@
     "scoring_consistency": "variable"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Kaoru Mitoma",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stefanos Tzimas",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Enso Gonz\u00e1lez",
+     "position": "Left Winger",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14483,9 +18477,17 @@
    },
    "away_profile": null,
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Matai Akinmboni",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14512,9 +18514,17 @@
    },
    "away_profile": null,
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Matthijs de Ligt",
+     "position": "Centre-Back",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14541,9 +18551,31 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Yegor Yarmolyuk",
+     "position": "Central Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Antoni Milambo",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "F\u00e1bio Carvalho",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14582,10 +18614,40 @@
     "trajectory": "stable",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Michael Obafemi",
+     "position": "Centre-Forward",
+     "injury": "Ankle surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jordan Beyer",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Josh Cullen",
+     "position": "Central Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Boubacar Kamara",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 3,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14624,9 +18686,17 @@
     "trajectory": "declining",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Caleb Kporha",
+     "position": "Right-Back",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 1,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -14653,10 +18723,54 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Willy Boly",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nicol\u00f2 Savona",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Callum Hudson-Odoi",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Tino Livramento",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Emil Krafth",
+     "position": "Right-Back",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Lewis Miley",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 3,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14695,10 +18809,33 @@
     "trajectory": "improving",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Lukasz Fabianski",
+     "position": "Goalkeeper",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Jurri\u00ebn Timber",
+     "position": "Right-Back",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ben White",
+     "position": "Right-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14724,10 +18861,54 @@
     "scoring_consistency": "consistent"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Mohammed Kudus",
+     "position": "Right Winger",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Dejan Kulusevski",
+     "position": "Attacking Midfield",
+     "injury": "Knee surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wilson Odobert",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Xavi Simons",
+     "position": "Attacking Midfield",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Ilia Gruev",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sean Longstaff",
+     "position": "Central Midfield",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 4,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14753,10 +18934,54 @@
     "scoring_consistency": "variable"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Leopold Zingerle",
+     "position": "Goalkeeper",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ayodele Thomas",
+     "position": "Left Winger",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Christoph Baumgartner",
+     "position": "Attacking Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Manolis Saliakas",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "James Sands",
+     "position": "Defensive Midfield",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mathias Pereira Lage",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 3,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14769,9 +18994,17 @@
    "away": "Bayer Leverkusen",
    "home_profile": null,
    "away_profile": null,
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Lorenz Assignon",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 1,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -14785,9 +19018,24 @@
    "away": "B. M\u00f6nchengladbach",
    "home_profile": null,
    "away_profile": null,
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Dimitrios Giannoulis",
+     "position": "Left-Back",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alexis Claude-Maurice",
+     "position": "Attacking Midfield",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 2,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -14815,9 +19063,24 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Mitchell Weiser",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Keke Topp",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14843,10 +19106,82 @@
     "trajectory": "stable",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Cleiton",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Christian Eriksen",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Rog\u00e9rio",
+     "position": "Left-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kilian Fischer",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jenson Seelt",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Bence D\u00e1rdai",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Maximilian Arnold",
+     "position": "Central Midfield",
+     "injury": "Groin problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Lennart Karl",
+     "position": "Attacking Midfield",
+     "injury": "Muscle tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Serge Gnabry",
+     "position": "Second Striker",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "David Santos Daiber",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 7,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14901,10 +19236,40 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Leonardo Pavoletti",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Riyad Idrissi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Juan Arizala",
+     "position": "Left Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessandro Zanoli",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -14930,9 +19295,24 @@
     "scoring_consistency": "variable"
    },
    "away_profile": null,
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Danilo Cataldi",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ivan Provedel",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 2,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -14972,10 +19352,33 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Riccardo Sottil",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Medon Berisha",
+     "position": "Central Midfield",
+     "injury": "Torn thigh muscle",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Emil Holm",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15001,10 +19404,26 @@
     "trajectory": "declining",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Suat Serdar",
+     "position": "Central Midfield",
+     "injury": "Cruciate ligament surgery",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Jayden Addai",
+     "position": "Right Winger",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15043,10 +19462,40 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Faris Moumbagna",
+     "position": "Centre-Forward",
+     "injury": "Adductor injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Federico Baschirotto",
+     "position": "Centre-Back",
+     "injury": "Hamstring strain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Francesco Coppola",
+     "position": "Centre-Back",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Daniel Denoon",
+     "position": "Centre-Back",
+     "injury": "Ankle problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15085,10 +19534,40 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Fabiano Parisi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Jean Onana",
+     "position": "Defensive Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Maxwel Cornet",
+     "position": "Left Winger",
+     "injury": "Muscle fatigue",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Benjamin Siegrist",
+     "position": "Goalkeeper",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15114,10 +19593,75 @@
     "scoring_consistency": "consistent"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Adri\u00e1n Bernab\u00e9",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Gaetano Oristanio",
+     "position": "Attacking Midfield",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Filippo Rinaldi",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jacob Ondrejka",
+     "position": "Left Winger",
+     "injury": "surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Matija Frigan",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nesta Elphege",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Evan Ndicka",
+     "position": "Centre-Back",
+     "injury": "Hamstring muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Bryan Zaragoza",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wesley",
+     "position": "Right-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 6,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15144,9 +19688,17 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Lorenzo Bernasconi",
+     "position": "Left Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15185,10 +19737,26 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Billy Gilmour",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Riccardo Orsolini",
+     "position": "Right Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15214,9 +19782,45 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Bryan Okoh",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Oussama El Azzouzi",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fredrik Oppeg\u00e5rd",
+     "position": "Left-Back",
+     "injury": "Ankle sprain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Romain Faivre",
+     "position": "Attacking Midfield",
+     "injury": "Knock",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Cl\u00e9ment Akpa",
+     "position": "Centre-Back",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 5,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -15256,10 +19860,68 @@
     "trajectory": "improving",
     "scoring_consistency": "unpredictable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Yassin Belkhdim",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Louis Mouton",
+     "position": "Attacking Midfield",
+     "injury": "Meniscus injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Marius Courcoul",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Prosper Peter",
+     "position": "Centre-Forward",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Harouna Djibirin",
+     "position": "Right Winger",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Emmanuel Emegha",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Andrew Omobamidele",
+     "position": "Centre-Back",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Joaqu\u00edn Panichelli",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 5,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15285,10 +19947,75 @@
     "trajectory": "declining",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Caio Henrique",
+     "position": "Left-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Mohammed Salisu",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stanis Idumbo",
+     "position": "Attacking Midfield",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kassoum Ouattara",
+     "position": "Left-Back",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Takumi Minamino",
+     "position": "Left Winger",
+     "injury": "Torn knee ligaments",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Marius Broholm",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Marc-Aur\u00e8le Caillard",
+     "position": "Goalkeeper",
+     "injury": "Elbow injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hamza Igamane",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ousmane Tour\u00e9",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 5,
+   "away_injury_count": 4,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15327,10 +20054,75 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Noam Obougou",
+     "position": "Centre-Forward",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Stephan Zagadou",
+     "position": "Centre-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Yanis Zouaoui",
+     "position": "Left-Back",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Abdoulaye Tour\u00e9",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Geoffrey Kondogbia",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Nayef Aguerd",
+     "position": "Centre-Back",
+     "injury": "Groin injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Hamed Traor\u00e9",
+     "position": "Left Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Leonardo Balerdi",
+     "position": "Centre-Back",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "CJ Egan-Riley",
+     "position": "Centre-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 4,
+   "away_injury_count": 5,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15369,10 +20161,40 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Jessy Deminguet",
+     "position": "Central Midfield",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Boubacar Traor\u00e9",
+     "position": "Defensive Midfield",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Joseph Mangondo",
+     "position": "Centre-Forward",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Bingourou Kamara",
+     "position": "Goalkeeper",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 3,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15399,9 +20221,17 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Mama Bald\u00e9",
+     "position": "Centre-Forward",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15427,10 +20257,40 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Przemyslaw Frankowski",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Julien Lopez",
+     "position": "Left Winger",
+     "injury": "Back injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Pierre-Yves Hamel",
+     "position": "Centre-Forward",
+     "injury": "Calf injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jean-Philippe Krasso",
+     "position": "Centre-Forward",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -15469,10 +20329,40 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Rafik Messali",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Tyler Morton",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Tanner Tessmann",
+     "position": "Defensive Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "R\u00e9mi Himbert",
+     "position": "Left Winger",
+     "injury": "Ankle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
