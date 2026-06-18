@@ -2333,6 +2333,13 @@
           "status": "out"
         },
         {
+          "player": "Quinten Timber",
+          "position": "Central Midfield",
+          "injury": "concussion",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Leonardo Balerdi",
           "position": "Centre-Back",
           "injury": "Calf injury",
@@ -2348,7 +2355,7 @@
         }
       ],
       "home_injury_count": 4,
-      "away_injury_count": 5,
+      "away_injury_count": 6,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2483,15 +2490,7 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [
-        {
-          "player": "Przemyslaw Frankowski",
-          "position": "Right-Back",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
-        }
-      ],
+      "home_injuries": [],
       "away_injuries": [
         {
           "player": "Julien Lopez",
@@ -2515,7 +2514,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 1,
+      "home_injury_count": 0,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",

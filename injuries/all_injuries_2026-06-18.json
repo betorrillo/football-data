@@ -1319,7 +1319,7 @@
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 49,
-      "teams_affected": 16,
+      "teams_affected": 15,
       "teams": {
         "LOSC Lille": [
           {
@@ -1609,6 +1609,13 @@
             "status": "out"
           },
           {
+            "player": "Quinten Timber",
+            "position": "Central Midfield",
+            "injury": "concussion",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Leonardo Balerdi",
             "position": "Centre-Back",
             "injury": "Calf injury",
@@ -1619,15 +1626,6 @@
             "player": "CJ Egan-Riley",
             "position": "Centre-Back",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Stade Rennais FC": [
-          {
-            "player": "Przemyslaw Frankowski",
-            "position": "Right-Back",
-            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           }
