@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-18",
+  "generated": "2026-06-19",
   "source": "transfermarkt.com",
-  "total_injured": 226,
+  "total_injured": 223,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 26,
@@ -222,11 +222,11 @@
       }
     },
     "segunda": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
-      "total_injured": 16,
-      "teams_affected": 11,
+      "total_injured": 17,
+      "teams_affected": 12,
       "teams": {
         "UD Las Palmas": [
           {
@@ -361,11 +361,20 @@
             "since": "",
             "status": "out"
           }
+        ],
+        "CD Legan\u00e9s": [
+          {
+            "player": "Marcos Leiva",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
         ]
       }
     },
     "epl": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 34,
@@ -644,7 +653,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 44,
@@ -995,24 +1004,31 @@
       }
     },
     "seriea": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 39,
+      "total_injured": 40,
       "teams_affected": 19,
       "teams": {
-        "Torino FC": [
+        "AS Roma": [
           {
-            "player": "Luca Marianucci",
-            "position": "Centre-Back",
-            "injury": "Bruised knee",
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Zakaria Aboukhlal",
-            "position": "Right Winger",
-            "injury": "Unknown",
+            "player": "Evan Ndicka",
+            "position": "Centre-Back",
+            "injury": "Hamstring muscle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wesley",
+            "position": "Right-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
@@ -1022,6 +1038,13 @@
             "player": "Darryl Bakola",
             "position": "Attacking Midfield",
             "injury": "Knee problems",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Isma\u00ebl Kon\u00e9",
+            "position": "Central Midfield",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -1138,25 +1161,18 @@
             "status": "out"
           }
         ],
-        "AS Roma": [
+        "Torino FC": [
           {
-            "player": "Evan Ndicka",
+            "player": "Luca Marianucci",
             "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
+            "injury": "Bruised knee",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Bryan Zaragoza",
-            "position": "Left Winger",
+            "player": "Zakaria Aboukhlal",
+            "position": "Right Winger",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Wesley",
-            "position": "Right-Back",
-            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
@@ -1173,45 +1189,6 @@
             "player": "Alessandro Zanoli",
             "position": "Right-Back",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "SS Lazio": [
-          {
-            "player": "Danilo Cataldi",
-            "position": "Defensive Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Ivan Provedel",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Genoa CFC": [
-          {
-            "player": "Jean Onana",
-            "position": "Defensive Midfield",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Maxwel Cornet",
-            "position": "Left Winger",
-            "injury": "Muscle fatigue",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benjamin Siegrist",
-            "position": "Goalkeeper",
-            "injury": "unknown injury",
             "since": "",
             "status": "out"
           }
@@ -1269,6 +1246,45 @@
             "status": "out"
           }
         ],
+        "Genoa CFC": [
+          {
+            "player": "Jean Onana",
+            "position": "Defensive Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxwel Cornet",
+            "position": "Left Winger",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benjamin Siegrist",
+            "position": "Goalkeeper",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "SS Lazio": [
+          {
+            "player": "Danilo Cataldi",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ivan Provedel",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Cagliari Calcio": [
           {
             "player": "Leonardo Pavoletti",
@@ -1315,10 +1331,10 @@
       }
     },
     "ligue1": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 49,
+      "total_injured": 44,
       "teams_affected": 15,
       "teams": {
         "LOSC Lille": [
@@ -1363,13 +1379,6 @@
             "player": "Stephan Zagadou",
             "position": "Centre-Back",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Yanis Zouaoui",
-            "position": "Left-Back",
-            "injury": "Calf injury",
             "since": "",
             "status": "out"
           },
@@ -1425,13 +1434,6 @@
             "injury": "Muscle injury",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "R\u00e9mi Himbert",
-            "position": "Left Winger",
-            "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
           }
         ],
         "FC Lorient": [
@@ -1455,13 +1457,6 @@
             "player": "Louis Mouton",
             "position": "Attacking Midfield",
             "injury": "Meniscus injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Marius Courcoul",
-            "position": "Defensive Midfield",
-            "injury": "Knee injury",
             "since": "",
             "status": "out"
           },
@@ -1490,13 +1485,6 @@
           }
         ],
         "Paris FC": [
-          {
-            "player": "Julien Lopez",
-            "position": "Left Winger",
-            "injury": "Back injury",
-            "since": "",
-            "status": "out"
-          },
           {
             "player": "Pierre-Yves Hamel",
             "position": "Centre-Forward",
@@ -1550,13 +1538,6 @@
           }
         ],
         "AS Monaco": [
-          {
-            "player": "Caio Henrique",
-            "position": "Left-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
           {
             "player": "Mohammed Salisu",
             "position": "Centre-Back",
@@ -1697,7 +1678,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-06-18",
+      "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 18,

@@ -4,12 +4,20 @@
   "away": "Huesca",
   "league": "ESP2",
   "date": "2026-05-15",
-  "generated": "2026-06-18T21:26:41Z",
+  "generated": "2026-06-19T11:25:23Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
+  "home_injuries": [
+    {
+      "player": "Marcos Leiva",
+      "position": "Right-Back",
+      "injury": "Cruciate ligament tear",
+      "since": "",
+      "status": "out"
+    }
+  ],
   "away_injuries": [
     {
       "player": "Diego Aznar",
