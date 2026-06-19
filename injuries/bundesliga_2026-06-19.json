@@ -2,7 +2,7 @@
   "generated": "2026-06-19",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 44,
+  "total_injured": 45,
   "teams_affected": 17,
   "teams": {
     "VfL Wolfsburg": [
@@ -218,6 +218,13 @@
       {
         "player": "Silas",
         "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stefan Posch",
+        "position": "Centre-Back",
         "injury": "Unknown",
         "since": "",
         "status": "out"

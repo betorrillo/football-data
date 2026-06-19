@@ -656,7 +656,7 @@
       "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 44,
+      "total_injured": 45,
       "teams_affected": 17,
       "teams": {
         "VfL Wolfsburg": [
@@ -877,6 +877,13 @@
             "status": "out"
           },
           {
+            "player": "Stefan Posch",
+            "position": "Centre-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Maxim Leitsch",
             "position": "Centre-Back",
             "injury": "Hamstring injury",
@@ -1007,28 +1014,21 @@
       "generated": "2026-06-19",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 40,
+      "total_injured": 39,
       "teams_affected": 19,
       "teams": {
         "AS Roma": [
           {
-            "player": "Bryan Zaragoza",
-            "position": "Left Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Evan Ndicka",
-            "position": "Centre-Back",
-            "injury": "Hamstring muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Wesley",
             "position": "Right-Back",
             "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1193,6 +1193,22 @@
             "status": "out"
           }
         ],
+        "SS Lazio": [
+          {
+            "player": "Danilo Cataldi",
+            "position": "Defensive Midfield",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ivan Provedel",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Inter Milan": [
           {
             "player": "Stefan de Vrij",
@@ -1218,16 +1234,9 @@
             "status": "out"
           },
           {
-            "player": "Filippo Rinaldi",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Jacob Ondrejka",
-            "position": "Left Winger",
-            "injury": "surgery",
+            "player": "Nesta Elphege",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -1239,17 +1248,24 @@
             "status": "out"
           },
           {
-            "player": "Nesta Elphege",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
+            "player": "Jacob Ondrejka",
+            "position": "Left Winger",
+            "injury": "surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Filippo Rinaldi",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
         ],
         "Genoa CFC": [
           {
-            "player": "Jean Onana",
-            "position": "Defensive Midfield",
+            "player": "Benjamin Siegrist",
+            "position": "Goalkeeper",
             "injury": "unknown injury",
             "since": "",
             "status": "out"
@@ -1262,25 +1278,18 @@
             "status": "out"
           },
           {
-            "player": "Benjamin Siegrist",
-            "position": "Goalkeeper",
+            "player": "Jean Onana",
+            "position": "Defensive Midfield",
             "injury": "unknown injury",
             "since": "",
             "status": "out"
           }
         ],
-        "SS Lazio": [
+        "Como 1907": [
           {
-            "player": "Danilo Cataldi",
-            "position": "Defensive Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Ivan Provedel",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
+            "player": "Jayden Addai",
+            "position": "Right Winger",
+            "injury": "Achilles tendon rupture",
             "since": "",
             "status": "out"
           }
@@ -1297,15 +1306,6 @@
             "player": "Riyad Idrissi",
             "position": "Left-Back",
             "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Como 1907": [
-          {
-            "player": "Jayden Addai",
-            "position": "Right Winger",
-            "injury": "Achilles tendon rupture",
             "since": "",
             "status": "out"
           }

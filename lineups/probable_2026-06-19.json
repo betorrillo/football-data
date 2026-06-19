@@ -1771,8 +1771,8 @@
       ],
       "away_injuries": [
         {
-          "player": "Jean Onana",
-          "position": "Defensive Midfield",
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -1785,8 +1785,8 @@
           "status": "out"
         },
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
+          "player": "Jean Onana",
+          "position": "Defensive Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -1835,16 +1835,9 @@
           "status": "out"
         },
         {
-          "player": "Filippo Rinaldi",
-          "position": "Goalkeeper",
-          "injury": "Shoulder injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Jacob Ondrejka",
-          "position": "Left Winger",
-          "injury": "surgery",
+          "player": "Nesta Elphege",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
@@ -1856,38 +1849,38 @@
           "status": "out"
         },
         {
-          "player": "Nesta Elphege",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Jacob Ondrejka",
+          "position": "Left Winger",
+          "injury": "surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Filippo Rinaldi",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         }
       ],
       "away_injuries": [
         {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Evan Ndicka",
-          "position": "Centre-Back",
-          "injury": "Hamstring muscle injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Wesley",
           "position": "Right-Back",
           "injury": "Hamstring injury",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 6,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
