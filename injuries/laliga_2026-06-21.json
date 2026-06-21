@@ -1,97 +1,10 @@
 {
-  "generated": "2026-06-20",
+  "generated": "2026-06-21",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 26,
+  "total_injured": 28,
   "teams_affected": 13,
   "teams": {
-    "FC Barcelona": [
-      {
-        "player": "Ronald Araujo",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ferm\u00edn L\u00f3pez",
-        "position": "Attacking Midfield",
-        "injury": "Metatarsal fracture",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Atl\u00e9tico de Madrid": [
-      {
-        "player": "Johnny Cardoso",
-        "position": "Central Midfield",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Girona FC": [
-      {
-        "player": "Juan Carlos",
-        "position": "Goalkeeper",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Vladyslav Vanat",
-        "position": "Centre-Forward",
-        "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Portu",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Real Betis Balompi\u00e9": [
-      {
-        "player": "\u00c1ngel Ortiz",
-        "position": "Right-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Abde Ezzalzouli",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Aitor Ruibal",
-        "position": "Right Winger",
-        "injury": "Meniscus injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "RCD Mallorca": [
-      {
-        "player": "Jan Salas",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mateo Joseph",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Rayo Vallecano": [
       {
         "player": "Andrei Ra\u021biu",
@@ -101,18 +14,34 @@
         "status": "out"
       }
     ],
-    "Sevilla FC": [
+    "Celta de Vigo": [
       {
-        "player": "Marc\u00e3o",
-        "position": "Centre-Back",
+        "player": "Ionu\u021b Radu",
+        "position": "Goalkeeper",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Manu Bueno",
+        "player": "Miguel Rom\u00e1n",
         "position": "Central Midfield",
-        "injury": "Unknown",
+        "injury": "Metatarsal fracture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Real Sociedad": [
+      {
+        "player": "Takefusa Kubo",
+        "position": "Right Winger",
+        "injury": "Knee problems",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "\u00c1lvaro Odriozola",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -147,17 +76,111 @@
         "status": "out"
       }
     ],
-    "Celta de Vigo": [
+    "Sevilla FC": [
       {
-        "player": "Ionu\u021b Radu",
-        "position": "Goalkeeper",
+        "player": "Manu Bueno",
+        "position": "Central Midfield",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Miguel Rom\u00e1n",
+        "player": "Marc\u00e3o",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RCD Mallorca": [
+      {
+        "player": "Jan Salas",
         "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mateo Joseph",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Real Betis Balompi\u00e9": [
+      {
+        "player": "\u00c1ngel Ortiz",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Abde Ezzalzouli",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Aitor Ruibal",
+        "position": "Right Winger",
+        "injury": "Meniscus injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Girona FC": [
+      {
+        "player": "Juan Carlos",
+        "position": "Goalkeeper",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Portu",
+        "position": "Right Winger",
+        "injury": "Torn knee ligaments",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Vladyslav Vanat",
+        "position": "Centre-Forward",
+        "injury": "Torn thigh muscle",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Atl\u00e9tico de Madrid": [
+      {
+        "player": "Johnny Cardoso",
+        "position": "Central Midfield",
+        "injury": "Ankle surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Barcelona": [
+      {
+        "player": "Ronald Araujo",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Raphinha",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ferm\u00edn L\u00f3pez",
+        "position": "Attacking Midfield",
         "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
@@ -200,15 +223,6 @@
         "player": "Ferland Mendy",
         "position": "Left-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Real Sociedad": [
-      {
-        "player": "\u00c1lvaro Odriozola",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

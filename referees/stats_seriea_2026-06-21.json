@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20",
+  "generated": "2026-06-21",
   "source": "transfermarkt.com",
   "league": "Serie A",
   "referees": [
@@ -53,6 +53,19 @@
       "career_pk": 26,
       "career_pk_per_match": 0.21,
       "career_total_cards_per_match": 5.17,
+      "verdict": "MUY ALTO"
+    },
+    {
+      "name": "Davide Massa",
+      "transfermarkt_id": "2640",
+      "career_matches": 527,
+      "career_yc": 2526,
+      "career_yc_per_match": 4.79,
+      "career_rc": 134,
+      "career_rc_per_match": 0.25,
+      "career_pk": 164,
+      "career_pk_per_match": 0.31,
+      "career_total_cards_per_match": 5.05,
       "verdict": "MUY ALTO"
     },
     {
@@ -134,19 +147,6 @@
       "verdict": "ALTO"
     },
     {
-      "name": "Matteo Marcenaro",
-      "transfermarkt_id": "17358",
-      "career_matches": 169,
-      "career_yc": 778,
-      "career_yc_per_match": 4.6,
-      "career_rc": 36,
-      "career_rc_per_match": 0.21,
-      "career_pk": 37,
-      "career_pk_per_match": 0.22,
-      "career_total_cards_per_match": 4.82,
-      "verdict": "ALTO"
-    },
-    {
       "name": "Maurizio Mariani",
       "transfermarkt_id": "4705",
       "career_matches": 448,
@@ -222,6 +222,19 @@
       "career_pk": 102,
       "career_pk_per_match": 0.28,
       "career_total_cards_per_match": 4.38,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Daniele Doveri",
+      "transfermarkt_id": "2455",
+      "career_matches": 578,
+      "career_yc": 2372,
+      "career_yc_per_match": 4.1,
+      "career_rc": 128,
+      "career_rc_per_match": 0.22,
+      "career_pk": 186,
+      "career_pk_per_match": 0.32,
+      "career_total_cards_per_match": 4.33,
       "verdict": "MEDIO"
     },
     {
@@ -303,5 +316,5 @@
       "verdict": "MEDIO"
     }
   ],
-  "total": 23
+  "total": 24
 }

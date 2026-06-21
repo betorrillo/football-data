@@ -1,22 +1,22 @@
 {
-  "generated": "2026-06-20",
+  "generated": "2026-06-21",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 39,
-  "teams_affected": 19,
+  "total_injured": 40,
+  "teams_affected": 20,
   "teams": {
     "AS Roma": [
-      {
-        "player": "Wesley",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Bryan Zaragoza",
         "position": "Left Winger",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Wesley",
+        "position": "Right-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -181,18 +181,11 @@
         "status": "out"
       }
     ],
-    "SS Lazio": [
+    "AC Milan": [
       {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Christian Pulisic",
+        "position": "Right Winger",
+        "injury": "Calf injury",
         "since": "",
         "status": "out"
       }
@@ -222,16 +215,9 @@
         "status": "out"
       },
       {
-        "player": "Nesta Elphege",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Matija Frigan",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
+        "player": "Filippo Rinaldi",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       },
@@ -243,17 +229,24 @@
         "status": "out"
       },
       {
-        "player": "Filippo Rinaldi",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Matija Frigan",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Nesta Elphege",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
     ],
     "Genoa CFC": [
       {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
+        "player": "Jean Onana",
+        "position": "Defensive Midfield",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
@@ -266,18 +259,25 @@
         "status": "out"
       },
       {
-        "player": "Jean Onana",
-        "position": "Defensive Midfield",
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
         "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
     ],
-    "Como 1907": [
+    "SS Lazio": [
       {
-        "player": "Jayden Addai",
-        "position": "Right Winger",
-        "injury": "Achilles tendon rupture",
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -294,6 +294,15 @@
         "player": "Riyad Idrissi",
         "position": "Left-Back",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Como 1907": [
+      {
+        "player": "Jayden Addai",
+        "position": "Right Winger",
+        "injury": "Achilles tendon rupture",
         "since": "",
         "status": "out"
       }

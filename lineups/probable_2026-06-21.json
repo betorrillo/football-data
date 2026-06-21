@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20",
+  "generated": "2026-06-21",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -53,15 +53,15 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Marc\u00e3o",
-          "position": "Centre-Back",
+          "player": "Manu Bueno",
+          "position": "Central Midfield",
           "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Manu Bueno",
-          "position": "Central Midfield",
+          "player": "Marc\u00e3o",
+          "position": "Centre-Back",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -108,6 +108,13 @@
       "away_profile": null,
       "home_injuries": [
         {
+          "player": "Takefusa Kubo",
+          "position": "Right Winger",
+          "injury": "Knee problems",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "\u00c1lvaro Odriozola",
           "position": "Right-Back",
           "injury": "Cruciate ligament tear",
@@ -138,7 +145,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 1,
+      "home_injury_count": 2,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -339,6 +346,13 @@
           "status": "out"
         },
         {
+          "player": "Raphinha",
+          "position": "Left Winger",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Ferm\u00edn L\u00f3pez",
           "position": "Attacking Midfield",
           "injury": "Metatarsal fracture",
@@ -369,7 +383,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -414,16 +428,16 @@
           "status": "out"
         },
         {
-          "player": "Vladyslav Vanat",
-          "position": "Centre-Forward",
-          "injury": "Torn thigh muscle",
+          "player": "Portu",
+          "position": "Right Winger",
+          "injury": "Torn knee ligaments",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Portu",
-          "position": "Right Winger",
-          "injury": "Torn knee ligaments",
+          "player": "Vladyslav Vanat",
+          "position": "Centre-Forward",
+          "injury": "Torn thigh muscle",
           "since": "",
           "status": "out"
         }
@@ -776,7 +790,15 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "J\u00e9r\u00e9my Doku",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [
         {
           "player": "Yegor Yarmolyuk",
@@ -800,7 +822,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 0,
+      "home_injury_count": 1,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -1771,8 +1793,8 @@
       ],
       "away_injuries": [
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
+          "player": "Jean Onana",
+          "position": "Defensive Midfield",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -1785,8 +1807,8 @@
           "status": "out"
         },
         {
-          "player": "Jean Onana",
-          "position": "Defensive Midfield",
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
           "injury": "unknown injury",
           "since": "",
           "status": "out"
@@ -1835,16 +1857,9 @@
           "status": "out"
         },
         {
-          "player": "Nesta Elphege",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Matija Frigan",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Filippo Rinaldi",
+          "position": "Goalkeeper",
+          "injury": "Shoulder injury",
           "since": "",
           "status": "out"
         },
@@ -1856,25 +1871,32 @@
           "status": "out"
         },
         {
-          "player": "Filippo Rinaldi",
-          "position": "Goalkeeper",
-          "injury": "Shoulder injury",
+          "player": "Matija Frigan",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Nesta Elphege",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
       ],
       "away_injuries": [
         {
-          "player": "Wesley",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         }
@@ -1906,7 +1928,15 @@
         "trajectory": "stable",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Christian Pulisic",
+          "position": "Right Winger",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [
         {
           "player": "Lorenzo Bernasconi",
@@ -1916,7 +1946,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 0,
+      "home_injury_count": 1,
       "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",

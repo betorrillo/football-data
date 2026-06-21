@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-20",
+  "generated": "2026-06-21",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 34,
-  "teams_affected": 16,
+  "total_injured": 35,
+  "teams_affected": 17,
   "teams": {
     "Arsenal FC": [
       {
@@ -17,70 +17,6 @@
         "player": "Ben White",
         "position": "Right-Back",
         "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Brentford FC": [
-      {
-        "player": "Yegor Yarmolyuk",
-        "position": "Central Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Antoni Milambo",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "F\u00e1bio Carvalho",
-        "position": "Attacking Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AFC Bournemouth": [
-      {
-        "player": "Matai Akinmboni",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Crystal Palace": [
-      {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Newcastle United": [
-      {
-        "player": "Tino Livramento",
-        "position": "Right-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Emil Krafth",
-        "position": "Right-Back",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -140,11 +76,84 @@
         "status": "out"
       }
     ],
+    "Crystal Palace": [
+      {
+        "player": "Caleb Kporha",
+        "position": "Right-Back",
+        "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Newcastle United": [
+      {
+        "player": "Tino Livramento",
+        "position": "Right-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Emil Krafth",
+        "position": "Right-Back",
+        "injury": "Knee surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Lewis Miley",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "West Ham United": [
       {
         "player": "Lukasz Fabianski",
         "position": "Goalkeeper",
         "injury": "Back injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Manchester City": [
+      {
+        "player": "J\u00e9r\u00e9my Doku",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AFC Bournemouth": [
+      {
+        "player": "Matai Akinmboni",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Brentford FC": [
+      {
+        "player": "Yegor Yarmolyuk",
+        "position": "Central Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Antoni Milambo",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "F\u00e1bio Carvalho",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -188,15 +197,6 @@
         "status": "out"
       }
     ],
-    "Manchester United": [
-      {
-        "player": "Matthijs de Ligt",
-        "position": "Centre-Back",
-        "injury": "Back injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Tottenham Hotspur": [
       {
         "player": "Mohammed Kudus",
@@ -223,6 +223,15 @@
         "player": "Xavi Simons",
         "position": "Attacking Midfield",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Manchester United": [
+      {
+        "player": "Matthijs de Ligt",
+        "position": "Centre-Back",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
