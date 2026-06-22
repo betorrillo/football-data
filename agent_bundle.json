@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-06-21",
-  "generated_at": "2026-06-21T20:27:18Z",
+  "generated": "2026-06-22",
+  "generated_at": "2026-06-22T12:51:31Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -10220,26 +10220,26 @@
    "time": "21:00 CET",
    "matchday": "Journ\u00e9e 33",
    "home_season": {
-    "mp": 33,
-    "record": "12W-8D-13L",
-    "pts": 44,
+    "mp": 34,
+    "record": "12W-9D-13L",
+    "pts": 45,
     "gf": 47,
     "ga": 46,
     "avg": {
-     "gf": 1.42,
-     "ga": 1.39,
-     "corners_for": 4.45,
-     "corners_against": 5.12,
-     "total_corners": 9.58,
-     "shots": 12.85,
-     "shots_against": 12.21,
-     "shots_target": 4.33,
-     "shots_target_against": 4.03,
-     "fouls": 14.36,
-     "fouls_against": 11.15,
-     "yellows": 2.33,
-     "opponent_yellows": 1.85,
-     "total_match_cards": 4.18
+     "gf": 1.38,
+     "ga": 1.35,
+     "corners_for": 4.38,
+     "corners_against": 5.03,
+     "total_corners": 9.41,
+     "shots": 12.53,
+     "shots_against": 11.91,
+     "shots_target": 4.24,
+     "shots_target_against": 3.94,
+     "fouls": 14.09,
+     "fouls_against": 10.91,
+     "yellows": 2.26,
+     "opponent_yellows": 1.79,
+     "total_match_cards": 4.06
     },
     "avg_home": {
      "gf": 1.47,
@@ -10249,28 +10249,28 @@
      "over_25_pct": 52.9
     },
     "pct": {
-     "over_15": 66.7,
-     "over_25": 54.5,
-     "over_35": 33.3,
-     "btts": 48.5,
-     "clean_sheet": 27.3,
-     "failed_to_score": 30.3
+     "over_15": 64.7,
+     "over_25": 52.9,
+     "over_35": 32.4,
+     "btts": 47.1,
+     "clean_sheet": 29.4,
+     "failed_to_score": 32.4
     },
     "avg_ht": {
-     "gf_1h": 0.61,
-     "ga_1h": 0.67,
-     "gf_2h": 0.82,
-     "ga_2h": 0.73,
-     "total_1h": 1.27,
-     "total_2h": 1.55
+     "gf_1h": 0.59,
+     "ga_1h": 0.65,
+     "gf_2h": 0.79,
+     "ga_2h": 0.71,
+     "total_1h": 1.24,
+     "total_2h": 1.5
     },
     "pct_ht": {
-     "over_05_1h": 72.7,
-     "over_15_1h": 33.3,
-     "over_05_2h": 72.7,
-     "over_15_2h": 45.5,
-     "btts_1h": 15.2,
-     "btts_2h": 24.2
+     "over_05_1h": 70.6,
+     "over_15_1h": 32.4,
+     "over_05_2h": 70.6,
+     "over_15_2h": 44.1,
+     "btts_1h": 14.7,
+     "btts_2h": 23.5
     }
    },
    "away_season": {
@@ -10329,20 +10329,6 @@
    },
    "home_form_last5": [
     {
-     "date": "12/04/2026",
-     "venue": "H",
-     "opponent": "Lille",
-     "gf": 0,
-     "ga": 4,
-     "result": "L",
-     "corners": 6,
-     "team_corners": 4,
-     "team_yellows": 2,
-     "total_yellows": 2,
-     "team_shots": 9,
-     "team_sot": 1
-    },
-    {
      "date": "17/04/2026",
      "venue": "A",
      "opponent": "Lens",
@@ -10397,6 +10383,20 @@
      "total_yellows": 8,
      "team_shots": 14,
      "team_sot": 6
+    },
+    {
+     "date": "17/05/2026",
+     "venue": "A",
+     "opponent": "Nantes",
+     "gf": 0,
+     "ga": 0,
+     "result": "D",
+     "corners": 4,
+     "team_corners": 2,
+     "team_yellows": 0,
+     "total_yellows": 0,
+     "team_shots": 2,
+     "team_sot": 1
     }
    ],
    "away_form_last5": [
@@ -14011,11 +14011,11 @@
    "referees": [],
    "total": 0
   },
-  "bundesliga": {
+  "epl": {
    "referees": [],
    "total": 0
   },
-  "epl": {
+  "bundesliga": {
    "referees": [],
    "total": 0
   },
@@ -15442,16 +15442,16 @@
    "home": "Toulouse",
    "away": "Lyon",
    "home_profile": {
-    "total_matches": 33,
+    "total_matches": 34,
     "last5_goals_scored": 8,
-    "last5_goals_conceded": 11,
-    "last5_results": "LLDWW",
-    "last5_avg_shots": 12.4,
+    "last5_goals_conceded": 7,
+    "last5_results": "LDWWD",
+    "last5_avg_shots": 11.0,
     "last5_avg_sot": 4.0,
-    "last5_avg_corners": 3.8,
-    "last5_avg_yellows": 3.0,
+    "last5_avg_corners": 3.4,
+    "last5_avg_yellows": 2.6,
     "last10_goals_scored": 14,
-    "last10_goals_conceded": 19,
+    "last10_goals_conceded": 18,
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
