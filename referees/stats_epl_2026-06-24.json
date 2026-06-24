@@ -1,8 +1,34 @@
 {
-  "generated": "2026-06-23",
+  "generated": "2026-06-24",
   "source": "transfermarkt.com",
   "league": "Premier League",
   "referees": [
+    {
+      "name": "Jarred Gillett",
+      "transfermarkt_id": "4929",
+      "career_matches": 491,
+      "career_yc": 2005,
+      "career_yc_per_match": 4.08,
+      "career_rc": 85,
+      "career_rc_per_match": 0.17,
+      "career_pk": 169,
+      "career_pk_per_match": 0.34,
+      "career_total_cards_per_match": 4.26,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Matthew Donohue",
+      "transfermarkt_id": "15529",
+      "career_matches": 319,
+      "career_yc": 1236,
+      "career_yc_per_match": 3.87,
+      "career_rc": 55,
+      "career_rc_per_match": 0.17,
+      "career_pk": 57,
+      "career_pk_per_match": 0.18,
+      "career_total_cards_per_match": 4.05,
+      "verdict": "MEDIO"
+    },
     {
       "name": "Peter Bankes",
       "transfermarkt_id": "3851",
@@ -30,6 +56,19 @@
       "verdict": "MEDIO"
     },
     {
+      "name": "Lewis Smith",
+      "transfermarkt_id": "25420",
+      "career_matches": 204,
+      "career_yc": 769,
+      "career_yc_per_match": 3.77,
+      "career_rc": 34,
+      "career_rc_per_match": 0.17,
+      "career_pk": 58,
+      "career_pk_per_match": 0.28,
+      "career_total_cards_per_match": 3.94,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Thomas Kirk",
       "transfermarkt_id": "20130",
       "career_matches": 132,
@@ -40,6 +79,19 @@
       "career_pk": 34,
       "career_pk_per_match": 0.26,
       "career_total_cards_per_match": 3.93,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Darren England",
+      "transfermarkt_id": "5888",
+      "career_matches": 340,
+      "career_yc": 1298,
+      "career_yc_per_match": 3.82,
+      "career_rc": 33,
+      "career_rc_per_match": 0.1,
+      "career_pk": 94,
+      "career_pk_per_match": 0.28,
+      "career_total_cards_per_match": 3.91,
       "verdict": "MEDIO"
     },
     {
@@ -108,6 +160,19 @@
       "verdict": "MEDIO"
     },
     {
+      "name": "Samuel Barrott",
+      "transfermarkt_id": "34683",
+      "career_matches": 198,
+      "career_yc": 708,
+      "career_yc_per_match": 3.58,
+      "career_rc": 21,
+      "career_rc_per_match": 0.11,
+      "career_pk": 42,
+      "career_pk_per_match": 0.21,
+      "career_total_cards_per_match": 3.68,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Anthony Taylor",
       "transfermarkt_id": "847",
       "career_matches": 948,
@@ -173,6 +238,19 @@
       "verdict": "BAJO"
     },
     {
+      "name": "Michael Oliver",
+      "transfermarkt_id": "902",
+      "career_matches": 943,
+      "career_yc": 3078,
+      "career_yc_per_match": 3.26,
+      "career_rc": 128,
+      "career_rc_per_match": 0.14,
+      "career_pk": 285,
+      "career_pk_per_match": 0.3,
+      "career_total_cards_per_match": 3.4,
+      "verdict": "BAJO"
+    },
+    {
       "name": "Tony Harrington",
       "transfermarkt_id": "3986",
       "career_matches": 389,
@@ -183,6 +261,19 @@
       "career_pk": 111,
       "career_pk_per_match": 0.29,
       "career_total_cards_per_match": 3.38,
+      "verdict": "BAJO"
+    },
+    {
+      "name": "Andrew Madley",
+      "transfermarkt_id": "3569",
+      "career_matches": 499,
+      "career_yc": 1606,
+      "career_yc_per_match": 3.22,
+      "career_rc": 64,
+      "career_rc_per_match": 0.13,
+      "career_pk": 123,
+      "career_pk_per_match": 0.25,
+      "career_total_cards_per_match": 3.35,
       "verdict": "BAJO"
     },
     {
@@ -197,7 +288,20 @@
       "career_pk_per_match": 0.19,
       "career_total_cards_per_match": 3.16,
       "verdict": "BAJO"
+    },
+    {
+      "name": "Andrew Kitchen",
+      "transfermarkt_id": "37177",
+      "career_matches": 178,
+      "career_yc": 514,
+      "career_yc_per_match": 2.89,
+      "career_rc": 14,
+      "career_rc_per_match": 0.08,
+      "career_pk": 36,
+      "career_pk_per_match": 0.2,
+      "career_total_cards_per_match": 2.97,
+      "verdict": "BAJO"
     }
   ],
-  "total": 15
+  "total": 23
 }

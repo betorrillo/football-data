@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23",
+  "generated": "2026-06-24",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
   "referees": [
@@ -53,6 +53,19 @@
       "career_pk": 171,
       "career_pk_per_match": 0.38,
       "career_total_cards_per_match": 4.19,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Hakim Ben El Hadj",
+      "transfermarkt_id": "5282",
+      "career_matches": 459,
+      "career_yc": 1788,
+      "career_yc_per_match": 3.9,
+      "career_rc": 99,
+      "career_rc_per_match": 0.22,
+      "career_pk": 108,
+      "career_pk_per_match": 0.24,
+      "career_total_cards_per_match": 4.11,
       "verdict": "MEDIO"
     },
     {
@@ -160,6 +173,19 @@
       "verdict": "MEDIO"
     },
     {
+      "name": "Willy Delajod",
+      "transfermarkt_id": "16924",
+      "career_matches": 379,
+      "career_yc": 1338,
+      "career_yc_per_match": 3.53,
+      "career_rc": 104,
+      "career_rc_per_match": 0.27,
+      "career_pk": 152,
+      "career_pk_per_match": 0.4,
+      "career_total_cards_per_match": 3.8,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Romain Lissorgue",
       "transfermarkt_id": "16743",
       "career_matches": 292,
@@ -238,5 +264,5 @@
       "verdict": "BAJO"
     }
   ],
-  "total": 18
+  "total": 20
 }

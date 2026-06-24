@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-23",
+  "generated": "2026-06-24",
   "source": "transfermarkt.com",
   "total_injured": 226,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 28,
@@ -236,7 +236,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 17,
@@ -388,7 +388,7 @@
       }
     },
     "epl": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 33,
@@ -660,10 +660,10 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 45,
+      "total_injured": 46,
       "teams_affected": 17,
       "teams": {
         "VfL Wolfsburg": [
@@ -875,41 +875,34 @@
             "status": "out"
           }
         ],
-        "1.FSV Mainz 05": [
+        "Bayern Munich": [
           {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
+            "player": "Lennart Karl",
+            "position": "Attacking Midfield",
+            "injury": "Muscle tear",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
+            "player": "Serge Gnabry",
+            "position": "Second Striker",
+            "injury": "Adductor injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "David Santos Daiber",
+            "position": "Defensive Midfield",
             "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
         ],
         "Bayer 04 Leverkusen": [
           {
-            "player": "Nathan Tella",
-            "position": "Right Winger",
-            "injury": "Unknown",
+            "player": "Christian Kofane",
+            "position": "Centre-Forward",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           },
@@ -921,9 +914,9 @@
             "status": "out"
           },
           {
-            "player": "Christian Kofane",
-            "position": "Centre-Forward",
-            "injury": "Shoulder injury",
+            "player": "Nathan Tella",
+            "position": "Right Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -933,6 +926,13 @@
             "player": "Emre Can",
             "position": "Centre-Back",
             "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Julian Ryerson",
+            "position": "Right-Back",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -969,29 +969,6 @@
             "status": "out"
           }
         ],
-        "Bayern Munich": [
-          {
-            "player": "Lennart Karl",
-            "position": "Attacking Midfield",
-            "injury": "Muscle tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Serge Gnabry",
-            "position": "Second Striker",
-            "injury": "Adductor injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "David Santos Daiber",
-            "position": "Defensive Midfield",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "FC St. Pauli": [
           {
             "player": "Manolis Saliakas",
@@ -1014,11 +991,41 @@
             "since": "",
             "status": "out"
           }
+        ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
         ]
       }
     },
     "seriea": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Serie A",
       "total_injured": 41,
@@ -1354,7 +1361,7 @@
       }
     },
     "ligue1": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 43,
@@ -1692,17 +1699,17 @@
       }
     },
     "portugal": {
-      "generated": "2026-06-23",
+      "generated": "2026-06-24",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
-      "total_injured": 19,
-      "teams_affected": 11,
+      "total_injured": 18,
+      "teams_affected": 10,
       "teams": {
         "SC Braga": [
           {
-            "player": "Sikou Niakat\u00e9",
+            "player": "Bright Arrey-Mbi",
             "position": "Centre-Back",
-            "injury": "Achilles tendon rupture",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           },
@@ -1714,9 +1721,9 @@
             "status": "out"
           },
           {
-            "player": "Bright Arrey-Mbi",
+            "player": "Sikou Niakat\u00e9",
             "position": "Centre-Back",
-            "injury": "unknown injury",
+            "injury": "Achilles tendon rupture",
             "since": "",
             "status": "out"
           }
@@ -1780,31 +1787,6 @@
             "status": "out"
           }
         ],
-        "CD Nacional": [
-          {
-            "player": "Ulisses",
-            "position": "Centre-Back",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Ivanildo Fernandes",
-            "position": "Centre-Back",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Moreirense FC": [
-          {
-            "player": "Vasco Sousa",
-            "position": "Central Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Sporting CP": [
           {
             "player": "Zeno Debast",
@@ -1828,11 +1810,27 @@
             "status": "out"
           }
         ],
-        "SL Benfica": [
+        "CD Nacional": [
           {
-            "player": "Tom\u00e1s Ara\u00fajo",
+            "player": "Ulisses",
             "position": "Centre-Back",
             "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ivanildo Fernandes",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Moreirense FC": [
+          {
+            "player": "Vasco Sousa",
+            "position": "Central Midfield",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }

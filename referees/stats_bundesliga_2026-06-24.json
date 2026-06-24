@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23",
+  "generated": "2026-06-24",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
   "referees": [
@@ -118,6 +118,19 @@
       "career_pk": 118,
       "career_pk_per_match": 0.31,
       "career_total_cards_per_match": 4.15,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Harm Osmers",
+      "transfermarkt_id": "1616",
+      "career_matches": 442,
+      "career_yc": 1705,
+      "career_yc_per_match": 3.86,
+      "career_rc": 77,
+      "career_rc_per_match": 0.17,
+      "career_pk": 112,
+      "career_pk_per_match": 0.25,
+      "career_total_cards_per_match": 4.03,
       "verdict": "MEDIO"
     },
     {
@@ -264,6 +277,19 @@
       "verdict": "MEDIO"
     },
     {
+      "name": "Tobias Stieler",
+      "transfermarkt_id": "107",
+      "career_matches": 583,
+      "career_yc": 2022,
+      "career_yc_per_match": 3.47,
+      "career_rc": 115,
+      "career_rc_per_match": 0.2,
+      "career_pk": 202,
+      "career_pk_per_match": 0.35,
+      "career_total_cards_per_match": 3.67,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Robert Hartmann",
       "transfermarkt_id": "283",
       "career_matches": 556,
@@ -290,5 +316,5 @@
       "verdict": "BAJO"
     }
   ],
-  "total": 22
+  "total": 24
 }
