@@ -2,21 +2,14 @@
   "generated": "2026-06-25",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 33,
+  "total_injured": 34,
   "teams_affected": 16,
   "teams": {
-    "Arsenal FC": [
+    "Crystal Palace": [
       {
-        "player": "Jurri\u00ebn Timber",
+        "player": "Caleb Kporha",
         "position": "Right-Back",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ben White",
-        "position": "Right-Back",
-        "injury": "Knee injury",
+        "injury": "Back injury",
         "since": "",
         "status": "out"
       }
@@ -99,16 +92,14 @@
         "status": "out"
       }
     ],
-    "Crystal Palace": [
+    "West Ham United": [
       {
-        "player": "Caleb Kporha",
-        "position": "Right-Back",
-        "injury": "Back injury",
+        "player": "Tom\u00e1\u0161 Sou\u010dek",
+        "position": "Defensive Midfield",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
-      }
-    ],
-    "West Ham United": [
+      },
       {
         "player": "Lukasz Fabianski",
         "position": "Goalkeeper",
@@ -168,6 +159,22 @@
         "player": "Hugo Ekitik\u00e9",
         "position": "Centre-Forward",
         "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Arsenal FC": [
+      {
+        "player": "Jurri\u00ebn Timber",
+        "position": "Right-Back",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ben White",
+        "position": "Right-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
