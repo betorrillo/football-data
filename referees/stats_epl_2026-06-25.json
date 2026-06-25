@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24",
+  "generated": "2026-06-25",
   "source": "transfermarkt.com",
   "league": "Premier League",
   "referees": [
@@ -53,6 +53,19 @@
       "career_pk": 71,
       "career_pk_per_match": 0.25,
       "career_total_cards_per_match": 3.95,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Lewis Smith",
+      "transfermarkt_id": "25420",
+      "career_matches": 204,
+      "career_yc": 769,
+      "career_yc_per_match": 3.77,
+      "career_rc": 34,
+      "career_rc_per_match": 0.17,
+      "career_pk": 58,
+      "career_pk_per_match": 0.28,
+      "career_total_cards_per_match": 3.94,
       "verdict": "MEDIO"
     },
     {
@@ -118,6 +131,32 @@
       "career_pk": 121,
       "career_pk_per_match": 0.24,
       "career_total_cards_per_match": 3.73,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Robert Jones",
+      "transfermarkt_id": "5880",
+      "career_matches": 353,
+      "career_yc": 1281,
+      "career_yc_per_match": 3.63,
+      "career_rc": 30,
+      "career_rc_per_match": 0.08,
+      "career_pk": 104,
+      "career_pk_per_match": 0.29,
+      "career_total_cards_per_match": 3.71,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Craig Pawson",
+      "transfermarkt_id": "2289",
+      "career_matches": 697,
+      "career_yc": 2473,
+      "career_yc_per_match": 3.55,
+      "career_rc": 96,
+      "career_rc_per_match": 0.14,
+      "career_pk": 157,
+      "career_pk_per_match": 0.23,
+      "career_total_cards_per_match": 3.69,
       "verdict": "MEDIO"
     },
     {
@@ -264,5 +303,5 @@
       "verdict": "BAJO"
     }
   ],
-  "total": 20
+  "total": 23
 }

@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-06-24",
-  "generated_at": "2026-06-24T20:40:11Z",
+  "generated": "2026-06-25",
+  "generated_at": "2026-06-25T10:22:54Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14375,6 +14375,19 @@
      "verdict": "MUY ALTO"
     },
     {
+     "name": "Iosu Galech Apeztegu\u00eda",
+     "transfermarkt_id": "8264",
+     "career_matches": 283,
+     "career_yc": 1418,
+     "career_yc_per_match": 5.01,
+     "career_rc": 87,
+     "career_rc_per_match": 0.31,
+     "career_pk": 75,
+     "career_pk_per_match": 0.27,
+     "career_total_cards_per_match": 5.32,
+     "verdict": "MUY ALTO"
+    },
+    {
      "name": "Francisco Jos\u00e9 Hern\u00e1ndez Maeso",
      "transfermarkt_id": "8246",
      "career_matches": 235,
@@ -14570,7 +14583,7 @@
      "verdict": "BAJO"
     }
    ],
-   "total": 21
+   "total": 22
   },
   "epl": {
    "referees": [
@@ -14624,6 +14637,19 @@
      "career_pk": 71,
      "career_pk_per_match": 0.25,
      "career_total_cards_per_match": 3.95,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Lewis Smith",
+     "transfermarkt_id": "25420",
+     "career_matches": 204,
+     "career_yc": 769,
+     "career_yc_per_match": 3.77,
+     "career_rc": 34,
+     "career_rc_per_match": 0.17,
+     "career_pk": 58,
+     "career_pk_per_match": 0.28,
+     "career_total_cards_per_match": 3.94,
      "verdict": "MEDIO"
     },
     {
@@ -14689,6 +14715,32 @@
      "career_pk": 121,
      "career_pk_per_match": 0.24,
      "career_total_cards_per_match": 3.73,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Robert Jones",
+     "transfermarkt_id": "5880",
+     "career_matches": 353,
+     "career_yc": 1281,
+     "career_yc_per_match": 3.63,
+     "career_rc": 30,
+     "career_rc_per_match": 0.08,
+     "career_pk": 104,
+     "career_pk_per_match": 0.29,
+     "career_total_cards_per_match": 3.71,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Craig Pawson",
+     "transfermarkt_id": "2289",
+     "career_matches": 697,
+     "career_yc": 2473,
+     "career_yc_per_match": 3.55,
+     "career_rc": 96,
+     "career_rc_per_match": 0.14,
+     "career_pk": 157,
+     "career_pk_per_match": 0.23,
+     "career_total_cards_per_match": 3.69,
      "verdict": "MEDIO"
     },
     {
@@ -14835,7 +14887,7 @@
      "verdict": "BAJO"
     }
    ],
-   "total": 20
+   "total": 23
   },
   "bundesliga": {
    "referees": [
@@ -14864,6 +14916,19 @@
      "career_pk_per_match": 0.31,
      "career_total_cards_per_match": 4.56,
      "verdict": "ALTO"
+    },
+    {
+     "name": "Daniel Schlager",
+     "transfermarkt_id": "3564",
+     "career_matches": 312,
+     "career_yc": 1307,
+     "career_yc_per_match": 4.19,
+     "career_rc": 58,
+     "career_rc_per_match": 0.19,
+     "career_pk": 111,
+     "career_pk_per_match": 0.36,
+     "career_total_cards_per_match": 4.38,
+     "verdict": "MEDIO"
     },
     {
      "name": "S\u00f6ren Storks",
@@ -15035,6 +15100,19 @@
      "verdict": "MEDIO"
     },
     {
+     "name": "Tobias Welz",
+     "transfermarkt_id": "47",
+     "career_matches": 481,
+     "career_yc": 1802,
+     "career_yc_per_match": 3.75,
+     "career_rc": 84,
+     "career_rc_per_match": 0.17,
+     "career_pk": 152,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 3.92,
+     "verdict": "MEDIO"
+    },
+    {
      "name": "Bastian Dankert",
      "transfermarkt_id": "685",
      "career_matches": 495,
@@ -15070,6 +15148,19 @@
      "career_rc_per_match": 0.11,
      "career_pk": 90,
      "career_pk_per_match": 0.24,
+     "career_total_cards_per_match": 3.73,
+     "verdict": "MEDIO"
+    },
+    {
+     "name": "Florian Badst\u00fcbner",
+     "transfermarkt_id": "4437",
+     "career_matches": 313,
+     "career_yc": 1115,
+     "career_yc_per_match": 3.56,
+     "career_rc": 51,
+     "career_rc_per_match": 0.16,
+     "career_pk": 105,
+     "career_pk_per_match": 0.34,
      "career_total_cards_per_match": 3.73,
      "verdict": "MEDIO"
     },
@@ -15113,7 +15204,7 @@
      "verdict": "BAJO"
     }
    ],
-   "total": 21
+   "total": 24
   },
   "seriea": {
    "referees": [
@@ -15352,6 +15443,19 @@
      "verdict": "MEDIO"
     },
     {
+     "name": "Daniele Doveri",
+     "transfermarkt_id": "2455",
+     "career_matches": 578,
+     "career_yc": 2372,
+     "career_yc_per_match": 4.1,
+     "career_rc": 128,
+     "career_rc_per_match": 0.22,
+     "career_pk": 186,
+     "career_pk_per_match": 0.32,
+     "career_total_cards_per_match": 4.33,
+     "verdict": "MEDIO"
+    },
+    {
      "name": "Kevin Bonacina",
      "transfermarkt_id": "32219",
      "career_matches": 107,
@@ -15430,7 +15534,7 @@
      "verdict": "MEDIO"
     }
    ],
-   "total": 24
+   "total": 25
   },
   "champions": {
    "referees": [],
@@ -16706,41 +16810,18 @@
      "status": "out"
     }
    ],
-   "1.FSV Mainz 05": [
-    {
-     "player": "Silas",
-     "position": "Right Winger",
-     "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Maxim Leitsch",
-     "position": "Centre-Back",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Benedict Hollerbach",
-     "position": "Centre-Forward",
-     "injury": "Achilles tendon rupture",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Kasey Bos",
-     "position": "Left-Back",
-     "injury": "Shoulder injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Hamburger SV": [
     {
      "player": "Robert Glatzel",
      "position": "Centre-Forward",
      "injury": "Calf strain",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Miro Muheim",
+     "position": "Left-Back",
+     "injury": "Calf injury",
      "since": "",
      "status": "out"
     },
@@ -17014,6 +17095,36 @@
      "player": "Mathias Pereira Lage",
      "position": "Left Winger",
      "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "1.FSV Mainz 05": [
+    {
+     "player": "Maxim Leitsch",
+     "position": "Centre-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Benedict Hollerbach",
+     "position": "Centre-Forward",
+     "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Silas",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Kasey Bos",
+     "position": "Left-Back",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     }
@@ -17628,13 +17739,6 @@
      "player": "Romain Faivre",
      "position": "Attacking Midfield",
      "injury": "Knock",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Cl\u00e9ment Akpa",
-     "position": "Centre-Back",
-     "injury": "Adductor pain",
      "since": "",
      "status": "out"
     }
@@ -19714,17 +19818,10 @@
      "injury": "Knock",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Cl\u00e9ment Akpa",
-     "position": "Centre-Back",
-     "injury": "Adductor pain",
-     "since": "",
-     "status": "out"
     }
    ],
    "away_injuries": [],
-   "home_injury_count": 5,
+   "home_injury_count": 4,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",

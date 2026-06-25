@@ -8,6 +8,17 @@
   "note": "No per-match referee assignment from official or API source. Listing the top-5 most-active referees of the competition.",
   "referee_pool": [
     {
+      "name": "Daniele Doveri",
+      "career_matches": 578,
+      "career_yc": 2372,
+      "career_rc": 128,
+      "career_pk": 186,
+      "career_yc_per_match": 4.1,
+      "career_rc_per_match": 0.22,
+      "career_total_cards_per_match": 4.33,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Davide Massa",
       "career_matches": 527,
       "career_yc": 2526,
@@ -50,18 +61,7 @@
       "career_rc_per_match": 0.24,
       "career_total_cards_per_match": 4.57,
       "verdict": "ALTO"
-    },
-    {
-      "name": "Fabio Maresca",
-      "career_matches": 386,
-      "career_yc": 2044,
-      "career_rc": 145,
-      "career_pk": 118,
-      "career_yc_per_match": 5.3,
-      "career_rc_per_match": 0.38,
-      "career_total_cards_per_match": 5.67,
-      "verdict": "MUY ALTO"
     }
   ],
-  "generated": "2026-06-24T20:40:11Z"
+  "generated": "2026-06-25T10:22:53Z"
 }

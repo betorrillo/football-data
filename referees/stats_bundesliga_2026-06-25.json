@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24",
+  "generated": "2026-06-25",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
   "referees": [
@@ -28,6 +28,19 @@
       "career_pk_per_match": 0.31,
       "career_total_cards_per_match": 4.56,
       "verdict": "ALTO"
+    },
+    {
+      "name": "Daniel Schlager",
+      "transfermarkt_id": "3564",
+      "career_matches": 312,
+      "career_yc": 1307,
+      "career_yc_per_match": 4.19,
+      "career_rc": 58,
+      "career_rc_per_match": 0.19,
+      "career_pk": 111,
+      "career_pk_per_match": 0.36,
+      "career_total_cards_per_match": 4.38,
+      "verdict": "MEDIO"
     },
     {
       "name": "S\u00f6ren Storks",
@@ -199,6 +212,19 @@
       "verdict": "MEDIO"
     },
     {
+      "name": "Tobias Welz",
+      "transfermarkt_id": "47",
+      "career_matches": 481,
+      "career_yc": 1802,
+      "career_yc_per_match": 3.75,
+      "career_rc": 84,
+      "career_rc_per_match": 0.17,
+      "career_pk": 152,
+      "career_pk_per_match": 0.32,
+      "career_total_cards_per_match": 3.92,
+      "verdict": "MEDIO"
+    },
+    {
       "name": "Bastian Dankert",
       "transfermarkt_id": "685",
       "career_matches": 495,
@@ -234,6 +260,19 @@
       "career_rc_per_match": 0.11,
       "career_pk": 90,
       "career_pk_per_match": 0.24,
+      "career_total_cards_per_match": 3.73,
+      "verdict": "MEDIO"
+    },
+    {
+      "name": "Florian Badst\u00fcbner",
+      "transfermarkt_id": "4437",
+      "career_matches": 313,
+      "career_yc": 1115,
+      "career_yc_per_match": 3.56,
+      "career_rc": 51,
+      "career_rc_per_match": 0.16,
+      "career_pk": 105,
+      "career_pk_per_match": 0.34,
       "career_total_cards_per_match": 3.73,
       "verdict": "MEDIO"
     },
@@ -277,5 +316,5 @@
       "verdict": "BAJO"
     }
   ],
-  "total": 21
+  "total": 24
 }

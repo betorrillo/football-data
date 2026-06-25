@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-24",
+  "generated": "2026-06-25",
   "source": "transfermarkt.com",
   "total_injured": 226,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 28,
@@ -236,7 +236,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 17,
@@ -388,7 +388,7 @@
       }
     },
     "epl": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 33,
@@ -660,10 +660,10 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 47,
+      "total_injured": 48,
       "teams_affected": 17,
       "teams": {
         "VfL Wolfsburg": [
@@ -717,41 +717,18 @@
             "status": "out"
           }
         ],
-        "1.FSV Mainz 05": [
-          {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Hamburger SV": [
           {
             "player": "Robert Glatzel",
             "position": "Centre-Forward",
             "injury": "Calf strain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Miro Muheim",
+            "position": "Left-Back",
+            "injury": "Calf injury",
             "since": "",
             "status": "out"
           },
@@ -1028,11 +1005,41 @@
             "since": "",
             "status": "out"
           }
+        ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
         ]
       }
     },
     "seriea": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Serie A",
       "total_injured": 41,
@@ -1368,10 +1375,10 @@
       }
     },
     "ligue1": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 42,
+      "total_injured": 41,
       "teams_affected": 14,
       "teams": {
         "LOSC Lille": [
@@ -1655,13 +1662,6 @@
             "injury": "Knock",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Cl\u00e9ment Akpa",
-            "position": "Centre-Back",
-            "injury": "Adductor pain",
-            "since": "",
-            "status": "out"
           }
         ],
         "FC Metz": [
@@ -1699,7 +1699,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-06-24",
+      "generated": "2026-06-25",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 18,
