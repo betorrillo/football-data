@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-25",
+  "generated": "2026-06-26",
   "source": "transfermarkt.com",
-  "total_injured": 227,
+  "total_injured": 224,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 28,
@@ -236,7 +236,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 17,
@@ -388,7 +388,7 @@
       }
     },
     "epl": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 34,
@@ -667,10 +667,10 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 48,
+      "total_injured": 47,
       "teams_affected": 17,
       "teams": {
         "VfL Wolfsburg": [
@@ -889,6 +889,36 @@
             "status": "out"
           }
         ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Bayer 04 Leverkusen": [
           {
             "player": "Nathan Tella",
@@ -898,16 +928,16 @@
             "status": "out"
           },
           {
-            "player": "Christian Kofane",
-            "position": "Centre-Forward",
-            "injury": "Shoulder injury",
+            "player": "Martin Terrier",
+            "position": "Left Winger",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Martin Terrier",
-            "position": "Left Winger",
-            "injury": "Hamstring injury",
+            "player": "Christian Kofane",
+            "position": "Centre-Forward",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -958,13 +988,6 @@
             "injury": "Knock",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Nathaniel Brown",
-            "position": "Left-Back",
-            "injury": "Adductor pain",
-            "since": "",
-            "status": "out"
           }
         ],
         "Bayern Munich": [
@@ -1012,64 +1035,27 @@
             "since": "",
             "status": "out"
           }
-        ],
-        "1.FSV Mainz 05": [
+        ]
+      }
+    },
+    "seriea": {
+      "generated": "2026-06-26",
+      "source": "transfermarkt.com",
+      "league": "Serie A",
+      "total_injured": 40,
+      "teams_affected": 19,
+      "teams": {
+        "AS Roma": [
           {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
+            "player": "Wesley",
+            "position": "Right-Back",
             "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ]
-      }
-    },
-    "seriea": {
-      "generated": "2026-06-25",
-      "source": "transfermarkt.com",
-      "league": "Serie A",
-      "total_injured": 41,
-      "teams_affected": 20,
-      "teams": {
-        "Torino FC": [
-          {
-            "player": "Luca Marianucci",
-            "position": "Centre-Back",
-            "injury": "Bruised knee",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Franco Israel",
-            "position": "Goalkeeper",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Zakaria Aboukhlal",
-            "position": "Right Winger",
+            "player": "Bryan Zaragoza",
+            "position": "Left Winger",
             "injury": "Unknown",
             "since": "",
             "status": "out"
@@ -1203,11 +1189,25 @@
             "status": "out"
           }
         ],
-        "AC Milan": [
+        "Torino FC": [
           {
-            "player": "Christian Pulisic",
+            "player": "Luca Marianucci",
+            "position": "Centre-Back",
+            "injury": "Bruised knee",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Franco Israel",
+            "position": "Goalkeeper",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Zakaria Aboukhlal",
             "position": "Right Winger",
-            "injury": "Calf injury",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -1240,22 +1240,6 @@
             "player": "Ivan Provedel",
             "position": "Goalkeeper",
             "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "AS Roma": [
-          {
-            "player": "Bryan Zaragoza",
-            "position": "Left Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Wesley",
-            "position": "Right-Back",
-            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
@@ -1315,13 +1299,6 @@
         ],
         "Genoa CFC": [
           {
-            "player": "Benjamin Siegrist",
-            "position": "Goalkeeper",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Jean Onana",
             "position": "Defensive Midfield",
             "injury": "unknown injury",
@@ -1332,6 +1309,13 @@
             "player": "Maxwel Cornet",
             "position": "Left Winger",
             "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benjamin Siegrist",
+            "position": "Goalkeeper",
+            "injury": "unknown injury",
             "since": "",
             "status": "out"
           }
@@ -1382,10 +1366,10 @@
       }
     },
     "ligue1": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 41,
+      "total_injured": 40,
       "teams_affected": 14,
       "teams": {
         "LOSC Lille": [
@@ -1413,13 +1397,6 @@
         ],
         "Le Havre AC": [
           {
-            "player": "Abdoulaye Tour\u00e9",
-            "position": "Defensive Midfield",
-            "injury": "Knee injury",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Noam Obougou",
             "position": "Centre-Forward",
             "injury": "Groin injury",
@@ -1430,6 +1407,13 @@
             "player": "Stephan Zagadou",
             "position": "Centre-Back",
             "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Abdoulaye Tour\u00e9",
+            "position": "Defensive Midfield",
+            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }
@@ -1476,36 +1460,6 @@
             "player": "Tanner Tessmann",
             "position": "Defensive Midfield",
             "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "AS Monaco": [
-          {
-            "player": "Mohammed Salisu",
-            "position": "Centre-Back",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Stanis Idumbo",
-            "position": "Attacking Midfield",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kassoum Ouattara",
-            "position": "Left-Back",
-            "injury": "Knee injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Takumi Minamino",
-            "position": "Left Winger",
-            "injury": "Torn knee ligaments",
             "since": "",
             "status": "out"
           }
@@ -1574,25 +1528,62 @@
             "status": "out"
           }
         ],
-        "RC Strasbourg Alsace": [
+        "AJ Auxerre": [
           {
-            "player": "Andrew Omobamidele",
+            "player": "Fredrik Oppeg\u00e5rd",
+            "position": "Left-Back",
+            "injury": "Ankle sprain",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Oussama El Azzouzi",
+            "position": "Defensive Midfield",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Bryan Okoh",
             "position": "Centre-Back",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Emmanuel Emegha",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Joaqu\u00edn Panichelli",
-            "position": "Centre-Forward",
             "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Romain Faivre",
+            "position": "Attacking Midfield",
+            "injury": "Knock",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "AS Monaco": [
+          {
+            "player": "Mohammed Salisu",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Stanis Idumbo",
+            "position": "Attacking Midfield",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kassoum Ouattara",
+            "position": "Left-Back",
+            "injury": "Knee injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Takumi Minamino",
+            "position": "Left Winger",
+            "injury": "Torn knee ligaments",
             "since": "",
             "status": "out"
           }
@@ -1620,13 +1611,6 @@
             "status": "out"
           },
           {
-            "player": "Quinten Timber",
-            "position": "Central Midfield",
-            "injury": "concussion",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Leonardo Balerdi",
             "position": "Centre-Back",
             "injury": "Calf injury",
@@ -1637,36 +1621,6 @@
             "player": "CJ Egan-Riley",
             "position": "Centre-Back",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "AJ Auxerre": [
-          {
-            "player": "Oussama El Azzouzi",
-            "position": "Defensive Midfield",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Fredrik Oppeg\u00e5rd",
-            "position": "Left-Back",
-            "injury": "Ankle sprain",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Bryan Okoh",
-            "position": "Centre-Back",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Romain Faivre",
-            "position": "Attacking Midfield",
-            "injury": "Knock",
             "since": "",
             "status": "out"
           }
@@ -1702,11 +1656,34 @@
             "since": "",
             "status": "out"
           }
+        ],
+        "RC Strasbourg Alsace": [
+          {
+            "player": "Emmanuel Emegha",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Andrew Omobamidele",
+            "position": "Centre-Back",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Joaqu\u00edn Panichelli",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
         ]
       }
     },
     "portugal": {
-      "generated": "2026-06-25",
+      "generated": "2026-06-26",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 18,

@@ -1,28 +1,21 @@
 {
-  "generated": "2026-06-25",
+  "generated": "2026-06-26",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 41,
-  "teams_affected": 20,
+  "total_injured": 40,
+  "teams_affected": 19,
   "teams": {
-    "Torino FC": [
+    "AS Roma": [
       {
-        "player": "Luca Marianucci",
-        "position": "Centre-Back",
-        "injury": "Bruised knee",
+        "player": "Wesley",
+        "position": "Right-Back",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Franco Israel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Zakaria Aboukhlal",
-        "position": "Right Winger",
+        "player": "Bryan Zaragoza",
+        "position": "Left Winger",
         "injury": "Unknown",
         "since": "",
         "status": "out"
@@ -156,11 +149,25 @@
         "status": "out"
       }
     ],
-    "AC Milan": [
+    "Torino FC": [
       {
-        "player": "Christian Pulisic",
+        "player": "Luca Marianucci",
+        "position": "Centre-Back",
+        "injury": "Bruised knee",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Franco Israel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Zakaria Aboukhlal",
         "position": "Right Winger",
-        "injury": "Calf injury",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -193,22 +200,6 @@
         "player": "Ivan Provedel",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AS Roma": [
-      {
-        "player": "Bryan Zaragoza",
-        "position": "Left Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Wesley",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -268,13 +259,6 @@
     ],
     "Genoa CFC": [
       {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Jean Onana",
         "position": "Defensive Midfield",
         "injury": "unknown injury",
@@ -285,6 +269,13 @@
         "player": "Maxwel Cornet",
         "position": "Left Winger",
         "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }

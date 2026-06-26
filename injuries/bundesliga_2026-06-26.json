@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25",
+  "generated": "2026-06-26",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 48,
+  "total_injured": 47,
   "teams_affected": 17,
   "teams": {
     "VfL Wolfsburg": [
@@ -221,6 +221,36 @@
         "status": "out"
       }
     ],
+    "1.FSV Mainz 05": [
+      {
+        "player": "Silas",
+        "position": "Right Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Maxim Leitsch",
+        "position": "Centre-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kasey Bos",
+        "position": "Left-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Bayer 04 Leverkusen": [
       {
         "player": "Nathan Tella",
@@ -230,16 +260,16 @@
         "status": "out"
       },
       {
-        "player": "Christian Kofane",
-        "position": "Centre-Forward",
-        "injury": "Shoulder injury",
+        "player": "Martin Terrier",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Martin Terrier",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
+        "player": "Christian Kofane",
+        "position": "Centre-Forward",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -290,13 +320,6 @@
         "injury": "Knock",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Nathaniel Brown",
-        "position": "Left-Back",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
       }
     ],
     "Bayern Munich": [
@@ -341,36 +364,6 @@
         "player": "Mathias Pereira Lage",
         "position": "Left Winger",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "1.FSV Mainz 05": [
-      {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Silas",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25",
+  "generated": "2026-06-26",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 41,
+  "total_injured": 40,
   "teams_affected": 14,
   "teams": {
     "LOSC Lille": [
@@ -30,13 +30,6 @@
     ],
     "Le Havre AC": [
       {
-        "player": "Abdoulaye Tour\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Noam Obougou",
         "position": "Centre-Forward",
         "injury": "Groin injury",
@@ -47,6 +40,13 @@
         "player": "Stephan Zagadou",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Abdoulaye Tour\u00e9",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -93,36 +93,6 @@
         "player": "Tanner Tessmann",
         "position": "Defensive Midfield",
         "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AS Monaco": [
-      {
-        "player": "Mohammed Salisu",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stanis Idumbo",
-        "position": "Attacking Midfield",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kassoum Ouattara",
-        "position": "Left-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Takumi Minamino",
-        "position": "Left Winger",
-        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -191,25 +161,62 @@
         "status": "out"
       }
     ],
-    "RC Strasbourg Alsace": [
+    "AJ Auxerre": [
       {
-        "player": "Andrew Omobamidele",
+        "player": "Fredrik Oppeg\u00e5rd",
+        "position": "Left-Back",
+        "injury": "Ankle sprain",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Oussama El Azzouzi",
+        "position": "Defensive Midfield",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Bryan Okoh",
         "position": "Centre-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Emmanuel Emegha",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Joaqu\u00edn Panichelli",
-        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Romain Faivre",
+        "position": "Attacking Midfield",
+        "injury": "Knock",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "AS Monaco": [
+      {
+        "player": "Mohammed Salisu",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stanis Idumbo",
+        "position": "Attacking Midfield",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Kassoum Ouattara",
+        "position": "Left-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Takumi Minamino",
+        "position": "Left Winger",
+        "injury": "Torn knee ligaments",
         "since": "",
         "status": "out"
       }
@@ -237,13 +244,6 @@
         "status": "out"
       },
       {
-        "player": "Quinten Timber",
-        "position": "Central Midfield",
-        "injury": "concussion",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Leonardo Balerdi",
         "position": "Centre-Back",
         "injury": "Calf injury",
@@ -254,36 +254,6 @@
         "player": "CJ Egan-Riley",
         "position": "Centre-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "AJ Auxerre": [
-      {
-        "player": "Oussama El Azzouzi",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Fredrik Oppeg\u00e5rd",
-        "position": "Left-Back",
-        "injury": "Ankle sprain",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bryan Okoh",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Romain Faivre",
-        "position": "Attacking Midfield",
-        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -316,6 +286,29 @@
         "player": "Rafik Messali",
         "position": "Right-Back",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RC Strasbourg Alsace": [
+      {
+        "player": "Emmanuel Emegha",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Andrew Omobamidele",
+        "position": "Centre-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Joaqu\u00edn Panichelli",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

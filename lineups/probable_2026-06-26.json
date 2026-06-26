@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25",
+  "generated": "2026-06-26",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1785,13 +1785,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Benjamin Siegrist",
-          "position": "Goalkeeper",
-          "injury": "unknown injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Jean Onana",
           "position": "Defensive Midfield",
           "injury": "unknown injury",
@@ -1802,6 +1795,13 @@
           "player": "Maxwel Cornet",
           "position": "Left Winger",
           "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Benjamin Siegrist",
+          "position": "Goalkeeper",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         }
@@ -1879,16 +1879,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Bryan Zaragoza",
-          "position": "Left Winger",
-          "injury": "Unknown",
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Wesley",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -1920,15 +1920,7 @@
         "trajectory": "stable",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [
-        {
-          "player": "Christian Pulisic",
-          "position": "Right Winger",
-          "injury": "Calf injury",
-          "since": "",
-          "status": "out"
-        }
-      ],
+      "home_injuries": [],
       "away_injuries": [
         {
           "player": "Lorenzo Bernasconi",
@@ -1938,7 +1930,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 1,
+      "home_injury_count": 0,
       "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
@@ -2025,16 +2017,16 @@
       },
       "home_injuries": [
         {
-          "player": "Oussama El Azzouzi",
-          "position": "Defensive Midfield",
-          "injury": "Hamstring injury",
+          "player": "Fredrik Oppeg\u00e5rd",
+          "position": "Left-Back",
+          "injury": "Ankle sprain",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Fredrik Oppeg\u00e5rd",
-          "position": "Left-Back",
-          "injury": "Ankle sprain",
+          "player": "Oussama El Azzouzi",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         },
@@ -2126,16 +2118,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Andrew Omobamidele",
-          "position": "Centre-Back",
-          "injury": "unknown injury",
+          "player": "Emmanuel Emegha",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Emmanuel Emegha",
-          "position": "Centre-Forward",
-          "injury": "Unknown",
+          "player": "Andrew Omobamidele",
+          "position": "Centre-Back",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
@@ -2269,13 +2261,6 @@
       },
       "home_injuries": [
         {
-          "player": "Abdoulaye Tour\u00e9",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Noam Obougou",
           "position": "Centre-Forward",
           "injury": "Groin injury",
@@ -2286,6 +2271,13 @@
           "player": "Stephan Zagadou",
           "position": "Centre-Back",
           "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Abdoulaye Tour\u00e9",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
           "since": "",
           "status": "out"
         }
@@ -2313,13 +2305,6 @@
           "status": "out"
         },
         {
-          "player": "Quinten Timber",
-          "position": "Central Midfield",
-          "injury": "concussion",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Leonardo Balerdi",
           "position": "Centre-Back",
           "injury": "Calf injury",
@@ -2335,7 +2320,7 @@
         }
       ],
       "home_injury_count": 3,
-      "away_injury_count": 6,
+      "away_injury_count": 5,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
