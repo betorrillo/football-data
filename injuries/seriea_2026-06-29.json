@@ -2,7 +2,7 @@
   "generated": "2026-06-29",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 39,
+  "total_injured": 40,
   "teams_affected": 19,
   "teams": {
     "AS Roma": [
@@ -211,6 +211,29 @@
         "injury": "Groin injury",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Marcus Thuram",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Genoa CFC": [
+      {
+        "player": "Maxwel Cornet",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benjamin Siegrist",
+        "position": "Goalkeeper",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
       }
     ],
     "Parma Calcio 1913": [
@@ -253,22 +276,6 @@
         "player": "Nesta Elphege",
         "position": "Centre-Forward",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Genoa CFC": [
-      {
-        "player": "Maxwel Cornet",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Benjamin Siegrist",
-        "position": "Goalkeeper",
-        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }

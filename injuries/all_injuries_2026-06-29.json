@@ -84,6 +84,13 @@
             "status": "out"
           },
           {
+            "player": "Vedat Muriqi",
+            "position": "Centre-Forward",
+            "injury": "Calf muscle tear",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Mateo Joseph",
             "position": "Centre-Forward",
             "injury": "Cruciate ligament tear",
@@ -146,22 +153,6 @@
             "status": "out"
           }
         ],
-        "Real Sociedad": [
-          {
-            "player": "Takefusa Kubo",
-            "position": "Right Winger",
-            "injury": "Meniscus tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "\u00c1lvaro Odriozola",
-            "position": "Right-Back",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Celta de Vigo": [
           {
             "player": "Ionu\u021b Radu",
@@ -215,6 +206,15 @@
             "player": "Ferland Mendy",
             "position": "Left-Back",
             "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Sociedad": [
+          {
+            "player": "\u00c1lvaro Odriozola",
+            "position": "Right-Back",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -628,7 +628,7 @@
       "generated": "2026-06-29",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
-      "total_injured": 47,
+      "total_injured": 46,
       "teams_affected": 17,
       "teams": {
         "SV Werder Bremen": [
@@ -649,6 +649,13 @@
         ],
         "Hamburger SV": [
           {
+            "player": "Robert Glatzel",
+            "position": "Centre-Forward",
+            "injury": "Calf strain",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Miro Muheim",
             "position": "Left-Back",
             "injury": "Calf injury",
@@ -666,13 +673,6 @@
             "player": "Alexander R\u00f8ssing-Lelesiit",
             "position": "Left Winger",
             "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Robert Glatzel",
-            "position": "Centre-Forward",
-            "injury": "Calf strain",
             "since": "",
             "status": "out"
           }
@@ -698,13 +698,6 @@
             "player": "Rog\u00e9rio",
             "position": "Left-Back",
             "injury": "Muscle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kilian Fischer",
-            "position": "Right-Back",
-            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -854,11 +847,41 @@
             "status": "out"
           }
         ],
+        "1.FSV Mainz 05": [
+          {
+            "player": "Silas",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "injury": "Hamstring injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Kasey Bos",
+            "position": "Left-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Bayer 04 Leverkusen": [
           {
-            "player": "Christian Kofane",
-            "position": "Centre-Forward",
-            "injury": "Shoulder injury",
+            "player": "Nathan Tella",
+            "position": "Right Winger",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           },
@@ -870,9 +893,9 @@
             "status": "out"
           },
           {
-            "player": "Nathan Tella",
-            "position": "Right Winger",
-            "injury": "Unknown",
+            "player": "Christian Kofane",
+            "position": "Centre-Forward",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -963,36 +986,6 @@
             "since": "",
             "status": "out"
           }
-        ],
-        "1.FSV Mainz 05": [
-          {
-            "player": "Maxim Leitsch",
-            "position": "Centre-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Silas",
-            "position": "Right Winger",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Kasey Bos",
-            "position": "Left-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
         ]
       }
     },
@@ -1000,7 +993,7 @@
       "generated": "2026-06-29",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 39,
+      "total_injured": 40,
       "teams_affected": 19,
       "teams": {
         "AS Roma": [
@@ -1209,6 +1202,29 @@
             "injury": "Groin injury",
             "since": "",
             "status": "out"
+          },
+          {
+            "player": "Marcus Thuram",
+            "position": "Centre-Forward",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Genoa CFC": [
+          {
+            "player": "Maxwel Cornet",
+            "position": "Left Winger",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Benjamin Siegrist",
+            "position": "Goalkeeper",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
           }
         ],
         "Parma Calcio 1913": [
@@ -1251,22 +1267,6 @@
             "player": "Nesta Elphege",
             "position": "Centre-Forward",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Genoa CFC": [
-          {
-            "player": "Maxwel Cornet",
-            "position": "Left Winger",
-            "injury": "Muscle fatigue",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Benjamin Siegrist",
-            "position": "Goalkeeper",
-            "injury": "unknown injury",
             "since": "",
             "status": "out"
           }

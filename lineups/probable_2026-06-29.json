@@ -108,13 +108,6 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Takefusa Kubo",
-          "position": "Right Winger",
-          "injury": "Meniscus tear",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "\u00c1lvaro Odriozola",
           "position": "Right-Back",
           "injury": "Cruciate ligament tear",
@@ -138,7 +131,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 1,
       "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
@@ -187,6 +180,13 @@
           "status": "out"
         },
         {
+          "player": "Vedat Muriqi",
+          "position": "Centre-Forward",
+          "injury": "Calf muscle tear",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Mateo Joseph",
           "position": "Centre-Forward",
           "injury": "Cruciate ligament tear",
@@ -203,7 +203,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
@@ -1313,13 +1313,6 @@
           "status": "out"
         },
         {
-          "player": "Kilian Fischer",
-          "position": "Right-Back",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Jenson Seelt",
           "position": "Centre-Back",
           "injury": "Knee injury",
@@ -1371,7 +1364,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 7,
+      "home_injury_count": 6,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
