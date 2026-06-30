@@ -1789,16 +1789,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Wesley",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
+          "player": "Luigi Cherubini",
+          "position": "Left Winger",
+          "injury": "Muscle fatigue",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Luigi Cherubini",
-          "position": "Left Winger",
-          "injury": "Muscle fatigue",
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         }
@@ -1838,10 +1838,17 @@
           "injury": "Unknown",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Isak Hien",
+          "position": "Centre-Back",
+          "injury": "Thigh problems",
+          "since": "",
+          "status": "out"
         }
       ],
       "home_injury_count": 0,
-      "away_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

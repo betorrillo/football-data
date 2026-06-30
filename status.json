@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-06-30T10:36:58Z",
+  "server_time_utc": "2026-06-30T21:02:03Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-06-30.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-06-30.json",
-  "total_data_files": 564,
+  "total_data_files": 567,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -30,7 +30,7 @@
       "status": "complete"
     },
     "lineups": {
-      "files": 38,
+      "files": 40,
       "status": "complete"
     }
   },

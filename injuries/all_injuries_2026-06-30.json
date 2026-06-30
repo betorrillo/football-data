@@ -1,7 +1,7 @@
 {
   "generated": "2026-06-30",
   "source": "transfermarkt.com",
-  "total_injured": 206,
+  "total_injured": 207,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
@@ -987,21 +987,14 @@
       "generated": "2026-06-30",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 33,
+      "total_injured": 34,
       "teams_affected": 16,
       "teams": {
-        "AS Roma": [
+        "Juventus FC": [
           {
-            "player": "Wesley",
-            "position": "Right-Back",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Luigi Cherubini",
-            "position": "Left Winger",
-            "injury": "Muscle fatigue",
+            "player": "Facundo Gonz\u00e1lez",
+            "position": "Centre-Back",
+            "injury": "Ankle injury",
             "since": "",
             "status": "out"
           }
@@ -1105,13 +1098,27 @@
             "injury": "Unknown",
             "since": "",
             "status": "out"
+          },
+          {
+            "player": "Isak Hien",
+            "position": "Centre-Back",
+            "injury": "Thigh problems",
+            "since": "",
+            "status": "out"
           }
         ],
-        "Juventus FC": [
+        "AS Roma": [
           {
-            "player": "Facundo Gonz\u00e1lez",
-            "position": "Centre-Back",
-            "injury": "Ankle injury",
+            "player": "Luigi Cherubini",
+            "position": "Left Winger",
+            "injury": "Muscle fatigue",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Wesley",
+            "position": "Right-Back",
+            "injury": "Hamstring injury",
             "since": "",
             "status": "out"
           }
