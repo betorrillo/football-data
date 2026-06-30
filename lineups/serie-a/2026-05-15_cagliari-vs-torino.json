@@ -4,19 +4,12 @@
   "away": "Torino",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-06-29T20:56:08Z",
+  "generated": "2026-06-30T10:37:11Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
-    {
-      "player": "Leonardo Pavoletti",
-      "position": "Centre-Forward",
-      "injury": "Unknown",
-      "since": "",
-      "status": "out"
-    },
     {
       "player": "Riyad Idrissi",
       "position": "Left-Back",
@@ -27,9 +20,16 @@
   ],
   "away_injuries": [
     {
-      "player": "Luca Marianucci",
-      "position": "Centre-Back",
-      "injury": "Bruised knee",
+      "player": "Pietro Pellegri",
+      "position": "Centre-Forward",
+      "injury": "Cruciate ligament tear",
+      "since": "",
+      "status": "out"
+    },
+    {
+      "player": "Sebastian Walukiewicz",
+      "position": "Right-Back",
+      "injury": "Unknown",
       "since": "",
       "status": "out"
     },
@@ -37,13 +37,6 @@
       "player": "Franco Israel",
       "position": "Goalkeeper",
       "injury": "Shoulder injury",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Zakaria Aboukhlal",
-      "position": "Right Winger",
-      "injury": "Unknown",
       "since": "",
       "status": "out"
     }

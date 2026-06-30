@@ -4,41 +4,26 @@
   "away": "Cremonese",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-06-29T20:56:08Z",
+  "generated": "2026-06-30T10:37:11Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
     {
+      "player": "Simone Pafundi",
+      "position": "Attacking Midfield",
+      "injury": "Unknown",
+      "since": "",
+      "status": "out"
+    },
+    {
       "player": "Juan Arizala",
       "position": "Left Midfield",
       "injury": "unknown injury",
       "since": "",
       "status": "out"
-    },
-    {
-      "player": "Alessandro Zanoli",
-      "position": "Right-Back",
-      "injury": "Cruciate ligament tear",
-      "since": "",
-      "status": "out"
     }
   ],
-  "away_injuries": [
-    {
-      "player": "Faris Moumbagna",
-      "position": "Centre-Forward",
-      "injury": "Adductor injury",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Federico Baschirotto",
-      "position": "Centre-Back",
-      "injury": "Hamstring strain",
-      "since": "",
-      "status": "out"
-    }
-  ]
+  "away_injuries": []
 }

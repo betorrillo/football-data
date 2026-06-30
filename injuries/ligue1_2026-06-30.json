@@ -1,52 +1,22 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-06-30",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 40,
+  "total_injured": 41,
   "teams_affected": 14,
   "teams": {
-    "LOSC Lille": [
+    "FC Lorient": [
       {
-        "player": "Hamza Igamane",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Marc-Aur\u00e8le Caillard",
+        "player": "Bingourou Kamara",
         "position": "Goalkeeper",
-        "injury": "Elbow injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ousmane Tour\u00e9",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Le Havre AC": [
-      {
-        "player": "Noam Obougou",
-        "position": "Centre-Forward",
-        "injury": "Groin injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Stephan Zagadou",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Abdoulaye Tour\u00e9",
-        "position": "Defensive Midfield",
         "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "J\u00e9r\u00e9my Hatchi",
+        "position": "Left Winger",
+        "injury": "Adductor pain",
         "since": "",
         "status": "out"
       }
@@ -74,6 +44,13 @@
         "status": "out"
       },
       {
+        "player": "Jhoanner Ch\u00e1vez",
+        "position": "Left-Back",
+        "injury": "Thigh problems",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Nidal Celik",
         "position": "Centre-Back",
         "injury": "Meniscus injury",
@@ -97,11 +74,48 @@
         "status": "out"
       }
     ],
-    "FC Lorient": [
+    "LOSC Lille": [
       {
-        "player": "Bingourou Kamara",
+        "player": "Marc-Aur\u00e8le Caillard",
         "position": "Goalkeeper",
+        "injury": "Elbow injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Hamza Igamane",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ousmane Tour\u00e9",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Le Havre AC": [
+      {
+        "player": "Stephan Zagadou",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Abdoulaye Tour\u00e9",
+        "position": "Defensive Midfield",
         "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Noam Obougou",
+        "position": "Centre-Forward",
+        "injury": "Groin injury",
         "since": "",
         "status": "out"
       }
@@ -159,9 +173,23 @@
         "injury": "Knee injury",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Omar Sissoko",
+        "position": "Centre-Forward",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
       }
     ],
     "AJ Auxerre": [
+      {
+        "player": "Saad Agouzoul",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Fredrik Oppeg\u00e5rd",
         "position": "Left-Back",
@@ -170,23 +198,9 @@
         "status": "out"
       },
       {
-        "player": "Oussama El Azzouzi",
-        "position": "Defensive Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Bryan Okoh",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Romain Faivre",
-        "position": "Attacking Midfield",
-        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -203,13 +217,6 @@
         "player": "Stanis Idumbo",
         "position": "Attacking Midfield",
         "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kassoum Ouattara",
-        "position": "Left-Back",
-        "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
@@ -237,13 +244,6 @@
         "status": "out"
       },
       {
-        "player": "Hamed Traor\u00e9",
-        "position": "Left Winger",
-        "injury": "Adductor pain",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Leonardo Balerdi",
         "position": "Centre-Back",
         "injury": "Calf injury",
@@ -256,6 +256,13 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Faris Moumbagna",
+        "position": "Centre-Forward",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
       }
     ],
     "FC Metz": [
@@ -263,13 +270,6 @@
         "player": "Jessy Deminguet",
         "position": "Central Midfield",
         "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Boubacar Traor\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Calf injury",
         "since": "",
         "status": "out"
       },
@@ -286,6 +286,13 @@
         "player": "Rafik Messali",
         "position": "Right-Back",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ylies Aradj",
+        "position": "Left-Back",
+        "injury": "Calf problems",
         "since": "",
         "status": "out"
       }

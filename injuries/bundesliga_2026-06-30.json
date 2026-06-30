@@ -1,11 +1,18 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-06-30",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 46,
+  "total_injured": 42,
   "teams_affected": 17,
   "teams": {
     "SV Werder Bremen": [
+      {
+        "player": "Dawid Kownacki",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Mitchell Weiser",
         "position": "Right-Back",
@@ -22,13 +29,6 @@
       }
     ],
     "Hamburger SV": [
-      {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
-        "since": "",
-        "status": "out"
-      },
       {
         "player": "Miro Muheim",
         "position": "Left-Back",
@@ -47,6 +47,13 @@
         "player": "Alexander R\u00f8ssing-Lelesiit",
         "position": "Left Winger",
         "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Robert Glatzel",
+        "position": "Centre-Forward",
+        "injury": "Calf strain",
         "since": "",
         "status": "out"
       }
@@ -76,9 +83,9 @@
         "status": "out"
       },
       {
-        "player": "Jenson Seelt",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Aster Vranckx",
+        "position": "Central Midfield",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
@@ -93,13 +100,6 @@
         "player": "Cleiton",
         "position": "Centre-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maximilian Arnold",
-        "position": "Central Midfield",
-        "injury": "Groin problems",
         "since": "",
         "status": "out"
       }
@@ -118,13 +118,6 @@
         "injury": "Knee injury",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Ragnar Ache",
-        "position": "Centre-Forward",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
       }
     ],
     "1.FC Union Berlin": [
@@ -132,13 +125,6 @@
         "player": "Matheo Raab",
         "position": "Goalkeeper",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Frederik R\u00f6nnow",
-        "position": "Goalkeeper",
-        "injury": "Adductor injury",
         "since": "",
         "status": "out"
       }
@@ -189,13 +175,6 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Sirlord Conteh",
-        "position": "Right Winger",
-        "injury": "Knee surgery",
-        "since": "",
-        "status": "out"
       }
     ],
     "RB Leipzig": [
@@ -203,13 +182,6 @@
         "player": "Leopold Zingerle",
         "position": "Goalkeeper",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ayodele Thomas",
-        "position": "Left Winger",
-        "injury": "Ankle problems",
         "since": "",
         "status": "out"
       },
@@ -240,13 +212,6 @@
         "player": "Benedict Hollerbach",
         "position": "Centre-Forward",
         "injury": "Achilles tendon rupture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Kasey Bos",
-        "position": "Left-Back",
-        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -301,6 +266,13 @@
     ],
     "Eintracht Frankfurt": [
       {
+        "player": "Jessic Ngankam",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
         "player": "Nnamdi Collins",
         "position": "Centre-Back",
         "injury": "Ankle injury",
@@ -316,6 +288,13 @@
       }
     ],
     "Bayern Munich": [
+      {
+        "player": "Bryan Zaragoza",
+        "position": "Left Winger",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
       {
         "player": "Lennart Karl",
         "position": "Attacking Midfield",
@@ -343,13 +322,6 @@
         "player": "Manolis Saliakas",
         "position": "Right-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "James Sands",
-        "position": "Defensive Midfield",
-        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
