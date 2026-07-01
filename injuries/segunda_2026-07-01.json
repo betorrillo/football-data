@@ -1,10 +1,19 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-01",
   "source": "transfermarkt.com",
   "league": "Segunda Division",
-  "total_injured": 14,
-  "teams_affected": 13,
+  "total_injured": 12,
+  "teams_affected": 12,
   "teams": {
+    "RCD Mallorca": [
+      {
+        "player": "Jan Salas",
+        "position": "Central Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "UD Las Palmas": [
       {
         "player": "Jerem\u00eda Recoba",
@@ -14,27 +23,11 @@
         "status": "out"
       }
     ],
-    "Deportivo A Coru\u00f1a": [
+    "CD Tenerife": [
       {
-        "player": "David Mella",
-        "position": "Right Winger",
+        "player": "Alassan Manjam",
+        "position": "Left Winger",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "M\u00e1laga CF": [
-      {
-        "player": "Luismi S\u00e1nchez",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Juanpe",
-        "position": "Central Midfield",
-        "injury": "Muscle injury",
         "since": "",
         "status": "out"
       }
@@ -42,6 +35,15 @@
     "Albacete Balompi\u00e9": [
       {
         "player": "Higinio Mar\u00edn",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Real Oviedo": [
+      {
+        "player": "Daniel Paraschiv",
         "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
@@ -57,38 +59,11 @@
         "status": "out"
       }
     ],
-    "UD Almer\u00eda": [
+    "Girona FC": [
       {
-        "player": "Arvin Appiah",
-        "position": "Left-Back",
-        "injury": "Achilles tendon contusion",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SD Huesca": [
-      {
-        "player": "Diego Aznar",
-        "position": "Centre-Forward",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Racing Santander": [
-      {
-        "player": "Giorgi Guliashvili",
-        "position": "Centre-Forward",
-        "injury": "Fracture of fibula shaft",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Real Zaragoza": [
-      {
-        "player": "Paulino de la Fuente",
-        "position": "Right Winger",
-        "injury": "Torn knee ligaments",
+        "player": "Gabriel Misehouy",
+        "position": "Attacking Midfield",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
@@ -115,6 +90,15 @@
       {
         "player": "Th\u00e9o Le Normand",
         "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RC Celta Fortuna": [
+      {
+        "player": "Anthony Khayat",
+        "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"

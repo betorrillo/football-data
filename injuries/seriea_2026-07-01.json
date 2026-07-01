@@ -1,15 +1,22 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-01",
   "source": "transfermarkt.com",
   "league": "Serie A",
-  "total_injured": 34,
-  "teams_affected": 16,
+  "total_injured": 27,
+  "teams_affected": 13,
   "teams": {
-    "Juventus FC": [
+    "AS Roma": [
       {
-        "player": "Facundo Gonz\u00e1lez",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Wesley",
+        "position": "Right-Back",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Luigi Cherubini",
+        "position": "Left Winger",
+        "injury": "Muscle fatigue",
         "since": "",
         "status": "out"
       }
@@ -30,9 +37,9 @@
         "status": "out"
       },
       {
-        "player": "Filippo Romagna",
-        "position": "Centre-Back",
-        "injury": "unknown injury",
+        "player": "Sebastian Walukiewicz",
+        "position": "Right-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       },
@@ -56,29 +63,6 @@
         "player": "Billy Gilmour",
         "position": "Defensive Midfield",
         "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alessandro Zanoli",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Pisa Sporting Club": [
-      {
-        "player": "Francesco Coppola",
-        "position": "Centre-Back",
-        "injury": "Ankle problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nicholas Bonfanti",
-        "position": "Centre-Forward",
-        "injury": "Torn ligaments",
         "since": "",
         "status": "out"
       }
@@ -122,18 +106,11 @@
         "status": "out"
       }
     ],
-    "AS Roma": [
+    "Venezia FC": [
       {
-        "player": "Luigi Cherubini",
-        "position": "Left Winger",
-        "injury": "Muscle fatigue",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Wesley",
-        "position": "Right-Back",
-        "injury": "Hamstring injury",
+        "player": "Gaetano Oristanio",
+        "position": "Attacking Midfield",
+        "injury": "Knee problems",
         "since": "",
         "status": "out"
       }
@@ -156,39 +133,62 @@
     ],
     "Torino FC": [
       {
-        "player": "Pietro Pellegri",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Sebastian Walukiewicz",
-        "position": "Right-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Franco Israel",
         "position": "Goalkeeper",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Pietro Pellegri",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
       }
     ],
-    "Inter Milan": [
+    "Udinese Calcio": [
       {
-        "player": "Stefan de Vrij",
-        "position": "Centre-Back",
-        "injury": "Groin injury",
+        "player": "Juan Arizala",
+        "position": "Left Midfield",
+        "injury": "unknown injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Marcus Thuram",
-        "position": "Centre-Forward",
+        "player": "Simone Pafundi",
+        "position": "Attacking Midfield",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alessandro Zanoli",
+        "position": "Right-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SS Lazio": [
+      {
+        "player": "Filipe Bordon",
+        "position": "Centre-Back",
+        "injury": "Metatarsal fracture",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Danilo Cataldi",
+        "position": "Defensive Midfield",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ivan Provedel",
+        "position": "Goalkeeper",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -202,66 +202,11 @@
         "status": "out"
       }
     ],
-    "SS Lazio": [
+    "Inter Milan": [
       {
-        "player": "Danilo Cataldi",
-        "position": "Defensive Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Filipe Bordon",
-        "position": "Centre-Back",
-        "injury": "Metatarsal fracture",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ivan Provedel",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Udinese Calcio": [
-      {
-        "player": "Simone Pafundi",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Juan Arizala",
-        "position": "Left Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "US Lecce": [
-      {
-        "player": "Medon Berisha",
-        "position": "Central Midfield",
-        "injury": "Torn thigh muscle",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Hellas Verona": [
-      {
-        "player": "Suat Serdar",
-        "position": "Central Midfield",
-        "injury": "Cruciate ligament surgery",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Juan Manuel Cruz",
+        "player": "Marcus Thuram",
         "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }

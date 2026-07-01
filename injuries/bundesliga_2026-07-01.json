@@ -1,29 +1,15 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-01",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 42,
+  "total_injured": 35,
   "teams_affected": 17,
   "teams": {
-    "SV Werder Bremen": [
+    "1.FC Union Berlin": [
       {
-        "player": "Dawid Kownacki",
-        "position": "Centre-Forward",
+        "player": "Matheo Raab",
+        "position": "Goalkeeper",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -49,11 +35,13 @@
         "injury": "Ankle injury",
         "since": "",
         "status": "out"
-      },
+      }
+    ],
+    "SV 07 Elversberg": [
       {
-        "player": "Robert Glatzel",
-        "position": "Centre-Forward",
-        "injury": "Calf strain",
+        "player": "Patryk Dragon",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -67,64 +55,50 @@
         "status": "out"
       }
     ],
-    "VfL Wolfsburg": [
+    "SV Werder Bremen": [
       {
-        "player": "Christian Eriksen",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Rog\u00e9rio",
-        "position": "Left-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Aster Vranckx",
-        "position": "Central Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Bence D\u00e1rdai",
-        "position": "Attacking Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Cleiton",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "1.FC K\u00f6ln": [
-      {
-        "player": "Luca Kilian",
-        "position": "Centre-Back",
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Timo H\u00fcbers",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
+        "player": "Dawid Kownacki",
+        "position": "Centre-Forward",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
     ],
-    "1.FC Union Berlin": [
+    "1.FSV Mainz 05": [
       {
-        "player": "Matheo Raab",
-        "position": "Goalkeeper",
+        "player": "Silas",
+        "position": "Right Winger",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Benedict Hollerbach",
+        "position": "Centre-Forward",
+        "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SC Paderborn 07": [
+      {
+        "player": "Timur Gayret",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -161,27 +135,18 @@
         "status": "out"
       }
     ],
-    "1.FC Heidenheim 1846": [
-      {
-        "player": "Leart Pa\u00e7arada",
-        "position": "Left-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mikkel Kaufmann",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "RB Leipzig": [
       {
         "player": "Leopold Zingerle",
         "position": "Goalkeeper",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Viggo Gebel",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
@@ -193,25 +158,25 @@
         "status": "out"
       }
     ],
-    "1.FSV Mainz 05": [
+    "Eintracht Frankfurt": [
       {
-        "player": "Silas",
-        "position": "Right Winger",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Maxim Leitsch",
-        "position": "Centre-Back",
+        "player": "Jessic Ngankam",
+        "position": "Centre-Forward",
         "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Benedict Hollerbach",
-        "position": "Centre-Forward",
-        "injury": "Achilles tendon rupture",
+        "player": "Nnamdi Collins",
+        "position": "Centre-Back",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Oscar H\u00f8jlund",
+        "position": "Central Midfield",
+        "injury": "Knock",
         "since": "",
         "status": "out"
       }
@@ -253,6 +218,13 @@
         "injury": "Unknown",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Joane Gadou",
+        "position": "Centre-Back",
+        "injury": "Knock",
+        "since": "",
+        "status": "out"
       }
     ],
     "Borussia M\u00f6nchengladbach": [
@@ -264,25 +236,11 @@
         "status": "out"
       }
     ],
-    "Eintracht Frankfurt": [
+    "1.FC K\u00f6ln": [
       {
-        "player": "Jessic Ngankam",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nnamdi Collins",
+        "player": "Timo H\u00fcbers",
         "position": "Centre-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Oscar H\u00f8jlund",
-        "position": "Central Midfield",
-        "injury": "Knock",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -317,18 +275,11 @@
         "status": "out"
       }
     ],
-    "FC St. Pauli": [
+    "FC Schalke 04": [
       {
-        "player": "Manolis Saliakas",
-        "position": "Right-Back",
+        "player": "Tomas Kalas",
+        "position": "Centre-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mathias Pereira Lage",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

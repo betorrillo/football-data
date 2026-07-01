@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-01",
   "source": "transfermarkt.com",
   "league": "Primeira Liga",
-  "total_injured": 15,
-  "teams_affected": 9,
+  "total_injured": 13,
+  "teams_affected": 8,
   "teams": {
     "Sporting CP": [
       {
@@ -19,13 +19,6 @@
         "player": "Vasco Sousa",
         "position": "Central Midfield",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Luuk de Jong",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
@@ -67,6 +60,13 @@
         "injury": "unknown injury",
         "since": "",
         "status": "out"
+      },
+      {
+        "player": "Adrian Barisic",
+        "position": "Centre-Back",
+        "injury": "Adductor injury",
+        "since": "",
+        "status": "out"
       }
     ],
     "CD Santa Clara": [
@@ -103,27 +103,11 @@
         "status": "out"
       }
     ],
-    "CD Tondela": [
+    "FC Famalic\u00e3o": [
       {
-        "player": "Xabi Huarte",
-        "position": "Attacking Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Nor Maviram",
-        "position": "Left-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Avs Futebol": [
-      {
-        "player": "Lucas Moura",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
+        "player": "Finn van Breemen",
+        "position": "Centre-Back",
+        "injury": "Knee surgery",
         "since": "",
         "status": "out"
       }

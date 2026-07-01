@@ -4,19 +4,12 @@
   "away": "Verona",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-06-30T21:02:18Z",
+  "generated": "2026-07-01T10:45:04Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
   "home_injuries": [
-    {
-      "player": "Stefan de Vrij",
-      "position": "Centre-Back",
-      "injury": "Groin injury",
-      "since": "",
-      "status": "out"
-    },
     {
       "player": "Marcus Thuram",
       "position": "Centre-Forward",
@@ -25,20 +18,5 @@
       "status": "out"
     }
   ],
-  "away_injuries": [
-    {
-      "player": "Suat Serdar",
-      "position": "Central Midfield",
-      "injury": "Cruciate ligament surgery",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Juan Manuel Cruz",
-      "position": "Centre-Forward",
-      "injury": "Cruciate ligament tear",
-      "since": "",
-      "status": "out"
-    }
-  ]
+  "away_injuries": []
 }
