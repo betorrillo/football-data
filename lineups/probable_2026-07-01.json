@@ -68,15 +68,15 @@
           "status": "out"
         },
         {
-          "player": "Manu Bueno",
-          "position": "Central Midfield",
+          "player": "Marc\u00e3o",
+          "position": "Centre-Back",
           "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Marc\u00e3o",
-          "position": "Centre-Back",
+          "player": "Manu Bueno",
+          "position": "Central Midfield",
           "injury": "Unknown",
           "since": "",
           "status": "out"
@@ -377,16 +377,16 @@
       },
       "home_injuries": [
         {
-          "player": "Andrei Ra\u021biu",
-          "position": "Right-Back",
-          "injury": "Unknown",
+          "player": "Ra\u00fal de Tom\u00e1s",
+          "position": "Centre-Forward",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Ra\u00fal de Tom\u00e1s",
-          "position": "Centre-Forward",
-          "injury": "unknown injury",
+          "player": "Andrei Ra\u021biu",
+          "position": "Right-Back",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         }
@@ -1393,6 +1393,20 @@
           "status": "out"
         },
         {
+          "player": "Alessio Furlanetto",
+          "position": "Goalkeeper",
+          "injury": "Cruciate ligament surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Gustav Isaksen",
+          "position": "Right Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Danilo Cataldi",
           "position": "Defensive Midfield",
           "injury": "Unknown",
@@ -1408,7 +1422,7 @@
         }
       ],
       "away_injuries": [],
-      "home_injury_count": 3,
+      "home_injury_count": 5,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1942,29 +1956,22 @@
       ],
       "away_injuries": [
         {
-          "player": "Ousmane Tour\u00e9",
-          "position": "Centre-Back",
+          "player": "Hamza Igamane",
+          "position": "Centre-Forward",
           "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Marc-Aur\u00e8le Caillard",
-          "position": "Goalkeeper",
-          "injury": "Elbow injury",
-          "since": "",
-          "status": "out"
-        },
-        {
-          "player": "Hamza Igamane",
-          "position": "Centre-Forward",
+          "player": "Ousmane Tour\u00e9",
+          "position": "Centre-Back",
           "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         }
       ],
       "home_injury_count": 3,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -2274,6 +2281,13 @@
       ],
       "away_injuries": [
         {
+          "player": "Mads Bidstrup",
+          "position": "Central Midfield",
+          "injury": "Calf injury",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Tyler Morton",
           "position": "Defensive Midfield",
           "injury": "Unknown",
@@ -2289,7 +2303,7 @@
         }
       ],
       "home_injury_count": 2,
-      "away_injury_count": 2,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

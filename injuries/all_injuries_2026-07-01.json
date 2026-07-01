@@ -70,22 +70,6 @@
             "status": "out"
           }
         ],
-        "Racing Santander": [
-          {
-            "player": "Facundo Gonz\u00e1lez",
-            "position": "Centre-Back",
-            "injury": "Ankle injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Giorgi Guliashvili",
-            "position": "Centre-Forward",
-            "injury": "Fracture of fibula shaft",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Atl\u00e9tico de Madrid": [
           {
             "player": "Johnny Cardoso",
@@ -104,41 +88,16 @@
             "status": "out"
           },
           {
-            "player": "Manu Bueno",
-            "position": "Central Midfield",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
             "player": "Marc\u00e3o",
             "position": "Centre-Back",
             "injury": "Unknown",
             "since": "",
             "status": "out"
-          }
-        ],
-        "Rayo Vallecano": [
-          {
-            "player": "Andrei Ra\u021biu",
-            "position": "Right-Back",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
           },
           {
-            "player": "Ra\u00fal de Tom\u00e1s",
-            "position": "Centre-Forward",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Real Betis Balompi\u00e9": [
-          {
-            "player": "\u00c1ngel Ortiz",
-            "position": "Right-Back",
-            "injury": "Shoulder injury",
+            "player": "Manu Bueno",
+            "position": "Central Midfield",
+            "injury": "Unknown",
             "since": "",
             "status": "out"
           }
@@ -159,11 +118,61 @@
             "status": "out"
           }
         ],
+        "Real Betis Balompi\u00e9": [
+          {
+            "player": "\u00c1ngel Ortiz",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Rayo Vallecano": [
+          {
+            "player": "Ra\u00fal de Tom\u00e1s",
+            "position": "Centre-Forward",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Andrei Ra\u021biu",
+            "position": "Right-Back",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Racing Santander": [
+          {
+            "player": "Facundo Gonz\u00e1lez",
+            "position": "Centre-Back",
+            "injury": "Ankle injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Giorgi Guliashvili",
+            "position": "Centre-Forward",
+            "injury": "Fracture of fibula shaft",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Villarreal CF": [
           {
             "player": "Juan Foyth",
             "position": "Centre-Back",
             "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RCD Espanyol Barcelona": [
+          {
+            "player": "Javi Puado",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -187,15 +196,6 @@
             "player": "Ferland Mendy",
             "position": "Left-Back",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "RCD Espanyol Barcelona": [
-          {
-            "player": "Javi Puado",
-            "position": "Left Winger",
-            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -901,8 +901,8 @@
       "generated": "2026-07-01",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 27,
-      "teams_affected": 13,
+      "total_injured": 28,
+      "teams_affected": 12,
       "teams": {
         "AS Roma": [
           {
@@ -1078,6 +1078,20 @@
             "status": "out"
           },
           {
+            "player": "Alessio Furlanetto",
+            "position": "Goalkeeper",
+            "injury": "Cruciate ligament surgery",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Gustav Isaksen",
+            "position": "Right Winger",
+            "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Danilo Cataldi",
             "position": "Defensive Midfield",
             "injury": "Unknown",
@@ -1101,15 +1115,6 @@
             "status": "out"
           }
         ],
-        "Inter Milan": [
-          {
-            "player": "Marcus Thuram",
-            "position": "Centre-Forward",
-            "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Cagliari Calcio": [
           {
             "player": "Riyad Idrissi",
@@ -1125,40 +1130,26 @@
       "generated": "2026-07-01",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
-      "total_injured": 39,
+      "total_injured": 38,
       "teams_affected": 14,
       "teams": {
-        "LOSC Lille": [
+        "FC Lorient": [
           {
-            "player": "Ousmane Tour\u00e9",
-            "position": "Centre-Back",
-            "injury": "Cruciate ligament tear",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Marc-Aur\u00e8le Caillard",
+            "player": "Bingourou Kamara",
             "position": "Goalkeeper",
-            "injury": "Elbow injury",
+            "injury": "Knee injury",
             "since": "",
             "status": "out"
           },
           {
-            "player": "Hamza Igamane",
-            "position": "Centre-Forward",
-            "injury": "Cruciate ligament tear",
+            "player": "J\u00e9r\u00e9my Hatchi",
+            "position": "Left Winger",
+            "injury": "Adductor pain",
             "since": "",
             "status": "out"
           }
         ],
         "RC Lens": [
-          {
-            "player": "R\u00e9gis Gurtner",
-            "position": "Goalkeeper",
-            "injury": "Hamstring injury",
-            "since": "",
-            "status": "out"
-          },
           {
             "player": "Jonathan Gradit",
             "position": "Centre-Back",
@@ -1190,6 +1181,13 @@
         ],
         "Olympique Lyon": [
           {
+            "player": "Mads Bidstrup",
+            "position": "Central Midfield",
+            "injury": "Calf injury",
+            "since": "",
+            "status": "out"
+          },
+          {
             "player": "Tyler Morton",
             "position": "Defensive Midfield",
             "injury": "Unknown",
@@ -1200,6 +1198,22 @@
             "player": "Tanner Tessmann",
             "position": "Defensive Midfield",
             "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "LOSC Lille": [
+          {
+            "player": "Hamza Igamane",
+            "position": "Centre-Forward",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Ousmane Tour\u00e9",
+            "position": "Centre-Back",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -1223,22 +1237,6 @@
             "player": "Noam Obougou",
             "position": "Centre-Forward",
             "injury": "Groin injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "FC Lorient": [
-          {
-            "player": "Bingourou Kamara",
-            "position": "Goalkeeper",
-            "injury": "Knee injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "J\u00e9r\u00e9my Hatchi",
-            "position": "Left Winger",
-            "injury": "Adductor pain",
             "since": "",
             "status": "out"
           }
