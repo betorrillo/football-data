@@ -8,8 +8,8 @@
       "generated": "2026-07-03",
       "source": "transfermarkt.com",
       "league": "LaLiga",
-      "total_injured": 22,
-      "teams_affected": 14,
+      "total_injured": 23,
+      "teams_affected": 15,
       "teams": {
         "FC Barcelona": [
           {
@@ -109,20 +109,20 @@
             "status": "out"
           }
         ],
-        "Real Betis Balompi\u00e9": [
-          {
-            "player": "\u00c1ngel Ortiz",
-            "position": "Right-Back",
-            "injury": "Shoulder injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Atl\u00e9tico de Madrid": [
           {
             "player": "Johnny Cardoso",
             "position": "Central Midfield",
             "injury": "Ankle surgery",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Real Betis Balompi\u00e9": [
+          {
+            "player": "\u00c1ngel Ortiz",
+            "position": "Right-Back",
+            "injury": "Shoulder injury",
             "since": "",
             "status": "out"
           }
@@ -143,11 +143,29 @@
             "status": "out"
           }
         ],
+        "M\u00e1laga CF": [
+          {
+            "player": "Juanpe Jim\u00e9nez",
+            "position": "Central Midfield",
+            "injury": "Muscle injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Villarreal CF": [
           {
             "player": "Juan Foyth",
             "position": "Centre-Back",
             "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "RCD Espanyol Barcelona": [
+          {
+            "player": "Javi Puado",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -171,15 +189,6 @@
             "player": "Ferland Mendy",
             "position": "Left-Back",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "RCD Espanyol Barcelona": [
-          {
-            "player": "Javi Puado",
-            "position": "Left Winger",
-            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -316,7 +325,7 @@
       "generated": "2026-07-03",
       "source": "transfermarkt.com",
       "league": "Premier League",
-      "total_injured": 35,
+      "total_injured": 34,
       "teams_affected": 18,
       "teams": {
         "Ipswich Town": [
@@ -404,13 +413,6 @@
             "injury": "Ankle injury",
             "since": "",
             "status": "out"
-          },
-          {
-            "player": "Romain Faivre",
-            "position": "Attacking Midfield",
-            "injury": "Knock",
-            "since": "",
-            "status": "out"
           }
         ],
         "Manchester United": [
@@ -486,31 +488,6 @@
             "status": "out"
           }
         ],
-        "Everton FC": [
-          {
-            "player": "Hayden Hackney",
-            "position": "Defensive Midfield",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "Sunderland AFC": [
-          {
-            "player": "Jenson Seelt",
-            "position": "Centre-Back",
-            "injury": "Knee injury",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Alan Browne",
-            "position": "Central Midfield",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Liverpool FC": [
           {
             "player": "Wataru Endo",
@@ -523,6 +500,31 @@
             "player": "Hugo Ekitik\u00e9",
             "position": "Centre-Forward",
             "injury": "Achilles tendon rupture",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Everton FC": [
+          {
+            "player": "Hayden Hackney",
+            "position": "Defensive Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          }
+        ],
+        "Sunderland AFC": [
+          {
+            "player": "Alan Browne",
+            "position": "Central Midfield",
+            "injury": "unknown injury",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Jenson Seelt",
+            "position": "Centre-Back",
+            "injury": "Knee injury",
             "since": "",
             "status": "out"
           }

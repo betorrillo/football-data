@@ -2,8 +2,8 @@
   "generated": "2026-07-03",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 22,
-  "teams_affected": 14,
+  "total_injured": 23,
+  "teams_affected": 15,
   "teams": {
     "FC Barcelona": [
       {
@@ -103,20 +103,20 @@
         "status": "out"
       }
     ],
-    "Real Betis Balompi\u00e9": [
-      {
-        "player": "\u00c1ngel Ortiz",
-        "position": "Right-Back",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Atl\u00e9tico de Madrid": [
       {
         "player": "Johnny Cardoso",
         "position": "Central Midfield",
         "injury": "Ankle surgery",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Real Betis Balompi\u00e9": [
+      {
+        "player": "\u00c1ngel Ortiz",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
@@ -137,11 +137,29 @@
         "status": "out"
       }
     ],
+    "M\u00e1laga CF": [
+      {
+        "player": "Juanpe Jim\u00e9nez",
+        "position": "Central Midfield",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Villarreal CF": [
       {
         "player": "Juan Foyth",
         "position": "Centre-Back",
         "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RCD Espanyol Barcelona": [
+      {
+        "player": "Javi Puado",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
@@ -165,15 +183,6 @@
         "player": "Ferland Mendy",
         "position": "Left-Back",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "RCD Espanyol Barcelona": [
-      {
-        "player": "Javi Puado",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }

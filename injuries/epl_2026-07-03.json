@@ -2,7 +2,7 @@
   "generated": "2026-07-03",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 35,
+  "total_injured": 34,
   "teams_affected": 18,
   "teams": {
     "Ipswich Town": [
@@ -90,13 +90,6 @@
         "injury": "Ankle injury",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Romain Faivre",
-        "position": "Attacking Midfield",
-        "injury": "Knock",
-        "since": "",
-        "status": "out"
       }
     ],
     "Manchester United": [
@@ -172,31 +165,6 @@
         "status": "out"
       }
     ],
-    "Everton FC": [
-      {
-        "player": "Hayden Hackney",
-        "position": "Defensive Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Sunderland AFC": [
-      {
-        "player": "Jenson Seelt",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alan Browne",
-        "position": "Central Midfield",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Liverpool FC": [
       {
         "player": "Wataru Endo",
@@ -209,6 +177,31 @@
         "player": "Hugo Ekitik\u00e9",
         "position": "Centre-Forward",
         "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Everton FC": [
+      {
+        "player": "Hayden Hackney",
+        "position": "Defensive Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Sunderland AFC": [
+      {
+        "player": "Alan Browne",
+        "position": "Central Midfield",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jenson Seelt",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }

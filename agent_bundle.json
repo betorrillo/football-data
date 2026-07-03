@@ -2,7 +2,7 @@
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
   "generated": "2026-07-03",
-  "generated_at": "2026-07-03T09:58:01Z",
+  "generated_at": "2026-07-03T20:17:49Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14015,15 +14015,15 @@
    "referees": [],
    "total": 0
   },
+  "seriea": {
+   "referees": [],
+   "total": 0
+  },
   "bundesliga": {
    "referees": [],
    "total": 0
   },
   "ligue1": {
-   "referees": [],
-   "total": 0
-  },
-  "seriea": {
    "referees": [],
    "total": 0
   },
@@ -14136,20 +14136,20 @@
      "status": "out"
     }
    ],
-   "Real Betis Balompi\u00e9": [
-    {
-     "player": "\u00c1ngel Ortiz",
-     "position": "Right-Back",
-     "injury": "Shoulder injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Atl\u00e9tico de Madrid": [
     {
      "player": "Johnny Cardoso",
      "position": "Central Midfield",
      "injury": "Ankle surgery",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Betis Balompi\u00e9": [
+    {
+     "player": "\u00c1ngel Ortiz",
+     "position": "Right-Back",
+     "injury": "Shoulder injury",
      "since": "",
      "status": "out"
     }
@@ -14170,11 +14170,29 @@
      "status": "out"
     }
    ],
+   "M\u00e1laga CF": [
+    {
+     "player": "Juanpe Jim\u00e9nez",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "Villarreal CF": [
     {
      "player": "Juan Foyth",
      "position": "Centre-Back",
      "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RCD Espanyol Barcelona": [
+    {
+     "player": "Javi Puado",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
      "since": "",
      "status": "out"
     }
@@ -14198,15 +14216,6 @@
      "player": "Ferland Mendy",
      "position": "Left-Back",
      "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "RCD Espanyol Barcelona": [
-    {
-     "player": "Javi Puado",
-     "position": "Left Winger",
-     "injury": "Cruciate ligament tear",
      "since": "",
      "status": "out"
     }
@@ -14417,13 +14426,6 @@
      "injury": "Ankle injury",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Romain Faivre",
-     "position": "Attacking Midfield",
-     "injury": "Knock",
-     "since": "",
-     "status": "out"
     }
    ],
    "Manchester United": [
@@ -14499,31 +14501,6 @@
      "status": "out"
     }
    ],
-   "Everton FC": [
-    {
-     "player": "Hayden Hackney",
-     "position": "Defensive Midfield",
-     "injury": "unknown injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
-   "Sunderland AFC": [
-    {
-     "player": "Jenson Seelt",
-     "position": "Centre-Back",
-     "injury": "Knee injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Alan Browne",
-     "position": "Central Midfield",
-     "injury": "unknown injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Liverpool FC": [
     {
      "player": "Wataru Endo",
@@ -14536,6 +14513,31 @@
      "player": "Hugo Ekitik\u00e9",
      "position": "Centre-Forward",
      "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Everton FC": [
+    {
+     "player": "Hayden Hackney",
+     "position": "Defensive Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Sunderland AFC": [
+    {
+     "player": "Alan Browne",
+     "position": "Central Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Jenson Seelt",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     }
@@ -16039,17 +16041,10 @@
      "injury": "Ankle injury",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Romain Faivre",
-     "position": "Attacking Midfield",
-     "injury": "Knock",
-     "since": "",
-     "status": "out"
     }
    ],
    "home_injury_count": 0,
-   "away_injury_count": 3,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -16077,16 +16072,16 @@
    "away_profile": null,
    "home_injuries": [
     {
-     "player": "Jenson Seelt",
-     "position": "Centre-Back",
-     "injury": "Knee injury",
+     "player": "Alan Browne",
+     "position": "Central Midfield",
+     "injury": "unknown injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "Alan Browne",
-     "position": "Central Midfield",
-     "injury": "unknown injury",
+     "player": "Jenson Seelt",
+     "position": "Centre-Back",
+     "injury": "Knee injury",
      "since": "",
      "status": "out"
     }
