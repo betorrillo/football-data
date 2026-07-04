@@ -2,7 +2,7 @@
   "generated": "2026-07-04",
   "source": "transfermarkt.com",
   "league": "Ligue 1",
-  "total_injured": 37,
+  "total_injured": 36,
   "teams_affected": 13,
   "teams": {
     "FC Lorient": [
@@ -23,13 +23,6 @@
     ],
     "RC Lens": [
       {
-        "player": "Jonathan Gradit",
-        "position": "Centre-Back",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
         "player": "Samson Baidoo",
         "position": "Centre-Back",
         "injury": "Hamstring injury",
@@ -47,6 +40,13 @@
         "player": "Nidal Celik",
         "position": "Centre-Back",
         "injury": "Meniscus injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Jonathan Gradit",
+        "position": "Centre-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }
@@ -86,29 +86,6 @@
         "player": "Ousmane Tour\u00e9",
         "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Le Havre AC": [
-      {
-        "player": "Stephan Zagadou",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Abdoulaye Tour\u00e9",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Noam Obougou",
-        "position": "Centre-Forward",
-        "injury": "Groin injury",
         "since": "",
         "status": "out"
       }
@@ -285,6 +262,22 @@
       {
         "player": "Joaqu\u00edn Panichelli",
         "position": "Centre-Forward",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Le Havre AC": [
+      {
+        "player": "Noam Obougou",
+        "position": "Centre-Forward",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Stephan Zagadou",
+        "position": "Centre-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
