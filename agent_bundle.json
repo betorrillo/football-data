@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-07-03",
-  "generated_at": "2026-07-03T20:17:49Z",
+  "generated": "2026-07-04",
+  "generated_at": "2026-07-04T09:22:14Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14003,11 +14003,11 @@
   }
  ],
  "referees": {
-  "segunda": {
+  "laliga": {
    "referees": [],
    "total": 0
   },
-  "laliga": {
+  "segunda": {
    "referees": [],
    "total": 0
   },
@@ -14015,11 +14015,11 @@
    "referees": [],
    "total": 0
   },
-  "seriea": {
+  "bundesliga": {
    "referees": [],
    "total": 0
   },
-  "bundesliga": {
+  "seriea": {
    "referees": [],
    "total": 0
   },
@@ -14027,11 +14027,11 @@
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "portugal": {
    "referees": [],
    "total": 0
   },
-  "portugal": {
+  "champions": {
    "referees": [],
    "total": 0
   }
@@ -14136,15 +14136,6 @@
      "status": "out"
     }
    ],
-   "Atl\u00e9tico de Madrid": [
-    {
-     "player": "Johnny Cardoso",
-     "position": "Central Midfield",
-     "injury": "Ankle surgery",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Real Betis Balompi\u00e9": [
     {
      "player": "\u00c1ngel Ortiz",
@@ -14154,14 +14145,16 @@
      "status": "out"
     }
    ],
-   "Racing Santander": [
+   "Atl\u00e9tico de Madrid": [
     {
-     "player": "Facundo Gonz\u00e1lez",
-     "position": "Centre-Back",
-     "injury": "Ankle injury",
+     "player": "Johnny Cardoso",
+     "position": "Central Midfield",
+     "injury": "Ankle surgery",
      "since": "",
      "status": "out"
-    },
+    }
+   ],
+   "Racing Santander": [
     {
      "player": "Giorgi Guliashvili",
      "position": "Centre-Forward",
@@ -14188,15 +14181,6 @@
      "status": "out"
     }
    ],
-   "RCD Espanyol Barcelona": [
-    {
-     "player": "Javi Puado",
-     "position": "Left Winger",
-     "injury": "Cruciate ligament tear",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Real Madrid": [
     {
      "player": "\u00c9der Milit\u00e3o",
@@ -14216,6 +14200,15 @@
      "player": "Ferland Mendy",
      "position": "Left-Back",
      "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "RCD Espanyol Barcelona": [
+    {
+     "player": "Javi Puado",
+     "position": "Left Winger",
+     "injury": "Cruciate ligament tear",
      "since": "",
      "status": "out"
     }

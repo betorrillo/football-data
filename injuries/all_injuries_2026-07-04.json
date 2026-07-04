@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-04",
   "source": "transfermarkt.com",
-  "total_injured": 181,
+  "total_injured": 180,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "LaLiga",
-      "total_injured": 23,
+      "total_injured": 22,
       "teams_affected": 15,
       "teams": {
         "FC Barcelona": [
@@ -109,15 +109,6 @@
             "status": "out"
           }
         ],
-        "Atl\u00e9tico de Madrid": [
-          {
-            "player": "Johnny Cardoso",
-            "position": "Central Midfield",
-            "injury": "Ankle surgery",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "Real Betis Balompi\u00e9": [
           {
             "player": "\u00c1ngel Ortiz",
@@ -127,14 +118,16 @@
             "status": "out"
           }
         ],
-        "Racing Santander": [
+        "Atl\u00e9tico de Madrid": [
           {
-            "player": "Facundo Gonz\u00e1lez",
-            "position": "Centre-Back",
-            "injury": "Ankle injury",
+            "player": "Johnny Cardoso",
+            "position": "Central Midfield",
+            "injury": "Ankle surgery",
             "since": "",
             "status": "out"
-          },
+          }
+        ],
+        "Racing Santander": [
           {
             "player": "Giorgi Guliashvili",
             "position": "Centre-Forward",
@@ -157,15 +150,6 @@
             "player": "Juan Foyth",
             "position": "Centre-Back",
             "injury": "Achilles tendon rupture",
-            "since": "",
-            "status": "out"
-          }
-        ],
-        "RCD Espanyol Barcelona": [
-          {
-            "player": "Javi Puado",
-            "position": "Left Winger",
-            "injury": "Cruciate ligament tear",
             "since": "",
             "status": "out"
           }
@@ -193,6 +177,15 @@
             "status": "out"
           }
         ],
+        "RCD Espanyol Barcelona": [
+          {
+            "player": "Javi Puado",
+            "position": "Left Winger",
+            "injury": "Cruciate ligament tear",
+            "since": "",
+            "status": "out"
+          }
+        ],
         "Real Sociedad": [
           {
             "player": "\u00c1lvaro Odriozola",
@@ -205,7 +198,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 12,
@@ -322,7 +315,7 @@
       }
     },
     "epl": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 34,
@@ -605,7 +598,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 34,
@@ -884,7 +877,7 @@
       }
     },
     "seriea": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Serie A",
       "total_injured": 28,
@@ -1113,7 +1106,7 @@
       }
     },
     "ligue1": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 37,
@@ -1407,7 +1400,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-07-03",
+      "generated": "2026-07-04",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 13,

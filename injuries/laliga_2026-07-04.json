@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-04",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 23,
+  "total_injured": 22,
   "teams_affected": 15,
   "teams": {
     "FC Barcelona": [
@@ -103,15 +103,6 @@
         "status": "out"
       }
     ],
-    "Atl\u00e9tico de Madrid": [
-      {
-        "player": "Johnny Cardoso",
-        "position": "Central Midfield",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Real Betis Balompi\u00e9": [
       {
         "player": "\u00c1ngel Ortiz",
@@ -121,14 +112,16 @@
         "status": "out"
       }
     ],
-    "Racing Santander": [
+    "Atl\u00e9tico de Madrid": [
       {
-        "player": "Facundo Gonz\u00e1lez",
-        "position": "Centre-Back",
-        "injury": "Ankle injury",
+        "player": "Johnny Cardoso",
+        "position": "Central Midfield",
+        "injury": "Ankle surgery",
         "since": "",
         "status": "out"
-      },
+      }
+    ],
+    "Racing Santander": [
       {
         "player": "Giorgi Guliashvili",
         "position": "Centre-Forward",
@@ -155,15 +148,6 @@
         "status": "out"
       }
     ],
-    "RCD Espanyol Barcelona": [
-      {
-        "player": "Javi Puado",
-        "position": "Left Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Real Madrid": [
       {
         "player": "\u00c9der Milit\u00e3o",
@@ -183,6 +167,15 @@
         "player": "Ferland Mendy",
         "position": "Left-Back",
         "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RCD Espanyol Barcelona": [
+      {
+        "player": "Javi Puado",
+        "position": "Left Winger",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
