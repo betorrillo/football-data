@@ -1,36 +1,22 @@
 {
-  "generated": "2026-07-04",
+  "generated": "2026-07-05",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 23,
+  "total_injured": 22,
   "teams_affected": 15,
   "teams": {
-    "Real Madrid": [
+    "FC Barcelona": [
       {
-        "player": "Aur\u00e9lien Tchouam\u00e9ni",
-        "position": "Defensive Midfield",
-        "injury": "Thigh problems",
+        "player": "Raphinha",
+        "position": "Left Winger",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "\u00c9der Milit\u00e3o",
-        "position": "Centre-Back",
-        "injury": "Muscle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Rodrygo",
-        "position": "Right Winger",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ferland Mendy",
-        "position": "Left-Back",
-        "injury": "Unknown",
+        "player": "Ferm\u00edn L\u00f3pez",
+        "position": "Attacking Midfield",
+        "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
       }
@@ -85,15 +71,6 @@
         "status": "out"
       }
     ],
-    "Atl\u00e9tico de Madrid": [
-      {
-        "player": "Johnny Cardoso",
-        "position": "Central Midfield",
-        "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Sevilla FC": [
       {
         "player": "Patrik Mercado",
@@ -135,18 +112,11 @@
         "status": "out"
       }
     ],
-    "FC Barcelona": [
+    "Atl\u00e9tico de Madrid": [
       {
-        "player": "Raphinha",
-        "position": "Left Winger",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ferm\u00edn L\u00f3pez",
-        "position": "Attacking Midfield",
-        "injury": "Metatarsal fracture",
+        "player": "Johnny Cardoso",
+        "position": "Central Midfield",
+        "injury": "Ankle surgery",
         "since": "",
         "status": "out"
       }
@@ -174,6 +144,29 @@
         "player": "Juan Foyth",
         "position": "Centre-Back",
         "injury": "Achilles tendon rupture",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Real Madrid": [
+      {
+        "player": "\u00c9der Milit\u00e3o",
+        "position": "Centre-Back",
+        "injury": "Muscle injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Rodrygo",
+        "position": "Right Winger",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Ferland Mendy",
+        "position": "Left-Back",
+        "injury": "Unknown",
         "since": "",
         "status": "out"
       }

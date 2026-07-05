@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-07-04",
-  "generated_at": "2026-07-04T20:11:58Z",
+  "generated": "2026-07-05",
+  "generated_at": "2026-07-05T09:42:47Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14003,19 +14003,19 @@
   }
  ],
  "referees": {
-  "segunda": {
-   "referees": [],
-   "total": 0
-  },
   "laliga": {
    "referees": [],
    "total": 0
   },
-  "epl": {
+  "segunda": {
    "referees": [],
    "total": 0
   },
   "bundesliga": {
+   "referees": [],
+   "total": 0
+  },
+  "epl": {
    "referees": [],
    "total": 0
   },
@@ -14027,43 +14027,29 @@
    "referees": [],
    "total": 0
   },
-  "portugal": {
+  "champions": {
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "portugal": {
    "referees": [],
    "total": 0
   }
  },
  "injuries": {
   "laliga": {
-   "Real Madrid": [
+   "FC Barcelona": [
     {
-     "player": "Aur\u00e9lien Tchouam\u00e9ni",
-     "position": "Defensive Midfield",
-     "injury": "Thigh problems",
+     "player": "Raphinha",
+     "position": "Left Winger",
+     "injury": "Hamstring injury",
      "since": "",
      "status": "out"
     },
     {
-     "player": "\u00c9der Milit\u00e3o",
-     "position": "Centre-Back",
-     "injury": "Muscle injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Rodrygo",
-     "position": "Right Winger",
-     "injury": "Cruciate ligament tear",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Ferland Mendy",
-     "position": "Left-Back",
-     "injury": "Unknown",
+     "player": "Ferm\u00edn L\u00f3pez",
+     "position": "Attacking Midfield",
+     "injury": "Metatarsal fracture",
      "since": "",
      "status": "out"
     }
@@ -14118,15 +14104,6 @@
      "status": "out"
     }
    ],
-   "Atl\u00e9tico de Madrid": [
-    {
-     "player": "Johnny Cardoso",
-     "position": "Central Midfield",
-     "injury": "Ankle surgery",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "Sevilla FC": [
     {
      "player": "Patrik Mercado",
@@ -14168,18 +14145,11 @@
      "status": "out"
     }
    ],
-   "FC Barcelona": [
+   "Atl\u00e9tico de Madrid": [
     {
-     "player": "Raphinha",
-     "position": "Left Winger",
-     "injury": "Hamstring injury",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Ferm\u00edn L\u00f3pez",
-     "position": "Attacking Midfield",
-     "injury": "Metatarsal fracture",
+     "player": "Johnny Cardoso",
+     "position": "Central Midfield",
+     "injury": "Ankle surgery",
      "since": "",
      "status": "out"
     }
@@ -14207,6 +14177,29 @@
      "player": "Juan Foyth",
      "position": "Centre-Back",
      "injury": "Achilles tendon rupture",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Real Madrid": [
+    {
+     "player": "\u00c9der Milit\u00e3o",
+     "position": "Centre-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Rodrygo",
+     "position": "Right Winger",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Ferland Mendy",
+     "position": "Left-Back",
+     "injury": "Unknown",
      "since": "",
      "status": "out"
     }
@@ -15708,13 +15701,6 @@
    ],
    "away_injuries": [
     {
-     "player": "Aur\u00e9lien Tchouam\u00e9ni",
-     "position": "Defensive Midfield",
-     "injury": "Thigh problems",
-     "since": "",
-     "status": "out"
-    },
-    {
      "player": "\u00c9der Milit\u00e3o",
      "position": "Centre-Back",
      "injury": "Muscle injury",
@@ -15737,7 +15723,7 @@
     }
    ],
    "home_injury_count": 2,
-   "away_injury_count": 4,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
