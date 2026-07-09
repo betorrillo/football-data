@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-09",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1362,10 +1362,40 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Riyad Idrissi",
+          "position": "Left-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Juan Arizala",
+          "position": "Left Midfield",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Simone Pafundi",
+          "position": "Attacking Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Alessandro Zanoli",
+          "position": "Right-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1391,9 +1421,38 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Filipe Bordon",
+          "position": "Centre-Back",
+          "injury": "Metatarsal fracture",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Alessio Furlanetto",
+          "position": "Goalkeeper",
+          "injury": "Cruciate ligament surgery",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Gustav Isaksen",
+          "position": "Right Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Danilo Cataldi",
+          "position": "Defensive Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 4,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1546,9 +1605,24 @@
         "trajectory": "declining",
         "scoring_consistency": "consistent"
       },
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Riccardo Sottil",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Fabiano Parisi",
+          "position": "Left-Back",
+          "injury": "Cruciate ligament injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 2,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1575,10 +1649,33 @@
         "scoring_consistency": "consistent"
       },
       "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Adri\u00e1n Bernab\u00e9",
+          "position": "Central Midfield",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Luigi Cherubini",
+          "position": "Left Winger",
+          "injury": "Muscle fatigue",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 1,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1605,9 +1702,17 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Isak Hien",
+          "position": "Centre-Back",
+          "injury": "Thigh problems",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1646,10 +1751,47 @@
         "trajectory": "improving",
         "scoring_consistency": "variable"
       },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
+      "home_injuries": [
+        {
+          "player": "Luca Marianucci",
+          "position": "Centre-Back",
+          "injury": "Bruised knee",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Billy Gilmour",
+          "position": "Defensive Midfield",
+          "injury": "Knee injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "away_injuries": [
+        {
+          "player": "Oussama El Azzouzi",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Emil Holm",
+          "position": "Right-Back",
+          "injury": "Muscle injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Riccardo Orsolini",
+          "position": "Right Winger",
+          "injury": "Adductor pain",
+          "since": "",
+          "status": "out"
+        }
+      ],
+      "home_injury_count": 2,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

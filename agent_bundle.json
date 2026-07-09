@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-07-08",
-  "generated_at": "2026-07-08T20:24:14Z",
+  "generated": "2026-07-09",
+  "generated_at": "2026-07-09T10:26:20Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14011,15 +14011,11 @@
    "referees": [],
    "total": 0
   },
-  "bundesliga": {
-   "referees": [],
-   "total": 0
-  },
   "epl": {
    "referees": [],
    "total": 0
   },
-  "ligue1": {
+  "bundesliga": {
    "referees": [],
    "total": 0
   },
@@ -14027,11 +14023,15 @@
    "referees": [],
    "total": 0
   },
+  "champions": {
+   "referees": [],
+   "total": 0
+  },
   "portugal": {
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "ligue1": {
    "referees": [],
    "total": 0
   }
@@ -14916,7 +14916,228 @@
     }
    ]
   },
-  "seriea": {},
+  "seriea": {
+   "Torino FC": [
+    {
+     "player": "Co\u0302me Bianay Balcot",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Gaetano Oristanio",
+     "position": "Attacking Midfield",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Franco Israel",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Pietro Pellegri",
+     "position": "Centre-Forward",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "US Sassuolo": [
+    {
+     "player": "Darryl Bakola",
+     "position": "Attacking Midfield",
+     "injury": "Knee problems",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Sebastian Walukiewicz",
+     "position": "Right-Back",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Yeferson Paz",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Isma\u00ebl Kon\u00e9",
+     "position": "Central Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SSC Napoli": [
+    {
+     "player": "Luca Marianucci",
+     "position": "Centre-Back",
+     "injury": "Bruised knee",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Billy Gilmour",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Bologna FC 1909": [
+    {
+     "player": "Oussama El Azzouzi",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Emil Holm",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Riccardo Orsolini",
+     "position": "Right Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "ACF Fiorentina": [
+    {
+     "player": "Riccardo Sottil",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fabiano Parisi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "AS Roma": [
+    {
+     "player": "Luigi Cherubini",
+     "position": "Left Winger",
+     "injury": "Muscle fatigue",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wesley",
+     "position": "Right-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Udinese Calcio": [
+    {
+     "player": "Juan Arizala",
+     "position": "Left Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Simone Pafundi",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessandro Zanoli",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "SS Lazio": [
+    {
+     "player": "Filipe Bordon",
+     "position": "Centre-Back",
+     "injury": "Metatarsal fracture",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessio Furlanetto",
+     "position": "Goalkeeper",
+     "injury": "Cruciate ligament surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Gustav Isaksen",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Danilo Cataldi",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Parma Calcio 1913": [
+    {
+     "player": "Adri\u00e1n Bernab\u00e9",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Inter Milan": [
+    {
+     "player": "Ivan Provedel",
+     "position": "Goalkeeper",
+     "injury": "Shoulder injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Cagliari Calcio": [
+    {
+     "player": "Riyad Idrissi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "Atalanta BC": [
+    {
+     "player": "Isak Hien",
+     "position": "Centre-Back",
+     "injury": "Thigh problems",
+     "since": "",
+     "status": "out"
+    }
+   ]
+  },
   "ligue1": {
    "FC Lorient": [
     {
@@ -16568,10 +16789,40 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Riyad Idrissi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Juan Arizala",
+     "position": "Left Midfield",
+     "injury": "unknown injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Simone Pafundi",
+     "position": "Attacking Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessandro Zanoli",
+     "position": "Right-Back",
+     "injury": "Cruciate ligament tear",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -16597,9 +16848,38 @@
     "scoring_consistency": "variable"
    },
    "away_profile": null,
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Filipe Bordon",
+     "position": "Centre-Back",
+     "injury": "Metatarsal fracture",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Alessio Furlanetto",
+     "position": "Goalkeeper",
+     "injury": "Cruciate ligament surgery",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Gustav Isaksen",
+     "position": "Right Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Danilo Cataldi",
+     "position": "Defensive Midfield",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 4,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -16752,9 +17032,24 @@
     "trajectory": "declining",
     "scoring_consistency": "consistent"
    },
-   "home_injuries": [],
+   "home_injuries": [
+    {
+     "player": "Riccardo Sottil",
+     "position": "Left Winger",
+     "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Fabiano Parisi",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "away_injuries": [],
-   "home_injury_count": 0,
+   "home_injury_count": 2,
    "away_injury_count": 0,
    "confirmed": false,
    "type": "probable",
@@ -16781,10 +17076,33 @@
     "scoring_consistency": "consistent"
    },
    "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Adri\u00e1n Bernab\u00e9",
+     "position": "Central Midfield",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Luigi Cherubini",
+     "position": "Left Winger",
+     "injury": "Muscle fatigue",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Wesley",
+     "position": "Right-Back",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 1,
+   "away_injury_count": 2,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -16811,9 +17129,17 @@
     "scoring_consistency": "variable"
    },
    "home_injuries": [],
-   "away_injuries": [],
+   "away_injuries": [
+    {
+     "player": "Isak Hien",
+     "position": "Centre-Back",
+     "injury": "Thigh problems",
+     "since": "",
+     "status": "out"
+    }
+   ],
    "home_injury_count": 0,
-   "away_injury_count": 0,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -16852,10 +17178,47 @@
     "trajectory": "improving",
     "scoring_consistency": "variable"
    },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
+   "home_injuries": [
+    {
+     "player": "Luca Marianucci",
+     "position": "Centre-Back",
+     "injury": "Bruised knee",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Billy Gilmour",
+     "position": "Defensive Midfield",
+     "injury": "Knee injury",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "away_injuries": [
+    {
+     "player": "Oussama El Azzouzi",
+     "position": "Defensive Midfield",
+     "injury": "Hamstring injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Emil Holm",
+     "position": "Right-Back",
+     "injury": "Muscle injury",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Riccardo Orsolini",
+     "position": "Right Winger",
+     "injury": "Adductor pain",
+     "since": "",
+     "status": "out"
+    }
+   ],
+   "home_injury_count": 2,
+   "away_injury_count": 3,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
