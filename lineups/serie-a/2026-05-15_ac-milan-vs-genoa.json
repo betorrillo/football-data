@@ -4,26 +4,19 @@
   "away": "Genoa",
   "league": "ITA1",
   "date": "2026-05-15",
-  "generated": "2026-06-29T20:56:08Z",
+  "generated": "2026-07-10T10:23:35Z",
   "home_profile": null,
   "away_profile": null,
   "confirmed": false,
   "type": "unavailable",
-  "home_injuries": [],
-  "away_injuries": [
+  "home_injuries": [
     {
-      "player": "Maxwel Cornet",
-      "position": "Left Winger",
-      "injury": "Muscle fatigue",
-      "since": "",
-      "status": "out"
-    },
-    {
-      "player": "Benjamin Siegrist",
-      "position": "Goalkeeper",
-      "injury": "unknown injury",
+      "player": "Christian Pulisic",
+      "position": "Right Winger",
+      "injury": "Unknown",
       "since": "",
       "status": "out"
     }
-  ]
+  ],
+  "away_injuries": []
 }
