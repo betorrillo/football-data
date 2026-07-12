@@ -68,6 +68,20 @@
           "status": "out"
         },
         {
+          "player": "Marc\u00e3o",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Andr\u00e9s Castr\u00edn",
+          "position": "Centre-Back",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
           "player": "Manu Bueno",
           "position": "Central Midfield",
           "injury": "Unknown",
@@ -91,7 +105,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 3,
+      "home_injury_count": 5,
       "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
@@ -1082,9 +1096,31 @@
         "scoring_consistency": "variable"
       },
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Viggo Gebel",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Leopold Zingerle",
+          "position": "Goalkeeper",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Christoph Baumgartner",
+          "position": "Attacking Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 3,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1098,9 +1134,17 @@
       "away": "Bayer Leverkusen",
       "home_profile": null,
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Lorenz Assignon",
+          "position": "Right-Back",
+          "injury": "Shoulder injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 1,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1114,9 +1158,24 @@
       "away": "B. M\u00f6nchengladbach",
       "home_profile": null,
       "away_profile": null,
-      "home_injuries": [],
+      "home_injuries": [
+        {
+          "player": "Alexis Claude-Maurice",
+          "position": "Attacking Midfield",
+          "injury": "Ankle problems",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Dimitrios Giannoulis",
+          "position": "Left-Back",
+          "injury": "unknown injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "away_injuries": [],
-      "home_injury_count": 0,
+      "home_injury_count": 2,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1144,9 +1203,31 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Keke Topp",
+          "position": "Centre-Forward",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Dawid Kownacki",
+          "position": "Centre-Forward",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Mitchell Weiser",
+          "position": "Right-Back",
+          "injury": "Cruciate ligament tear",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1173,9 +1254,38 @@
         "scoring_consistency": "variable"
       },
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Bryan Zaragoza",
+          "position": "Left Winger",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Lennart Karl",
+          "position": "Attacking Midfield",
+          "injury": "Muscle tear",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "Serge Gnabry",
+          "position": "Second Striker",
+          "injury": "Adductor injury",
+          "since": "",
+          "status": "out"
+        },
+        {
+          "player": "David Santos Daiber",
+          "position": "Defensive Midfield",
+          "injury": "Hamstring injury",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 4,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1189,9 +1299,17 @@
       "home_profile": null,
       "away_profile": null,
       "home_injuries": [],
-      "away_injuries": [],
+      "away_injuries": [
+        {
+          "player": "Johan Manzambi",
+          "position": "Central Midfield",
+          "injury": "Knee bruise",
+          "since": "",
+          "status": "out"
+        }
+      ],
       "home_injury_count": 0,
-      "away_injury_count": 0,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
