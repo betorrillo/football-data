@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "source": "transfermarkt.com",
   "league": "LaLiga",
-  "total_injured": 25,
+  "total_injured": 24,
   "teams_affected": 15,
   "teams": {
     "Atl\u00e9tico de Madrid": [
@@ -10,15 +10,6 @@
         "player": "Johnny Cardoso",
         "position": "Central Midfield",
         "injury": "Ankle surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Elche CF": [
-      {
-        "player": "Abiel Osorio",
-        "position": "Centre-Forward",
-        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -85,6 +76,15 @@
         "status": "out"
       }
     ],
+    "Elche CF": [
+      {
+        "player": "Abiel Osorio",
+        "position": "Centre-Forward",
+        "injury": "Hamstring injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
     "Valencia CF": [
       {
         "player": "Dimitri Foulquier",
@@ -126,27 +126,20 @@
         "status": "out"
       }
     ],
-    "FC Barcelona": [
-      {
-        "player": "Marc-Andr\u00e9 ter Stegen",
-        "position": "Goalkeeper",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Ferm\u00edn L\u00f3pez",
-        "position": "Attacking Midfield",
-        "injury": "Metatarsal fracture",
-        "since": "",
-        "status": "out"
-      }
-    ],
     "Racing Santander": [
       {
         "player": "Giorgi Guliashvili",
         "position": "Centre-Forward",
         "injury": "Fracture of fibula shaft",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "FC Barcelona": [
+      {
+        "player": "Ferm\u00edn L\u00f3pez",
+        "position": "Attacking Midfield",
+        "injury": "Metatarsal fracture",
         "since": "",
         "status": "out"
       }

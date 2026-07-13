@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "source": "transfermarkt.com",
   "league": "Premier League",
-  "total_injured": 34,
+  "total_injured": 32,
   "teams_affected": 18,
   "teams": {
     "Arsenal FC": [
@@ -131,13 +131,6 @@
         "injury": "Knee injury",
         "since": "",
         "status": "out"
-      },
-      {
-        "player": "Lewis Miley",
-        "position": "Central Midfield",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
       }
     ],
     "Ipswich Town": [
@@ -154,38 +147,6 @@
         "player": "Caleb Wiley",
         "position": "Left-Back",
         "injury": "Adductor injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Aston Villa": [
-      {
-        "player": "Amadou Onana",
-        "position": "Defensive Midfield",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Boubacar Kamara",
-        "position": "Defensive Midfield",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "Sunderland AFC": [
-      {
-        "player": "Jenson Seelt",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alan Browne",
-        "position": "Central Midfield",
-        "injury": "unknown injury",
         "since": "",
         "status": "out"
       }
@@ -215,25 +176,34 @@
         "status": "out"
       }
     ],
-    "Leeds United": [
+    "Sunderland AFC": [
       {
-        "player": "Ilia Gruev",
-        "position": "Defensive Midfield",
+        "player": "Jenson Seelt",
+        "position": "Centre-Back",
         "injury": "Knee injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Sean Longstaff",
+        "player": "Alan Browne",
         "position": "Central Midfield",
-        "injury": "Groin injury",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Aston Villa": [
+      {
+        "player": "Amadou Onana",
+        "position": "Defensive Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Mateo Joseph",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "player": "Boubacar Kamara",
+        "position": "Defensive Midfield",
+        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }
@@ -265,6 +235,22 @@
       {
         "player": "Xavi Simons",
         "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "Leeds United": [
+      {
+        "player": "Sean Longstaff",
+        "position": "Central Midfield",
+        "injury": "Groin injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Mateo Joseph",
+        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"

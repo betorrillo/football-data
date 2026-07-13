@@ -1,92 +1,73 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "source": "transfermarkt.com",
   "league": "Bundesliga",
-  "total_injured": 33,
-  "teams_affected": 16,
+  "total_injured": 34,
+  "teams_affected": 17,
   "teams": {
-    "Hamburger SV": [
+    "SC Paderborn 07": [
       {
-        "player": "Fernando Dickes",
-        "position": "Goalkeeper",
-        "injury": "Shoulder injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Alexander R\u00f8ssing-Lelesiit",
-        "position": "Left Winger",
-        "injury": "Ankle injury",
+        "player": "Timur Gayret",
+        "position": "Central Midfield",
+        "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       }
     ],
-    "RB Leipzig": [
+    "1.FC K\u00f6ln": [
       {
-        "player": "Viggo Gebel",
-        "position": "Attacking Midfield",
+        "player": "Timo H\u00fcbers",
+        "position": "Centre-Back",
+        "injury": "Knee injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SC Freiburg": [
+      {
+        "player": "Johan Manzambi",
+        "position": "Central Midfield",
+        "injury": "Knee bruise",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SV 07 Elversberg": [
+      {
+        "player": "Luis Seifert",
+        "position": "Centre-Back",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "VfB Stuttgart": [
+      {
+        "player": "Lorenz Assignon",
+        "position": "Right-Back",
+        "injury": "Shoulder injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "SV Werder Bremen": [
+      {
+        "player": "Mitchell Weiser",
+        "position": "Right-Back",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Leopold Zingerle",
-        "position": "Goalkeeper",
+        "player": "Dawid Kownacki",
+        "position": "Centre-Forward",
         "injury": "Unknown",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Christoph Baumgartner",
-        "position": "Attacking Midfield",
-        "injury": "Hamstring injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "TSG 1899 Hoffenheim": [
-      {
-        "player": "Valentin Gendrey",
-        "position": "Right-Back",
-        "injury": "Ankle injury",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Koki Machida",
-        "position": "Centre-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Andrej Kramaric",
-        "position": "Second Striker",
-        "injury": "Groin surgery",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "FC Augsburg": [
-      {
-        "player": "Alexis Claude-Maurice",
-        "position": "Attacking Midfield",
-        "injury": "Ankle problems",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Dimitrios Giannoulis",
-        "position": "Left-Back",
-        "injury": "unknown injury",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "SC Paderborn 07": [
-      {
-        "player": "Timur Gayret",
-        "position": "Central Midfield",
+        "player": "Keke Topp",
+        "position": "Centre-Forward",
         "injury": "Cruciate ligament tear",
         "since": "",
         "status": "out"
@@ -101,43 +82,80 @@
         "status": "out"
       }
     ],
-    "SV Werder Bremen": [
+    "Hamburger SV": [
       {
-        "player": "Keke Topp",
-        "position": "Centre-Forward",
-        "injury": "Cruciate ligament tear",
+        "player": "Alexander R\u00f8ssing-Lelesiit",
+        "position": "Left Winger",
+        "injury": "Ankle injury",
         "since": "",
         "status": "out"
       },
       {
-        "player": "Dawid Kownacki",
-        "position": "Centre-Forward",
-        "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      },
-      {
-        "player": "Mitchell Weiser",
-        "position": "Right-Back",
-        "injury": "Cruciate ligament tear",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "VfB Stuttgart": [
-      {
-        "player": "Lorenz Assignon",
-        "position": "Right-Back",
+        "player": "Fernando Dickes",
+        "position": "Goalkeeper",
         "injury": "Shoulder injury",
         "since": "",
         "status": "out"
       }
     ],
-    "SC Freiburg": [
+    "FC Augsburg": [
       {
-        "player": "Johan Manzambi",
-        "position": "Central Midfield",
-        "injury": "Knee bruise",
+        "player": "Dimitrios Giannoulis",
+        "position": "Left-Back",
+        "injury": "unknown injury",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Alexis Claude-Maurice",
+        "position": "Attacking Midfield",
+        "injury": "Ankle problems",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "TSG 1899 Hoffenheim": [
+      {
+        "player": "Andrej Kramaric",
+        "position": "Second Striker",
+        "injury": "Groin surgery",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Koki Machida",
+        "position": "Centre-Back",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Valentin Gendrey",
+        "position": "Right-Back",
+        "injury": "Ankle injury",
+        "since": "",
+        "status": "out"
+      }
+    ],
+    "RB Leipzig": [
+      {
+        "player": "Leopold Zingerle",
+        "position": "Goalkeeper",
+        "injury": "Unknown",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Viggo Gebel",
+        "position": "Attacking Midfield",
+        "injury": "Cruciate ligament tear",
+        "since": "",
+        "status": "out"
+      },
+      {
+        "player": "Christoph Baumgartner",
+        "position": "Attacking Midfield",
+        "injury": "Hamstring injury",
         "since": "",
         "status": "out"
       }
@@ -209,15 +227,6 @@
         "player": "Nathan Ngoumou",
         "position": "Right Winger",
         "injury": "Unknown",
-        "since": "",
-        "status": "out"
-      }
-    ],
-    "1.FC K\u00f6ln": [
-      {
-        "player": "Timo H\u00fcbers",
-        "position": "Centre-Back",
-        "injury": "Knee injury",
         "since": "",
         "status": "out"
       }

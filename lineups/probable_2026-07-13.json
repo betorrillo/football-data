@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -325,13 +325,6 @@
       },
       "home_injuries": [
         {
-          "player": "Marc-Andr\u00e9 ter Stegen",
-          "position": "Goalkeeper",
-          "injury": "Hamstring injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Ferm\u00edn L\u00f3pez",
           "position": "Attacking Midfield",
           "injury": "Metatarsal fracture",
@@ -362,7 +355,7 @@
           "status": "out"
         }
       ],
-      "home_injury_count": 2,
+      "home_injury_count": 1,
       "away_injury_count": 3,
       "confirmed": false,
       "type": "probable",
@@ -930,17 +923,10 @@
           "injury": "Knee injury",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "Lewis Miley",
-          "position": "Central Midfield",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
         }
       ],
       "home_injury_count": 1,
-      "away_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1048,13 +1034,6 @@
       ],
       "away_injuries": [
         {
-          "player": "Ilia Gruev",
-          "position": "Defensive Midfield",
-          "injury": "Knee injury",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Sean Longstaff",
           "position": "Central Midfield",
           "injury": "Groin injury",
@@ -1070,7 +1049,7 @@
         }
       ],
       "home_injury_count": 3,
-      "away_injury_count": 3,
+      "away_injury_count": 2,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
@@ -1098,16 +1077,16 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Viggo Gebel",
-          "position": "Attacking Midfield",
-          "injury": "Cruciate ligament tear",
+          "player": "Leopold Zingerle",
+          "position": "Goalkeeper",
+          "injury": "Unknown",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Leopold Zingerle",
-          "position": "Goalkeeper",
-          "injury": "Unknown",
+          "player": "Viggo Gebel",
+          "position": "Attacking Midfield",
+          "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
         },
@@ -1160,16 +1139,16 @@
       "away_profile": null,
       "home_injuries": [
         {
-          "player": "Alexis Claude-Maurice",
-          "position": "Attacking Midfield",
-          "injury": "Ankle problems",
+          "player": "Dimitrios Giannoulis",
+          "position": "Left-Back",
+          "injury": "unknown injury",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Dimitrios Giannoulis",
-          "position": "Left-Back",
-          "injury": "unknown injury",
+          "player": "Alexis Claude-Maurice",
+          "position": "Attacking Midfield",
+          "injury": "Ankle problems",
           "since": "",
           "status": "out"
         }
@@ -1205,8 +1184,8 @@
       "home_injuries": [],
       "away_injuries": [
         {
-          "player": "Keke Topp",
-          "position": "Centre-Forward",
+          "player": "Mitchell Weiser",
+          "position": "Right-Back",
           "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
@@ -1219,8 +1198,8 @@
           "status": "out"
         },
         {
-          "player": "Mitchell Weiser",
-          "position": "Right-Back",
+          "player": "Keke Topp",
+          "position": "Centre-Forward",
           "injury": "Cruciate ligament tear",
           "since": "",
           "status": "out"
@@ -1428,10 +1407,17 @@
           "injury": "Unknown",
           "since": "",
           "status": "out"
+        },
+        {
+          "player": "Danilo Cataldi",
+          "position": "Defensive Midfield",
+          "injury": "Unknown",
+          "since": "",
+          "status": "out"
         }
       ],
       "away_injuries": [],
-      "home_injury_count": 2,
+      "home_injury_count": 3,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1586,13 +1572,6 @@
       },
       "home_injuries": [
         {
-          "player": "Riccardo Sottil",
-          "position": "Left Winger",
-          "injury": "Unknown",
-          "since": "",
-          "status": "out"
-        },
-        {
           "player": "Fabiano Parisi",
           "position": "Left-Back",
           "injury": "Cruciate ligament injury",
@@ -1601,7 +1580,7 @@
         }
       ],
       "away_injuries": [],
-      "home_injury_count": 2,
+      "home_injury_count": 1,
       "away_injury_count": 0,
       "confirmed": false,
       "type": "probable",
@@ -1639,16 +1618,16 @@
       ],
       "away_injuries": [
         {
-          "player": "Wesley",
-          "position": "Right-Back",
-          "injury": "Hamstring injury",
+          "player": "Luigi Cherubini",
+          "position": "Left Winger",
+          "injury": "Muscle fatigue",
           "since": "",
           "status": "out"
         },
         {
-          "player": "Luigi Cherubini",
-          "position": "Left Winger",
-          "injury": "Muscle fatigue",
+          "player": "Wesley",
+          "position": "Right-Back",
+          "injury": "Hamstring injury",
           "since": "",
           "status": "out"
         }
