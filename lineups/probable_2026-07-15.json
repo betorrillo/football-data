@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
   "total_matches": 45,
@@ -1747,17 +1747,10 @@
           "injury": "Unknown",
           "since": "",
           "status": "out"
-        },
-        {
-          "player": "Emil Holm",
-          "position": "Right-Back",
-          "injury": "Muscle injury",
-          "since": "",
-          "status": "out"
         }
       ],
       "home_injury_count": 2,
-      "away_injury_count": 2,
+      "away_injury_count": 1,
       "confirmed": false,
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",

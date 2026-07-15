@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "source": "transfermarkt.com",
-  "total_injured": 178,
+  "total_injured": 176,
   "leagues_scraped": 7,
   "leagues": {
     "laliga": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "LaLiga",
       "total_injured": 25,
@@ -219,7 +219,7 @@
       }
     },
     "segunda": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Segunda Division",
       "total_injured": 12,
@@ -336,7 +336,7 @@
       }
     },
     "epl": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Premier League",
       "total_injured": 32,
@@ -605,7 +605,7 @@
       }
     },
     "bundesliga": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Bundesliga",
       "total_injured": 35,
@@ -893,11 +893,11 @@
       }
     },
     "seriea": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Serie A",
-      "total_injured": 25,
-      "teams_affected": 14,
+      "total_injured": 23,
+      "teams_affected": 13,
       "teams": {
         "AS Roma": [
           {
@@ -908,23 +908,7 @@
             "status": "out"
           }
         ],
-        "Frosinone Calcio": [
-          {
-            "player": "Sergio Kalaj",
-            "position": "Centre-Back",
-            "injury": "unknown injury",
-            "since": "",
-            "status": "out"
-          }
-        ],
         "US Sassuolo": [
-          {
-            "player": "Edoardo Pieragnolo",
-            "position": "Left-Back",
-            "injury": "Cruciate ligament injury",
-            "since": "",
-            "status": "out"
-          },
           {
             "player": "Fali Cand\u00e9",
             "position": "Centre-Back",
@@ -936,6 +920,13 @@
             "player": "Daniel Boloca",
             "position": "Defensive Midfield",
             "injury": "Unknown",
+            "since": "",
+            "status": "out"
+          },
+          {
+            "player": "Edoardo Pieragnolo",
+            "position": "Left-Back",
+            "injury": "Cruciate ligament injury",
             "since": "",
             "status": "out"
           },
@@ -975,13 +966,6 @@
             "player": "Federico Ravaglia",
             "position": "Goalkeeper",
             "injury": "Unknown",
-            "since": "",
-            "status": "out"
-          },
-          {
-            "player": "Emil Holm",
-            "position": "Right-Back",
-            "injury": "Muscle injury",
             "since": "",
             "status": "out"
           }
@@ -1105,7 +1089,7 @@
       }
     },
     "ligue1": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Ligue 1",
       "total_injured": 38,
@@ -1410,7 +1394,7 @@
       }
     },
     "portugal": {
-      "generated": "2026-07-14",
+      "generated": "2026-07-15",
       "source": "transfermarkt.com",
       "league": "Primeira Liga",
       "total_injured": 11,

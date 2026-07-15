@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-07-14",
-  "generated_at": "2026-07-14T20:12:44Z",
+  "generated": "2026-07-15",
+  "generated_at": "2026-07-15T09:12:46Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14019,11 +14019,11 @@
    "referees": [],
    "total": 0
   },
-  "ligue1": {
+  "seriea": {
    "referees": [],
    "total": 0
   },
-  "seriea": {
+  "ligue1": {
    "referees": [],
    "total": 0
   },
@@ -14907,23 +14907,7 @@
      "status": "out"
     }
    ],
-   "Frosinone Calcio": [
-    {
-     "player": "Sergio Kalaj",
-     "position": "Centre-Back",
-     "injury": "unknown injury",
-     "since": "",
-     "status": "out"
-    }
-   ],
    "US Sassuolo": [
-    {
-     "player": "Edoardo Pieragnolo",
-     "position": "Left-Back",
-     "injury": "Cruciate ligament injury",
-     "since": "",
-     "status": "out"
-    },
     {
      "player": "Fali Cand\u00e9",
      "position": "Centre-Back",
@@ -14935,6 +14919,13 @@
      "player": "Daniel Boloca",
      "position": "Defensive Midfield",
      "injury": "Unknown",
+     "since": "",
+     "status": "out"
+    },
+    {
+     "player": "Edoardo Pieragnolo",
+     "position": "Left-Back",
+     "injury": "Cruciate ligament injury",
      "since": "",
      "status": "out"
     },
@@ -14974,13 +14965,6 @@
      "player": "Federico Ravaglia",
      "position": "Goalkeeper",
      "injury": "Unknown",
-     "since": "",
-     "status": "out"
-    },
-    {
-     "player": "Emil Holm",
-     "position": "Right-Back",
-     "injury": "Muscle injury",
      "since": "",
      "status": "out"
     }
@@ -17145,17 +17129,10 @@
      "injury": "Unknown",
      "since": "",
      "status": "out"
-    },
-    {
-     "player": "Emil Holm",
-     "position": "Right-Back",
-     "injury": "Muscle injury",
-     "since": "",
-     "status": "out"
     }
    ],
    "home_injury_count": 2,
-   "away_injury_count": 2,
+   "away_injury_count": 1,
    "confirmed": false,
    "type": "probable",
    "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
