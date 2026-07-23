@@ -2,7 +2,7 @@
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
   "generated": "2026-07-23",
-  "generated_at": "2026-07-23T09:26:33Z",
+  "generated_at": "2026-07-23T20:14:14Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14003,11 +14003,11 @@
   }
  ],
  "referees": {
-  "laliga": {
+  "segunda": {
    "referees": [],
    "total": 0
   },
-  "segunda": {
+  "laliga": {
    "referees": [],
    "total": 0
   },
@@ -14019,19 +14019,19 @@
    "referees": [],
    "total": 0
   },
-  "seriea": {
-   "referees": [],
-   "total": 0
-  },
   "ligue1": {
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "seriea": {
    "referees": [],
    "total": 0
   },
   "portugal": {
+   "referees": [],
+   "total": 0
+  },
+  "champions": {
    "referees": [],
    "total": 0
   }
