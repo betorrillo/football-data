@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-07-24T20:18:45Z",
+  "server_time_utc": "2026-07-25T09:02:09Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-07-24.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-24.json",
-  "total_data_files": 687,
+  "analysis_pack": "analysis_pack_2026-07-25.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-25.json",
+  "total_data_files": 691,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-07",
-    "total_matches": 46
+    "to": "2026-08-08",
+    "total_matches": 49
   },
   "matches_summary": [
     {
@@ -588,6 +588,45 @@
       "away": "Famalic\u00e3o",
       "date": "2026-08-07",
       "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-08_maritimo-vs-casa-pia",
+      "competition": "portugal",
+      "home": "Mar\u00edtimo",
+      "away": "Casa Pia",
+      "date": "2026-08-08",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-08_vitoria-sc-vs-arouca",
+      "competition": "portugal",
+      "home": "Vit\u00f3ria SC",
+      "away": "Arouca",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-08_amadora-vs-sporting-cp",
+      "competition": "portugal",
+      "home": "Amadora",
+      "away": "Sporting CP",
+      "date": "2026-08-08",
+      "time": "19:30",
       "missing": [
         "xg",
         "referee",
