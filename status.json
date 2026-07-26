@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-07-25T20:13:32Z",
+  "server_time_utc": "2026-07-26T09:14:26Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-07-25.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-25.json",
-  "total_data_files": 692,
+  "analysis_pack": "analysis_pack_2026-07-26.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-26.json",
+  "total_data_files": 696,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-08",
-    "total_matches": 49
+    "to": "2026-08-09",
+    "total_matches": 53
   },
   "matches_summary": [
     {
@@ -626,6 +626,58 @@
       "home": "Amadora",
       "away": "Sporting CP",
       "date": "2026-08-08",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-09_porto-vs-alverca",
+      "competition": "portugal",
+      "home": "Porto",
+      "away": "Alverca",
+      "date": "2026-08-09",
+      "time": "17:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-09_moreirense-vs-braga",
+      "competition": "portugal",
+      "home": "Moreirense",
+      "away": "Braga",
+      "date": "2026-08-09",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-09_gil-vicente-vs-rio-ave",
+      "competition": "portugal",
+      "home": "Gil Vicente",
+      "away": "Rio Ave",
+      "date": "2026-08-09",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-09_sl-benfica-vs-acad-viseu",
+      "competition": "portugal",
+      "home": "SL Benfica",
+      "away": "Acad. Viseu",
+      "date": "2026-08-09",
       "time": "19:30",
       "missing": [
         "xg",
