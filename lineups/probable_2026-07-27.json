@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-26",
+  "generated": "2026-07-27",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
-  "total_matches": 53,
+  "total_matches": 54,
   "matches": [
     {
       "home": "Elche",
@@ -1656,6 +1656,35 @@
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
       "date": "2026-08-09",
       "time": "19:30",
+      "competition": "portugal"
+    },
+    {
+      "home": "Santa Clara",
+      "away": "CD Nacional",
+      "home_profile": {
+        "total_matches": 34,
+        "last5_goals_scored": 6,
+        "last5_goals_conceded": 4,
+        "last5_results": "DWDWL",
+        "last5_avg_shots": 10.8,
+        "last5_avg_sot": 2.2,
+        "last5_avg_corners": 5.0,
+        "last5_avg_yellows": 2.0,
+        "last10_goals_scored": 12,
+        "last10_goals_conceded": 10,
+        "trajectory": "stable",
+        "scoring_consistency": "consistent"
+      },
+      "away_profile": null,
+      "home_injuries": [],
+      "away_injuries": [],
+      "home_injury_count": 0,
+      "away_injury_count": 0,
+      "confirmed": false,
+      "type": "probable",
+      "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
+      "date": "2026-08-10",
+      "time": "19:15",
       "competition": "portugal"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-07-26T20:11:34Z",
+  "server_time_utc": "2026-07-27T10:40:39Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-07-26.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-26.json",
-  "total_data_files": 697,
+  "analysis_pack": "analysis_pack_2026-07-27.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-27.json",
+  "total_data_files": 701,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-09",
-    "total_matches": 53
+    "to": "2026-08-10",
+    "total_matches": 54
   },
   "matches_summary": [
     {
@@ -679,6 +679,19 @@
       "away": "Acad. Viseu",
       "date": "2026-08-09",
       "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-10_santa-clara-vs-cd-nacional",
+      "competition": "portugal",
+      "home": "Santa Clara",
+      "away": "CD Nacional",
+      "date": "2026-08-10",
+      "time": "19:15",
       "missing": [
         "xg",
         "referee",

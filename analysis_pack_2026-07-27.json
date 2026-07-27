@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26",
-  "generated_at": "2026-07-26T20:11:33Z",
+  "generated": "2026-07-27",
+  "generated_at": "2026-07-27T10:40:39Z",
   "version": "1.0",
   "description": "Pre-computed analysis data for upcoming fixtures. Agent reads this ONE file instead of 10+.",
-  "total_matches": 53,
+  "total_matches": 54,
   "matches": [
     {
       "match_id": "epl_2026-05-09_liverpool-vs-chelsea",
@@ -16030,6 +16030,285 @@
       "data_available": {
         "season_stats": true,
         "form": false,
+        "h2h": false,
+        "xg": false,
+        "referee": false,
+        "injuries": false,
+        "lineup": false
+      },
+      "missing_for_analysis": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-10_santa-clara-vs-cd-nacional",
+      "competition": "portugal",
+      "league_name": "Primeira Liga",
+      "home": "Santa Clara",
+      "away": "CD Nacional",
+      "date": "2026-08-10",
+      "time": "19:15",
+      "matchday": "",
+      "home_season": {
+        "mp": 34,
+        "record": "9W-9D-16L",
+        "pts": 36,
+        "gf": 32,
+        "ga": 41,
+        "avg": {
+          "gf": 0.94,
+          "ga": 1.21,
+          "corners_for": 4.62,
+          "corners_against": 4.38,
+          "total_corners": 9.0,
+          "shots": 11.76,
+          "shots_against": 9.76,
+          "shots_target": 3.24,
+          "shots_target_against": 3.56,
+          "fouls": 14.85,
+          "fouls_against": 14.68,
+          "yellows": 2.79,
+          "opponent_yellows": 2.85,
+          "total_match_cards": 5.65
+        },
+        "avg_home": {
+          "gf": 1.0,
+          "ga": 1.0,
+          "corners_for": 4.53,
+          "corners_against": 4.24,
+          "over_25_pct": 35.3
+        },
+        "pct": {
+          "over_15": 55.9,
+          "over_25": 35.3,
+          "over_35": 14.7,
+          "btts": 41.2,
+          "clean_sheet": 29.4,
+          "failed_to_score": 38.2
+        },
+        "avg_ht": {
+          "gf_1h": 0.38,
+          "ga_1h": 0.62,
+          "gf_2h": 0.56,
+          "ga_2h": 0.59,
+          "total_1h": 1.0,
+          "total_2h": 1.15
+        },
+        "pct_ht": {
+          "over_05_1h": 55.9,
+          "over_15_1h": 32.4,
+          "over_05_2h": 73.5,
+          "over_15_2h": 32.4,
+          "btts_1h": 20.6,
+          "btts_2h": 20.6
+        }
+      },
+      "away_season": {
+        "mp": 34,
+        "record": "9W-7D-18L",
+        "pts": 34,
+        "gf": 37,
+        "ga": 45,
+        "avg": {
+          "gf": 1.09,
+          "ga": 1.32,
+          "corners_for": 4.38,
+          "corners_against": 6.38,
+          "total_corners": 10.76,
+          "shots": 12.65,
+          "shots_against": 14.56,
+          "shots_target": 4.21,
+          "shots_target_against": 4.47,
+          "fouls": 14.91,
+          "fouls_against": 12.29,
+          "yellows": 2.97,
+          "opponent_yellows": 2.38,
+          "total_match_cards": 5.35
+        },
+        "avg_away": {
+          "gf": 0.82,
+          "ga": 1.29,
+          "corners_for": 4.0,
+          "corners_against": 5.88,
+          "over_25_pct": 29.4
+        },
+        "pct": {
+          "over_15": 73.5,
+          "over_25": 41.2,
+          "over_35": 17.6,
+          "btts": 47.1,
+          "clean_sheet": 23.5,
+          "failed_to_score": 32.4
+        },
+        "avg_ht": {
+          "gf_1h": 0.44,
+          "ga_1h": 0.53,
+          "gf_2h": 0.65,
+          "ga_2h": 0.79,
+          "total_1h": 0.97,
+          "total_2h": 1.44
+        },
+        "pct_ht": {
+          "over_05_1h": 64.7,
+          "over_15_1h": 26.5,
+          "over_05_2h": 73.5,
+          "over_15_2h": 38.2,
+          "btts_1h": 11.8,
+          "btts_2h": 23.5
+        }
+      },
+      "home_form_last5": [
+        {
+          "date": "18/04/2026",
+          "venue": "A",
+          "opponent": "Casa Pia",
+          "gf": 0,
+          "ga": 0,
+          "result": "D",
+          "corners": 10,
+          "team_corners": 6,
+          "team_yellows": 2,
+          "total_yellows": 5,
+          "team_shots": 5,
+          "team_sot": 2
+        },
+        {
+          "date": "26/04/2026",
+          "venue": "H",
+          "opponent": "Sp Braga",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 5,
+          "team_corners": 4,
+          "team_yellows": 4,
+          "total_yellows": 8,
+          "team_shots": 14,
+          "team_sot": 3
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "A",
+          "opponent": "Arouca",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 11,
+          "team_corners": 6,
+          "team_yellows": 3,
+          "total_yellows": 6,
+          "team_shots": 12,
+          "team_sot": 4
+        },
+        {
+          "date": "11/05/2026",
+          "venue": "H",
+          "opponent": "Nacional",
+          "gf": 2,
+          "ga": 0,
+          "result": "W",
+          "corners": 10,
+          "team_corners": 4,
+          "team_yellows": 1,
+          "total_yellows": 3,
+          "team_shots": 12,
+          "team_sot": 2
+        },
+        {
+          "date": "16/05/2026",
+          "venue": "A",
+          "opponent": "Porto",
+          "gf": 0,
+          "ga": 1,
+          "result": "L",
+          "corners": 13,
+          "team_corners": 5,
+          "team_yellows": 0,
+          "total_yellows": 0,
+          "team_shots": 11,
+          "team_sot": 0
+        }
+      ],
+      "away_form_last5": [
+        {
+          "date": "18/04/2026",
+          "venue": "H",
+          "opponent": "Alverca",
+          "gf": 1,
+          "ga": 0,
+          "result": "W",
+          "corners": 12,
+          "team_corners": 4,
+          "team_yellows": 2,
+          "total_yellows": 3,
+          "team_shots": 10,
+          "team_sot": 6
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "A",
+          "opponent": "Tondela",
+          "gf": 2,
+          "ga": 0,
+          "result": "W",
+          "corners": 15,
+          "team_corners": 7,
+          "team_yellows": 1,
+          "total_yellows": 3,
+          "team_shots": 17,
+          "team_sot": 6
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "H",
+          "opponent": "AVS",
+          "gf": 1,
+          "ga": 2,
+          "result": "L",
+          "corners": 14,
+          "team_corners": 8,
+          "team_yellows": 4,
+          "total_yellows": 6,
+          "team_shots": 24,
+          "team_sot": 6
+        },
+        {
+          "date": "11/05/2026",
+          "venue": "A",
+          "opponent": "Santa Clara",
+          "gf": 0,
+          "ga": 2,
+          "result": "L",
+          "corners": 10,
+          "team_corners": 6,
+          "team_yellows": 2,
+          "total_yellows": 3,
+          "team_shots": 12,
+          "team_sot": 1
+        },
+        {
+          "date": "16/05/2026",
+          "venue": "H",
+          "opponent": "Guimaraes",
+          "gf": 2,
+          "ga": 0,
+          "result": "W",
+          "corners": 8,
+          "team_corners": 2,
+          "team_yellows": 4,
+          "total_yellows": 7,
+          "team_shots": 5,
+          "team_sot": 3
+        }
+      ],
+      "h2h": [],
+      "home_xg": null,
+      "away_xg": null,
+      "data_available": {
+        "season_stats": true,
+        "form": true,
         "h2h": false,
         "xg": false,
         "referee": false,
