@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-07-30T20:17:23Z",
+  "server_time_utc": "2026-07-31T09:43:20Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-07-30.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-30.json",
-  "total_data_files": 717,
+  "analysis_pack": "analysis_pack_2026-07-31.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-07-31.json",
+  "total_data_files": 721,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-10",
-    "total_matches": 54
+    "to": "2026-08-14",
+    "total_matches": 55
   },
   "matches_summary": [
     {
@@ -691,6 +691,19 @@
       "home": "Santa Clara",
       "away": "CD Nacional",
       "date": "2026-08-10",
+      "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-14_sporting-cp-vs-vitoria-sc",
+      "competition": "portugal",
+      "home": "Sporting CP",
+      "away": "Vit\u00f3ria SC",
+      "date": "2026-08-14",
       "time": "19:15",
       "missing": [
         "xg",
