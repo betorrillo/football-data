@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-01T20:13:27Z",
+  "server_time_utc": "2026-08-02T09:12:00Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-01.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-01.json",
-  "total_data_files": 727,
+  "analysis_pack": "analysis_pack_2026-08-02.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-02.json",
+  "total_data_files": 731,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-15",
-    "total_matches": 58
+    "to": "2026-08-16",
+    "total_matches": 62
   },
   "matches_summary": [
     {
@@ -743,6 +743,58 @@
       "home": "Rio Ave",
       "away": "Porto",
       "date": "2026-08-15",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-16_famalic-o-vs-maritimo",
+      "competition": "portugal",
+      "home": "Famalic\u00e3o",
+      "away": "Mar\u00edtimo",
+      "date": "2026-08-16",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-16_cd-nacional-vs-estoril-praia",
+      "competition": "portugal",
+      "home": "CD Nacional",
+      "away": "Estoril Praia",
+      "date": "2026-08-16",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-16_casa-pia-vs-sl-benfica",
+      "competition": "portugal",
+      "home": "Casa Pia",
+      "away": "SL Benfica",
+      "date": "2026-08-16",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-16_braga-vs-gil-vicente",
+      "competition": "portugal",
+      "home": "Braga",
+      "away": "Gil Vicente",
+      "date": "2026-08-16",
       "time": "19:30",
       "missing": [
         "xg",
