@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-02T20:12:45Z",
+  "server_time_utc": "2026-08-03T10:40:34Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-02.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-02.json",
-  "total_data_files": 732,
+  "analysis_pack": "analysis_pack_2026-08-03.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-03.json",
+  "total_data_files": 736,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-16",
-    "total_matches": 62
+    "to": "2026-08-17",
+    "total_matches": 63
   },
   "matches_summary": [
     {
@@ -796,6 +796,19 @@
       "away": "Gil Vicente",
       "date": "2026-08-16",
       "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-17_arouca-vs-moreirense",
+      "competition": "portugal",
+      "home": "Arouca",
+      "away": "Moreirense",
+      "date": "2026-08-17",
+      "time": "19:15",
       "missing": [
         "xg",
         "referee",
