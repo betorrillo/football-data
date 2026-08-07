@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-07",
-  "total_fixtures": 29,
+  "total_fixtures": 28,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
@@ -202,23 +202,6 @@
     "PPL": {
       "competition": "Primeira Liga",
       "fixtures": [
-        {
-          "date": "2026-08-07",
-          "time": "19:15",
-          "home": "Estoril Praia",
-          "away": "Famalicão",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 4.67,
-            "blended_cards_prediction": 4.67,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.0,
-          "home_goals_2h_avg": 1.0,
-          "away_goals_1h_avg": 0.0,
-          "away_goals_2h_avg": 1.0
-        },
         {
           "date": "2026-08-08",
           "time": "14:30",
@@ -461,7 +444,7 @@
           "away_goals_2h_avg": 0.33
         }
       ],
-      "total": 18
+      "total": 17
     },
     "EL": {
       "competition": "Europa League",
