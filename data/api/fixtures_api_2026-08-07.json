@@ -162,8 +162,207 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-07 to 2026-08-21",
-    "count": 0,
-    "fixtures": []
+    "count": 18,
+    "fixtures": [
+      {
+        "id": 567264,
+        "matchday": 1,
+        "date": "2026-08-07",
+        "time": "19:15",
+        "home_team": "GD Estoril Praia",
+        "home_short": "Estoril Praia",
+        "away_team": "FC Famalicão",
+        "away_short": "Famalicão",
+        "referees": []
+      },
+      {
+        "id": 567263,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "14:30",
+        "home_team": "CS Marítimo",
+        "home_short": "Marítimo",
+        "away_team": "Casa Pia AC",
+        "away_short": "Casa Pia",
+        "referees": []
+      },
+      {
+        "id": 567258,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "17:00",
+        "home_team": "Vitória SC",
+        "home_short": "Vitória SC",
+        "away_team": "FC Arouca",
+        "away_short": "Arouca",
+        "referees": []
+      },
+      {
+        "id": 567260,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "19:30",
+        "home_team": "CF Estrela da Amadora",
+        "home_short": "Amadora",
+        "away_team": "Sporting Clube de Portugal",
+        "away_short": "Sporting CP",
+        "referees": []
+      },
+      {
+        "id": 567265,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "17:00",
+        "home_team": "FC Porto",
+        "home_short": "Porto",
+        "away_team": "FC Alverca",
+        "away_short": "Alverca",
+        "referees": []
+      },
+      {
+        "id": 567259,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "home_team": "Moreirense FC",
+        "home_short": "Moreirense",
+        "away_team": "Sporting Clube de Braga",
+        "away_short": "Braga",
+        "referees": []
+      },
+      {
+        "id": 567261,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "home_team": "Gil Vicente FC",
+        "home_short": "Gil Vicente",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "referees": []
+      },
+      {
+        "id": 567262,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "home_team": "Sport Lisboa e Benfica",
+        "home_short": "SL Benfica",
+        "away_team": "Académico de Viseu FC",
+        "away_short": "Acad. Viseu",
+        "referees": []
+      },
+      {
+        "id": 567257,
+        "matchday": 1,
+        "date": "2026-08-10",
+        "time": "19:15",
+        "home_team": "CD Santa Clara",
+        "home_short": "Santa Clara",
+        "away_team": "CD Nacional",
+        "away_short": "CD Nacional",
+        "referees": []
+      },
+      {
+        "id": 567268,
+        "matchday": 2,
+        "date": "2026-08-14",
+        "time": "19:15",
+        "home_team": "Sporting Clube de Portugal",
+        "home_short": "Sporting CP",
+        "away_team": "Vitória SC",
+        "away_short": "Vitória SC",
+        "referees": []
+      },
+      {
+        "id": 567266,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "14:30",
+        "home_team": "FC Alverca",
+        "home_short": "Alverca",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "referees": []
+      },
+      {
+        "id": 567273,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "17:00",
+        "home_team": "Académico de Viseu FC",
+        "home_short": "Acad. Viseu",
+        "away_team": "CD Santa Clara",
+        "away_short": "Santa Clara",
+        "referees": []
+      },
+      {
+        "id": 567274,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "19:30",
+        "home_team": "Rio Ave FC",
+        "home_short": "Rio Ave",
+        "away_team": "FC Porto",
+        "away_short": "Porto",
+        "referees": []
+      },
+      {
+        "id": 567270,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "14:30",
+        "home_team": "CD Nacional",
+        "home_short": "CD Nacional",
+        "away_team": "GD Estoril Praia",
+        "away_short": "Estoril Praia",
+        "referees": []
+      },
+      {
+        "id": 567272,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "17:00",
+        "home_team": "FC Arouca",
+        "home_short": "Arouca",
+        "away_team": "Moreirense FC",
+        "away_short": "Moreirense",
+        "referees": []
+      },
+      {
+        "id": 567269,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "19:30",
+        "home_team": "FC Famalicão",
+        "home_short": "Famalicão",
+        "away_team": "CS Marítimo",
+        "away_short": "Marítimo",
+        "referees": []
+      },
+      {
+        "id": 567271,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "19:30",
+        "home_team": "Sporting Clube de Braga",
+        "home_short": "Braga",
+        "away_team": "Gil Vicente FC",
+        "away_short": "Gil Vicente",
+        "referees": []
+      },
+      {
+        "id": 567267,
+        "matchday": 2,
+        "date": "2026-08-17",
+        "time": "19:15",
+        "home_team": "Casa Pia AC",
+        "home_short": "Casa Pia",
+        "away_team": "Sport Lisboa e Benfica",
+        "away_short": "SL Benfica",
+        "referees": []
+      }
+    ]
   },
   "EL": {
     "competition": "Europa League",
