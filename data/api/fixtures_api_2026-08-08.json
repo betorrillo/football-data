@@ -350,30 +350,8 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-08 to 2026-08-22",
-    "count": 20,
+    "count": 18,
     "fixtures": [
-      {
-        "id": 567263,
-        "matchday": 1,
-        "date": "2026-08-08",
-        "time": "14:30",
-        "home_team": "CS Marítimo",
-        "home_short": "Marítimo",
-        "away_team": "Casa Pia AC",
-        "away_short": "Casa Pia",
-        "referees": []
-      },
-      {
-        "id": 567258,
-        "matchday": 1,
-        "date": "2026-08-08",
-        "time": "17:00",
-        "home_team": "Vitória SC",
-        "home_short": "Vitória SC",
-        "away_team": "FC Arouca",
-        "away_short": "Arouca",
-        "referees": []
-      },
       {
         "id": 567260,
         "matchday": 1,
@@ -383,7 +361,12 @@
         "home_short": "Amadora",
         "away_team": "Sporting Clube de Portugal",
         "away_short": "Sporting CP",
-        "referees": []
+        "referees": [
+          {
+            "name": "João Gonçalves",
+            "nationality": "Portugal"
+          }
+        ]
       },
       {
         "id": 567265,

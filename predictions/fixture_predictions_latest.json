@@ -1,7 +1,7 @@
 {
   "generated": "2026-08-08",
-  "total_fixtures": 48,
-  "fixtures_with_referee": 0,
+  "total_fixtures": 46,
+  "fixtures_with_referee": 1,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
@@ -454,36 +454,11 @@
       "fixtures": [
         {
           "date": "2026-08-08",
-          "time": "14:30",
-          "home": "Marítimo",
-          "away": "Casa Pia",
-          "matchday": 1,
-          "away_goals_1h_avg": 0.33,
-          "away_goals_2h_avg": 0.33
-        },
-        {
-          "date": "2026-08-08",
-          "time": "17:00",
-          "home": "Vitória SC",
-          "away": "Arouca",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 4.17,
-            "blended_cards_prediction": 4.17,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.0,
-          "home_goals_2h_avg": 0.33,
-          "away_goals_1h_avg": 0.67,
-          "away_goals_2h_avg": 2.0
-        },
-        {
-          "date": "2026-08-08",
           "time": "19:30",
           "home": "Amadora",
           "away": "Sporting CP",
           "matchday": 1,
+          "referee": "João Gonçalves",
           "home_goals_1h_avg": 0.33,
           "home_goals_2h_avg": 0.33
         },
@@ -727,7 +702,7 @@
           "away_goals_2h_avg": 0.0
         }
       ],
-      "total": 20
+      "total": 18
     },
     "EL": {
       "competition": "Europa League",
