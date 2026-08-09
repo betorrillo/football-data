@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-08T19:30:06Z",
+  "server_time_utc": "2026-08-09T07:53:06Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-08.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-08.json",
-  "total_data_files": 762,
+  "analysis_pack": "analysis_pack_2026-08-09.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-09.json",
+  "total_data_files": 766,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-22",
-    "total_matches": 63
+    "to": "2026-08-23",
+    "total_matches": 65
   },
   "matches_summary": [
     {
@@ -582,19 +582,6 @@
       ]
     },
     {
-      "match_id": "portugal_2026-08-08_amadora-vs-sporting-cp",
-      "competition": "portugal",
-      "home": "Amadora",
-      "away": "Sporting CP",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
       "match_id": "portugal_2026-08-09_porto-vs-alverca",
       "competition": "portugal",
       "home": "Porto",
@@ -808,6 +795,45 @@
       "home": "Sporting CP",
       "away": "Alverca",
       "date": "2026-08-22",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-23_vitoria-sc-vs-cd-nacional",
+      "competition": "portugal",
+      "home": "Vit\u00f3ria SC",
+      "away": "CD Nacional",
+      "date": "2026-08-23",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-23_santa-clara-vs-famalic-o",
+      "competition": "portugal",
+      "home": "Santa Clara",
+      "away": "Famalic\u00e3o",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-23_porto-vs-arouca",
+      "competition": "portugal",
+      "home": "Porto",
+      "away": "Arouca",
+      "date": "2026-08-23",
       "time": "19:30",
       "missing": [
         "xg",
