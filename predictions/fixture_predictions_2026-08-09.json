@@ -1,7 +1,7 @@
 {
   "generated": "2026-08-09",
-  "total_fixtures": 61,
-  "fixtures_with_referee": 0,
+  "total_fixtures": 60,
+  "fixtures_with_referee": 3,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
@@ -643,27 +643,11 @@
       "fixtures": [
         {
           "date": "2026-08-09",
-          "time": "17:00",
-          "home": "Porto",
-          "away": "Alverca",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 3.67,
-            "blended_cards_prediction": 3.67,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.33,
-          "home_goals_2h_avg": 0.67,
-          "away_goals_1h_avg": 0.33,
-          "away_goals_2h_avg": 0.0
-        },
-        {
-          "date": "2026-08-09",
           "time": "19:30",
           "home": "Moreirense",
           "away": "Braga",
           "matchday": 1,
+          "referee": "José Bessa",
           "cards_analysis": {
             "team_cards_avg": 5.83,
             "blended_cards_prediction": 5.83,
@@ -681,6 +665,7 @@
           "home": "Gil Vicente",
           "away": "Rio Ave",
           "matchday": 1,
+          "referee": "Gustavo Correia",
           "cards_analysis": {
             "team_cards_avg": 3.0,
             "blended_cards_prediction": 3.0,
@@ -698,6 +683,7 @@
           "home": "SL Benfica",
           "away": "Acad. Viseu",
           "matchday": 1,
+          "referee": "David Silva",
           "home_goals_1h_avg": 1.33,
           "home_goals_2h_avg": 0.33
         },
@@ -932,7 +918,7 @@
           "away_goals_2h_avg": 2.0
         }
       ],
-      "total": 20
+      "total": 19
     },
     "EL": {
       "competition": "Europa League",

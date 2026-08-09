@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-09T07:53:06Z",
+  "server_time_utc": "2026-08-09T19:32:38Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-09.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-09.json",
-  "total_data_files": 766,
+  "total_data_files": 767,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-08-23",
-    "total_matches": 65
+    "total_matches": 64
   },
   "matches_summary": [
     {
@@ -577,19 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-09_porto-vs-alverca",
-      "competition": "portugal",
-      "home": "Porto",
-      "away": "Alverca",
-      "date": "2026-08-09",
-      "time": "17:00",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]

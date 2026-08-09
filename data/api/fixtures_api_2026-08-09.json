@@ -493,19 +493,8 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-09 to 2026-08-23",
-    "count": 20,
+    "count": 19,
     "fixtures": [
-      {
-        "id": 567265,
-        "matchday": 1,
-        "date": "2026-08-09",
-        "time": "17:00",
-        "home_team": "FC Porto",
-        "home_short": "Porto",
-        "away_team": "FC Alverca",
-        "away_short": "Alverca",
-        "referees": []
-      },
       {
         "id": 567259,
         "matchday": 1,
@@ -515,7 +504,12 @@
         "home_short": "Moreirense",
         "away_team": "Sporting Clube de Braga",
         "away_short": "Braga",
-        "referees": []
+        "referees": [
+          {
+            "name": "José Bessa",
+            "nationality": "Portugal"
+          }
+        ]
       },
       {
         "id": 567261,
@@ -526,7 +520,12 @@
         "home_short": "Gil Vicente",
         "away_team": "Rio Ave FC",
         "away_short": "Rio Ave",
-        "referees": []
+        "referees": [
+          {
+            "name": "Gustavo Correia",
+            "nationality": "Portugal"
+          }
+        ]
       },
       {
         "id": 567262,
@@ -537,7 +536,12 @@
         "home_short": "SL Benfica",
         "away_team": "Académico de Viseu FC",
         "away_short": "Acad. Viseu",
-        "referees": []
+        "referees": [
+          {
+            "name": "David Silva",
+            "nationality": "Portugal"
+          }
+        ]
       },
       {
         "id": 567257,
