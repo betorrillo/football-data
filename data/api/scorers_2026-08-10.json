@@ -392,8 +392,20 @@
   },
   "PPL": {
     "competition": "Primeira Liga",
-    "count": 19,
+    "count": 21,
     "scorers": [
+      {
+        "name": "Gonçalo Paciência",
+        "nationality": "Portugal",
+        "position": null,
+        "date_of_birth": "1994-08-01",
+        "team": "CD Santa Clara",
+        "team_short": "Santa Clara",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
       {
         "name": "Georgios Koutsias",
         "nationality": "Greece",
@@ -620,6 +632,18 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Liziero",
+        "nationality": "Brazil",
+        "position": null,
+        "date_of_birth": "1998-02-07",
+        "team": "CD Nacional",
+        "team_short": "CD Nacional",
+        "goals": 1,
+        "assists": null,
+        "penalties": 1,
         "played_matches": 1
       }
     ]
