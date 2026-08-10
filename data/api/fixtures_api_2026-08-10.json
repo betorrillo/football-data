@@ -1,0 +1,752 @@
+{
+  "PD": {
+    "competition": "LaLiga",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 17,
+    "fixtures": [
+      {
+        "id": 564634,
+        "matchday": 1,
+        "date": "2026-08-15",
+        "time": "17:30",
+        "home_team": "Deportivo Alavés",
+        "home_short": "Alavés",
+        "away_team": "Getafe CF",
+        "away_short": "Getafe",
+        "referees": []
+      },
+      {
+        "id": 564633,
+        "matchday": 1,
+        "date": "2026-08-15",
+        "time": "19:30",
+        "home_team": "Sevilla FC",
+        "home_short": "Sevilla FC",
+        "away_team": "Rayo Vallecano de Madrid",
+        "away_short": "Rayo Vallecano",
+        "referees": []
+      },
+      {
+        "id": 564629,
+        "matchday": 1,
+        "date": "2026-08-16",
+        "time": "15:00",
+        "home_team": "Real Racing Club de Santander",
+        "home_short": "Santander",
+        "away_team": "Villarreal CF",
+        "away_short": "Villarreal",
+        "referees": []
+      },
+      {
+        "id": 564632,
+        "matchday": 1,
+        "date": "2026-08-16",
+        "time": "17:00",
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_short": "Espanyol",
+        "away_team": "Levante UD",
+        "away_short": "Levante",
+        "referees": []
+      },
+      {
+        "id": 564636,
+        "matchday": 1,
+        "date": "2026-08-16",
+        "time": "19:30",
+        "home_team": "RC Celta de Vigo",
+        "home_short": "Celta",
+        "away_team": "CA Osasuna",
+        "away_short": "Osasuna",
+        "referees": []
+      },
+      {
+        "id": 564635,
+        "matchday": 1,
+        "date": "2026-08-17",
+        "time": "19:00",
+        "home_team": "RC Deportivo La Coruña",
+        "home_short": "Deportivo",
+        "away_team": "Elche CF",
+        "away_short": "Elche",
+        "referees": []
+      },
+      {
+        "id": 564628,
+        "matchday": 1,
+        "date": "2026-08-19",
+        "time": "19:00",
+        "home_team": "Club Atlético de Madrid",
+        "home_short": "Atleti",
+        "away_team": "Málaga CF",
+        "away_short": "Málaga",
+        "referees": []
+      },
+      {
+        "id": 564638,
+        "matchday": 2,
+        "date": "2026-08-20",
+        "time": "19:00",
+        "home_team": "Rayo Vallecano de Madrid",
+        "home_short": "Rayo Vallecano",
+        "away_team": "Deportivo Alavés",
+        "away_short": "Alavés",
+        "referees": []
+      },
+      {
+        "id": 564647,
+        "matchday": 2,
+        "date": "2026-08-21",
+        "time": "19:00",
+        "home_team": "Real Betis Balompié",
+        "home_short": "Real Betis",
+        "away_team": "Real Sociedad de Fútbol",
+        "away_short": "Real Sociedad",
+        "referees": []
+      },
+      {
+        "id": 564641,
+        "matchday": 2,
+        "date": "2026-08-22",
+        "time": "15:00",
+        "home_team": "Athletic Club",
+        "home_short": "Athletic",
+        "away_team": "Sevilla FC",
+        "away_short": "Sevilla FC",
+        "referees": []
+      },
+      {
+        "id": 564643,
+        "matchday": 2,
+        "date": "2026-08-22",
+        "time": "17:30",
+        "home_team": "Valencia CF",
+        "home_short": "Valencia",
+        "away_team": "RC Celta de Vigo",
+        "away_short": "Celta",
+        "referees": []
+      },
+      {
+        "id": 564645,
+        "matchday": 2,
+        "date": "2026-08-22",
+        "time": "19:30",
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_short": "Espanyol",
+        "away_team": "Real Madrid CF",
+        "away_short": "Real Madrid",
+        "referees": []
+      },
+      {
+        "id": 564646,
+        "matchday": 2,
+        "date": "2026-08-23",
+        "time": "15:00",
+        "home_team": "Club Atlético de Madrid",
+        "home_short": "Atleti",
+        "away_team": "Villarreal CF",
+        "away_short": "Villarreal",
+        "referees": []
+      },
+      {
+        "id": 564644,
+        "matchday": 2,
+        "date": "2026-08-23",
+        "time": "17:30",
+        "home_team": "Getafe CF",
+        "home_short": "Getafe",
+        "away_team": "Real Racing Club de Santander",
+        "away_short": "Santander",
+        "referees": []
+      },
+      {
+        "id": 564642,
+        "matchday": 2,
+        "date": "2026-08-23",
+        "time": "19:30",
+        "home_team": "Elche CF",
+        "home_short": "Elche",
+        "away_team": "FC Barcelona",
+        "away_short": "Barça",
+        "referees": []
+      },
+      {
+        "id": 564639,
+        "matchday": 2,
+        "date": "2026-08-24",
+        "time": "17:30",
+        "home_team": "CA Osasuna",
+        "home_short": "Osasuna",
+        "away_team": "Levante UD",
+        "away_short": "Levante",
+        "referees": []
+      },
+      {
+        "id": 564640,
+        "matchday": 2,
+        "date": "2026-08-24",
+        "time": "19:30",
+        "home_team": "Málaga CF",
+        "home_short": "Málaga",
+        "away_team": "RC Deportivo La Coruña",
+        "away_short": "Deportivo",
+        "referees": []
+      }
+    ]
+  },
+  "PL": {
+    "competition": "Premier League",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 10,
+    "fixtures": [
+      {
+        "id": 560542,
+        "matchday": 1,
+        "date": "2026-08-21",
+        "time": "19:00",
+        "home_team": "Arsenal FC",
+        "home_short": "Arsenal",
+        "away_team": "Coventry City FC",
+        "away_short": "Coventry City",
+        "referees": []
+      },
+      {
+        "id": 560543,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "11:30",
+        "home_team": "Hull City AFC",
+        "home_short": "Hull City",
+        "away_team": "Manchester United FC",
+        "away_short": "Man United",
+        "referees": []
+      },
+      {
+        "id": 560544,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "home_team": "Ipswich Town FC",
+        "home_short": "Ipswich Town",
+        "away_team": "Sunderland AFC",
+        "away_short": "Sunderland",
+        "referees": []
+      },
+      {
+        "id": 560545,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "home_team": "Nottingham Forest FC",
+        "home_short": "Nottingham",
+        "away_team": "Leeds United FC",
+        "away_short": "Leeds United",
+        "referees": []
+      },
+      {
+        "id": 560546,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "home_team": "Everton FC",
+        "home_short": "Everton",
+        "away_team": "Crystal Palace FC",
+        "away_short": "Crystal Palace",
+        "referees": []
+      },
+      {
+        "id": 560547,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "home_team": "Brentford FC",
+        "home_short": "Brentford",
+        "away_team": "Tottenham Hotspur FC",
+        "away_short": "Tottenham",
+        "referees": []
+      },
+      {
+        "id": 560548,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "13:00",
+        "home_team": "Manchester City FC",
+        "home_short": "Man City",
+        "away_team": "AFC Bournemouth",
+        "away_short": "Bournemouth",
+        "referees": []
+      },
+      {
+        "id": 560549,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "13:00",
+        "home_team": "Brighton & Hove Albion FC",
+        "home_short": "Brighton Hove",
+        "away_team": "Aston Villa FC",
+        "away_short": "Aston Villa",
+        "referees": []
+      },
+      {
+        "id": 560550,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "15:30",
+        "home_team": "Newcastle United FC",
+        "home_short": "Newcastle",
+        "away_team": "Liverpool FC",
+        "away_short": "Liverpool",
+        "referees": []
+      },
+      {
+        "id": 560551,
+        "matchday": 1,
+        "date": "2026-08-24",
+        "time": "19:00",
+        "home_team": "Fulham FC",
+        "home_short": "Fulham",
+        "away_team": "Chelsea FC",
+        "away_short": "Chelsea",
+        "referees": []
+      }
+    ]
+  },
+  "BL1": {
+    "competition": "Bundesliga",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 0,
+    "fixtures": []
+  },
+  "SA": {
+    "competition": "Serie A",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 10,
+    "fixtures": [
+      {
+        "id": 558629,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "home_team": "Udinese Calcio",
+        "home_short": "Udinese",
+        "away_team": "Como 1907",
+        "away_short": "Como 1907",
+        "referees": []
+      },
+      {
+        "id": 558632,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "home_team": "FC Internazionale Milano",
+        "home_short": "Inter",
+        "away_team": "AC Monza",
+        "away_short": "Monza",
+        "referees": []
+      },
+      {
+        "id": 558631,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "Genoa CFC",
+        "home_short": "Genoa",
+        "away_team": "SSC Napoli",
+        "away_short": "Napoli",
+        "referees": []
+      },
+      {
+        "id": 558636,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "Parma Calcio 1913",
+        "home_short": "Parma",
+        "away_team": "Cagliari Calcio",
+        "away_short": "Cagliari",
+        "referees": []
+      },
+      {
+        "id": 558635,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "16:30",
+        "home_team": "Frosinone Calcio",
+        "home_short": "Frosinone",
+        "away_team": "Juventus FC",
+        "away_short": "Juventus",
+        "referees": []
+      },
+      {
+        "id": 558637,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "16:30",
+        "home_team": "Venezia FC",
+        "home_short": "Venezia FC",
+        "away_team": "US Lecce",
+        "away_short": "Lecce",
+        "referees": []
+      },
+      {
+        "id": 558633,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "18:45",
+        "home_team": "Atalanta BC",
+        "home_short": "Atalanta",
+        "away_team": "US Sassuolo Calcio",
+        "away_short": "Sassuolo",
+        "referees": []
+      },
+      {
+        "id": 558634,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "18:45",
+        "home_team": "Torino FC",
+        "home_short": "Torino",
+        "away_team": "AC Milan",
+        "away_short": "Milan",
+        "referees": []
+      },
+      {
+        "id": 558630,
+        "matchday": 1,
+        "date": "2026-08-24",
+        "time": "16:30",
+        "home_team": "Bologna FC 1909",
+        "home_short": "Bologna",
+        "away_team": "SS Lazio",
+        "away_short": "Lazio",
+        "referees": []
+      },
+      {
+        "id": 558638,
+        "matchday": 1,
+        "date": "2026-08-24",
+        "time": "18:45",
+        "home_team": "AS Roma",
+        "home_short": "Roma",
+        "away_team": "ACF Fiorentina",
+        "away_short": "Fiorentina",
+        "referees": []
+      }
+    ]
+  },
+  "FL1": {
+    "competition": "Ligue 1",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 9,
+    "fixtures": [
+      {
+        "id": 559715,
+        "matchday": 1,
+        "date": "2026-08-21",
+        "time": "18:45",
+        "home_team": "Olympique de Marseille",
+        "home_short": "Marseille",
+        "away_team": "RC Strasbourg Alsace",
+        "away_short": "Strasbourg",
+        "referees": []
+      },
+      {
+        "id": 559712,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "15:15",
+        "home_team": "Racing Club de Lens",
+        "home_short": "RC Lens",
+        "away_team": "AJ Auxerre",
+        "away_short": "Auxerre",
+        "referees": []
+      },
+      {
+        "id": 559711,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "Le Mans FC",
+        "home_short": "Le Mans",
+        "away_team": "Stade Brestois 29",
+        "away_short": "Brest",
+        "referees": []
+      },
+      {
+        "id": 559714,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "ES Troyes AC",
+        "home_short": "Troyes",
+        "away_team": "Paris FC",
+        "away_short": "Paris FC",
+        "referees": []
+      },
+      {
+        "id": 559716,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "OGC Nice",
+        "home_short": "Nice",
+        "away_team": "FC Lorient",
+        "away_short": "Lorient",
+        "referees": []
+      },
+      {
+        "id": 559718,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "18:45",
+        "home_team": "Toulouse FC",
+        "home_short": "Toulouse",
+        "away_team": "Olympique Lyonnais",
+        "away_short": "Olympique Lyon",
+        "referees": []
+      },
+      {
+        "id": 559717,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "13:00",
+        "home_team": "Angers SCO",
+        "home_short": "Angers SCO",
+        "away_team": "Lille OSC",
+        "away_short": "Lille",
+        "referees": []
+      },
+      {
+        "id": 559719,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "15:15",
+        "home_team": "Le Havre AC",
+        "home_short": "Le Havre",
+        "away_team": "AS Monaco FC",
+        "away_short": "Monaco",
+        "referees": []
+      },
+      {
+        "id": 559713,
+        "matchday": 1,
+        "date": "2026-08-23",
+        "time": "18:45",
+        "home_team": "Paris Saint-Germain FC",
+        "home_short": "PSG",
+        "away_team": "Stade Rennais FC 1901",
+        "away_short": "Stade Rennais",
+        "referees": []
+      }
+    ]
+  },
+  "CL": {
+    "competition": "Champions League",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 0,
+    "fixtures": []
+  },
+  "PPL": {
+    "competition": "Primeira Liga",
+    "date_range": "2026-08-10 to 2026-08-24",
+    "count": 17,
+    "fixtures": [
+      {
+        "id": 567257,
+        "matchday": 1,
+        "date": "2026-08-10",
+        "time": "19:15",
+        "home_team": "CD Santa Clara",
+        "home_short": "Santa Clara",
+        "away_team": "CD Nacional",
+        "away_short": "CD Nacional",
+        "referees": []
+      },
+      {
+        "id": 567268,
+        "matchday": 2,
+        "date": "2026-08-14",
+        "time": "19:15",
+        "home_team": "Sporting Clube de Portugal",
+        "home_short": "Sporting CP",
+        "away_team": "Vitória SC",
+        "away_short": "Vitória SC",
+        "referees": []
+      },
+      {
+        "id": 567266,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "14:30",
+        "home_team": "FC Alverca",
+        "home_short": "Alverca",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "referees": []
+      },
+      {
+        "id": 567273,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "17:00",
+        "home_team": "Académico de Viseu FC",
+        "home_short": "Acad. Viseu",
+        "away_team": "CD Santa Clara",
+        "away_short": "Santa Clara",
+        "referees": []
+      },
+      {
+        "id": 567274,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "19:30",
+        "home_team": "Rio Ave FC",
+        "home_short": "Rio Ave",
+        "away_team": "FC Porto",
+        "away_short": "Porto",
+        "referees": []
+      },
+      {
+        "id": 567270,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "14:30",
+        "home_team": "CD Nacional",
+        "home_short": "CD Nacional",
+        "away_team": "GD Estoril Praia",
+        "away_short": "Estoril Praia",
+        "referees": []
+      },
+      {
+        "id": 567272,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "17:00",
+        "home_team": "FC Arouca",
+        "home_short": "Arouca",
+        "away_team": "Moreirense FC",
+        "away_short": "Moreirense",
+        "referees": []
+      },
+      {
+        "id": 567269,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "19:30",
+        "home_team": "FC Famalicão",
+        "home_short": "Famalicão",
+        "away_team": "CS Marítimo",
+        "away_short": "Marítimo",
+        "referees": []
+      },
+      {
+        "id": 567271,
+        "matchday": 2,
+        "date": "2026-08-16",
+        "time": "19:30",
+        "home_team": "Sporting Clube de Braga",
+        "home_short": "Braga",
+        "away_team": "Gil Vicente FC",
+        "away_short": "Gil Vicente",
+        "referees": []
+      },
+      {
+        "id": 567267,
+        "matchday": 2,
+        "date": "2026-08-17",
+        "time": "19:15",
+        "home_team": "Casa Pia AC",
+        "home_short": "Casa Pia",
+        "away_team": "Sport Lisboa e Benfica",
+        "away_short": "SL Benfica",
+        "referees": []
+      },
+      {
+        "id": 567283,
+        "matchday": 3,
+        "date": "2026-08-22",
+        "time": "14:30",
+        "home_team": "CS Marítimo",
+        "home_short": "Marítimo",
+        "away_team": "Académico de Viseu FC",
+        "away_short": "Acad. Viseu",
+        "referees": []
+      },
+      {
+        "id": 567279,
+        "matchday": 3,
+        "date": "2026-08-22",
+        "time": "17:00",
+        "home_team": "GD Estoril Praia",
+        "home_short": "Estoril Praia",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "referees": []
+      },
+      {
+        "id": 567275,
+        "matchday": 3,
+        "date": "2026-08-22",
+        "time": "19:30",
+        "home_team": "Sporting Clube de Portugal",
+        "home_short": "Sporting CP",
+        "away_team": "FC Alverca",
+        "away_short": "Alverca",
+        "referees": []
+      },
+      {
+        "id": 567278,
+        "matchday": 3,
+        "date": "2026-08-23",
+        "time": "14:30",
+        "home_team": "Vitória SC",
+        "home_short": "Vitória SC",
+        "away_team": "CD Nacional",
+        "away_short": "CD Nacional",
+        "referees": []
+      },
+      {
+        "id": 567281,
+        "matchday": 3,
+        "date": "2026-08-23",
+        "time": "17:00",
+        "home_team": "CD Santa Clara",
+        "home_short": "Santa Clara",
+        "away_team": "FC Famalicão",
+        "away_short": "Famalicão",
+        "referees": []
+      },
+      {
+        "id": 567280,
+        "matchday": 3,
+        "date": "2026-08-23",
+        "time": "19:30",
+        "home_team": "FC Porto",
+        "home_short": "Porto",
+        "away_team": "FC Arouca",
+        "away_short": "Arouca",
+        "referees": []
+      },
+      {
+        "id": 567277,
+        "matchday": 3,
+        "date": "2026-08-24",
+        "time": "19:15",
+        "home_team": "Gil Vicente FC",
+        "home_short": "Gil Vicente",
+        "away_team": "Casa Pia AC",
+        "away_short": "Casa Pia",
+        "referees": []
+      }
+    ]
+  },
+  "EL": {
+    "competition": "Europa League",
+    "count": 0,
+    "fixtures": []
+  },
+  "ECL": {
+    "competition": "Conference League",
+    "count": 0,
+    "fixtures": []
+  }
+}
