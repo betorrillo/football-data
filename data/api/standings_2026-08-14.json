@@ -2041,6 +2041,21 @@
       "TOTAL": [
         {
           "position": 1,
+          "team": "Sporting Clube de Portugal",
+          "team_short": "Sporting CP",
+          "team_tla": "SPO",
+          "played": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goal_diff": 1,
+          "points": 4,
+          "form": null
+        },
+        {
+          "position": 2,
           "team": "FC Porto",
           "team_short": "Porto",
           "team_tla": "FCP",
@@ -2055,7 +2070,7 @@
           "form": null
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "CS Marítimo",
           "team_short": "Marítimo",
           "team_tla": "CSM",
@@ -2070,7 +2085,7 @@
           "form": null
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "FC Arouca",
           "team_short": "Arouca",
           "team_tla": "FCA",
@@ -2085,7 +2100,7 @@
           "form": null
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Gil Vicente FC",
           "team_short": "Gil Vicente",
           "team_tla": "GIL",
@@ -2100,7 +2115,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Académico de Viseu FC",
           "team_short": "Acad. Viseu",
           "team_tla": "ACV",
@@ -2115,7 +2130,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "CD Nacional",
           "team_short": "CD Nacional",
           "team_tla": "CDN",
@@ -2130,7 +2145,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "CD Santa Clara",
           "team_short": "Santa Clara",
           "team_tla": "CD ",
@@ -2145,7 +2160,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "CF Estrela da Amadora",
           "team_short": "Amadora",
           "team_tla": "AMA",
@@ -2160,7 +2175,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Moreirense FC",
           "team_short": "Moreirense",
           "team_tla": "MOR",
@@ -2175,7 +2190,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Sport Lisboa e Benfica",
           "team_short": "SL Benfica",
           "team_tla": "BEN",
@@ -2190,25 +2205,10 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Sporting Clube de Braga",
           "team_short": "Braga",
           "team_tla": "SCB",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goals_for": 2,
-          "goals_against": 2,
-          "goal_diff": 0,
-          "points": 1,
-          "form": null
-        },
-        {
-          "position": 5,
-          "team": "Sporting Clube de Portugal",
-          "team_short": "Sporting CP",
-          "team_tla": "SPO",
           "played": 1,
           "won": 0,
           "draw": 1,
@@ -2280,22 +2280,7 @@
           "form": null
         },
         {
-          "position": 15,
-          "team": "Vitória SC",
-          "team_short": "Vitória SC",
-          "team_tla": "GUI",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 1,
-          "goal_diff": -1,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 18,
+          "position": 17,
           "team": "FC Alverca",
           "team_short": "Alverca",
           "team_tla": "ALV",
@@ -2303,6 +2288,21 @@
           "won": 0,
           "draw": 0,
           "lost": 1,
+          "goals_for": 0,
+          "goals_against": 2,
+          "goal_diff": -2,
+          "points": 0,
+          "form": null
+        },
+        {
+          "position": 17,
+          "team": "Vitória SC",
+          "team_short": "Vitória SC",
+          "team_tla": "GUI",
+          "played": 2,
+          "won": 0,
+          "draw": 0,
+          "lost": 2,
           "goals_for": 0,
           "goals_against": 2,
           "goal_diff": -2,

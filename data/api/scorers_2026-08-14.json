@@ -392,8 +392,20 @@
   },
   "PPL": {
     "competition": "Primeira Liga",
-    "count": 22,
+    "count": 23,
     "scorers": [
+      {
+        "name": "Fotis Ioannidis",
+        "nationality": "Greece",
+        "position": null,
+        "date_of_birth": "2000-01-10",
+        "team": "Sporting Clube de Portugal",
+        "team_short": "Sporting CP",
+        "goals": 2,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 2
+      },
       {
         "name": "Gonçalo Paciência",
         "nationality": "Portugal",
@@ -464,19 +476,7 @@
         "goals": 1,
         "assists": 1,
         "penalties": null,
-        "played_matches": 1
-      },
-      {
-        "name": "Fotis Ioannidis",
-        "nationality": "Greece",
-        "position": null,
-        "date_of_birth": "2000-01-10",
-        "team": "Sporting Clube de Portugal",
-        "team_short": "Sporting CP",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Leandro Antonetti",
@@ -657,6 +657,18 @@
         "assists": null,
         "penalties": null,
         "played_matches": 1
+      },
+      {
+        "name": "Flávio Gonçalves",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "2007-05-30",
+        "team": "Sporting Clube de Portugal",
+        "team_short": "Sporting CP",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
       }
     ]
   }

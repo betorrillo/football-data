@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-14T08:14:29Z",
+  "server_time_utc": "2026-08-14T19:49:04Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-14.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-14.json",
-  "total_data_files": 791,
+  "total_data_files": 792,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-08-28",
-    "total_matches": 62
+    "total_matches": 61
   },
   "matches_summary": [
     {
@@ -577,19 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-14_sporting-cp-vs-vitoria-sc",
-      "competition": "portugal",
-      "home": "Sporting CP",
-      "away": "Vit\u00f3ria SC",
-      "date": "2026-08-14",
-      "time": "19:15",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]
