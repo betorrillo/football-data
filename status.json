@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-13T19:59:00Z",
+  "server_time_utc": "2026-08-14T08:14:29Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-13.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-13.json",
-  "total_data_files": 787,
+  "analysis_pack": "analysis_pack_2026-08-14.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-14.json",
+  "total_data_files": 791,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-08-24",
-    "total_matches": 61
+    "to": "2026-08-28",
+    "total_matches": 62
   },
   "matches_summary": [
     {
@@ -782,6 +782,19 @@
       "home": "Gil Vicente",
       "away": "Casa Pia",
       "date": "2026-08-24",
+      "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-08-28_rio-ave-vs-sporting-cp",
+      "competition": "portugal",
+      "home": "Rio Ave",
+      "away": "Sporting CP",
+      "date": "2026-08-28",
       "time": "19:15",
       "missing": [
         "xg",

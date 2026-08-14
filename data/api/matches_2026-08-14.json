@@ -1,0 +1,271 @@
+{
+  "PD": {
+    "competition": "LaLiga",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "PL": {
+    "competition": "Premier League",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "BL1": {
+    "competition": "Bundesliga",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "SA": {
+    "competition": "Serie A",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "FL1": {
+    "competition": "Ligue 1",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "CL": {
+    "competition": "Champions League",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 0,
+    "matches": []
+  },
+  "PPL": {
+    "competition": "Primeira Liga",
+    "date_range": "2026-08-07 to 2026-08-14",
+    "count": 9,
+    "matches": [
+      {
+        "id": 567264,
+        "matchday": 1,
+        "date": "2026-08-07",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "GD Estoril Praia",
+        "home_short": "Estoril Praia",
+        "home_tla": "EST",
+        "away_team": "FC Famalicão",
+        "away_short": "Famalicão",
+        "away_tla": "FAM",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Rodrigo da Fonseca Silva",
+            "nationality": "Brazil"
+          }
+        ]
+      },
+      {
+        "id": 567263,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "CS Marítimo",
+        "home_short": "Marítimo",
+        "home_tla": "CSM",
+        "away_team": "Casa Pia AC",
+        "away_short": "Casa Pia",
+        "away_tla": "CAS",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Sérgio Guelho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567258,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Vitória SC",
+        "home_short": "Vitória SC",
+        "home_tla": "GUI",
+        "away_team": "FC Arouca",
+        "away_short": "Arouca",
+        "away_tla": "FCA",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Miguel Nogueira",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567260,
+        "matchday": 1,
+        "date": "2026-08-08",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "CF Estrela da Amadora",
+        "home_short": "Amadora",
+        "home_tla": "AMA",
+        "away_team": "Sporting Clube de Portugal",
+        "away_short": "Sporting CP",
+        "away_tla": "SPO",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "João Gonçalves",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567265,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "FC Porto",
+        "home_short": "Porto",
+        "home_tla": "FCP",
+        "away_team": "FC Alverca",
+        "away_short": "Alverca",
+        "away_tla": "ALV",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Luís Godinho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567259,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "Moreirense FC",
+        "home_short": "Moreirense",
+        "home_tla": "MOR",
+        "away_team": "Sporting Clube de Braga",
+        "away_short": "Braga",
+        "away_tla": "SCB",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "José Bessa",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567261,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "Gil Vicente FC",
+        "home_short": "Gil Vicente",
+        "home_tla": "GIL",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "away_tla": "RIO",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Gustavo Correia",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567262,
+        "matchday": 1,
+        "date": "2026-08-09",
+        "time": "19:30",
+        "status": "FINISHED",
+        "home_team": "Sport Lisboa e Benfica",
+        "home_short": "SL Benfica",
+        "home_tla": "BEN",
+        "away_team": "Académico de Viseu FC",
+        "away_short": "Acad. Viseu",
+        "away_tla": "ACV",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "David Silva",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567257,
+        "matchday": 1,
+        "date": "2026-08-10",
+        "time": "19:15",
+        "status": "FINISHED",
+        "home_team": "CD Santa Clara",
+        "home_short": "Santa Clara",
+        "home_tla": "CD ",
+        "away_team": "CD Nacional",
+        "away_short": "CD Nacional",
+        "away_tla": "CDN",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 2,
+        "ht_away": 2,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Hélder Carvalho",
+            "nationality": "Portugal"
+          }
+        ]
+      }
+    ]
+  },
+  "EL": {
+    "competition": "Europa League",
+    "count": 0,
+    "matches": []
+  },
+  "ECL": {
+    "competition": "Conference League",
+    "count": 0,
+    "matches": []
+  }
+}

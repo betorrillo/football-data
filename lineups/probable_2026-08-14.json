@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
-  "total_matches": 61,
+  "total_matches": 62,
   "matches": [
     {
       "home": "Elche",
@@ -1887,6 +1887,35 @@
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
       "date": "2026-08-24",
+      "time": "19:15",
+      "competition": "portugal"
+    },
+    {
+      "home": "Rio Ave",
+      "away": "Sporting CP",
+      "home_profile": {
+        "total_matches": 34,
+        "last5_goals_scored": 4,
+        "last5_goals_conceded": 9,
+        "last5_results": "DLDLD",
+        "last5_avg_shots": 12.2,
+        "last5_avg_sot": 4.0,
+        "last5_avg_corners": 4.6,
+        "last5_avg_yellows": 2.2,
+        "last10_goals_scored": 12,
+        "last10_goals_conceded": 13,
+        "trajectory": "declining",
+        "scoring_consistency": "consistent"
+      },
+      "away_profile": null,
+      "home_injuries": [],
+      "away_injuries": [],
+      "home_injury_count": 0,
+      "away_injury_count": 0,
+      "confirmed": false,
+      "type": "probable",
+      "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
+      "date": "2026-08-28",
       "time": "19:15",
       "competition": "portugal"
     }
