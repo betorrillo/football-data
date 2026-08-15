@@ -1,34 +1,18 @@
 {
   "generated": "2026-08-15",
-  "total_fixtures": 96,
-  "fixtures_with_referee": 0,
+  "total_fixtures": 93,
+  "fixtures_with_referee": 2,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
         {
           "date": "2026-08-15",
-          "time": "17:30",
-          "home": "Alavés",
-          "away": "Getafe",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 5.12,
-            "blended_cards_prediction": 5.12,
-            "cards_verdict": "MUY ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.37,
-          "home_goals_2h_avg": 0.61,
-          "away_goals_1h_avg": 0.21,
-          "away_goals_2h_avg": 0.58
-        },
-        {
-          "date": "2026-08-15",
           "time": "19:30",
           "home": "Sevilla FC",
           "away": "Rayo Vallecano",
           "matchday": 1,
+          "referee": "Ricardo de Burgos",
           "cards_analysis": {
             "team_cards_avg": 5.2,
             "blended_cards_prediction": 5.2,
@@ -384,7 +368,7 @@
           "home_goals_2h_avg": 0.74
         }
       ],
-      "total": 25
+      "total": 24
     },
     "PL": {
       "competition": "Premier League",
@@ -1158,36 +1142,11 @@
       "fixtures": [
         {
           "date": "2026-08-15",
-          "time": "14:30",
-          "home": "Alverca",
-          "away": "Amadora",
-          "matchday": 2,
-          "cards_analysis": {
-            "team_cards_avg": 5.17,
-            "blended_cards_prediction": 5.17,
-            "cards_verdict": "MUY ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.33,
-          "home_goals_2h_avg": 0.0,
-          "away_goals_1h_avg": 0.33,
-          "away_goals_2h_avg": 0.33
-        },
-        {
-          "date": "2026-08-15",
-          "time": "17:00",
-          "home": "Acad. Viseu",
-          "away": "Santa Clara",
-          "matchday": 2,
-          "away_goals_1h_avg": 0.67,
-          "away_goals_2h_avg": 0.67
-        },
-        {
-          "date": "2026-08-15",
           "time": "19:30",
           "home": "Rio Ave",
           "away": "Porto",
           "matchday": 2,
+          "referee": "Miguel Fonseca",
           "cards_analysis": {
             "team_cards_avg": 3.33,
             "blended_cards_prediction": 3.33,
@@ -1422,7 +1381,7 @@
           "away_goals_2h_avg": 0.67
         }
       ],
-      "total": 19
+      "total": 17
     },
     "EL": {
       "competition": "Europa League",

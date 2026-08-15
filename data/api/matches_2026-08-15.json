@@ -38,7 +38,7 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-08 to 2026-08-15",
-    "count": 9,
+    "count": 11,
     "matches": [
       {
         "id": 567263,
@@ -252,6 +252,49 @@
         "referees": [
           {
             "name": "David Silva",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567266,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "FC Alverca",
+        "home_short": "Alverca",
+        "home_tla": "ALV",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "away_tla": "AMA",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": []
+      },
+      {
+        "id": 567273,
+        "matchday": 2,
+        "date": "2026-08-15",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Académico de Viseu FC",
+        "home_short": "Acad. Viseu",
+        "home_tla": "ACV",
+        "away_team": "CD Santa Clara",
+        "away_short": "Santa Clara",
+        "away_tla": "CD ",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "João Gonçalves",
             "nationality": "Portugal"
           }
         ]

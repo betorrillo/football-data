@@ -1,8 +1,21 @@
 {
   "PD": {
     "competition": "LaLiga",
-    "count": 0,
-    "scorers": []
+    "count": 1,
+    "scorers": [
+      {
+        "name": "Nahuel Tenaglia",
+        "nationality": "Argentina",
+        "position": null,
+        "date_of_birth": "1996-02-21",
+        "team": "Deportivo Alavés",
+        "team_short": "Alavés",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      }
+    ]
   },
   "PL": {
     "competition": "Premier League",
@@ -392,8 +405,20 @@
   },
   "PPL": {
     "competition": "Primeira Liga",
-    "count": 26,
+    "count": 29,
     "scorers": [
+      {
+        "name": "Gonçalo Paciência",
+        "nationality": "Portugal",
+        "position": null,
+        "date_of_birth": "1994-08-01",
+        "team": "CD Santa Clara",
+        "team_short": "Santa Clara",
+        "goals": 3,
+        "assists": null,
+        "penalties": 1,
+        "played_matches": 2
+      },
       {
         "name": "Fotis Ioannidis",
         "nationality": "Greece",
@@ -407,16 +432,16 @@
         "played_matches": 2
       },
       {
-        "name": "Gonçalo Paciência",
-        "nationality": "Portugal",
+        "name": "Leandro Antonetti",
+        "nationality": "Spain",
         "position": null,
-        "date_of_birth": "1994-08-01",
-        "team": "CD Santa Clara",
-        "team_short": "Santa Clara",
+        "date_of_birth": "2003-01-13",
+        "team": "CF Estrela da Amadora",
+        "team_short": "Amadora",
         "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Georgios Koutsias",
@@ -479,18 +504,6 @@
         "played_matches": 2
       },
       {
-        "name": "Leandro Antonetti",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2003-01-13",
-        "team": "CF Estrela da Amadora",
-        "team_short": "Amadora",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 1
-      },
-      {
         "name": "Beni Souza",
         "nationality": "France",
         "position": null,
@@ -500,7 +513,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "André Silva",
@@ -512,7 +525,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Gabriel Veiga",
@@ -524,7 +537,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Fran Navarro",
@@ -608,7 +621,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Gianluca Prestianni",
@@ -632,7 +645,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Liziero",
@@ -701,6 +714,42 @@
         "date_of_birth": "2001-10-05",
         "team": "Vitória SC",
         "team_short": "Vitória SC",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Ian Luccas",
+        "nationality": "Brazil",
+        "position": null,
+        "date_of_birth": "2003-02-11",
+        "team": "FC Alverca",
+        "team_short": "Alverca",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Vivaldo Semedo",
+        "nationality": "Portugal",
+        "position": null,
+        "date_of_birth": "2005-01-28",
+        "team": "FC Alverca",
+        "team_short": "Alverca",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Abraham Marcus",
+        "nationality": "Nigeria",
+        "position": null,
+        "date_of_birth": "2000-01-02",
+        "team": "CF Estrela da Amadora",
+        "team_short": "Amadora",
         "goals": 1,
         "assists": null,
         "penalties": null,

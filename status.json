@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-15T07:28:59Z",
+  "server_time_utc": "2026-08-15T19:21:48Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-15.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-15.json",
-  "total_data_files": 796,
+  "total_data_files": 797,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-08-29",
-    "total_matches": 64
+    "total_matches": 62
   },
   "matches_summary": [
     {
@@ -577,32 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-15_alverca-vs-amadora",
-      "competition": "portugal",
-      "home": "Alverca",
-      "away": "Amadora",
-      "date": "2026-08-15",
-      "time": "14:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-15_acad-viseu-vs-santa-clara",
-      "competition": "portugal",
-      "home": "Acad. Viseu",
-      "away": "Santa Clara",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]
