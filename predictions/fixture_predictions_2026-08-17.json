@@ -1,28 +1,11 @@
 {
   "generated": "2026-08-17",
-  "total_fixtures": 110,
+  "total_fixtures": 108,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
-        {
-          "date": "2026-08-17",
-          "time": "19:00",
-          "home": "Deportivo",
-          "away": "Elche",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 4.93,
-            "blended_cards_prediction": 4.93,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.6,
-          "home_goals_2h_avg": 0.81,
-          "away_goals_1h_avg": 0.5,
-          "away_goals_2h_avg": 0.68
-        },
         {
           "date": "2026-08-19",
           "time": "19:00",
@@ -409,7 +392,7 @@
           "away_goals_2h_avg": 0.61
         }
       ],
-      "total": 26
+      "total": 25
     },
     "PL": {
       "competition": "Premier League",
@@ -1413,23 +1396,6 @@
       "competition": "Primeira Liga",
       "fixtures": [
         {
-          "date": "2026-08-17",
-          "time": "19:15",
-          "home": "Casa Pia",
-          "away": "SL Benfica",
-          "matchday": 2,
-          "cards_analysis": {
-            "team_cards_avg": 5.17,
-            "blended_cards_prediction": 5.17,
-            "cards_verdict": "MUY ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.33,
-          "home_goals_2h_avg": 0.33,
-          "away_goals_1h_avg": 1.33,
-          "away_goals_2h_avg": 0.33
-        },
-        {
           "date": "2026-08-22",
           "time": "14:30",
           "home": "Marítimo",
@@ -1660,7 +1626,7 @@
           "away_goals_2h_avg": 0.33
         }
       ],
-      "total": 17
+      "total": 16
     },
     "EL": {
       "competition": "Europa League",

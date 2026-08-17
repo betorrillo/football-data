@@ -2,7 +2,7 @@
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
   "generated": "2026-08-17",
-  "generated_at": "2026-08-17T07:51:44Z",
+  "generated_at": "2026-08-17T19:28:09Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14002,285 +14002,6 @@
    ]
   },
   {
-   "match_id": "portugal_2026-08-17_casa-pia-vs-sl-benfica",
-   "competition": "portugal",
-   "league_name": "Primeira Liga",
-   "home": "Casa Pia",
-   "away": "SL Benfica",
-   "date": "2026-08-17",
-   "time": "19:15",
-   "matchday": "",
-   "home_season": {
-    "mp": 34,
-    "record": "6W-12D-16L",
-    "pts": 30,
-    "gf": 31,
-    "ga": 57,
-    "avg": {
-     "gf": 0.91,
-     "ga": 1.68,
-     "corners_for": 4.03,
-     "corners_against": 5.88,
-     "total_corners": 9.91,
-     "shots": 8.88,
-     "shots_against": 13.53,
-     "shots_target": 2.88,
-     "shots_target_against": 4.5,
-     "fouls": 16.15,
-     "fouls_against": 13.85,
-     "yellows": 2.82,
-     "opponent_yellows": 2.38,
-     "total_match_cards": 5.21
-    },
-    "avg_home": {
-     "gf": 1.06,
-     "ga": 1.53,
-     "corners_for": 3.59,
-     "corners_against": 5.59,
-     "over_25_pct": 29.4
-    },
-    "pct": {
-     "over_15": 76.5,
-     "over_25": 44.1,
-     "over_35": 29.4,
-     "btts": 47.1,
-     "clean_sheet": 20.6,
-     "failed_to_score": 44.1
-    },
-    "avg_ht": {
-     "gf_1h": 0.47,
-     "ga_1h": 0.74,
-     "gf_2h": 0.44,
-     "ga_2h": 0.94,
-     "total_1h": 1.21,
-     "total_2h": 1.38
-    },
-    "pct_ht": {
-     "over_05_1h": 67.6,
-     "over_15_1h": 32.4,
-     "over_05_2h": 76.5,
-     "over_15_2h": 29.4,
-     "btts_1h": 14.7,
-     "btts_2h": 20.6
-    }
-   },
-   "away_season": {
-    "mp": 34,
-    "record": "23W-11D-0L",
-    "pts": 80,
-    "gf": 74,
-    "ga": 25,
-    "avg": {
-     "gf": 2.18,
-     "ga": 0.74,
-     "corners_for": 7.21,
-     "corners_against": 2.79,
-     "total_corners": 10.0,
-     "shots": 17.06,
-     "shots_against": 9.29,
-     "shots_target": 6.06,
-     "shots_target_against": 3.18,
-     "fouls": 11.15,
-     "fouls_against": 15.71,
-     "yellows": 1.91,
-     "opponent_yellows": 2.91,
-     "total_match_cards": 4.82
-    },
-    "avg_away": {
-     "gf": 1.94,
-     "ga": 0.71,
-     "corners_for": 6.94,
-     "corners_against": 3.0,
-     "over_25_pct": 70.6
-    },
-    "pct": {
-     "over_15": 88.2,
-     "over_25": 70.6,
-     "over_35": 32.4,
-     "btts": 58.8,
-     "clean_sheet": 41.2,
-     "failed_to_score": 5.9
-    },
-    "avg_ht": {
-     "gf_1h": 1.12,
-     "ga_1h": 0.29,
-     "gf_2h": 1.06,
-     "ga_2h": 0.44,
-     "total_1h": 1.41,
-     "total_2h": 1.5
-    },
-    "pct_ht": {
-     "over_05_1h": 73.5,
-     "over_15_1h": 47.1,
-     "over_05_2h": 76.5,
-     "over_15_2h": 52.9,
-     "btts_1h": 17.6,
-     "btts_2h": 23.5
-    }
-   },
-   "home_form_last5": [
-    {
-     "date": "23/04/2026",
-     "venue": "H",
-     "opponent": "Sp Braga",
-     "gf": 0,
-     "ga": 1,
-     "result": "L",
-     "corners": 9,
-     "team_corners": 4,
-     "team_yellows": 2,
-     "total_yellows": 5,
-     "team_shots": 7,
-     "team_sot": 1
-    },
-    {
-     "date": "27/04/2026",
-     "venue": "A",
-     "opponent": "Gil Vicente",
-     "gf": 1,
-     "ga": 2,
-     "result": "L",
-     "corners": 7,
-     "team_corners": 3,
-     "team_yellows": 3,
-     "total_yellows": 8,
-     "team_shots": 7,
-     "team_sot": 2
-    },
-    {
-     "date": "03/05/2026",
-     "venue": "H",
-     "opponent": "Tondela",
-     "gf": 0,
-     "ga": 1,
-     "result": "L",
-     "corners": 9,
-     "team_corners": 7,
-     "team_yellows": 8,
-     "total_yellows": 11,
-     "team_shots": 4,
-     "team_sot": 3
-    },
-    {
-     "date": "11/05/2026",
-     "venue": "A",
-     "opponent": "Guimaraes",
-     "gf": 1,
-     "ga": 0,
-     "result": "W",
-     "corners": 10,
-     "team_corners": 4,
-     "team_yellows": 1,
-     "total_yellows": 3,
-     "team_shots": 11,
-     "team_sot": 5
-    },
-    {
-     "date": "16/05/2026",
-     "venue": "H",
-     "opponent": "Rio Ave",
-     "gf": 1,
-     "ga": 1,
-     "result": "D",
-     "corners": 9,
-     "team_corners": 9,
-     "team_yellows": 1,
-     "total_yellows": 1,
-     "team_shots": 20,
-     "team_sot": 5
-    }
-   ],
-   "away_form_last5": [
-    {
-     "date": "19/04/2026",
-     "venue": "A",
-     "opponent": "Sp Lisbon",
-     "gf": 2,
-     "ga": 1,
-     "result": "W",
-     "corners": 11,
-     "team_corners": 8,
-     "team_yellows": 1,
-     "total_yellows": 3,
-     "team_shots": 14,
-     "team_sot": 5
-    },
-    {
-     "date": "25/04/2026",
-     "venue": "H",
-     "opponent": "Moreirense",
-     "gf": 4,
-     "ga": 1,
-     "result": "W",
-     "corners": 11,
-     "team_corners": 9,
-     "team_yellows": 2,
-     "total_yellows": 4,
-     "team_shots": 18,
-     "team_sot": 8
-    },
-    {
-     "date": "02/05/2026",
-     "venue": "A",
-     "opponent": "Famalicao",
-     "gf": 2,
-     "ga": 2,
-     "result": "D",
-     "corners": 10,
-     "team_corners": 4,
-     "team_yellows": 2,
-     "total_yellows": 4,
-     "team_shots": 8,
-     "team_sot": 3
-    },
-    {
-     "date": "11/05/2026",
-     "venue": "H",
-     "opponent": "Sp Braga",
-     "gf": 2,
-     "ga": 2,
-     "result": "D",
-     "corners": 10,
-     "team_corners": 8,
-     "team_yellows": 1,
-     "total_yellows": 5,
-     "team_shots": 24,
-     "team_sot": 8
-    },
-    {
-     "date": "16/05/2026",
-     "venue": "A",
-     "opponent": "Estoril",
-     "gf": 3,
-     "ga": 1,
-     "result": "W",
-     "corners": 11,
-     "team_corners": 9,
-     "team_yellows": 2,
-     "total_yellows": 5,
-     "team_shots": 19,
-     "team_sot": 8
-    }
-   ],
-   "h2h": [],
-   "home_xg": null,
-   "away_xg": null,
-   "data_available": {
-    "season_stats": true,
-    "form": true,
-    "h2h": false,
-    "xg": false,
-    "referee": false,
-    "injuries": false,
-    "lineup": false
-   },
-   "missing_for_analysis": [
-    "xg",
-    "referee",
-    "injuries"
-   ]
-  },
-  {
    "match_id": "portugal_2026-08-22_maritimo-vs-acad-viseu",
    "competition": "portugal",
    "league_name": "Primeira Liga",
@@ -18410,11 +18131,11 @@
    "referees": [],
    "total": 0
   },
-  "bundesliga": {
+  "epl": {
    "referees": [],
    "total": 0
   },
-  "epl": {
+  "bundesliga": {
    "referees": [],
    "total": 0
   },
@@ -18426,11 +18147,11 @@
    "referees": [],
    "total": 0
   },
-  "portugal": {
+  "champions": {
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "portugal": {
    "referees": [],
    "total": 0
   }
@@ -19878,35 +19599,6 @@
    "date": "2026-05-10",
    "time": "21:00 CET",
    "competition": "ligue1"
-  },
-  {
-   "home": "Casa Pia",
-   "away": "SL Benfica",
-   "home_profile": {
-    "total_matches": 34,
-    "last5_goals_scored": 3,
-    "last5_goals_conceded": 5,
-    "last5_results": "LLLWD",
-    "last5_avg_shots": 9.8,
-    "last5_avg_sot": 3.2,
-    "last5_avg_corners": 5.4,
-    "last5_avg_yellows": 3.0,
-    "last10_goals_scored": 5,
-    "last10_goals_conceded": 13,
-    "trajectory": "improving",
-    "scoring_consistency": "consistent"
-   },
-   "away_profile": null,
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
-   "confirmed": false,
-   "type": "probable",
-   "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
-   "date": "2026-08-17",
-   "time": "19:15",
-   "competition": "portugal"
   },
   {
    "home": "Mar\u00edtimo",
