@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "season": 2518,
-    "matchday": 1,
+    "matchday": 2,
     "tables": {
       "TOTAL": [
         {
@@ -112,6 +112,36 @@
         },
         {
           "position": 8,
+          "team": "Club Atlético de Madrid",
+          "team_short": "Atleti",
+          "team_tla": "ATL",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_diff": 0,
+          "points": 1,
+          "form": null
+        },
+        {
+          "position": 8,
+          "team": "Málaga CF",
+          "team_short": "Málaga",
+          "team_tla": "MAL",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_diff": 0,
+          "points": 1,
+          "form": null
+        },
+        {
+          "position": 10,
           "team": "Athletic Club",
           "team_short": "Athletic",
           "team_tla": "ATH",
@@ -126,22 +156,7 @@
           "form": null
         },
         {
-          "position": 8,
-          "team": "Club Atlético de Madrid",
-          "team_short": "Atleti",
-          "team_tla": "ATL",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 8,
+          "position": 10,
           "team": "CA Osasuna",
           "team_short": "Osasuna",
           "team_tla": "OSA",
@@ -156,7 +171,7 @@
           "form": null
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "FC Barcelona",
           "team_short": "Barça",
           "team_tla": "FCB",
@@ -171,22 +186,7 @@
           "form": null
         },
         {
-          "position": 8,
-          "team": "Málaga CF",
-          "team_short": "Málaga",
-          "team_tla": "MAL",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 8,
+          "position": 10,
           "team": "RC Celta de Vigo",
           "team_short": "Celta",
           "team_tla": "CEL",
@@ -201,7 +201,7 @@
           "form": null
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Betis Balompié",
           "team_short": "Real Betis",
           "team_tla": "BET",
@@ -216,7 +216,7 @@
           "form": null
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Madrid CF",
           "team_short": "Real Madrid",
           "team_tla": "RMA",
@@ -231,7 +231,7 @@
           "form": null
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Sociedad de Fútbol",
           "team_short": "Real Sociedad",
           "team_tla": "RSO",
@@ -246,7 +246,7 @@
           "form": null
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Valencia CF",
           "team_short": "Valencia",
           "team_tla": "VAL",
