@@ -10,18 +10,18 @@
           "team": "Deportivo Alavés",
           "team_short": "Alavés",
           "team_tla": "ALA",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
           "goals_for": 3,
           "goals_against": 0,
           "goal_diff": 3,
-          "points": 3,
+          "points": 4,
           "form": null
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "RCD Espanyol de Barcelona",
           "team_short": "Espanyol",
           "team_tla": "ESP",
@@ -127,6 +127,21 @@
         },
         {
           "position": 9,
+          "team": "Rayo Vallecano de Madrid",
+          "team_short": "Rayo Vallecano",
+          "team_tla": "RAY",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_diff": -1,
+          "points": 1,
+          "form": null
+        },
+        {
+          "position": 10,
           "team": "Athletic Club",
           "team_short": "Athletic",
           "team_tla": "ATH",
@@ -141,7 +156,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "CA Osasuna",
           "team_short": "Osasuna",
           "team_tla": "OSA",
@@ -156,7 +171,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "FC Barcelona",
           "team_short": "Barça",
           "team_tla": "FCB",
@@ -171,7 +186,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "RC Celta de Vigo",
           "team_short": "Celta",
           "team_tla": "CEL",
@@ -186,7 +201,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Real Betis Balompié",
           "team_short": "Real Betis",
           "team_tla": "BET",
@@ -201,7 +216,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Real Madrid CF",
           "team_short": "Real Madrid",
           "team_tla": "RMA",
@@ -216,7 +231,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Real Sociedad de Fútbol",
           "team_short": "Real Sociedad",
           "team_tla": "RSO",
@@ -231,7 +246,7 @@
           "form": null
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Valencia CF",
           "team_short": "Valencia",
           "team_tla": "VAL",
@@ -242,21 +257,6 @@
           "goals_for": 0,
           "goals_against": 0,
           "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 17,
-          "team": "Rayo Vallecano de Madrid",
-          "team_short": "Rayo Vallecano",
-          "team_tla": "RAY",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "goal_diff": -1,
           "points": 0,
           "form": null
         },
