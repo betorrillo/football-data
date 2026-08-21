@@ -211,8 +211,33 @@
   },
   "PL": {
     "competition": "Premier League",
-    "count": 0,
-    "scorers": []
+    "count": 2,
+    "scorers": [
+      {
+        "name": "Kai Havertz",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "1999-06-11",
+        "team": "Arsenal FC",
+        "team_short": "Arsenal",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Bukayo Saka",
+        "nationality": "England",
+        "position": null,
+        "date_of_birth": "2001-09-05",
+        "team": "Arsenal FC",
+        "team_short": "Arsenal",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      }
+    ]
   },
   "BL1": {
     "competition": "Bundesliga",

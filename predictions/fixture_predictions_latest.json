@@ -1,28 +1,11 @@
 {
   "generated": "2026-08-21",
-  "total_fixtures": 123,
+  "total_fixtures": 120,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
-        {
-          "date": "2026-08-21",
-          "time": "19:00",
-          "home": "Real Betis",
-          "away": "Real Sociedad",
-          "matchday": 2,
-          "cards_analysis": {
-            "team_cards_avg": 4.72,
-            "blended_cards_prediction": 4.72,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.61,
-          "home_goals_2h_avg": 0.87,
-          "away_goals_1h_avg": 0.55,
-          "away_goals_2h_avg": 0.79
-        },
         {
           "date": "2026-08-22",
           "time": "15:00",
@@ -400,20 +383,11 @@
           "away_goals_2h_avg": 0.89
         }
       ],
-      "total": 25
+      "total": 24
     },
     "PL": {
       "competition": "Premier League",
       "fixtures": [
-        {
-          "date": "2026-08-21",
-          "time": "19:00",
-          "home": "Arsenal",
-          "away": "Coventry City",
-          "matchday": 1,
-          "home_goals_1h_avg": 0.68,
-          "home_goals_2h_avg": 1.08
-        },
         {
           "date": "2026-08-22",
           "time": "11:30",
@@ -713,7 +687,7 @@
           "away_goals_2h_avg": 1.06
         }
       ],
-      "total": 21
+      "total": 20
     },
     "BL1": {
       "competition": "Bundesliga",
@@ -1154,23 +1128,6 @@
       "competition": "Ligue 1",
       "fixtures": [
         {
-          "date": "2026-08-21",
-          "time": "18:45",
-          "home": "Marseille",
-          "away": "Strasbourg",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 3.97,
-            "blended_cards_prediction": 3.97,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.62,
-          "home_goals_2h_avg": 1.06,
-          "away_goals_1h_avg": 0.67,
-          "away_goals_2h_avg": 0.91
-        },
-        {
           "date": "2026-08-22",
           "time": "15:15",
           "home": "RC Lens",
@@ -1479,7 +1436,7 @@
           "away_goals_2h_avg": 1.09
         }
       ],
-      "total": 21
+      "total": 20
     },
     "CL": {
       "competition": "Champions League",
