@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-15 to 2026-08-22",
-    "count": 8,
+    "count": 9,
     "matches": [
       {
         "id": 564634,
@@ -195,13 +195,37 @@
             "nationality": "Spain"
           }
         ]
+      },
+      {
+        "id": 564641,
+        "matchday": 2,
+        "date": "2026-08-22",
+        "time": "15:00",
+        "status": "FINISHED",
+        "home_team": "Athletic Club",
+        "home_short": "Athletic",
+        "home_tla": "ATH",
+        "away_team": "Sevilla FC",
+        "away_short": "Sevilla FC",
+        "away_tla": "SEV",
+        "ft_home": 1,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "César Soto Grado",
+            "nationality": "Spain"
+          }
+        ]
       }
     ]
   },
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-08-15 to 2026-08-22",
-    "count": 1,
+    "count": 6,
     "matches": [
       {
         "id": 560542,
@@ -226,6 +250,126 @@
             "nationality": "England"
           }
         ]
+      },
+      {
+        "id": 560543,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "11:30",
+        "status": "FINISHED",
+        "home_team": "Hull City AFC",
+        "home_short": "Hull City",
+        "home_tla": "HUL",
+        "away_team": "Manchester United FC",
+        "away_short": "Man United",
+        "away_tla": "MUN",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Darren England",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560544,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Ipswich Town FC",
+        "home_short": "Ipswich Town",
+        "home_tla": "IPS",
+        "away_team": "Sunderland AFC",
+        "away_short": "Sunderland",
+        "away_tla": "SUN",
+        "ft_home": 2,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Farai Hallam",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560545,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Nottingham Forest FC",
+        "home_short": "Nottingham",
+        "home_tla": "NOT",
+        "away_team": "Leeds United FC",
+        "away_short": "Leeds United",
+        "away_tla": "LEE",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Robert Jones",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560546,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Everton FC",
+        "home_short": "Everton",
+        "home_tla": "EVE",
+        "away_team": "Crystal Palace FC",
+        "away_short": "Crystal Palace",
+        "away_tla": "CRY",
+        "ft_home": 2,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Paul Tierney",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560547,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "Brentford FC",
+        "home_short": "Brentford",
+        "home_tla": "BRE",
+        "away_team": "Tottenham Hotspur FC",
+        "away_short": "Tottenham",
+        "away_tla": "TOT",
+        "ft_home": 3,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Michael Oliver",
+            "nationality": "England"
+          }
+        ]
       }
     ]
   },
@@ -238,13 +382,62 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-08-15 to 2026-08-22",
-    "count": 0,
-    "matches": []
+    "count": 2,
+    "matches": [
+      {
+        "id": 558629,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "Udinese Calcio",
+        "home_short": "Udinese",
+        "home_tla": "UDI",
+        "away_team": "Como 1907",
+        "away_short": "Como 1907",
+        "away_tla": "COM",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Alberto Arena",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 558632,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "FC Internazionale Milano",
+        "home_short": "Inter",
+        "home_tla": "INT",
+        "away_team": "AC Monza",
+        "away_short": "Monza",
+        "away_tla": "MON",
+        "ft_home": 4,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Livio Marinelli",
+            "nationality": "Italy"
+          }
+        ]
+      }
+    ]
   },
   "FL1": {
     "competition": "Ligue 1",
     "date_range": "2026-08-15 to 2026-08-22",
-    "count": 1,
+    "count": 2,
     "matches": [
       {
         "id": 559715,
@@ -269,6 +462,30 @@
             "nationality": "France"
           }
         ]
+      },
+      {
+        "id": 559712,
+        "matchday": 1,
+        "date": "2026-08-22",
+        "time": "15:15",
+        "status": "FINISHED",
+        "home_team": "Racing Club de Lens",
+        "home_short": "RC Lens",
+        "home_tla": "RCL",
+        "away_team": "AJ Auxerre",
+        "away_short": "Auxerre",
+        "away_tla": "AJA",
+        "ft_home": 5,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Mathieu Vernice",
+            "nationality": "France"
+          }
+        ]
       }
     ]
   },
@@ -281,7 +498,7 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-15 to 2026-08-22",
-    "count": 7,
+    "count": 9,
     "matches": [
       {
         "id": 567266,
@@ -445,6 +662,44 @@
             "nationality": "Portugal"
           }
         ]
+      },
+      {
+        "id": 567283,
+        "matchday": 3,
+        "date": "2026-08-22",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "CS Marítimo",
+        "home_short": "Marítimo",
+        "home_tla": "CSM",
+        "away_team": "Académico de Viseu FC",
+        "away_short": "Acad. Viseu",
+        "away_tla": "ACV",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "DRAW",
+        "referees": []
+      },
+      {
+        "id": 567279,
+        "matchday": 3,
+        "date": "2026-08-22",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "GD Estoril Praia",
+        "home_short": "Estoril Praia",
+        "home_tla": "EST",
+        "away_team": "Rio Ave FC",
+        "away_short": "Rio Ave",
+        "away_tla": "RIO",
+        "ft_home": 0,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": []
       }
     ]
   },

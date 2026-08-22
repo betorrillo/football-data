@@ -2,7 +2,7 @@
   "generated": "2026-08-22",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
-  "total_matches": 70,
+  "total_matches": 68,
   "matches": [
     {
       "home": "Elche",
@@ -1438,51 +1438,6 @@
       "date": "2026-05-10",
       "time": "21:00 CET",
       "competition": "ligue1"
-    },
-    {
-      "home": "Mar\u00edtimo",
-      "away": "Acad. Viseu",
-      "home_profile": null,
-      "away_profile": null,
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
-      "confirmed": false,
-      "type": "probable",
-      "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
-      "date": "2026-08-22",
-      "time": "14:30",
-      "competition": "portugal"
-    },
-    {
-      "home": "Estoril Praia",
-      "away": "Rio Ave",
-      "home_profile": null,
-      "away_profile": {
-        "total_matches": 34,
-        "last5_goals_scored": 4,
-        "last5_goals_conceded": 9,
-        "last5_results": "DLDLD",
-        "last5_avg_shots": 12.2,
-        "last5_avg_sot": 4.0,
-        "last5_avg_corners": 4.6,
-        "last5_avg_yellows": 2.2,
-        "last10_goals_scored": 12,
-        "last10_goals_conceded": 13,
-        "trajectory": "declining",
-        "scoring_consistency": "consistent"
-      },
-      "home_injuries": [],
-      "away_injuries": [],
-      "home_injury_count": 0,
-      "away_injury_count": 0,
-      "confirmed": false,
-      "type": "probable",
-      "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "portugal"
     },
     {
       "home": "Sporting CP",

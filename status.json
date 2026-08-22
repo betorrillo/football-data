@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-22T07:31:24Z",
+  "server_time_utc": "2026-08-22T19:23:22Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-22.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-22.json",
-  "total_data_files": 831,
+  "total_data_files": 832,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-09-05",
-    "total_matches": 70
+    "total_matches": 68
   },
   "matches_summary": [
     {
@@ -577,32 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-22_maritimo-vs-acad-viseu",
-      "competition": "portugal",
-      "home": "Mar\u00edtimo",
-      "away": "Acad. Viseu",
-      "date": "2026-08-22",
-      "time": "14:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-22_estoril-praia-vs-rio-ave",
-      "competition": "portugal",
-      "home": "Estoril Praia",
-      "away": "Rio Ave",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]
