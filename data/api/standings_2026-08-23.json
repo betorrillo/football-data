@@ -37,6 +37,21 @@
         },
         {
           "position": 3,
+          "team": "Club Atlético de Madrid",
+          "team_short": "Atleti",
+          "team_tla": "ATL",
+          "played": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_diff": 2,
+          "points": 4,
+          "form": null
+        },
+        {
+          "position": 4,
           "team": "RCD Espanyol de Barcelona",
           "team_short": "Espanyol",
           "team_tla": "ESP",
@@ -46,21 +61,6 @@
           "lost": 1,
           "goals_for": 4,
           "goals_against": 2,
-          "goal_diff": 2,
-          "points": 3,
-          "form": null
-        },
-        {
-          "position": 4,
-          "team": "Club Atlético de Madrid",
-          "team_short": "Atleti",
-          "team_tla": "ATL",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 2,
-          "goals_against": 0,
           "goal_diff": 2,
           "points": 3,
           "form": null
@@ -97,32 +97,32 @@
         },
         {
           "position": 7,
-          "team": "Real Racing Club de Santander",
-          "team_short": "Santander",
-          "team_tla": "SAN",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goals_for": 2,
-          "goals_against": 2,
-          "goal_diff": 0,
-          "points": 1,
+          "team": "Getafe CF",
+          "team_short": "Getafe",
+          "team_tla": "GET",
+          "played": 2,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 3,
+          "goal_diff": -2,
+          "points": 3,
           "form": null
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "Villarreal CF",
           "team_short": "Villarreal",
           "team_tla": "VIL",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "goals_for": 2,
-          "goals_against": 2,
+          "goals_for": 4,
+          "goals_against": 4,
           "goal_diff": 0,
-          "points": 1,
+          "points": 2,
           "form": null
         },
         {
@@ -187,6 +187,21 @@
         },
         {
           "position": 13,
+          "team": "Real Racing Club de Santander",
+          "team_short": "Santander",
+          "team_tla": "SAN",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goal_diff": -1,
+          "points": 1,
+          "form": null
+        },
+        {
+          "position": 13,
           "team": "Rayo Vallecano de Madrid",
           "team_short": "Rayo Vallecano",
           "team_tla": "RAY",
@@ -201,7 +216,7 @@
           "form": null
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "CA Osasuna",
           "team_short": "Osasuna",
           "team_tla": "OSA",
@@ -216,7 +231,7 @@
           "form": null
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "FC Barcelona",
           "team_short": "Barça",
           "team_tla": "FCB",
@@ -231,7 +246,7 @@
           "form": null
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Real Sociedad de Fútbol",
           "team_short": "Real Sociedad",
           "team_tla": "RSO",
@@ -246,7 +261,7 @@
           "form": null
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "Athletic Club",
           "team_short": "Athletic",
           "team_tla": "ATH",
@@ -261,7 +276,7 @@
           "form": null
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Málaga CF",
           "team_short": "Málaga",
           "team_tla": "MAL",
@@ -276,22 +291,7 @@
           "form": null
         },
         {
-          "position": 19,
-          "team": "Getafe CF",
-          "team_short": "Getafe",
-          "team_tla": "GET",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 3,
-          "goal_diff": -3,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 19,
+          "position": 20,
           "team": "Levante UD",
           "team_short": "Levante",
           "team_tla": "LEV",
@@ -316,6 +316,21 @@
       "TOTAL": [
         {
           "position": 1,
+          "team": "Brighton & Hove Albion FC",
+          "team_short": "Brighton Hove",
+          "team_tla": "BHA",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 0,
+          "goal_diff": 4,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 2,
           "team": "Arsenal FC",
           "team_short": "Arsenal",
           "team_tla": "ARS",
@@ -330,7 +345,7 @@
           "form": null
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Brentford FC",
           "team_short": "Brentford",
           "team_tla": "BRE",
@@ -345,7 +360,7 @@
           "form": null
         },
         {
-          "position": 3,
+          "position": 4,
           "team": "Everton FC",
           "team_short": "Everton",
           "team_tla": "EVE",
@@ -360,7 +375,7 @@
           "form": null
         },
         {
-          "position": 3,
+          "position": 4,
           "team": "Hull City AFC",
           "team_short": "Hull City",
           "team_tla": "HUL",
@@ -375,7 +390,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Ipswich Town FC",
           "team_short": "Ipswich Town",
           "team_tla": "IPS",
@@ -391,6 +406,21 @@
         },
         {
           "position": 6,
+          "team": "Manchester City FC",
+          "team_short": "Man City",
+          "team_tla": "MCI",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_diff": 1,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 8,
           "team": "Leeds United FC",
           "team_short": "Leeds United",
           "team_tla": "LEE",
@@ -405,52 +435,37 @@
           "form": null
         },
         {
-          "position": 7,
-          "team": "AFC Bournemouth",
-          "team_short": "Bournemouth",
-          "team_tla": "BOU",
-          "played": 0,
+          "position": 9,
+          "team": "Liverpool FC",
+          "team_short": "Liverpool",
+          "team_tla": "LIV",
+          "played": 1,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "goals_for": 2,
+          "goals_against": 2,
           "goal_diff": 0,
-          "points": 0,
+          "points": 1,
           "form": null
         },
         {
-          "position": 7,
-          "team": "Aston Villa FC",
-          "team_short": "Aston Villa",
-          "team_tla": "AVL",
-          "played": 0,
+          "position": 9,
+          "team": "Newcastle United FC",
+          "team_short": "Newcastle",
+          "team_tla": "NEW",
+          "played": 1,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "goals_for": 2,
+          "goals_against": 2,
           "goal_diff": 0,
-          "points": 0,
+          "points": 1,
           "form": null
         },
         {
-          "position": 7,
-          "team": "Brighton & Hove Albion FC",
-          "team_short": "Brighton Hove",
-          "team_tla": "BHA",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 7,
+          "position": 11,
           "team": "Chelsea FC",
           "team_short": "Chelsea",
           "team_tla": "CHE",
@@ -465,7 +480,7 @@
           "form": null
         },
         {
-          "position": 7,
+          "position": 11,
           "team": "Fulham FC",
           "team_short": "Fulham",
           "team_tla": "FUL",
@@ -480,52 +495,22 @@
           "form": null
         },
         {
-          "position": 7,
-          "team": "Liverpool FC",
-          "team_short": "Liverpool",
-          "team_tla": "LIV",
-          "played": 0,
+          "position": 13,
+          "team": "AFC Bournemouth",
+          "team_short": "Bournemouth",
+          "team_tla": "BOU",
+          "played": 1,
           "won": 0,
           "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_diff": -1,
           "points": 0,
           "form": null
         },
         {
-          "position": 7,
-          "team": "Manchester City FC",
-          "team_short": "Man City",
-          "team_tla": "MCI",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 7,
-          "team": "Newcastle United FC",
-          "team_short": "Newcastle",
-          "team_tla": "NEW",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 15,
+          "position": 13,
           "team": "Sunderland AFC",
           "team_short": "Sunderland",
           "team_tla": "SUN",
@@ -540,7 +525,7 @@
           "form": null
         },
         {
-          "position": 16,
+          "position": 15,
           "team": "Nottingham Forest FC",
           "team_short": "Nottingham",
           "team_tla": "NOT",
@@ -555,7 +540,7 @@
           "form": null
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Crystal Palace FC",
           "team_short": "Crystal Palace",
           "team_tla": "CRY",
@@ -570,7 +555,7 @@
           "form": null
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Manchester United FC",
           "team_short": "Man United",
           "team_tla": "MUN",
@@ -585,7 +570,7 @@
           "form": null
         },
         {
-          "position": 19,
+          "position": 18,
           "team": "Coventry City FC",
           "team_short": "Coventry City",
           "team_tla": "COV",
@@ -600,7 +585,7 @@
           "form": null
         },
         {
-          "position": 19,
+          "position": 18,
           "team": "Tottenham Hotspur FC",
           "team_short": "Tottenham",
           "team_tla": "TOT",
@@ -611,6 +596,21 @@
           "goals_for": 0,
           "goals_against": 3,
           "goal_diff": -3,
+          "points": 0,
+          "form": null
+        },
+        {
+          "position": 20,
+          "team": "Aston Villa FC",
+          "team_short": "Aston Villa",
+          "team_tla": "AVL",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 4,
+          "goal_diff": -4,
           "points": 0,
           "form": null
         }
@@ -933,7 +933,37 @@
           "form": null
         },
         {
-          "position": 3,
+          "position": 2,
+          "team": "US Lecce",
+          "team_short": "Lecce",
+          "team_tla": "USL",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goals_for": 2,
+          "goals_against": 0,
+          "goal_diff": 2,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 4,
+          "team": "Atalanta BC",
+          "team_short": "Atalanta",
+          "team_tla": "ATA",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goal_diff": 1,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 4,
           "team": "Cagliari Calcio",
           "team_short": "Cagliari",
           "team_tla": "CAG",
@@ -949,6 +979,21 @@
         },
         {
           "position": 4,
+          "team": "Juventus FC",
+          "team_short": "Juventus",
+          "team_tla": "JUV",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goal_diff": 1,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 7,
           "team": "Como 1907",
           "team_short": "Como 1907",
           "team_tla": "COM",
@@ -963,7 +1008,7 @@
           "form": null
         },
         {
-          "position": 4,
+          "position": 7,
           "team": "Udinese Calcio",
           "team_short": "Udinese",
           "team_tla": "UDI",
@@ -978,22 +1023,37 @@
           "form": null
         },
         {
-          "position": 6,
+          "position": 9,
           "team": "AC Milan",
           "team_short": "Milan",
           "team_tla": "MIL",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
           "goals_for": 0,
           "goals_against": 0,
           "goal_diff": 0,
-          "points": 0,
+          "points": 1,
           "form": null
         },
         {
-          "position": 6,
+          "position": 9,
+          "team": "Torino FC",
+          "team_short": "Torino",
+          "team_tla": "TOR",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_diff": 0,
+          "points": 1,
+          "form": null
+        },
+        {
+          "position": 11,
           "team": "ACF Fiorentina",
           "team_short": "Fiorentina",
           "team_tla": "FIO",
@@ -1008,7 +1068,7 @@
           "form": null
         },
         {
-          "position": 6,
+          "position": 11,
           "team": "AS Roma",
           "team_short": "Roma",
           "team_tla": "ROM",
@@ -1023,22 +1083,7 @@
           "form": null
         },
         {
-          "position": 6,
-          "team": "Atalanta BC",
-          "team_short": "Atalanta",
-          "team_tla": "ATA",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 6,
+          "position": 11,
           "team": "Bologna FC 1909",
           "team_short": "Bologna",
           "team_tla": "BOL",
@@ -1053,37 +1098,7 @@
           "form": null
         },
         {
-          "position": 6,
-          "team": "Frosinone Calcio",
-          "team_short": "Frosinone",
-          "team_tla": "FRO",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 6,
-          "team": "Juventus FC",
-          "team_short": "Juventus",
-          "team_tla": "JUV",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 6,
+          "position": 11,
           "team": "SS Lazio",
           "team_short": "Lazio",
           "team_tla": "LAZ",
@@ -1098,67 +1113,22 @@
           "form": null
         },
         {
-          "position": 6,
-          "team": "US Sassuolo Calcio",
-          "team_short": "Sassuolo",
-          "team_tla": "SAS",
-          "played": 0,
+          "position": 15,
+          "team": "Frosinone Calcio",
+          "team_short": "Frosinone",
+          "team_tla": "FRO",
+          "played": 1,
           "won": 0,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
+          "goals_against": 1,
+          "goal_diff": -1,
           "points": 0,
           "form": null
         },
         {
-          "position": 6,
-          "team": "Torino FC",
-          "team_short": "Torino",
-          "team_tla": "TOR",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 6,
-          "team": "US Lecce",
-          "team_short": "Lecce",
-          "team_tla": "USL",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 6,
-          "team": "Venezia FC",
-          "team_short": "Venezia FC",
-          "team_tla": "VEN",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 0,
-          "form": null
-        },
-        {
-          "position": 18,
+          "position": 15,
           "team": "Parma Calcio 1913",
           "team_short": "Parma",
           "team_tla": "PAR",
@@ -1173,10 +1143,40 @@
           "form": null
         },
         {
-          "position": 19,
+          "position": 15,
+          "team": "US Sassuolo Calcio",
+          "team_short": "Sassuolo",
+          "team_tla": "SAS",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 1,
+          "goal_diff": -1,
+          "points": 0,
+          "form": null
+        },
+        {
+          "position": 18,
           "team": "Genoa CFC",
           "team_short": "Genoa",
           "team_tla": "GEN",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 2,
+          "goal_diff": -2,
+          "points": 0,
+          "form": null
+        },
+        {
+          "position": 18,
+          "team": "Venezia FC",
+          "team_short": "Venezia FC",
+          "team_tla": "VEN",
           "played": 1,
           "won": 0,
           "draw": 0,
@@ -2071,6 +2071,21 @@
         },
         {
           "position": 3,
+          "team": "CD Santa Clara",
+          "team_short": "Santa Clara",
+          "team_tla": "CD ",
+          "played": 3,
+          "won": 2,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_diff": 2,
+          "points": 7,
+          "form": null
+        },
+        {
+          "position": 4,
           "team": "FC Arouca",
           "team_short": "Arouca",
           "team_tla": "FCA",
@@ -2085,7 +2100,7 @@
           "form": null
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "FC Porto",
           "team_short": "Porto",
           "team_tla": "FCP",
@@ -2100,7 +2115,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Sport Lisboa e Benfica",
           "team_short": "SL Benfica",
           "team_tla": "BEN",
@@ -2115,31 +2130,16 @@
           "form": null
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "CD Nacional",
           "team_short": "CD Nacional",
           "team_tla": "CDN",
-          "played": 2,
+          "played": 3,
           "won": 1,
           "draw": 1,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 4,
-          "goals_against": 2,
-          "goal_diff": 2,
-          "points": 4,
-          "form": null
-        },
-        {
-          "position": 7,
-          "team": "CD Santa Clara",
-          "team_short": "Santa Clara",
-          "team_tla": "CD ",
-          "played": 2,
-          "won": 1,
-          "draw": 1,
-          "lost": 0,
-          "goals_for": 3,
-          "goals_against": 2,
+          "goals_against": 3,
           "goal_diff": 1,
           "points": 4,
           "form": null
@@ -2161,6 +2161,21 @@
         },
         {
           "position": 9,
+          "team": "Vitória SC",
+          "team_short": "Vitória SC",
+          "team_tla": "GUI",
+          "played": 3,
+          "won": 1,
+          "draw": 0,
+          "lost": 2,
+          "goals_for": 3,
+          "goals_against": 4,
+          "goal_diff": -1,
+          "points": 3,
+          "form": null
+        },
+        {
+          "position": 10,
           "team": "Rio Ave FC",
           "team_short": "Rio Ave",
           "team_tla": "RIO",
@@ -2175,7 +2190,7 @@
           "form": null
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "CF Estrela da Amadora",
           "team_short": "Amadora",
           "team_tla": "AMA",
@@ -2190,7 +2205,7 @@
           "form": null
         },
         {
-          "position": 11,
+          "position": 12,
           "team": "Académico de Viseu FC",
           "team_short": "Acad. Viseu",
           "team_tla": "ACV",
@@ -2205,7 +2220,7 @@
           "form": null
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "Sporting Clube de Braga",
           "team_short": "Braga",
           "team_tla": "SCB",
@@ -2220,22 +2235,22 @@
           "form": null
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "FC Famalicão",
           "team_short": "Famalicão",
           "team_tla": "FAM",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 2,
-          "goals_against": 3,
-          "goal_diff": -1,
+          "goals_against": 4,
+          "goal_diff": -2,
           "points": 1,
           "form": null
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "FC Alverca",
           "team_short": "Alverca",
           "team_tla": "ALV",
@@ -2250,7 +2265,7 @@
           "form": null
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Moreirense FC",
           "team_short": "Moreirense",
           "team_tla": "MOR",
@@ -2265,7 +2280,7 @@
           "form": null
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "GD Estoril Praia",
           "team_short": "Estoril Praia",
           "team_tla": "EST",
@@ -2277,21 +2292,6 @@
           "goals_against": 5,
           "goal_diff": -4,
           "points": 1,
-          "form": null
-        },
-        {
-          "position": 17,
-          "team": "Vitória SC",
-          "team_short": "Vitória SC",
-          "team_tla": "GUI",
-          "played": 2,
-          "won": 0,
-          "draw": 0,
-          "lost": 2,
-          "goals_for": 2,
-          "goals_against": 4,
-          "goal_diff": -2,
-          "points": 0,
           "form": null
         },
         {
