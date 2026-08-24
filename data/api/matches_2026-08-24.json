@@ -463,7 +463,7 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-08-17 to 2026-08-24",
-    "count": 8,
+    "count": 9,
     "matches": [
       {
         "id": 558629,
@@ -653,6 +653,30 @@
         "referees": [
           {
             "name": "Luca Zufferli",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 558630,
+        "matchday": 1,
+        "date": "2026-08-24",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "Bologna FC 1909",
+        "home_short": "Bologna",
+        "home_tla": "BOL",
+        "away_team": "SS Lazio",
+        "away_short": "Lazio",
+        "away_tla": "LAZ",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Fabio Maresca",
             "nationality": "Italy"
           }
         ]
@@ -873,7 +897,12 @@
         "ht_home": 2,
         "ht_away": 0,
         "winner": "DRAW",
-        "referees": []
+        "referees": [
+          {
+            "name": "Bastien Dechepy",
+            "nationality": "France"
+          }
+        ]
       }
     ]
   },
@@ -886,7 +915,7 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-17 to 2026-08-24",
-    "count": 7,
+    "count": 1,
     "matches": [
       {
         "id": 567267,
@@ -905,130 +934,6 @@
         "ht_home": 0,
         "ht_away": 2,
         "winner": "AWAY_TEAM",
-        "referees": [
-          {
-            "name": "João Pinheiro",
-            "nationality": "Portugal"
-          }
-        ]
-      },
-      {
-        "id": 567283,
-        "matchday": 3,
-        "date": "2026-08-22",
-        "time": "14:30",
-        "status": "FINISHED",
-        "home_team": "CS Marítimo",
-        "home_short": "Marítimo",
-        "home_tla": "CSM",
-        "away_team": "Académico de Viseu FC",
-        "away_short": "Acad. Viseu",
-        "away_tla": "ACV",
-        "ft_home": 2,
-        "ft_away": 2,
-        "ht_home": 0,
-        "ht_away": 2,
-        "winner": "DRAW",
-        "referees": []
-      },
-      {
-        "id": 567279,
-        "matchday": 3,
-        "date": "2026-08-22",
-        "time": "17:00",
-        "status": "FINISHED",
-        "home_team": "GD Estoril Praia",
-        "home_short": "Estoril Praia",
-        "home_tla": "EST",
-        "away_team": "Rio Ave FC",
-        "away_short": "Rio Ave",
-        "away_tla": "RIO",
-        "ft_home": 0,
-        "ft_away": 2,
-        "ht_home": 0,
-        "ht_away": 1,
-        "winner": "AWAY_TEAM",
-        "referees": []
-      },
-      {
-        "id": 567275,
-        "matchday": 3,
-        "date": "2026-08-22",
-        "time": "19:30",
-        "status": "FINISHED",
-        "home_team": "Sporting Clube de Portugal",
-        "home_short": "Sporting CP",
-        "home_tla": "SPO",
-        "away_team": "FC Alverca",
-        "away_short": "Alverca",
-        "away_tla": "ALV",
-        "ft_home": 3,
-        "ft_away": 1,
-        "ht_home": 1,
-        "ht_away": 0,
-        "winner": "HOME_TEAM",
-        "referees": []
-      },
-      {
-        "id": 567278,
-        "matchday": 3,
-        "date": "2026-08-23",
-        "time": "14:30",
-        "status": "FINISHED",
-        "home_team": "Vitória SC",
-        "home_short": "Vitória SC",
-        "home_tla": "GUI",
-        "away_team": "CD Nacional",
-        "away_short": "CD Nacional",
-        "away_tla": "CDN",
-        "ft_home": 1,
-        "ft_away": 0,
-        "ht_home": 1,
-        "ht_away": 0,
-        "winner": "HOME_TEAM",
-        "referees": [
-          {
-            "name": "Pedro Ramalho",
-            "nationality": "Portugal"
-          }
-        ]
-      },
-      {
-        "id": 567281,
-        "matchday": 3,
-        "date": "2026-08-23",
-        "time": "17:00",
-        "status": "FINISHED",
-        "home_team": "CD Santa Clara",
-        "home_short": "Santa Clara",
-        "home_tla": "CD ",
-        "away_team": "FC Famalicão",
-        "away_short": "Famalicão",
-        "away_tla": "FAM",
-        "ft_home": 1,
-        "ft_away": 0,
-        "ht_home": 1,
-        "ht_away": 0,
-        "winner": "HOME_TEAM",
-        "referees": []
-      },
-      {
-        "id": 567280,
-        "matchday": 3,
-        "date": "2026-08-23",
-        "time": "19:30",
-        "status": "FINISHED",
-        "home_team": "FC Porto",
-        "home_short": "Porto",
-        "home_tla": "FCP",
-        "away_team": "FC Arouca",
-        "away_short": "Arouca",
-        "away_tla": "FCA",
-        "ft_home": 2,
-        "ft_away": 0,
-        "ht_home": 0,
-        "ht_away": 0,
-        "winner": "HOME_TEAM",
         "referees": [
           {
             "name": "João Pinheiro",
