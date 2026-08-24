@@ -1,8 +1,8 @@
 {
  "_meta": {
   "description": "Complete football analysis data for Claude AI agent. This ONE file replaces all web fetches.",
-  "generated": "2026-08-23",
-  "generated_at": "2026-08-23T19:23:44Z",
+  "generated": "2026-08-24",
+  "generated_at": "2026-08-24T07:57:34Z",
   "version": "2.0",
   "usage": "Upload this file as Project Knowledge in Claude.ai Projects. The agent reads it directly \u2014 no web_fetch needed.",
   "github_repo": "https://github.com/betorrillo/football-data",
@@ -14002,304 +14002,6 @@
    ]
   },
   {
-   "match_id": "portugal_2026-08-23_porto-vs-arouca",
-   "competition": "portugal",
-   "league_name": "Primeira Liga",
-   "home": "Porto",
-   "away": "Arouca",
-   "date": "2026-08-23",
-   "time": "19:30",
-   "matchday": "",
-   "home_season": {
-    "mp": 34,
-    "record": "28W-4D-2L",
-    "pts": 88,
-    "gf": 66,
-    "ga": 18,
-    "avg": {
-     "gf": 1.94,
-     "ga": 0.53,
-     "corners_for": 5.65,
-     "corners_against": 2.97,
-     "total_corners": 8.62,
-     "shots": 14.41,
-     "shots_against": 9.56,
-     "shots_target": 5.24,
-     "shots_target_against": 2.35,
-     "fouls": 13.91,
-     "fouls_against": 12.47,
-     "yellows": 2.32,
-     "opponent_yellows": 2.94,
-     "total_match_cards": 5.26
-    },
-    "avg_home": {
-     "gf": 1.94,
-     "ga": 0.35,
-     "corners_for": 5.65,
-     "corners_against": 2.94,
-     "over_25_pct": 47.1
-    },
-    "pct": {
-     "over_15": 70.6,
-     "over_25": 55.9,
-     "over_35": 23.5,
-     "btts": 38.2,
-     "clean_sheet": 61.8,
-     "failed_to_score": 2.9
-    },
-    "avg_ht": {
-     "gf_1h": 0.85,
-     "ga_1h": 0.12,
-     "gf_2h": 1.09,
-     "ga_2h": 0.41,
-     "total_1h": 0.97,
-     "total_2h": 1.5
-    },
-    "pct_ht": {
-     "over_05_1h": 67.6,
-     "over_15_1h": 26.5,
-     "over_05_2h": 82.4,
-     "over_15_2h": 47.1,
-     "btts_1h": 2.9,
-     "btts_2h": 26.5
-    }
-   },
-   "away_season": {
-    "mp": 34,
-    "record": "12W-6D-16L",
-    "pts": 42,
-    "gf": 47,
-    "ga": 64,
-    "avg": {
-     "gf": 1.38,
-     "ga": 1.88,
-     "corners_for": 3.71,
-     "corners_against": 5.26,
-     "total_corners": 8.97,
-     "shots": 10.68,
-     "shots_against": 13.24,
-     "shots_target": 3.56,
-     "shots_target_against": 4.56,
-     "fouls": 13.82,
-     "fouls_against": 12.09,
-     "yellows": 2.85,
-     "opponent_yellows": 2.24,
-     "total_match_cards": 5.09
-    },
-    "avg_away": {
-     "gf": 1.18,
-     "ga": 2.0,
-     "corners_for": 3.35,
-     "corners_against": 4.65,
-     "over_25_pct": 64.7
-    },
-    "pct": {
-     "over_15": 79.4,
-     "over_25": 67.6,
-     "over_35": 50.0,
-     "btts": 55.9,
-     "clean_sheet": 20.6,
-     "failed_to_score": 26.5
-    },
-    "avg_ht": {
-     "gf_1h": 0.53,
-     "ga_1h": 0.94,
-     "gf_2h": 0.85,
-     "ga_2h": 0.94,
-     "total_1h": 1.47,
-     "total_2h": 1.79
-    },
-    "pct_ht": {
-     "over_05_1h": 70.6,
-     "over_15_1h": 38.2,
-     "over_05_2h": 85.3,
-     "over_15_2h": 55.9,
-     "btts_1h": 23.5,
-     "btts_2h": 35.3
-    }
-   },
-   "home_form_last5": [
-    {
-     "date": "19/04/2026",
-     "venue": "H",
-     "opponent": "Tondela",
-     "gf": 2,
-     "ga": 0,
-     "result": "W",
-     "corners": 11,
-     "team_corners": 8,
-     "team_yellows": 4,
-     "total_yellows": 10,
-     "team_shots": 22,
-     "team_sot": 8
-    },
-    {
-     "date": "26/04/2026",
-     "venue": "A",
-     "opponent": "Estrela",
-     "gf": 2,
-     "ga": 1,
-     "result": "W",
-     "corners": 6,
-     "team_corners": 6,
-     "team_yellows": 3,
-     "total_yellows": 6,
-     "team_shots": 11,
-     "team_sot": 4
-    },
-    {
-     "date": "02/05/2026",
-     "venue": "H",
-     "opponent": "Alverca",
-     "gf": 1,
-     "ga": 0,
-     "result": "W",
-     "corners": 9,
-     "team_corners": 5,
-     "team_yellows": 1,
-     "total_yellows": 5,
-     "team_shots": 12,
-     "team_sot": 3
-    },
-    {
-     "date": "10/05/2026",
-     "venue": "A",
-     "opponent": "AVS",
-     "gf": 1,
-     "ga": 3,
-     "result": "L",
-     "corners": 10,
-     "team_corners": 7,
-     "team_yellows": 2,
-     "total_yellows": 4,
-     "team_shots": 20,
-     "team_sot": 4
-    },
-    {
-     "date": "16/05/2026",
-     "venue": "H",
-     "opponent": "Santa Clara",
-     "gf": 1,
-     "ga": 0,
-     "result": "W",
-     "corners": 13,
-     "team_corners": 8,
-     "team_yellows": 0,
-     "total_yellows": 0,
-     "team_shots": 14,
-     "team_sot": 6
-    }
-   ],
-   "away_form_last5": [
-    {
-     "date": "19/04/2026",
-     "venue": "H",
-     "opponent": "Estrela",
-     "gf": 1,
-     "ga": 0,
-     "result": "W",
-     "corners": 7,
-     "team_corners": 4,
-     "team_yellows": 5,
-     "total_yellows": 6,
-     "team_shots": 11,
-     "team_sot": 3
-    },
-    {
-     "date": "24/04/2026",
-     "venue": "A",
-     "opponent": "Alverca",
-     "gf": 1,
-     "ga": 2,
-     "result": "L",
-     "corners": 9,
-     "team_corners": 3,
-     "team_yellows": 5,
-     "total_yellows": 5,
-     "team_shots": 14,
-     "team_sot": 3
-    },
-    {
-     "date": "02/05/2026",
-     "venue": "H",
-     "opponent": "Santa Clara",
-     "gf": 2,
-     "ga": 2,
-     "result": "D",
-     "corners": 11,
-     "team_corners": 5,
-     "team_yellows": 3,
-     "total_yellows": 6,
-     "team_shots": 9,
-     "team_sot": 5
-    },
-    {
-     "date": "11/05/2026",
-     "venue": "A",
-     "opponent": "Gil Vicente",
-     "gf": 3,
-     "ga": 1,
-     "result": "W",
-     "corners": 8,
-     "team_corners": 2,
-     "team_yellows": 1,
-     "total_yellows": 3,
-     "team_shots": 13,
-     "team_sot": 6
-    },
-    {
-     "date": "16/05/2026",
-     "venue": "H",
-     "opponent": "Tondela",
-     "gf": 3,
-     "ga": 1,
-     "result": "W",
-     "corners": 11,
-     "team_corners": 5,
-     "team_yellows": 3,
-     "total_yellows": 4,
-     "team_shots": 16,
-     "team_sot": 4
-    }
-   ],
-   "h2h": [
-    {
-     "date": "29/09/2025",
-     "home": "Arouca",
-     "away": "Porto",
-     "ft": "0-4",
-     "corners": 13,
-     "cards": 8,
-     "_h2h_warning": "only 2 recent H2H matches found"
-    },
-    {
-     "date": "27/02/2026",
-     "home": "Porto",
-     "away": "Arouca",
-     "ft": "3-1",
-     "corners": 6,
-     "cards": 2,
-     "_h2h_warning": "only 2 recent H2H matches found"
-    }
-   ],
-   "home_xg": null,
-   "away_xg": null,
-   "data_available": {
-    "season_stats": true,
-    "form": true,
-    "h2h": true,
-    "xg": false,
-    "referee": false,
-    "injuries": false,
-    "lineup": false
-   },
-   "missing_for_analysis": [
-    "xg",
-    "referee",
-    "injuries"
-   ]
-  },
-  {
    "match_id": "portugal_2026-08-24_gil-vicente-vs-casa-pia",
    "competition": "portugal",
    "league_name": "Primeira Liga",
@@ -19278,15 +18980,11 @@
    "referees": [],
    "total": 0
   },
-  "epl": {
-   "referees": [],
-   "total": 0
-  },
   "bundesliga": {
    "referees": [],
    "total": 0
   },
-  "ligue1": {
+  "epl": {
    "referees": [],
    "total": 0
   },
@@ -19294,11 +18992,15 @@
    "referees": [],
    "total": 0
   },
-  "champions": {
+  "ligue1": {
    "referees": [],
    "total": 0
   },
   "portugal": {
+   "referees": [],
+   "total": 0
+  },
+  "champions": {
    "referees": [],
    "total": 0
   }
@@ -20746,48 +20448,6 @@
    "date": "2026-05-10",
    "time": "21:00 CET",
    "competition": "ligue1"
-  },
-  {
-   "home": "Porto",
-   "away": "Arouca",
-   "home_profile": {
-    "total_matches": 34,
-    "last5_goals_scored": 7,
-    "last5_goals_conceded": 4,
-    "last5_results": "WWWLW",
-    "last5_avg_shots": 15.8,
-    "last5_avg_sot": 5.0,
-    "last5_avg_corners": 6.8,
-    "last5_avg_yellows": 2.0,
-    "last10_goals_scored": 19,
-    "last10_goals_conceded": 10,
-    "trajectory": "declining",
-    "scoring_consistency": "consistent"
-   },
-   "away_profile": {
-    "total_matches": 34,
-    "last5_goals_scored": 10,
-    "last5_goals_conceded": 6,
-    "last5_results": "WLDWW",
-    "last5_avg_shots": 12.6,
-    "last5_avg_sot": 4.2,
-    "last5_avg_corners": 3.8,
-    "last5_avg_yellows": 3.4,
-    "last10_goals_scored": 15,
-    "last10_goals_conceded": 12,
-    "trajectory": "improving",
-    "scoring_consistency": "variable"
-   },
-   "home_injuries": [],
-   "away_injuries": [],
-   "home_injury_count": 0,
-   "away_injury_count": 0,
-   "confirmed": false,
-   "type": "probable",
-   "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
-   "date": "2026-08-23",
-   "time": "19:30",
-   "competition": "portugal"
   },
   {
    "home": "Gil Vicente",
