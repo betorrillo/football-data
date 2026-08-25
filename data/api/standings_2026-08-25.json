@@ -52,6 +52,21 @@
         },
         {
           "position": 4,
+          "team": "Real Betis Balompié",
+          "team_short": "Real Betis",
+          "team_tla": "BET",
+          "played": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goal_diff": 1,
+          "points": 4,
+          "form": null
+        },
+        {
+          "position": 5,
           "team": "FC Barcelona",
           "team_short": "Barça",
           "team_tla": "FCB",
@@ -66,7 +81,7 @@
           "form": null
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "RCD Espanyol de Barcelona",
           "team_short": "Espanyol",
           "team_tla": "ESP",
@@ -81,7 +96,7 @@
           "form": null
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Real Madrid CF",
           "team_short": "Real Madrid",
           "team_tla": "RMA",
@@ -91,21 +106,6 @@
           "lost": 0,
           "goals_for": 2,
           "goals_against": 1,
-          "goal_diff": 1,
-          "points": 3,
-          "form": null
-        },
-        {
-          "position": 7,
-          "team": "Real Betis Balompié",
-          "team_short": "Real Betis",
-          "team_tla": "BET",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
           "goal_diff": 1,
           "points": 3,
           "form": null
@@ -157,6 +157,21 @@
         },
         {
           "position": 11,
+          "team": "Valencia CF",
+          "team_short": "Valencia",
+          "team_tla": "VAL",
+          "played": 2,
+          "won": 0,
+          "draw": 2,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_diff": 0,
+          "points": 2,
+          "form": null
+        },
+        {
+          "position": 12,
           "team": "CA Osasuna",
           "team_short": "Osasuna",
           "team_tla": "OSA",
@@ -171,25 +186,10 @@
           "form": null
         },
         {
-          "position": 11,
+          "position": 12,
           "team": "RC Celta de Vigo",
           "team_short": "Celta",
           "team_tla": "CEL",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_diff": 0,
-          "points": 1,
-          "form": null
-        },
-        {
-          "position": 11,
-          "team": "Valencia CF",
-          "team_short": "Valencia",
-          "team_tla": "VAL",
           "played": 1,
           "won": 0,
           "draw": 1,

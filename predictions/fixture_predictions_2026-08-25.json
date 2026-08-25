@@ -1,28 +1,11 @@
 {
   "generated": "2026-08-25",
-  "total_fixtures": 119,
+  "total_fixtures": 118,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
-        {
-          "date": "2026-08-25",
-          "time": "19:00",
-          "home": "Valencia",
-          "away": "Real Betis",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 4.46,
-            "blended_cards_prediction": 4.46,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.26,
-          "home_goals_2h_avg": 0.82,
-          "away_goals_1h_avg": 0.61,
-          "away_goals_2h_avg": 0.87
-        },
         {
           "date": "2026-08-26",
           "time": "19:00",
@@ -400,7 +383,7 @@
           "away_goals_2h_avg": 0.79
         }
       ],
-      "total": 25
+      "total": 24
     },
     "PL": {
       "competition": "Premier League",
