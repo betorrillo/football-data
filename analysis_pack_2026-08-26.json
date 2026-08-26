@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-25",
-  "generated_at": "2026-08-25T19:31:13Z",
+  "generated": "2026-08-26",
+  "generated_at": "2026-08-26T07:45:57Z",
   "version": "1.0",
   "description": "Pre-computed analysis data for upcoming fixtures. Agent reads this ONE file instead of 10+.",
-  "total_matches": 63,
+  "total_matches": 64,
   "matches": [
     {
       "match_id": "epl_2026-05-09_liverpool-vs-chelsea",
@@ -18665,6 +18665,295 @@
         "season_stats": true,
         "form": true,
         "h2h": false,
+        "xg": false,
+        "referee": false,
+        "injuries": false,
+        "lineup": false
+      },
+      "missing_for_analysis": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-09_moreirense-vs-sl-benfica",
+      "competition": "portugal",
+      "league_name": "Primeira Liga",
+      "home": "Moreirense",
+      "away": "SL Benfica",
+      "date": "2026-09-09",
+      "time": "19:15",
+      "matchday": "",
+      "home_season": {
+        "mp": 34,
+        "record": "12W-7D-15L",
+        "pts": 43,
+        "gf": 37,
+        "ga": 49,
+        "avg": {
+          "gf": 1.09,
+          "ga": 1.44,
+          "corners_for": 3.65,
+          "corners_against": 4.76,
+          "total_corners": 8.41,
+          "shots": 8.91,
+          "shots_against": 13.21,
+          "shots_target": 3.24,
+          "shots_target_against": 4.53,
+          "fouls": 13.94,
+          "fouls_against": 15.26,
+          "yellows": 2.56,
+          "opponent_yellows": 2.15,
+          "total_match_cards": 4.71
+        },
+        "avg_home": {
+          "gf": 1.18,
+          "ga": 1.24,
+          "corners_for": 4.0,
+          "corners_against": 5.12,
+          "over_25_pct": 52.9
+        },
+        "pct": {
+          "over_15": 73.5,
+          "over_25": 50.0,
+          "over_35": 20.6,
+          "btts": 47.1,
+          "clean_sheet": 26.5,
+          "failed_to_score": 32.4
+        },
+        "avg_ht": {
+          "gf_1h": 0.44,
+          "ga_1h": 0.56,
+          "gf_2h": 0.65,
+          "ga_2h": 0.88,
+          "total_1h": 1.0,
+          "total_2h": 1.53
+        },
+        "pct_ht": {
+          "over_05_1h": 64.7,
+          "over_15_1h": 29.4,
+          "over_05_2h": 82.4,
+          "over_15_2h": 41.2,
+          "btts_1h": 23.5,
+          "btts_2h": 20.6
+        }
+      },
+      "away_season": {
+        "mp": 34,
+        "record": "23W-11D-0L",
+        "pts": 80,
+        "gf": 74,
+        "ga": 25,
+        "avg": {
+          "gf": 2.18,
+          "ga": 0.74,
+          "corners_for": 7.21,
+          "corners_against": 2.79,
+          "total_corners": 10.0,
+          "shots": 17.06,
+          "shots_against": 9.29,
+          "shots_target": 6.06,
+          "shots_target_against": 3.18,
+          "fouls": 11.15,
+          "fouls_against": 15.71,
+          "yellows": 1.91,
+          "opponent_yellows": 2.91,
+          "total_match_cards": 4.82
+        },
+        "avg_away": {
+          "gf": 1.94,
+          "ga": 0.71,
+          "corners_for": 6.94,
+          "corners_against": 3.0,
+          "over_25_pct": 70.6
+        },
+        "pct": {
+          "over_15": 88.2,
+          "over_25": 70.6,
+          "over_35": 32.4,
+          "btts": 58.8,
+          "clean_sheet": 41.2,
+          "failed_to_score": 5.9
+        },
+        "avg_ht": {
+          "gf_1h": 1.12,
+          "ga_1h": 0.29,
+          "gf_2h": 1.06,
+          "ga_2h": 0.44,
+          "total_1h": 1.41,
+          "total_2h": 1.5
+        },
+        "pct_ht": {
+          "over_05_1h": 73.5,
+          "over_15_1h": 47.1,
+          "over_05_2h": 76.5,
+          "over_15_2h": 52.9,
+          "btts_1h": 17.6,
+          "btts_2h": 23.5
+        }
+      },
+      "home_form_last5": [
+        {
+          "date": "20/04/2026",
+          "venue": "H",
+          "opponent": "Estoril",
+          "gf": 1,
+          "ga": 0,
+          "result": "W",
+          "corners": 6,
+          "team_corners": 5,
+          "team_yellows": 0,
+          "total_yellows": 2,
+          "team_shots": 11,
+          "team_sot": 4
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "A",
+          "opponent": "Benfica",
+          "gf": 1,
+          "ga": 4,
+          "result": "L",
+          "corners": 11,
+          "team_corners": 2,
+          "team_yellows": 2,
+          "total_yellows": 4,
+          "team_shots": 8,
+          "team_sot": 4
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "H",
+          "opponent": "Estrela",
+          "gf": 3,
+          "ga": 2,
+          "result": "W",
+          "corners": 5,
+          "team_corners": 1,
+          "team_yellows": 4,
+          "total_yellows": 8,
+          "team_shots": 14,
+          "team_sot": 5
+        },
+        {
+          "date": "11/05/2026",
+          "venue": "A",
+          "opponent": "Tondela",
+          "gf": 0,
+          "ga": 2,
+          "result": "L",
+          "corners": 9,
+          "team_corners": 8,
+          "team_yellows": 3,
+          "total_yellows": 4,
+          "team_shots": 10,
+          "team_sot": 2
+        },
+        {
+          "date": "16/05/2026",
+          "venue": "H",
+          "opponent": "AVS",
+          "gf": 0,
+          "ga": 0,
+          "result": "D",
+          "corners": 8,
+          "team_corners": 5,
+          "team_yellows": 2,
+          "total_yellows": 5,
+          "team_shots": 13,
+          "team_sot": 4
+        }
+      ],
+      "away_form_last5": [
+        {
+          "date": "19/04/2026",
+          "venue": "A",
+          "opponent": "Sp Lisbon",
+          "gf": 2,
+          "ga": 1,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 8,
+          "team_yellows": 1,
+          "total_yellows": 3,
+          "team_shots": 14,
+          "team_sot": 5
+        },
+        {
+          "date": "25/04/2026",
+          "venue": "H",
+          "opponent": "Moreirense",
+          "gf": 4,
+          "ga": 1,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 9,
+          "team_yellows": 2,
+          "total_yellows": 4,
+          "team_shots": 18,
+          "team_sot": 8
+        },
+        {
+          "date": "02/05/2026",
+          "venue": "A",
+          "opponent": "Famalicao",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 10,
+          "team_corners": 4,
+          "team_yellows": 2,
+          "total_yellows": 4,
+          "team_shots": 8,
+          "team_sot": 3
+        },
+        {
+          "date": "11/05/2026",
+          "venue": "H",
+          "opponent": "Sp Braga",
+          "gf": 2,
+          "ga": 2,
+          "result": "D",
+          "corners": 10,
+          "team_corners": 8,
+          "team_yellows": 1,
+          "total_yellows": 5,
+          "team_shots": 24,
+          "team_sot": 8
+        },
+        {
+          "date": "16/05/2026",
+          "venue": "A",
+          "opponent": "Estoril",
+          "gf": 3,
+          "ga": 1,
+          "result": "W",
+          "corners": 11,
+          "team_corners": 9,
+          "team_yellows": 2,
+          "total_yellows": 5,
+          "team_shots": 19,
+          "team_sot": 8
+        }
+      ],
+      "h2h": [
+        {
+          "date": "25/04/2026",
+          "home": "Benfica",
+          "away": "Moreirense",
+          "ft": "4-1",
+          "corners": 11,
+          "cards": 4,
+          "_h2h_warning": "1 older matches excluded (pre-2024); only 1 recent H2H matches found"
+        }
+      ],
+      "home_xg": null,
+      "away_xg": null,
+      "data_available": {
+        "season_stats": true,
+        "form": true,
+        "h2h": true,
         "xg": false,
         "referee": false,
         "injuries": false,

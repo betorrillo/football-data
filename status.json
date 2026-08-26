@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-25T19:31:13Z",
+  "server_time_utc": "2026-08-26T07:45:57Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-25.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-25.json",
-  "total_data_files": 847,
+  "analysis_pack": "analysis_pack_2026-08-26.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-26.json",
+  "total_data_files": 851,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-09-05",
-    "total_matches": 63
+    "to": "2026-09-09",
+    "total_matches": 64
   },
   "matches_summary": [
     {
@@ -809,6 +809,19 @@
       "away": "Arouca",
       "date": "2026-09-05",
       "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-09_moreirense-vs-sl-benfica",
+      "competition": "portugal",
+      "home": "Moreirense",
+      "away": "SL Benfica",
+      "date": "2026-09-09",
+      "time": "19:15",
       "missing": [
         "xg",
         "referee",
