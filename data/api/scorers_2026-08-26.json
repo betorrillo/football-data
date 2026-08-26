@@ -4,6 +4,18 @@
     "count": 30,
     "scorers": [
       {
+        "name": "Kylian Mbappé",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "1998-12-20",
+        "team": "Real Madrid CF",
+        "team_short": "Real Madrid",
+        "goals": 3,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
         "name": "Mariano Díaz",
         "nationality": "Dominican Republic",
         "position": null,
@@ -299,9 +311,9 @@
         "team": "Real Madrid CF",
         "team_short": "Real Madrid",
         "goals": 1,
-        "assists": null,
+        "assists": 2,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Álex Calatrava",
@@ -325,7 +337,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Marc Pubill",
@@ -348,18 +360,6 @@
         "team_short": "Villarreal",
         "goals": 1,
         "assists": null,
-        "penalties": 1,
-        "played_matches": 2
-      },
-      {
-        "name": "Georges Mikautadze",
-        "nationality": "Georgia",
-        "position": null,
-        "date_of_birth": "2000-10-31",
-        "team": "Villarreal CF",
-        "team_short": "Villarreal",
-        "goals": 1,
-        "assists": 1,
         "penalties": 1,
         "played_matches": 2
       }

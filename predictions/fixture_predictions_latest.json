@@ -1,28 +1,11 @@
 {
   "generated": "2026-08-26",
-  "total_fixtures": 119,
+  "total_fixtures": 118,
   "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
-        {
-          "date": "2026-08-26",
-          "time": "19:00",
-          "home": "Real Madrid",
-          "away": "Real Sociedad",
-          "matchday": 1,
-          "cards_analysis": {
-            "team_cards_avg": 4.74,
-            "blended_cards_prediction": 4.74,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.82,
-          "home_goals_2h_avg": 0.89,
-          "away_goals_1h_avg": 0.55,
-          "away_goals_2h_avg": 0.79
-        },
         {
           "date": "2026-08-27",
           "time": "18:30",
@@ -383,7 +366,7 @@
           "away_goals_2h_avg": 0.79
         }
       ],
-      "total": 24
+      "total": 23
     },
     "PL": {
       "competition": "Premier League",

@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-19 to 2026-08-26",
-    "count": 12,
+    "count": 13,
     "matches": [
       {
         "id": 564628,
@@ -263,6 +263,30 @@
         "referees": [
           {
             "name": "Jon González Esteban",
+            "nationality": "Spain"
+          }
+        ]
+      },
+      {
+        "id": 564631,
+        "matchday": 1,
+        "date": "2026-08-26",
+        "time": "19:00",
+        "status": "FINISHED",
+        "home_team": "Real Madrid CF",
+        "home_short": "Real Madrid",
+        "home_tla": "RMA",
+        "away_team": "Real Sociedad de Fútbol",
+        "away_short": "Real Sociedad",
+        "away_tla": "RSO",
+        "ft_home": 5,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Mateo Busquets Ferrer",
             "nationality": "Spain"
           }
         ]
