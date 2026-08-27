@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-26",
+  "generated": "2026-08-27",
   "type": "probable_lineups",
   "description": "Team profiles and injury cross-reference for upcoming matches. Based on season patterns, NOT confirmed lineups.",
-  "total_matches": 64,
+  "total_matches": 65,
   "matches": [
     {
       "home": "Elche",
@@ -1961,6 +1961,22 @@
       "type": "probable",
       "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
       "date": "2026-09-09",
+      "time": "19:15",
+      "competition": "portugal"
+    },
+    {
+      "home": "Amadora",
+      "away": "Braga",
+      "home_profile": null,
+      "away_profile": null,
+      "home_injuries": [],
+      "away_injuries": [],
+      "home_injury_count": 0,
+      "away_injury_count": 0,
+      "confirmed": false,
+      "type": "probable",
+      "note": "Based on season match data patterns and known injuries. Confirm with official lineups 45min before kickoff.",
+      "date": "2026-09-10",
       "time": "19:15",
       "competition": "portugal"
     }

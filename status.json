@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-26T21:37:37Z",
+  "server_time_utc": "2026-08-27T18:06:17Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-26.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-26.json",
-  "total_data_files": 852,
+  "analysis_pack": "analysis_pack_2026-08-27.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-27.json",
+  "total_data_files": 856,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-09-09",
-    "total_matches": 64
+    "to": "2026-09-10",
+    "total_matches": 65
   },
   "matches_summary": [
     {
@@ -821,6 +821,19 @@
       "home": "Moreirense",
       "away": "SL Benfica",
       "date": "2026-09-09",
+      "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-10_amadora-vs-braga",
+      "competition": "portugal",
+      "home": "Amadora",
+      "away": "Braga",
+      "date": "2026-09-10",
       "time": "19:15",
       "missing": [
         "xg",
