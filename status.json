@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-27T18:06:17Z",
+  "server_time_utc": "2026-08-28T02:29:48Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-27.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-27.json",
-  "total_data_files": 856,
+  "analysis_pack": "analysis_pack_2026-08-28.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-28.json",
+  "total_data_files": 861,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-09-10",
-    "total_matches": 65
+    "to": "2026-09-12",
+    "total_matches": 74
   },
   "matches_summary": [
     {
@@ -835,6 +835,123 @@
       "away": "Braga",
       "date": "2026-09-10",
       "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_moreirense-vs-maritimo",
+      "competition": "portugal",
+      "home": "Moreirense",
+      "away": "Mar\u00edtimo",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_rio-ave-vs-amadora",
+      "competition": "portugal",
+      "home": "Rio Ave",
+      "away": "Amadora",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_sl-benfica-vs-gil-vicente",
+      "competition": "portugal",
+      "home": "SL Benfica",
+      "away": "Gil Vicente",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_famalic-o-vs-sporting-cp",
+      "competition": "portugal",
+      "home": "Famalic\u00e3o",
+      "away": "Sporting CP",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_cd-nacional-vs-alverca",
+      "competition": "portugal",
+      "home": "CD Nacional",
+      "away": "Alverca",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_casa-pia-vs-porto",
+      "competition": "portugal",
+      "home": "Casa Pia",
+      "away": "Porto",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_braga-vs-estoril-praia",
+      "competition": "portugal",
+      "home": "Braga",
+      "away": "Estoril Praia",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_acad-viseu-vs-vitoria-sc",
+      "competition": "portugal",
+      "home": "Acad. Viseu",
+      "away": "Vit\u00f3ria SC",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-12_arouca-vs-santa-clara",
+      "competition": "portugal",
+      "home": "Arouca",
+      "away": "Santa Clara",
+      "date": "2026-09-12",
+      "time": "00:00",
       "missing": [
         "xg",
         "referee",
