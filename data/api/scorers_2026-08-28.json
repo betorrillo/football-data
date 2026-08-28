@@ -40,6 +40,18 @@
         "played_matches": 2
       },
       {
+        "name": "Yassir Zabiri",
+        "nationality": "Morocco",
+        "position": null,
+        "date_of_birth": "2005-02-23",
+        "team": "Real Racing Club de Santander",
+        "team_short": "Santander",
+        "goals": 3,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
         "name": "Mariano Díaz",
         "nationality": "Dominican Republic",
         "position": null,
@@ -49,7 +61,7 @@
         "goals": 2,
         "assists": 2,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Roberto Fernández",
@@ -85,7 +97,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Mikel Rodríguez",
@@ -97,7 +109,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Álvaro García",
@@ -145,7 +157,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Sergio Martínez",
@@ -157,7 +169,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Pape Gueye",
@@ -169,7 +181,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Nicolas Pépé",
@@ -181,7 +193,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Tyrhys Dolan",
@@ -205,7 +217,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Kang-in Lee",
@@ -349,18 +361,6 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
-      },
-      {
-        "name": "Gerard Moreno",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "1992-04-07",
-        "team": "Villarreal CF",
-        "team_short": "Villarreal",
-        "goals": 1,
-        "assists": null,
-        "penalties": 1,
         "played_matches": 2
       }
     ]
@@ -571,7 +571,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Joško Gvardiol",
@@ -583,7 +583,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Maxim De Cuyper",
@@ -709,8 +709,21 @@
   },
   "BL1": {
     "competition": "Bundesliga",
-    "count": 0,
-    "scorers": []
+    "count": 1,
+    "scorers": [
+      {
+        "name": "Dayot Upamecano",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "1998-10-27",
+        "team": "FC Bayern München",
+        "team_short": "Bayern",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      }
+    ]
   },
   "SA": {
     "competition": "Serie A",
@@ -930,7 +943,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Adrien Rabiot",
@@ -942,7 +955,7 @@
         "goals": 1,
         "assists": 1,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Che Adams",
@@ -1020,7 +1033,7 @@
         "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Keyliane Abdallah",
@@ -1188,7 +1201,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Tiago Santos",
@@ -1200,7 +1213,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Eric Dier",
@@ -1656,7 +1669,7 @@
         "goals": 2,
         "assists": 2,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Leandro Antonetti",
@@ -1776,7 +1789,7 @@
         "goals": 1,
         "assists": 1,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Beni Souza",
@@ -1896,7 +1909,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Sergi Altimira",
@@ -1908,7 +1921,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Samu",

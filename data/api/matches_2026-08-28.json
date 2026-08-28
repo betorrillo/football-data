@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-21 to 2026-08-28",
-    "count": 13,
+    "count": 14,
     "matches": [
       {
         "id": 564647,
@@ -277,6 +277,25 @@
         "ft_home": 2,
         "ft_away": 0,
         "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": []
+      },
+      {
+        "id": 564654,
+        "matchday": 3,
+        "date": "2026-08-28",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Real Racing Club de Santander",
+        "home_short": "Santander",
+        "home_tla": "SAN",
+        "away_team": "Elche CF",
+        "away_short": "Elche",
+        "away_tla": "ELC",
+        "ft_home": 3,
+        "ft_away": 2,
+        "ht_home": 3,
         "ht_away": 0,
         "winner": "HOME_TEAM",
         "referees": []

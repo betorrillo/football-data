@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-28T02:29:48Z",
+  "server_time_utc": "2026-08-28T19:16:42Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-28.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-28.json",
-  "total_data_files": 861,
+  "total_data_files": 862,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -699,10 +699,36 @@
       ]
     },
     {
-      "match_id": "portugal_2026-09-05_alverca-vs-braga",
+      "match_id": "portugal_2026-09-04_sporting-cp-vs-cd-nacional",
       "competition": "portugal",
-      "home": "Alverca",
-      "away": "Braga",
+      "home": "Sporting CP",
+      "away": "CD Nacional",
+      "date": "2026-09-04",
+      "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-04_porto-vs-moreirense",
+      "competition": "portugal",
+      "home": "Porto",
+      "away": "Moreirense",
+      "date": "2026-09-04",
+      "time": "19:15",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-05_estoril-praia-vs-arouca",
+      "competition": "portugal",
+      "home": "Estoril Praia",
+      "away": "Arouca",
       "date": "2026-09-05",
       "time": "00:00",
       "missing": [
@@ -717,7 +743,7 @@
       "home": "Amadora",
       "away": "Famalic\u00e3o",
       "date": "2026-09-05",
-      "time": "00:00",
+      "time": "14:30",
       "missing": [
         "xg",
         "referee",
@@ -725,51 +751,12 @@
       ]
     },
     {
-      "match_id": "portugal_2026-09-05_sporting-cp-vs-cd-nacional",
+      "match_id": "portugal_2026-09-05_alverca-vs-braga",
       "competition": "portugal",
-      "home": "Sporting CP",
-      "away": "CD Nacional",
+      "home": "Alverca",
+      "away": "Braga",
       "date": "2026-09-05",
-      "time": "00:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_porto-vs-moreirense",
-      "competition": "portugal",
-      "home": "Porto",
-      "away": "Moreirense",
-      "date": "2026-09-05",
-      "time": "00:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_santa-clara-vs-rio-ave",
-      "competition": "portugal",
-      "home": "Santa Clara",
-      "away": "Rio Ave",
-      "date": "2026-09-05",
-      "time": "00:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_gil-vicente-vs-acad-viseu",
-      "competition": "portugal",
-      "home": "Gil Vicente",
-      "away": "Acad. Viseu",
-      "date": "2026-09-05",
-      "time": "00:00",
+      "time": "17:00",
       "missing": [
         "xg",
         "referee",
@@ -782,7 +769,7 @@
       "home": "Mar\u00edtimo",
       "away": "SL Benfica",
       "date": "2026-09-05",
-      "time": "00:00",
+      "time": "17:00",
       "missing": [
         "xg",
         "referee",
@@ -790,12 +777,25 @@
       ]
     },
     {
-      "match_id": "portugal_2026-09-05_vitoria-sc-vs-casa-pia",
+      "match_id": "portugal_2026-09-06_santa-clara-vs-rio-ave",
+      "competition": "portugal",
+      "home": "Santa Clara",
+      "away": "Rio Ave",
+      "date": "2026-09-06",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-06_vitoria-sc-vs-casa-pia",
       "competition": "portugal",
       "home": "Vit\u00f3ria SC",
       "away": "Casa Pia",
-      "date": "2026-09-05",
-      "time": "00:00",
+      "date": "2026-09-06",
+      "time": "17:00",
       "missing": [
         "xg",
         "referee",
@@ -803,12 +803,12 @@
       ]
     },
     {
-      "match_id": "portugal_2026-09-05_estoril-praia-vs-arouca",
+      "match_id": "portugal_2026-09-06_gil-vicente-vs-acad-viseu",
       "competition": "portugal",
-      "home": "Estoril Praia",
-      "away": "Arouca",
-      "date": "2026-09-05",
-      "time": "00:00",
+      "home": "Gil Vicente",
+      "away": "Acad. Viseu",
+      "date": "2026-09-06",
+      "time": "19:30",
       "missing": [
         "xg",
         "referee",
