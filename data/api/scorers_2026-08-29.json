@@ -4,6 +4,30 @@
     "count": 30,
     "scorers": [
       {
+        "name": "Roberto Fernández",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "2002-07-03",
+        "team": "RCD Espanyol de Barcelona",
+        "team_short": "Espanyol",
+        "goals": 3,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
+        "name": "Álex Baena",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "2001-07-20",
+        "team": "Club Atlético de Madrid",
+        "team_short": "Atleti",
+        "goals": 3,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
         "name": "Raphinha",
         "nationality": "Brazil",
         "position": null,
@@ -64,24 +88,36 @@
         "played_matches": 3
       },
       {
-        "name": "Roberto Fernández",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2002-07-03",
-        "team": "RCD Espanyol de Barcelona",
-        "team_short": "Espanyol",
-        "goals": 2,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
-      },
-      {
         "name": "Pierre-Emerick Aubameyang",
         "nationality": "Gabon",
         "position": null,
         "date_of_birth": "1989-06-18",
         "team": "RC Deportivo La Coruña",
         "team_short": "Deportivo",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Rodrigo Riquelme",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "2000-04-02",
+        "team": "Real Betis Balompié",
+        "team_short": "Real Betis",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
+        "name": "Brugui",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "1996-11-04",
+        "team": "Levante UD",
+        "team_short": "Levante",
         "goals": 2,
         "assists": null,
         "penalties": null,
@@ -133,7 +169,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Peque",
@@ -145,7 +181,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Andrés Martín",
@@ -205,7 +241,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Marc Aguado",
@@ -227,21 +263,9 @@
         "team": "Club Atlético de Madrid",
         "team_short": "Atleti",
         "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
-      },
-      {
-        "name": "Álex Baena",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2001-07-20",
-        "team": "Club Atlético de Madrid",
-        "team_short": "Atleti",
-        "goals": 1,
         "assists": 1,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Sergio Camello",
@@ -250,18 +274,6 @@
         "date_of_birth": "2001-02-10",
         "team": "Rayo Vallecano de Madrid",
         "team_short": "Rayo Vallecano",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
-      },
-      {
-        "name": "Rodrigo Riquelme",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2000-04-02",
-        "team": "Real Betis Balompié",
-        "team_short": "Real Betis",
         "goals": 1,
         "assists": null,
         "penalties": null,
@@ -289,7 +301,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Isaac",
@@ -301,7 +313,7 @@
         "goals": 1,
         "assists": 1,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Aitor Paredes Casamichana",
@@ -337,7 +349,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Carlos Espí",
@@ -346,18 +358,6 @@
         "date_of_birth": "2005-07-24",
         "team": "Real Madrid CF",
         "team_short": "Real Madrid",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
-      },
-      {
-        "name": "Marc Pubill",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2003-06-20",
-        "team": "Club Atlético de Madrid",
-        "team_short": "Atleti",
         "goals": 1,
         "assists": null,
         "penalties": null,
@@ -380,6 +380,18 @@
         "assists": null,
         "penalties": null,
         "played_matches": 1
+      },
+      {
+        "name": "Anthony Elanga",
+        "nationality": "Sweden",
+        "position": null,
+        "date_of_birth": "2002-04-27",
+        "team": "Newcastle United FC",
+        "team_short": "Newcastle",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
       },
       {
         "name": "Erling Haaland",
@@ -451,7 +463,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Nobel Mendy",
@@ -463,7 +475,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Emersonn",
@@ -523,7 +535,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Thierno Barry",
@@ -535,7 +547,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Keane Lewis-Potter",
@@ -622,18 +634,6 @@
         "played_matches": 1
       },
       {
-        "name": "Anthony Elanga",
-        "nationality": "Sweden",
-        "position": null,
-        "date_of_birth": "2002-04-27",
-        "team": "Newcastle United FC",
-        "team_short": "Newcastle",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 1
-      },
-      {
         "name": "Cody Gakpo",
         "nationality": "Netherlands",
         "position": null,
@@ -655,7 +655,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Dominik Szoboszlai",
@@ -733,8 +733,32 @@
   },
   "BL1": {
     "competition": "Bundesliga",
-    "count": 5,
+    "count": 23,
     "scorers": [
+      {
+        "name": "Younes Ebnoutalib",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "2003-09-13",
+        "team": "Eintracht Frankfurt",
+        "team_short": "Frankfurt",
+        "goals": 3,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Thijs Dallinga",
+        "nationality": "Netherlands",
+        "position": null,
+        "date_of_birth": "2000-08-03",
+        "team": "1. FC Köln",
+        "team_short": "1. FC Köln",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
       {
         "name": "Dayot Upamecano",
         "nationality": "France",
@@ -794,12 +818,204 @@
         "assists": null,
         "penalties": null,
         "played_matches": 1
+      },
+      {
+        "name": "Ridle Baku",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "1998-04-08",
+        "team": "RB Leipzig",
+        "team_short": "RB Leipzig",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Antonio Nusa",
+        "nationality": "Norway",
+        "position": null,
+        "date_of_birth": "2005-04-17",
+        "team": "RB Leipzig",
+        "team_short": "RB Leipzig",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Rocco Reitz",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "2002-05-29",
+        "team": "RB Leipzig",
+        "team_short": "RB Leipzig",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Emmanuel Latte Lath",
+        "nationality": "Ivory Coast",
+        "position": null,
+        "date_of_birth": "1999-01-01",
+        "team": "1. FC Union Berlin",
+        "team_short": "Union Berlin",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Leopold Querfeld",
+        "nationality": "Austria",
+        "position": null,
+        "date_of_birth": "2003-12-20",
+        "team": "1. FC Union Berlin",
+        "team_short": "Union Berlin",
+        "goals": 1,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Tim Skarke",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "1996-09-07",
+        "team": "1. FC Union Berlin",
+        "team_short": "Union Berlin",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Lukas Petkov",
+        "nationality": "Bulgaria",
+        "position": null,
+        "date_of_birth": "2000-11-01",
+        "team": "SV 07 Elversberg",
+        "team_short": "Elversberg",
+        "goals": 1,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Cole Campbell",
+        "nationality": "USA",
+        "position": null,
+        "date_of_birth": "2006-02-20",
+        "team": "SV 07 Elversberg",
+        "team_short": "Elversberg",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "David Mokwa Ntusu",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "2004-05-03",
+        "team": "SV 07 Elversberg",
+        "team_short": "Elversberg",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Patrik Schick",
+        "nationality": "Czech Republic",
+        "position": null,
+        "date_of_birth": "1996-01-24",
+        "team": "Bayer 04 Leverkusen",
+        "team_short": "Leverkusen",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Christian Kofane",
+        "nationality": "Cameroon",
+        "position": null,
+        "date_of_birth": "2006-07-26",
+        "team": "Bayer 04 Leverkusen",
+        "team_short": "Leverkusen",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Adam Daghim",
+        "nationality": "Denmark",
+        "position": null,
+        "date_of_birth": "2005-09-28",
+        "team": "TSG 1899 Hoffenheim",
+        "team_short": "Hoffenheim",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Said El Mala",
+        "nationality": "Germany",
+        "position": null,
+        "date_of_birth": "2006-08-26",
+        "team": "1. FC Köln",
+        "team_short": "1. FC Köln",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Ozan Kabak",
+        "nationality": "Turkey",
+        "position": null,
+        "date_of_birth": "2000-03-25",
+        "team": "TSG 1899 Hoffenheim",
+        "team_short": "Hoffenheim",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Sehrou Guirassy",
+        "nationality": "Guinea",
+        "position": null,
+        "date_of_birth": "1996-03-12",
+        "team": "Borussia Dortmund",
+        "team_short": "Dortmund",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Ioannis Konstantelias",
+        "nationality": "Greece",
+        "position": null,
+        "date_of_birth": "2003-05-10",
+        "team": "Borussia Dortmund",
+        "team_short": "Dortmund",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
       }
     ]
   },
   "SA": {
     "competition": "Serie A",
-    "count": 23,
+    "count": 30,
     "scorers": [
       {
         "name": "Donyell Malen",
@@ -820,10 +1036,34 @@
         "date_of_birth": "1994-03-05",
         "team": "Udinese Calcio",
         "team_short": "Udinese",
-        "goals": 1,
+        "goals": 2,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Gustavo Varela",
+        "nationality": "Portugal",
+        "position": null,
+        "date_of_birth": "2005-01-30",
+        "team": "AC Monza",
+        "team_short": "Monza",
+        "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
+      },
+      {
+        "name": "Antonio Raimondo",
+        "nationality": "Italy",
+        "position": null,
+        "date_of_birth": "2004-03-18",
+        "team": "Frosinone Calcio",
+        "team_short": "Frosinone",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
       },
       {
         "name": "Anastasios Douvikas",
@@ -844,18 +1084,6 @@
         "date_of_birth": "1994-02-08",
         "team": "FC Internazionale Milano",
         "team_short": "Inter",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 1
-      },
-      {
-        "name": "Gustavo Varela",
-        "nationality": "Portugal",
-        "position": null,
-        "date_of_birth": "2005-01-30",
-        "team": "AC Monza",
-        "team_short": "Monza",
         "goals": 1,
         "assists": null,
         "penalties": null,
@@ -943,7 +1171,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Olaf Gorter",
@@ -991,7 +1219,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Nikola Krstović",
@@ -1039,7 +1267,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Davide Frattesi",
@@ -1076,13 +1304,97 @@
         "assists": null,
         "penalties": null,
         "played_matches": 2
+      },
+      {
+        "name": "Cristian Volpato",
+        "nationality": "Australia",
+        "position": null,
+        "date_of_birth": "2003-11-15",
+        "team": "US Sassuolo Calcio",
+        "team_short": "Sassuolo",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Pietro Comuzzo",
+        "nationality": "Italy",
+        "position": null,
+        "date_of_birth": "2005-02-20",
+        "team": "Torino FC",
+        "team_short": "Torino",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Domenico Berardi",
+        "nationality": "Italy",
+        "position": null,
+        "date_of_birth": "1994-08-01",
+        "team": "US Sassuolo Calcio",
+        "team_short": "Sassuolo",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 1
+      },
+      {
+        "name": "Jakub Piotrowski",
+        "nationality": "Poland",
+        "position": null,
+        "date_of_birth": "1997-10-04",
+        "team": "Udinese Calcio",
+        "team_short": "Udinese",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Andrea Colpani",
+        "nationality": "Italy",
+        "position": null,
+        "date_of_birth": "1999-05-11",
+        "team": "AC Monza",
+        "team_short": "Monza",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Jurgen Ekkelenkamp",
+        "nationality": "Netherlands",
+        "position": null,
+        "date_of_birth": "2000-04-05",
+        "team": "Udinese Calcio",
+        "team_short": "Udinese",
+        "goals": 1,
+        "assists": 1,
+        "penalties": null,
+        "played_matches": 2
       }
     ]
   },
   "FL1": {
     "competition": "Ligue 1",
-    "count": 25,
+    "count": 30,
     "scorers": [
+      {
+        "name": "Florian Thauvin",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "1993-01-26",
+        "team": "Racing Club de Lens",
+        "team_short": "RC Lens",
+        "goals": 3,
+        "assists": 1,
+        "penalties": 3,
+        "played_matches": 2
+      },
       {
         "name": "Amine Gouiri",
         "nationality": "Algeria",
@@ -1096,16 +1408,16 @@
         "played_matches": 1
       },
       {
-        "name": "Florian Thauvin",
-        "nationality": "France",
+        "name": "Kamory Doumbia",
+        "nationality": "Mali",
         "position": null,
-        "date_of_birth": "1993-01-26",
-        "team": "Racing Club de Lens",
-        "team_short": "RC Lens",
+        "date_of_birth": "2003-02-18",
+        "team": "Stade Brestois 29",
+        "team_short": "Brest",
         "goals": 2,
         "assists": 1,
-        "penalties": 2,
-        "played_matches": 1
+        "penalties": null,
+        "played_matches": 2
       },
       {
         "name": "Ferrán Torres",
@@ -1114,6 +1426,18 @@
         "date_of_birth": "2000-02-29",
         "team": "Paris Saint-Germain FC",
         "team_short": "PSG",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Gessime Yassine",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "2005-11-22",
+        "team": "RC Strasbourg Alsace",
+        "team_short": "Strasbourg",
         "goals": 2,
         "assists": null,
         "penalties": null,
@@ -1153,7 +1477,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Saud Abdulhamid",
@@ -1177,7 +1501,7 @@
         "goals": 1,
         "assists": null,
         "penalties": 1,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Pierre Ganiou",
@@ -1189,7 +1513,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Lamine Sy",
@@ -1201,7 +1525,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Romain Del Castillo",
@@ -1213,7 +1537,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Dame Guèye",
@@ -1240,18 +1564,6 @@
         "played_matches": 1
       },
       {
-        "name": "Kamory Doumbia",
-        "nationality": "Mali",
-        "position": null,
-        "date_of_birth": "2003-02-18",
-        "team": "Stade Brestois 29",
-        "team_short": "Brest",
-        "goals": 1,
-        "assists": 1,
-        "penalties": null,
-        "played_matches": 1
-      },
-      {
         "name": "Noah Nartey",
         "nationality": "Denmark",
         "position": null,
@@ -1261,7 +1573,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Malick Fofana",
@@ -1273,7 +1585,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Olivier Giroud",
@@ -1382,6 +1694,54 @@
         "assists": null,
         "penalties": null,
         "played_matches": 2
+      },
+      {
+        "name": "Renaud Ripart",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "1993-03-14",
+        "team": "ES Troyes AC",
+        "team_short": "Troyes",
+        "goals": 1,
+        "assists": null,
+        "penalties": 1,
+        "played_matches": 2
+      },
+      {
+        "name": "Lucas Maronnier",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "2000-03-09",
+        "team": "ES Troyes AC",
+        "team_short": "Troyes",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Jean-Victor Makengo",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "1998-06-12",
+        "team": "FC Lorient",
+        "team_short": "Lorient",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
+      },
+      {
+        "name": "Mbwana Samatta",
+        "nationality": "Tanzania",
+        "position": null,
+        "date_of_birth": "1992-12-23",
+        "team": "Le Havre AC",
+        "team_short": "Le Havre",
+        "goals": 1,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 2
       }
     ]
   },
@@ -1419,6 +1779,30 @@
         "played_matches": 3
       },
       {
+        "name": "Barbero",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "1998-08-17",
+        "team": "FC Arouca",
+        "team_short": "Arouca",
+        "goals": 3,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 4
+      },
+      {
+        "name": "Gabriel Veiga",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "2002-05-27",
+        "team": "FC Porto",
+        "team_short": "Porto",
+        "goals": 3,
+        "assists": 2,
+        "penalties": 1,
+        "played_matches": 4
+      },
+      {
         "name": "Luis Suárez",
         "nationality": "Colombia",
         "position": null,
@@ -1429,18 +1813,6 @@
         "assists": null,
         "penalties": null,
         "played_matches": 4
-      },
-      {
-        "name": "Barbero",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "1998-08-17",
-        "team": "FC Arouca",
-        "team_short": "Arouca",
-        "goals": 2,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 3
       },
       {
         "name": "Fotis Ioannidis",
@@ -1467,16 +1839,16 @@
         "played_matches": 2
       },
       {
-        "name": "Gabriel Veiga",
-        "nationality": "Spain",
+        "name": "André Silva",
+        "nationality": "Portugal",
         "position": null,
-        "date_of_birth": "2002-05-27",
+        "date_of_birth": "1995-11-06",
         "team": "FC Porto",
         "team_short": "Porto",
         "goals": 2,
-        "assists": 1,
+        "assists": null,
         "penalties": 1,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Héctor Hernández",
@@ -1512,7 +1884,7 @@
         "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Flávio Gonçalves",
@@ -1527,6 +1899,18 @@
         "played_matches": 4
       },
       {
+        "name": "Vivaldo Semedo",
+        "nationality": "Portugal",
+        "position": null,
+        "date_of_birth": "2005-01-28",
+        "team": "FC Alverca",
+        "team_short": "Alverca",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
         "name": "Borja Sainz",
         "nationality": "Spain",
         "position": null,
@@ -1536,7 +1920,7 @@
         "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Georgios Koutsias",
@@ -1572,7 +1956,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Rodrigo Zalazar",
@@ -1597,18 +1981,6 @@
         "assists": null,
         "penalties": null,
         "played_matches": 2
-      },
-      {
-        "name": "André Silva",
-        "nationality": "Portugal",
-        "position": null,
-        "date_of_birth": "1995-11-06",
-        "team": "FC Porto",
-        "team_short": "Porto",
-        "goals": 1,
-        "assists": null,
-        "penalties": 1,
-        "played_matches": 3
       },
       {
         "name": "Fran Navarro",
@@ -1668,7 +2040,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Liziero",
@@ -1735,18 +2107,6 @@
         "nationality": "Brazil",
         "position": null,
         "date_of_birth": "2003-02-11",
-        "team": "FC Alverca",
-        "team_short": "Alverca",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 3
-      },
-      {
-        "name": "Vivaldo Semedo",
-        "nationality": "Portugal",
-        "position": null,
-        "date_of_birth": "2005-01-28",
         "team": "FC Alverca",
         "team_short": "Alverca",
         "goals": 1,
