@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-28T19:16:42Z",
+  "server_time_utc": "2026-08-29T13:00:11Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-08-28.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-28.json",
-  "total_data_files": 862,
+  "analysis_pack": "analysis_pack_2026-08-29.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-29.json",
+  "total_data_files": 866,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-09-12",
-    "total_matches": 74
+    "total_matches": 73
   },
   "matches_summary": [
     {
@@ -582,19 +582,6 @@
       ]
     },
     {
-      "match_id": "portugal_2026-08-28_rio-ave-vs-sporting-cp",
-      "competition": "portugal",
-      "home": "Rio Ave",
-      "away": "Sporting CP",
-      "date": "2026-08-28",
-      "time": "19:15",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
       "match_id": "portugal_2026-08-29_alverca-vs-santa-clara",
       "competition": "portugal",
       "home": "Alverca",
@@ -725,19 +712,6 @@
       ]
     },
     {
-      "match_id": "portugal_2026-09-05_estoril-praia-vs-arouca",
-      "competition": "portugal",
-      "home": "Estoril Praia",
-      "away": "Arouca",
-      "date": "2026-09-05",
-      "time": "00:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
       "match_id": "portugal_2026-09-05_amadora-vs-famalic-o",
       "competition": "portugal",
       "home": "Amadora",
@@ -809,6 +783,19 @@
       "away": "Acad. Viseu",
       "date": "2026-09-06",
       "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-07_estoril-praia-vs-arouca",
+      "competition": "portugal",
+      "home": "Estoril Praia",
+      "away": "Arouca",
+      "date": "2026-09-07",
+      "time": "00:00",
       "missing": [
         "xg",
         "referee",
