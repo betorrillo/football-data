@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-30T12:35:06Z",
+  "server_time_utc": "2026-08-30T21:52:01Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-30.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-30.json",
-  "total_data_files": 871,
+  "total_data_files": 872,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-09-12",
-    "total_matches": 70
+    "total_matches": 85
   },
   "matches_summary": [
     {
@@ -582,45 +582,6 @@
       ]
     },
     {
-      "match_id": "portugal_2026-08-30_cd-nacional-vs-amadora",
-      "competition": "portugal",
-      "home": "CD Nacional",
-      "away": "Amadora",
-      "date": "2026-08-30",
-      "time": "14:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-30_casa-pia-vs-moreirense",
-      "competition": "portugal",
-      "home": "Casa Pia",
-      "away": "Moreirense",
-      "date": "2026-08-30",
-      "time": "17:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-30_famalic-o-vs-gil-vicente",
-      "competition": "portugal",
-      "home": "Famalic\u00e3o",
-      "away": "Gil Vicente",
-      "date": "2026-08-30",
-      "time": "19:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
       "match_id": "portugal_2026-08-31_sl-benfica-vs-estoril-praia",
       "competition": "portugal",
       "home": "SL Benfica",
@@ -639,19 +600,6 @@
       "home": "Braga",
       "away": "Vit\u00f3ria SC",
       "date": "2026-08-31",
-      "time": "19:15",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-04_sporting-cp-vs-cd-nacional",
-      "competition": "portugal",
-      "home": "Sporting CP",
-      "away": "CD Nacional",
-      "date": "2026-09-04",
       "time": "19:15",
       "missing": [
         "xg",
@@ -712,6 +660,19 @@
       ]
     },
     {
+      "match_id": "portugal_2026-09-05_sporting-cp-vs-cd-nacional",
+      "competition": "portugal",
+      "home": "Sporting CP",
+      "away": "CD Nacional",
+      "date": "2026-09-05",
+      "time": "19:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
       "match_id": "portugal_2026-09-06_santa-clara-vs-rio-ave",
       "competition": "portugal",
       "home": "Santa Clara",
@@ -764,12 +725,246 @@
       ]
     },
     {
+      "match_id": "champions_2026-09-08_club-brugge-vs-aston-villa",
+      "competition": "champions",
+      "home": "Club Brugge",
+      "away": "Aston Villa",
+      "date": "2026-09-08",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-08_pae-aek-vs-lask",
+      "competition": "champions",
+      "home": "PAE AEK",
+      "away": "LASK",
+      "date": "2026-09-08",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-08_real-madrid-vs-inter",
+      "competition": "champions",
+      "home": "Real Madrid",
+      "away": "Inter",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-08_porto-vs-man-city",
+      "competition": "champions",
+      "home": "Porto",
+      "away": "Man City",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-08_dortmund-vs-villarreal",
+      "competition": "champions",
+      "home": "Dortmund",
+      "away": "Villarreal",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-08_lille-vs-real-betis",
+      "competition": "champions",
+      "home": "Lille",
+      "away": "Real Betis",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_bar-a-vs-feyenoord",
+      "competition": "champions",
+      "home": "Bar\u00e7a",
+      "away": "Feyenoord",
+      "date": "2026-09-09",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_stuttgart-vs-viking",
+      "competition": "champions",
+      "home": "Stuttgart",
+      "away": "Viking",
+      "date": "2026-09-09",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_liverpool-vs-atleti",
+      "competition": "champions",
+      "home": "Liverpool",
+      "away": "Atleti",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_psg-vs-sl-bratislava",
+      "competition": "champions",
+      "home": "PSG",
+      "away": "Sl. Bratislava",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_napoli-vs-arsenal",
+      "competition": "champions",
+      "home": "Napoli",
+      "away": "Arsenal",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-09_sporting-cp-vs-galatasaray",
+      "competition": "champions",
+      "home": "Sporting CP",
+      "away": "Galatasaray",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
       "match_id": "portugal_2026-09-09_moreirense-vs-sl-benfica",
       "competition": "portugal",
       "home": "Moreirense",
       "away": "SL Benfica",
       "date": "2026-09-09",
-      "time": "19:15",
+      "time": "19:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_fenerbah-e-vs-roma",
+      "competition": "champions",
+      "home": "Fenerbah\u00e7e",
+      "away": "Roma",
+      "date": "2026-09-10",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_psv-vs-shaktar",
+      "competition": "champions",
+      "home": "PSV",
+      "away": "Shaktar",
+      "date": "2026-09-10",
+      "time": "16:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_bayern-vs-bod-glimt",
+      "competition": "champions",
+      "home": "Bayern",
+      "away": "Bod\u00f8/Glimt",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_man-united-vs-sabah-fk",
+      "competition": "champions",
+      "home": "Man United",
+      "away": "Sabah FK",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_como-1907-vs-rb-leipzig",
+      "competition": "champions",
+      "home": "Como 1907",
+      "away": "RB Leipzig",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "champions_2026-09-10_slavia-praha-vs-rc-lens",
+      "competition": "champions",
+      "home": "Slavia Praha",
+      "away": "RC Lens",
+      "date": "2026-09-10",
+      "time": "19:00",
       "missing": [
         "xg",
         "referee",
