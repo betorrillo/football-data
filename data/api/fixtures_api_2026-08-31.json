@@ -2,30 +2,8 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-31 to 2026-09-14",
-    "count": 23,
+    "count": 21,
     "fixtures": [
-      {
-        "id": 564657,
-        "matchday": 3,
-        "date": "2026-08-31",
-        "time": "17:30",
-        "home_team": "CA Osasuna",
-        "home_short": "Osasuna",
-        "away_team": "Getafe CF",
-        "away_short": "Getafe",
-        "referees": []
-      },
-      {
-        "id": 564650,
-        "matchday": 3,
-        "date": "2026-08-31",
-        "time": "19:30",
-        "home_team": "FC Barcelona",
-        "home_short": "Barça",
-        "away_team": "Rayo Vallecano de Madrid",
-        "away_short": "Rayo Vallecano",
-        "referees": []
-      },
       {
         "id": 564682,
         "matchday": 6,
@@ -262,19 +240,8 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-08-31 to 2026-09-14",
-    "count": 21,
+    "count": 20,
     "fixtures": [
-      {
-        "id": 560557,
-        "matchday": 2,
-        "date": "2026-08-31",
-        "time": "19:00",
-        "home_team": "Aston Villa FC",
-        "home_short": "Aston Villa",
-        "away_team": "Arsenal FC",
-        "away_short": "Arsenal",
-        "referees": []
-      },
       {
         "id": 560566,
         "matchday": 3,
@@ -705,35 +672,8 @@
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-08-31 to 2026-09-14",
-    "count": 22,
+    "count": 20,
     "fixtures": [
-      {
-        "id": 558621,
-        "matchday": 2,
-        "date": "2026-08-31",
-        "time": "16:30",
-        "home_team": "US Lecce",
-        "home_short": "Lecce",
-        "away_team": "AS Roma",
-        "away_short": "Roma",
-        "referees": [
-          {
-            "name": "Daniele Chiffi",
-            "nationality": "Italy"
-          }
-        ]
-      },
-      {
-        "id": 558628,
-        "matchday": 2,
-        "date": "2026-08-31",
-        "time": "18:45",
-        "home_team": "Atalanta BC",
-        "home_short": "Atalanta",
-        "away_team": "Bologna FC 1909",
-        "away_short": "Bologna",
-        "referees": []
-      },
       {
         "id": 558609,
         "matchday": 3,
@@ -867,14 +807,14 @@
         "referees": []
       },
       {
-        "id": 558608,
+        "id": 558600,
         "matchday": 4,
         "date": "2026-09-12",
         "time": "16:00",
-        "home_team": "US Sassuolo Calcio",
-        "home_short": "Sassuolo",
-        "away_team": "Juventus FC",
-        "away_short": "Juventus",
+        "home_team": "SS Lazio",
+        "home_short": "Lazio",
+        "away_team": "AC Milan",
+        "away_short": "Milan",
         "referees": []
       },
       {
@@ -886,28 +826,6 @@
         "home_short": "Atalanta",
         "away_team": "Cagliari Calcio",
         "away_short": "Cagliari",
-        "referees": []
-      },
-      {
-        "id": 558603,
-        "matchday": 4,
-        "date": "2026-09-13",
-        "time": "10:30",
-        "home_team": "Torino FC",
-        "home_short": "Torino",
-        "away_team": "AS Roma",
-        "away_short": "Roma",
-        "referees": []
-      },
-      {
-        "id": 558602,
-        "matchday": 4,
-        "date": "2026-09-13",
-        "time": "13:00",
-        "home_team": "Como 1907",
-        "home_short": "Como 1907",
-        "away_team": "Parma Calcio 1913",
-        "away_short": "Parma",
         "referees": []
       },
       {
@@ -933,14 +851,36 @@
         "referees": []
       },
       {
-        "id": 558600,
+        "id": 558608,
         "matchday": 4,
         "date": "2026-09-13",
         "time": "18:45",
-        "home_team": "SS Lazio",
-        "home_short": "Lazio",
-        "away_team": "AC Milan",
-        "away_short": "Milan",
+        "home_team": "US Sassuolo Calcio",
+        "home_short": "Sassuolo",
+        "away_team": "Juventus FC",
+        "away_short": "Juventus",
+        "referees": []
+      },
+      {
+        "id": 558602,
+        "matchday": 4,
+        "date": "2026-09-14",
+        "time": "16:30",
+        "home_team": "Como 1907",
+        "home_short": "Como 1907",
+        "away_team": "Parma Calcio 1913",
+        "away_short": "Parma",
+        "referees": []
+      },
+      {
+        "id": 558603,
+        "matchday": 4,
+        "date": "2026-09-14",
+        "time": "16:30",
+        "home_team": "Torino FC",
+        "home_short": "Torino",
+        "away_team": "AS Roma",
+        "away_short": "Roma",
         "referees": []
       },
       {
@@ -1369,30 +1309,8 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-31 to 2026-09-14",
-    "count": 22,
+    "count": 20,
     "fixtures": [
-      {
-        "id": 567288,
-        "matchday": 4,
-        "date": "2026-08-31",
-        "time": "19:15",
-        "home_team": "Sport Lisboa e Benfica",
-        "home_short": "SL Benfica",
-        "away_team": "GD Estoril Praia",
-        "away_short": "Estoril Praia",
-        "referees": []
-      },
-      {
-        "id": 567292,
-        "matchday": 4,
-        "date": "2026-08-31",
-        "time": "19:15",
-        "home_team": "Sporting Clube de Braga",
-        "home_short": "Braga",
-        "away_team": "Vitória SC",
-        "away_short": "Vitória SC",
-        "referees": []
-      },
       {
         "id": 567299,
         "matchday": 5,

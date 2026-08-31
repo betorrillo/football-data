@@ -4,6 +4,18 @@
     "count": 30,
     "scorers": [
       {
+        "name": "Raphinha",
+        "nationality": "Brazil",
+        "position": null,
+        "date_of_birth": "1996-12-14",
+        "team": "FC Barcelona",
+        "team_short": "Barça",
+        "goals": 5,
+        "assists": null,
+        "penalties": 1,
+        "played_matches": 3
+      },
+      {
         "name": "Kylian Mbappé",
         "nationality": "France",
         "position": null,
@@ -52,16 +64,16 @@
         "played_matches": 3
       },
       {
-        "name": "Raphinha",
-        "nationality": "Brazil",
+        "name": "Sergio Camello",
+        "nationality": "Spain",
         "position": null,
-        "date_of_birth": "1996-12-14",
-        "team": "FC Barcelona",
-        "team_short": "Barça",
+        "date_of_birth": "2001-02-10",
+        "team": "Rayo Vallecano de Madrid",
+        "team_short": "Rayo Vallecano",
         "goals": 3,
         "assists": null,
-        "penalties": 1,
-        "played_matches": 2
+        "penalties": null,
+        "played_matches": 3
       },
       {
         "name": "Fermín López",
@@ -73,7 +85,7 @@
         "goals": 3,
         "assists": null,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Yassir Zabiri",
@@ -124,6 +136,18 @@
         "played_matches": 3
       },
       {
+        "name": "Ante Budimir",
+        "nationality": "Croatia",
+        "position": null,
+        "date_of_birth": "1991-07-22",
+        "team": "CA Osasuna",
+        "team_short": "Osasuna",
+        "goals": 2,
+        "assists": null,
+        "penalties": 2,
+        "played_matches": 3
+      },
+      {
         "name": "Brugui",
         "nationality": "Spain",
         "position": null,
@@ -134,6 +158,18 @@
         "assists": null,
         "penalties": null,
         "played_matches": 2
+      },
+      {
+        "name": "Lamine Yamal",
+        "nationality": "Spain",
+        "position": null,
+        "date_of_birth": "2007-07-13",
+        "team": "FC Barcelona",
+        "team_short": "Barça",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
       },
       {
         "name": "Nahuel Tenaglia",
@@ -167,9 +203,9 @@
         "team": "Rayo Vallecano de Madrid",
         "team_short": "Rayo Vallecano",
         "goals": 1,
-        "assists": null,
+        "assists": 1,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Jon Guridi",
@@ -280,18 +316,6 @@
         "played_matches": 3
       },
       {
-        "name": "Sergio Camello",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2001-02-10",
-        "team": "Rayo Vallecano de Madrid",
-        "team_short": "Rayo Vallecano",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
-      },
-      {
         "name": "Oso",
         "nationality": "Spain",
         "position": null,
@@ -338,30 +362,6 @@
         "assists": null,
         "penalties": null,
         "played_matches": 3
-      },
-      {
-        "name": "Álex Calatrava",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2000-06-22",
-        "team": "RCD Espanyol de Barcelona",
-        "team_short": "Espanyol",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 3
-      },
-      {
-        "name": "Carlos Espí",
-        "nationality": "Spain",
-        "position": null,
-        "date_of_birth": "2005-07-24",
-        "team": "Real Madrid CF",
-        "team_short": "Real Madrid",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 3
       }
     ]
   },
@@ -379,6 +379,18 @@
         "goals": 3,
         "assists": 1,
         "penalties": 1,
+        "played_matches": 2
+      },
+      {
+        "name": "Bukayo Saka",
+        "nationality": "England",
+        "position": null,
+        "date_of_birth": "2001-09-05",
+        "team": "Arsenal FC",
+        "team_short": "Arsenal",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
         "played_matches": 2
       },
       {
@@ -463,19 +475,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
-      },
-      {
-        "name": "Bukayo Saka",
-        "nationality": "England",
-        "position": null,
-        "date_of_birth": "2001-09-05",
-        "team": "Arsenal FC",
-        "team_short": "Arsenal",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Martin Ødegaard",
@@ -487,7 +487,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Semi Ajayi",
@@ -1096,10 +1096,10 @@
         "date_of_birth": "1999-01-19",
         "team": "AS Roma",
         "team_short": "Roma",
-        "goals": 3,
+        "goals": 5,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Hassane Kamara",
@@ -1267,7 +1267,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Tiago Gabriel",
@@ -1279,7 +1279,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Giacomo Raspadori",
@@ -1291,7 +1291,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Cas Odenthal",
@@ -1315,7 +1315,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Alphadjo Cisse",
@@ -1363,7 +1363,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Gonçalo Ramos",
@@ -1833,10 +1833,10 @@
         "date_of_birth": "1998-11-21",
         "team": "Sport Lisboa e Benfica",
         "team_short": "SL Benfica",
-        "goals": 4,
+        "goals": 5,
         "assists": 1,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "Gonçalo Paciência",
@@ -1848,7 +1848,7 @@
         "goals": 4,
         "assists": null,
         "penalties": 1,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Barbero",
@@ -1899,6 +1899,18 @@
         "played_matches": 4
       },
       {
+        "name": "Yanis Begraoui",
+        "nationality": "France",
+        "position": null,
+        "date_of_birth": "2001-07-04",
+        "team": "GD Estoril Praia",
+        "team_short": "Estoril Praia",
+        "goals": 2,
+        "assists": null,
+        "penalties": null,
+        "played_matches": 3
+      },
+      {
         "name": "Fotis Ioannidis",
         "nationality": "Greece",
         "position": null,
@@ -1944,7 +1956,7 @@
         "goals": 2,
         "assists": 1,
         "penalties": null,
-        "played_matches": 2
+        "played_matches": 3
       },
       {
         "name": "André Clovis",
@@ -1980,7 +1992,7 @@
         "goals": 2,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Abraham Marcus",
@@ -2017,18 +2029,6 @@
         "assists": null,
         "penalties": null,
         "played_matches": 3
-      },
-      {
-        "name": "Yanis Begraoui",
-        "nationality": "France",
-        "position": null,
-        "date_of_birth": "2001-07-04",
-        "team": "GD Estoril Praia",
-        "team_short": "Estoril Praia",
-        "goals": 1,
-        "assists": null,
-        "penalties": null,
-        "played_matches": 2
       },
       {
         "name": "Raphael Guzzo",
@@ -2076,7 +2076,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "Nile John",
@@ -2100,7 +2100,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 1
+        "played_matches": 2
       },
       {
         "name": "João Veloso",
@@ -2172,7 +2172,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       },
       {
         "name": "Alioune Ndoye",
@@ -2184,7 +2184,7 @@
         "goals": 1,
         "assists": null,
         "penalties": null,
-        "played_matches": 3
+        "played_matches": 4
       }
     ]
   }

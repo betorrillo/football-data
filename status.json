@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-08-31T14:46:40Z",
+  "server_time_utc": "2026-08-31T23:10:41Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-08-31.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-08-31.json",
-  "total_data_files": 876,
+  "total_data_files": 877,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-09-12",
-    "total_matches": 85
+    "total_matches": 83
   },
   "matches_summary": [
     {
@@ -577,32 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-31_sl-benfica-vs-estoril-praia",
-      "competition": "portugal",
-      "home": "SL Benfica",
-      "away": "Estoril Praia",
-      "date": "2026-08-31",
-      "time": "19:15",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-08-31_braga-vs-vitoria-sc",
-      "competition": "portugal",
-      "home": "Braga",
-      "away": "Vit\u00f3ria SC",
-      "date": "2026-08-31",
-      "time": "19:15",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]

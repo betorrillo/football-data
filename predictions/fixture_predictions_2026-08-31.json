@@ -1,45 +1,11 @@
 {
   "generated": "2026-08-31",
-  "total_fixtures": 142,
-  "fixtures_with_referee": 1,
+  "total_fixtures": 135,
+  "fixtures_with_referee": 0,
   "predictions": {
     "PD": {
       "competition": "LaLiga",
       "fixtures": [
-        {
-          "date": "2026-08-31",
-          "time": "17:30",
-          "home": "Osasuna",
-          "away": "Getafe",
-          "matchday": 3,
-          "cards_analysis": {
-            "team_cards_avg": 5.29,
-            "blended_cards_prediction": 5.29,
-            "cards_verdict": "MUY ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.37,
-          "home_goals_2h_avg": 0.63,
-          "away_goals_1h_avg": 0.21,
-          "away_goals_2h_avg": 0.58
-        },
-        {
-          "date": "2026-08-31",
-          "time": "19:30",
-          "home": "Barça",
-          "away": "Rayo Vallecano",
-          "matchday": 3,
-          "cards_analysis": {
-            "team_cards_avg": 4.74,
-            "blended_cards_prediction": 4.74,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.92,
-          "home_goals_2h_avg": 1.39,
-          "away_goals_1h_avg": 0.39,
-          "away_goals_2h_avg": 0.61
-        },
         {
           "date": "2026-09-03",
           "time": "19:00",
@@ -366,28 +332,11 @@
           "away_goals_2h_avg": 0.61
         }
       ],
-      "total": 23
+      "total": 21
     },
     "PL": {
       "competition": "Premier League",
       "fixtures": [
-        {
-          "date": "2026-08-31",
-          "time": "19:00",
-          "home": "Aston Villa",
-          "away": "Arsenal",
-          "matchday": 2,
-          "cards_analysis": {
-            "team_cards_avg": 3.62,
-            "blended_cards_prediction": 3.62,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.5,
-          "home_goals_2h_avg": 0.97,
-          "away_goals_1h_avg": 0.68,
-          "away_goals_2h_avg": 1.08
-        },
         {
           "date": "2026-09-04",
           "time": "19:00",
@@ -681,7 +630,7 @@
           "away_goals_2h_avg": 0.58
         }
       ],
-      "total": 21
+      "total": 20
     },
     "BL1": {
       "competition": "Bundesliga",
@@ -915,41 +864,6 @@
       "competition": "Serie A",
       "fixtures": [
         {
-          "date": "2026-08-31",
-          "time": "16:30",
-          "home": "Lecce",
-          "away": "Roma",
-          "matchday": 2,
-          "referee": "Daniele Chiffi",
-          "cards_analysis": {
-            "team_cards_avg": 3.82,
-            "blended_cards_prediction": 3.82,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.37,
-          "home_goals_2h_avg": 0.34,
-          "away_goals_1h_avg": 0.65,
-          "away_goals_2h_avg": 0.78
-        },
-        {
-          "date": "2026-08-31",
-          "time": "18:45",
-          "home": "Atalanta",
-          "away": "Bologna",
-          "matchday": 2,
-          "cards_analysis": {
-            "team_cards_avg": 3.5,
-            "blended_cards_prediction": 3.5,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.55,
-          "home_goals_2h_avg": 0.71,
-          "away_goals_1h_avg": 0.49,
-          "away_goals_2h_avg": 0.7
-        },
-        {
           "date": "2026-09-04",
           "time": "18:45",
           "home": "Genoa",
@@ -1122,19 +1036,19 @@
         {
           "date": "2026-09-12",
           "time": "16:00",
-          "home": "Sassuolo",
-          "away": "Juventus",
+          "home": "Lazio",
+          "away": "Milan",
           "matchday": 4,
           "cards_analysis": {
-            "team_cards_avg": 3.89,
-            "blended_cards_prediction": 3.89,
+            "team_cards_avg": 4.28,
+            "blended_cards_prediction": 4.28,
             "cards_verdict": "MEDIO",
             "note": "teams-only (no referee assigned)"
           },
-          "home_goals_1h_avg": 0.42,
-          "home_goals_2h_avg": 0.74,
-          "away_goals_1h_avg": 0.55,
-          "away_goals_2h_avg": 1.0
+          "home_goals_1h_avg": 0.39,
+          "home_goals_2h_avg": 0.58,
+          "away_goals_1h_avg": 0.39,
+          "away_goals_2h_avg": 0.82
         },
         {
           "date": "2026-09-12",
@@ -1152,40 +1066,6 @@
           "home_goals_2h_avg": 0.71,
           "away_goals_1h_avg": 0.34,
           "away_goals_2h_avg": 0.66
-        },
-        {
-          "date": "2026-09-13",
-          "time": "10:30",
-          "home": "Torino",
-          "away": "Roma",
-          "matchday": 4,
-          "cards_analysis": {
-            "team_cards_avg": 3.73,
-            "blended_cards_prediction": 3.73,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.37,
-          "home_goals_2h_avg": 0.66,
-          "away_goals_1h_avg": 0.65,
-          "away_goals_2h_avg": 0.78
-        },
-        {
-          "date": "2026-09-13",
-          "time": "13:00",
-          "home": "Como 1907",
-          "away": "Parma",
-          "matchday": 4,
-          "cards_analysis": {
-            "team_cards_avg": 4.16,
-            "blended_cards_prediction": 4.16,
-            "cards_verdict": "MEDIO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.66,
-          "home_goals_2h_avg": 0.92,
-          "away_goals_1h_avg": 0.18,
-          "away_goals_2h_avg": 0.5
         },
         {
           "date": "2026-09-13",
@@ -1216,19 +1096,53 @@
         {
           "date": "2026-09-13",
           "time": "18:45",
-          "home": "Lazio",
-          "away": "Milan",
+          "home": "Sassuolo",
+          "away": "Juventus",
           "matchday": 4,
           "cards_analysis": {
-            "team_cards_avg": 4.28,
-            "blended_cards_prediction": 4.28,
+            "team_cards_avg": 3.89,
+            "blended_cards_prediction": 3.89,
             "cards_verdict": "MEDIO",
             "note": "teams-only (no referee assigned)"
           },
-          "home_goals_1h_avg": 0.39,
-          "home_goals_2h_avg": 0.58,
-          "away_goals_1h_avg": 0.39,
-          "away_goals_2h_avg": 0.82
+          "home_goals_1h_avg": 0.42,
+          "home_goals_2h_avg": 0.74,
+          "away_goals_1h_avg": 0.55,
+          "away_goals_2h_avg": 1.0
+        },
+        {
+          "date": "2026-09-14",
+          "time": "16:30",
+          "home": "Como 1907",
+          "away": "Parma",
+          "matchday": 4,
+          "cards_analysis": {
+            "team_cards_avg": 4.16,
+            "blended_cards_prediction": 4.16,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.66,
+          "home_goals_2h_avg": 0.92,
+          "away_goals_1h_avg": 0.18,
+          "away_goals_2h_avg": 0.5
+        },
+        {
+          "date": "2026-09-14",
+          "time": "16:30",
+          "home": "Torino",
+          "away": "Roma",
+          "matchday": 4,
+          "cards_analysis": {
+            "team_cards_avg": 3.73,
+            "blended_cards_prediction": 3.73,
+            "cards_verdict": "MEDIO",
+            "note": "teams-only (no referee assigned)"
+          },
+          "home_goals_1h_avg": 0.37,
+          "home_goals_2h_avg": 0.66,
+          "away_goals_1h_avg": 0.65,
+          "away_goals_2h_avg": 0.78
         },
         {
           "date": "2026-09-14",
@@ -1248,7 +1162,7 @@
           "away_goals_2h_avg": 0.68
         }
       ],
-      "total": 22
+      "total": 20
     },
     "FL1": {
       "competition": "Ligue 1",
@@ -1742,40 +1656,6 @@
       "competition": "Primeira Liga",
       "fixtures": [
         {
-          "date": "2026-08-31",
-          "time": "19:15",
-          "home": "SL Benfica",
-          "away": "Estoril Praia",
-          "matchday": 4,
-          "cards_analysis": {
-            "team_cards_avg": 5.17,
-            "blended_cards_prediction": 5.17,
-            "cards_verdict": "MUY ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 1.33,
-          "home_goals_2h_avg": 0.33,
-          "away_goals_1h_avg": 0.0,
-          "away_goals_2h_avg": 1.0
-        },
-        {
-          "date": "2026-08-31",
-          "time": "19:15",
-          "home": "Braga",
-          "away": "Vitória SC",
-          "matchday": 4,
-          "cards_analysis": {
-            "team_cards_avg": 4.83,
-            "blended_cards_prediction": 4.83,
-            "cards_verdict": "ALTO",
-            "note": "teams-only (no referee assigned)"
-          },
-          "home_goals_1h_avg": 0.67,
-          "home_goals_2h_avg": 0.67,
-          "away_goals_1h_avg": 0.0,
-          "away_goals_2h_avg": 0.33
-        },
-        {
           "date": "2026-09-04",
           "time": "19:15",
           "home": "Porto",
@@ -2068,7 +1948,7 @@
           "away_goals_2h_avg": 0.67
         }
       ],
-      "total": 22
+      "total": 20
     },
     "EL": {
       "competition": "Europa League",
