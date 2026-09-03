@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-27 to 2026-09-03",
-    "count": 12,
+    "count": 13,
     "matches": [
       {
         "id": 564636,
@@ -231,6 +231,30 @@
         "ht_away": 1,
         "winner": "HOME_TEAM",
         "referees": []
+      },
+      {
+        "id": 564682,
+        "matchday": 6,
+        "date": "2026-09-03",
+        "time": "19:00",
+        "status": "FINISHED",
+        "home_team": "Real Sociedad de Fútbol",
+        "home_short": "Real Sociedad",
+        "home_tla": "RSO",
+        "away_team": "RC Celta de Vigo",
+        "away_short": "Celta",
+        "away_tla": "CEL",
+        "ft_home": 0,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Víctor García Verdura",
+            "nationality": "Spain"
+          }
+        ]
       }
     ]
   },
@@ -954,7 +978,7 @@
   "FL1": {
     "competition": "Ligue 1",
     "date_range": "2026-08-27 to 2026-09-03",
-    "count": 9,
+    "count": 10,
     "matches": [
       {
         "id": 559702,
@@ -1168,6 +1192,30 @@
         "referees": [
           {
             "name": "Willy Delajod",
+            "nationality": "France"
+          }
+        ]
+      },
+      {
+        "id": 559696,
+        "matchday": 3,
+        "date": "2026-09-03",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "Toulouse FC",
+        "home_short": "Toulouse",
+        "home_tla": "TOU",
+        "away_team": "Lille OSC",
+        "away_short": "Lille",
+        "away_tla": "LIL",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Mathieu Vernice",
             "nationality": "France"
           }
         ]
