@@ -334,235 +334,14 @@
   "BL1": {
     "competition": "Bundesliga",
     "date_range": "2026-09-04 to 2026-09-18",
-    "count": 19,
-    "fixtures": [
-      {
-        "id": 565791,
-        "matchday": 2,
-        "date": "2026-09-04",
-        "time": "18:30",
-        "home_team": "VfB Stuttgart",
-        "home_short": "Stuttgart",
-        "away_team": "1. FC Köln",
-        "away_short": "1. FC Köln",
-        "referees": []
-      },
-      {
-        "id": 565785,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "13:30",
-        "home_team": "SV Werder Bremen",
-        "home_short": "Bremen",
-        "away_team": "RB Leipzig",
-        "away_short": "RB Leipzig",
-        "referees": []
-      },
-      {
-        "id": 565787,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "13:30",
-        "home_team": "TSG 1899 Hoffenheim",
-        "home_short": "Hoffenheim",
-        "away_team": "Borussia Dortmund",
-        "away_short": "Dortmund",
-        "referees": []
-      },
-      {
-        "id": 565790,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "13:30",
-        "home_team": "Bayer 04 Leverkusen",
-        "home_short": "Leverkusen",
-        "away_team": "1. FC Union Berlin",
-        "away_short": "Union Berlin",
-        "referees": []
-      },
-      {
-        "id": 565792,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "13:30",
-        "home_team": "Borussia Mönchengladbach",
-        "home_short": "M'gladbach",
-        "away_team": "SV 07 Elversberg",
-        "away_short": "Elversberg",
-        "referees": []
-      },
-      {
-        "id": 565793,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "13:30",
-        "home_team": "SC Paderborn 07",
-        "home_short": "SC Paderborn",
-        "away_team": "SC Freiburg",
-        "away_short": "Freiburg",
-        "referees": []
-      },
-      {
-        "id": 565789,
-        "matchday": 2,
-        "date": "2026-09-05",
-        "time": "16:30",
-        "home_team": "FC Schalke 04",
-        "home_short": "Schalke",
-        "away_team": "FC Bayern München",
-        "away_short": "Bayern",
-        "referees": []
-      },
-      {
-        "id": 565788,
-        "matchday": 2,
-        "date": "2026-09-06",
-        "time": "13:30",
-        "home_team": "Hamburger SV",
-        "home_short": "HSV",
-        "away_team": "1. FSV Mainz 05",
-        "away_short": "Mainz",
-        "referees": []
-      },
-      {
-        "id": 565786,
-        "matchday": 2,
-        "date": "2026-09-06",
-        "time": "15:30",
-        "home_team": "Eintracht Frankfurt",
-        "home_short": "Frankfurt",
-        "away_team": "FC Augsburg",
-        "away_short": "Augsburg",
-        "referees": []
-      },
-      {
-        "id": 565797,
-        "matchday": 3,
-        "date": "2026-09-11",
-        "time": "18:30",
-        "home_team": "1. FC Union Berlin",
-        "home_short": "Union Berlin",
-        "away_team": "FC Schalke 04",
-        "away_short": "Schalke",
-        "referees": []
-      },
-      {
-        "id": 565794,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "13:30",
-        "home_team": "TSG 1899 Hoffenheim",
-        "home_short": "Hoffenheim",
-        "away_team": "VfB Stuttgart",
-        "away_short": "Stuttgart",
-        "referees": []
-      },
-      {
-        "id": 565795,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "13:30",
-        "home_team": "Borussia Dortmund",
-        "home_short": "Dortmund",
-        "away_team": "SC Paderborn 07",
-        "away_short": "SC Paderborn",
-        "referees": []
-      },
-      {
-        "id": 565796,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "13:30",
-        "home_team": "FC Augsburg",
-        "home_short": "Augsburg",
-        "away_team": "Bayer 04 Leverkusen",
-        "away_short": "Leverkusen",
-        "referees": []
-      },
-      {
-        "id": 565801,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "13:30",
-        "home_team": "1. FSV Mainz 05",
-        "home_short": "Mainz",
-        "away_team": "Eintracht Frankfurt",
-        "away_short": "Frankfurt",
-        "referees": []
-      },
-      {
-        "id": 565802,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "13:30",
-        "home_team": "SC Freiburg",
-        "home_short": "Freiburg",
-        "away_team": "Borussia Mönchengladbach",
-        "away_short": "M'gladbach",
-        "referees": []
-      },
-      {
-        "id": 565798,
-        "matchday": 3,
-        "date": "2026-09-12",
-        "time": "16:30",
-        "home_team": "1. FC Köln",
-        "home_short": "1. FC Köln",
-        "away_team": "SV Werder Bremen",
-        "away_short": "Bremen",
-        "referees": []
-      },
-      {
-        "id": 565799,
-        "matchday": 3,
-        "date": "2026-09-13",
-        "time": "13:30",
-        "home_team": "RB Leipzig",
-        "home_short": "RB Leipzig",
-        "away_team": "Hamburger SV",
-        "away_short": "HSV",
-        "referees": []
-      },
-      {
-        "id": 565800,
-        "matchday": 3,
-        "date": "2026-09-13",
-        "time": "15:30",
-        "home_team": "SV 07 Elversberg",
-        "home_short": "Elversberg",
-        "away_team": "FC Bayern München",
-        "away_short": "Bayern",
-        "referees": []
-      },
-      {
-        "id": 565804,
-        "matchday": 4,
-        "date": "2026-09-18",
-        "time": "18:30",
-        "home_team": "FC Bayern München",
-        "home_short": "Bayern",
-        "away_team": "1. FC Union Berlin",
-        "away_short": "Union Berlin",
-        "referees": []
-      }
-    ]
+    "count": 0,
+    "fixtures": []
   },
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-09-04 to 2026-09-18",
-    "count": 21,
+    "count": 20,
     "fixtures": [
-      {
-        "id": 558609,
-        "matchday": 3,
-        "date": "2026-09-04",
-        "time": "18:45",
-        "home_team": "Genoa CFC",
-        "home_short": "Genoa",
-        "away_team": "Como 1907",
-        "away_short": "Como 1907",
-        "referees": []
-      },
       {
         "id": 558616,
         "matchday": 3,
@@ -788,207 +567,8 @@
   "FL1": {
     "competition": "Ligue 1",
     "date_range": "2026-09-04 to 2026-09-18",
-    "count": 18,
-    "fixtures": [
-      {
-        "id": 559699,
-        "matchday": 3,
-        "date": "2026-09-04",
-        "time": "17:00",
-        "home_team": "Olympique Lyonnais",
-        "home_short": "Olympique Lyon",
-        "away_team": "AJ Auxerre",
-        "away_short": "Auxerre",
-        "referees": []
-      },
-      {
-        "id": 559697,
-        "matchday": 3,
-        "date": "2026-09-04",
-        "time": "19:05",
-        "home_team": "Paris Saint-Germain FC",
-        "home_short": "PSG",
-        "away_team": "AS Monaco FC",
-        "away_short": "Monaco",
-        "referees": []
-      },
-      {
-        "id": 559695,
-        "matchday": 3,
-        "date": "2026-09-05",
-        "time": "15:15",
-        "home_team": "Racing Club de Lens",
-        "home_short": "RC Lens",
-        "away_team": "FC Lorient",
-        "away_short": "Lorient",
-        "referees": []
-      },
-      {
-        "id": 559693,
-        "matchday": 3,
-        "date": "2026-09-05",
-        "time": "18:45",
-        "home_team": "Le Havre AC",
-        "home_short": "Le Havre",
-        "away_team": "Stade Brestois 29",
-        "away_short": "Brest",
-        "referees": []
-      },
-      {
-        "id": 559701,
-        "matchday": 3,
-        "date": "2026-09-05",
-        "time": "18:45",
-        "home_team": "OGC Nice",
-        "home_short": "Nice",
-        "away_team": "Le Mans FC",
-        "away_short": "Le Mans",
-        "referees": []
-      },
-      {
-        "id": 559700,
-        "matchday": 3,
-        "date": "2026-09-06",
-        "time": "13:00",
-        "home_team": "ES Troyes AC",
-        "home_short": "Troyes",
-        "away_team": "RC Strasbourg Alsace",
-        "away_short": "Strasbourg",
-        "referees": []
-      },
-      {
-        "id": 559698,
-        "matchday": 3,
-        "date": "2026-09-06",
-        "time": "15:15",
-        "home_team": "Angers SCO",
-        "home_short": "Angers SCO",
-        "away_team": "Stade Rennais FC 1901",
-        "away_short": "Stade Rennais",
-        "referees": []
-      },
-      {
-        "id": 559694,
-        "matchday": 3,
-        "date": "2026-09-06",
-        "time": "18:45",
-        "home_team": "Olympique de Marseille",
-        "home_short": "Marseille",
-        "away_team": "Paris FC",
-        "away_short": "Paris FC",
-        "referees": []
-      },
-      {
-        "id": 559689,
-        "matchday": 4,
-        "date": "2026-09-11",
-        "time": "18:45",
-        "home_team": "Stade Rennais FC 1901",
-        "home_short": "Stade Rennais",
-        "away_team": "Olympique de Marseille",
-        "away_short": "Marseille",
-        "referees": []
-      },
-      {
-        "id": 559687,
-        "matchday": 4,
-        "date": "2026-09-12",
-        "time": "15:15",
-        "home_team": "RC Strasbourg Alsace",
-        "home_short": "Strasbourg",
-        "away_team": "AS Monaco FC",
-        "away_short": "Monaco",
-        "referees": []
-      },
-      {
-        "id": 559684,
-        "matchday": 4,
-        "date": "2026-09-12",
-        "time": "18:45",
-        "home_team": "FC Lorient",
-        "home_short": "Lorient",
-        "away_team": "Toulouse FC",
-        "away_short": "Toulouse",
-        "referees": []
-      },
-      {
-        "id": 559688,
-        "matchday": 4,
-        "date": "2026-09-12",
-        "time": "18:45",
-        "home_team": "AJ Auxerre",
-        "home_short": "Auxerre",
-        "away_team": "OGC Nice",
-        "away_short": "Nice",
-        "referees": []
-      },
-      {
-        "id": 559690,
-        "matchday": 4,
-        "date": "2026-09-12",
-        "time": "18:45",
-        "home_team": "Le Havre AC",
-        "home_short": "Le Havre",
-        "away_team": "Angers SCO",
-        "away_short": "Angers SCO",
-        "referees": []
-      },
-      {
-        "id": 559692,
-        "matchday": 4,
-        "date": "2026-09-12",
-        "time": "18:45",
-        "home_team": "Paris FC",
-        "home_short": "Paris FC",
-        "away_team": "Olympique Lyonnais",
-        "away_short": "Olympique Lyon",
-        "referees": []
-      },
-      {
-        "id": 559685,
-        "matchday": 4,
-        "date": "2026-09-13",
-        "time": "13:00",
-        "home_team": "Lille OSC",
-        "home_short": "Lille",
-        "away_team": "ES Troyes AC",
-        "away_short": "Troyes",
-        "referees": []
-      },
-      {
-        "id": 559686,
-        "matchday": 4,
-        "date": "2026-09-13",
-        "time": "15:15",
-        "home_team": "Le Mans FC",
-        "home_short": "Le Mans",
-        "away_team": "Racing Club de Lens",
-        "away_short": "RC Lens",
-        "referees": []
-      },
-      {
-        "id": 559691,
-        "matchday": 4,
-        "date": "2026-09-13",
-        "time": "18:45",
-        "home_team": "Stade Brestois 29",
-        "home_short": "Brest",
-        "away_team": "Paris Saint-Germain FC",
-        "away_short": "PSG",
-        "referees": []
-      },
-      {
-        "id": 559682,
-        "matchday": 5,
-        "date": "2026-09-18",
-        "time": "18:45",
-        "home_team": "AS Monaco FC",
-        "home_short": "Monaco",
-        "away_team": "Racing Club de Lens",
-        "away_short": "RC Lens",
-        "referees": []
-      }
-    ]
+    "count": 0,
+    "fixtures": []
   },
   "CL": {
     "competition": "Champions League",
@@ -1198,19 +778,8 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-09-04 to 2026-09-18",
-    "count": 20,
+    "count": 19,
     "fixtures": [
-      {
-        "id": 567299,
-        "matchday": 5,
-        "date": "2026-09-04",
-        "time": "19:15",
-        "home_team": "FC Porto",
-        "home_short": "Porto",
-        "away_team": "Moreirense FC",
-        "away_short": "Moreirense",
-        "referees": []
-      },
       {
         "id": 567297,
         "matchday": 5,
@@ -1322,54 +891,10 @@
         "referees": []
       },
       {
-        "id": 567302,
-        "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
-        "home_team": "Moreirense FC",
-        "home_short": "Moreirense",
-        "away_team": "CS Marítimo",
-        "away_short": "Marítimo",
-        "referees": []
-      },
-      {
-        "id": 567303,
-        "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
-        "home_team": "Rio Ave FC",
-        "home_short": "Rio Ave",
-        "away_team": "CF Estrela da Amadora",
-        "away_short": "Amadora",
-        "referees": []
-      },
-      {
-        "id": 567304,
-        "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
-        "home_team": "Sport Lisboa e Benfica",
-        "home_short": "SL Benfica",
-        "away_team": "Gil Vicente FC",
-        "away_short": "Gil Vicente",
-        "referees": []
-      },
-      {
-        "id": 567305,
-        "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
-        "home_team": "FC Famalicão",
-        "home_short": "Famalicão",
-        "away_team": "Sporting Clube de Portugal",
-        "away_short": "Sporting CP",
-        "referees": []
-      },
-      {
         "id": 567306,
         "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
+        "date": "2026-09-12",
+        "time": "14:30",
         "home_team": "CD Nacional",
         "home_short": "CD Nacional",
         "away_team": "FC Alverca",
@@ -1379,8 +904,8 @@
       {
         "id": 567307,
         "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
+        "date": "2026-09-12",
+        "time": "17:00",
         "home_team": "Casa Pia AC",
         "home_short": "Casa Pia",
         "away_team": "FC Porto",
@@ -1388,21 +913,10 @@
         "referees": []
       },
       {
-        "id": 567308,
-        "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
-        "home_team": "Sporting Clube de Braga",
-        "home_short": "Braga",
-        "away_team": "GD Estoril Praia",
-        "away_short": "Estoril Praia",
-        "referees": []
-      },
-      {
         "id": 567309,
         "matchday": 6,
-        "date": "2026-09-13",
-        "time": "00:00",
+        "date": "2026-09-12",
+        "time": "19:30",
         "home_team": "Académico de Viseu FC",
         "home_short": "Acad. Viseu",
         "away_team": "Vitória SC",
@@ -1410,14 +924,69 @@
         "referees": []
       },
       {
+        "id": 567304,
+        "matchday": 6,
+        "date": "2026-09-13",
+        "time": "17:00",
+        "home_team": "Sport Lisboa e Benfica",
+        "home_short": "SL Benfica",
+        "away_team": "Gil Vicente FC",
+        "away_short": "Gil Vicente",
+        "referees": []
+      },
+      {
         "id": 567310,
         "matchday": 6,
         "date": "2026-09-13",
-        "time": "00:00",
+        "time": "17:00",
         "home_team": "FC Arouca",
         "home_short": "Arouca",
         "away_team": "CD Santa Clara",
         "away_short": "Santa Clara",
+        "referees": []
+      },
+      {
+        "id": 567305,
+        "matchday": 6,
+        "date": "2026-09-13",
+        "time": "19:30",
+        "home_team": "FC Famalicão",
+        "home_short": "Famalicão",
+        "away_team": "Sporting Clube de Portugal",
+        "away_short": "Sporting CP",
+        "referees": []
+      },
+      {
+        "id": 567303,
+        "matchday": 6,
+        "date": "2026-09-14",
+        "time": "17:45",
+        "home_team": "Rio Ave FC",
+        "home_short": "Rio Ave",
+        "away_team": "CF Estrela da Amadora",
+        "away_short": "Amadora",
+        "referees": []
+      },
+      {
+        "id": 567302,
+        "matchday": 6,
+        "date": "2026-09-14",
+        "time": "19:15",
+        "home_team": "Moreirense FC",
+        "home_short": "Moreirense",
+        "away_team": "CS Marítimo",
+        "away_short": "Marítimo",
+        "referees": []
+      },
+      {
+        "id": 567308,
+        "matchday": 6,
+        "date": "2026-09-14",
+        "time": "19:45",
+        "home_team": "Sporting Clube de Braga",
+        "home_short": "Braga",
+        "away_team": "GD Estoril Praia",
+        "away_short": "Estoril Praia",
         "referees": []
       }
     ]

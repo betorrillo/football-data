@@ -195,25 +195,25 @@
         "referees": []
       },
       {
-        "id": 564682,
-        "matchday": 6,
-        "date": "2026-09-03",
+        "id": 564667,
+        "matchday": 4,
+        "date": "2026-09-04",
         "time": "19:00",
         "status": "FINISHED",
-        "home_team": "Real Sociedad de Fútbol",
-        "home_short": "Real Sociedad",
-        "home_tla": "RSO",
-        "away_team": "RC Celta de Vigo",
-        "away_short": "Celta",
-        "away_tla": "CEL",
-        "ft_home": 0,
-        "ft_away": 0,
+        "home_team": "Real Betis Balompié",
+        "home_short": "Real Betis",
+        "home_tla": "BET",
+        "away_team": "Real Madrid CF",
+        "away_short": "Real Madrid",
+        "away_tla": "RMA",
+        "ft_home": 1,
+        "ft_away": 1,
         "ht_home": 0,
         "ht_away": 0,
         "winner": "DRAW",
         "referees": [
           {
-            "name": "Víctor García Verdura",
+            "name": "Alejandro Hernández Hernández",
             "nationality": "Spain"
           }
         ]
@@ -223,7 +223,7 @@
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-08-28 to 2026-09-04",
-    "count": 10,
+    "count": 11,
     "matches": [
       {
         "id": 560555,
@@ -464,13 +464,37 @@
             "nationality": "England"
           }
         ]
+      },
+      {
+        "id": 560566,
+        "matchday": 3,
+        "date": "2026-09-04",
+        "time": "19:00",
+        "status": "FINISHED",
+        "home_team": "Ipswich Town FC",
+        "home_short": "Ipswich Town",
+        "home_tla": "IPS",
+        "away_team": "Liverpool FC",
+        "away_short": "Liverpool",
+        "away_tla": "LIV",
+        "ft_home": 0,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 2,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Darren England",
+            "nationality": "England"
+          }
+        ]
       }
     ]
   },
   "BL1": {
     "competition": "Bundesliga",
     "date_range": "2026-08-28 to 2026-09-04",
-    "count": 9,
+    "count": 10,
     "matches": [
       {
         "id": 565776,
@@ -687,13 +711,37 @@
             "nationality": "Germany"
           }
         ]
+      },
+      {
+        "id": 565791,
+        "matchday": 2,
+        "date": "2026-09-04",
+        "time": "18:30",
+        "status": "FINISHED",
+        "home_team": "VfB Stuttgart",
+        "home_short": "Stuttgart",
+        "home_tla": "VFB",
+        "away_team": "1. FC Köln",
+        "away_short": "1. FC Köln",
+        "away_tla": "KOE",
+        "ft_home": 4,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Christian Dingert",
+            "nationality": "Germany"
+          }
+        ]
       }
     ]
   },
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-08-28 to 2026-09-04",
-    "count": 10,
+    "count": 11,
     "matches": [
       {
         "id": 558625,
@@ -934,13 +982,37 @@
             "nationality": "Italy"
           }
         ]
+      },
+      {
+        "id": 558609,
+        "matchday": 3,
+        "date": "2026-09-04",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "Genoa CFC",
+        "home_short": "Genoa",
+        "home_tla": "GEN",
+        "away_team": "Como 1907",
+        "away_short": "Como 1907",
+        "away_tla": "COM",
+        "ft_home": 1,
+        "ft_away": 4,
+        "ht_home": 1,
+        "ht_away": 3,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Marco Guida",
+            "nationality": "Italy"
+          }
+        ]
       }
     ]
   },
   "FL1": {
     "competition": "Ligue 1",
     "date_range": "2026-08-28 to 2026-09-04",
-    "count": 10,
+    "count": 12,
     "matches": [
       {
         "id": 559702,
@@ -1178,6 +1250,54 @@
         "referees": [
           {
             "name": "Mathieu Vernice",
+            "nationality": "France"
+          }
+        ]
+      },
+      {
+        "id": 559699,
+        "matchday": 3,
+        "date": "2026-09-04",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "Olympique Lyonnais",
+        "home_short": "Olympique Lyon",
+        "home_tla": "LYO",
+        "away_team": "AJ Auxerre",
+        "away_short": "Auxerre",
+        "away_tla": "AJA",
+        "ft_home": 3,
+        "ft_away": 1,
+        "ht_home": 2,
+        "ht_away": 1,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Ruddy Buquet",
+            "nationality": "France"
+          }
+        ]
+      },
+      {
+        "id": 559697,
+        "matchday": 3,
+        "date": "2026-09-04",
+        "time": "19:05",
+        "status": "FINISHED",
+        "home_team": "Paris Saint-Germain FC",
+        "home_short": "PSG",
+        "home_tla": "PSG",
+        "away_team": "AS Monaco FC",
+        "away_short": "Monaco",
+        "away_tla": "ASM",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Jérôme Brisard",
             "nationality": "France"
           }
         ]
