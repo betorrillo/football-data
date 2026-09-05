@@ -2,7 +2,7 @@
   "PD": {
     "competition": "LaLiga",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 10,
+    "count": 12,
     "matches": [
       {
         "id": 564655,
@@ -203,13 +203,61 @@
             "nationality": "Spain"
           }
         ]
+      },
+      {
+        "id": 564663,
+        "matchday": 4,
+        "date": "2026-09-05",
+        "time": "14:15",
+        "status": "FINISHED",
+        "home_team": "Athletic Club",
+        "home_short": "Athletic",
+        "home_tla": "ATH",
+        "away_team": "Club Atlético de Madrid",
+        "away_short": "Atleti",
+        "away_tla": "ATL",
+        "ft_home": 3,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "José Munuera Montero",
+            "nationality": "Spain"
+          }
+        ]
+      },
+      {
+        "id": 564660,
+        "matchday": 4,
+        "date": "2026-09-05",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "Rayo Vallecano de Madrid",
+        "home_short": "Rayo Vallecano",
+        "home_tla": "RAY",
+        "away_team": "Real Racing Club de Santander",
+        "away_short": "Santander",
+        "away_tla": "SAN",
+        "ft_home": 3,
+        "ft_away": 2,
+        "ht_home": 2,
+        "ht_away": 2,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Alejandro Quintero González",
+            "nationality": "Spain"
+          }
+        ]
       }
     ]
   },
   "PL": {
     "competition": "Premier League",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 10,
+    "count": 17,
     "matches": [
       {
         "id": 560552,
@@ -450,13 +498,181 @@
             "nationality": "England"
           }
         ]
+      },
+      {
+        "id": 560571,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "11:30",
+        "status": "FINISHED",
+        "home_team": "Newcastle United FC",
+        "home_short": "Newcastle",
+        "home_tla": "NEW",
+        "away_team": "AFC Bournemouth",
+        "away_short": "Bournemouth",
+        "away_tla": "BOU",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 2,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Robert Jones",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560562,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Nottingham Forest FC",
+        "home_short": "Nottingham",
+        "home_tla": "NOT",
+        "away_team": "Tottenham Hotspur FC",
+        "away_short": "Tottenham",
+        "away_tla": "TOT",
+        "ft_home": 0,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Craig Pawson",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560563,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Manchester City FC",
+        "home_short": "Man City",
+        "home_tla": "MCI",
+        "away_team": "Coventry City FC",
+        "away_short": "Coventry City",
+        "away_tla": "COV",
+        "ft_home": 1,
+        "ft_away": 0,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Paul Tierney",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560564,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Brighton & Hove Albion FC",
+        "home_short": "Brighton Hove",
+        "home_tla": "BHA",
+        "away_team": "Leeds United FC",
+        "away_short": "Leeds United",
+        "away_tla": "LEE",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Stuart Attwell",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560565,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Brentford FC",
+        "home_short": "Brentford",
+        "home_tla": "BRE",
+        "away_team": "Sunderland AFC",
+        "away_short": "Sunderland",
+        "away_tla": "SUN",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Thomas Bramall",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560568,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "14:00",
+        "status": "FINISHED",
+        "home_team": "Fulham FC",
+        "home_short": "Fulham",
+        "home_tla": "FUL",
+        "away_team": "Crystal Palace FC",
+        "away_short": "Crystal Palace",
+        "away_tla": "CRY",
+        "ft_home": 2,
+        "ft_away": 3,
+        "ht_home": 2,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Sam Barrott",
+            "nationality": "England"
+          }
+        ]
+      },
+      {
+        "id": 560569,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "Hull City AFC",
+        "home_short": "Hull City",
+        "home_tla": "HUL",
+        "away_team": "Aston Villa FC",
+        "away_short": "Aston Villa",
+        "away_tla": "AVL",
+        "ft_home": 0,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Michael Oliver",
+            "nationality": "England"
+          }
+        ]
       }
     ]
   },
   "BL1": {
     "competition": "Bundesliga",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 9,
+    "count": 15,
     "matches": [
       {
         "id": 565777,
@@ -673,13 +889,161 @@
             "nationality": "Germany"
           }
         ]
+      },
+      {
+        "id": 565785,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "SV Werder Bremen",
+        "home_short": "Bremen",
+        "home_tla": "SVW",
+        "away_team": "RB Leipzig",
+        "away_short": "RB Leipzig",
+        "away_tla": "RBL",
+        "ft_home": 3,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Benjamin Brand",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 565787,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "TSG 1899 Hoffenheim",
+        "home_short": "Hoffenheim",
+        "home_tla": "TSG",
+        "away_team": "Borussia Dortmund",
+        "away_short": "Dortmund",
+        "away_tla": "BVB",
+        "ft_home": 2,
+        "ft_away": 3,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Matthias Jöllenbeck",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 565790,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "Bayer 04 Leverkusen",
+        "home_short": "Leverkusen",
+        "home_tla": "B04",
+        "away_team": "1. FC Union Berlin",
+        "away_short": "Union Berlin",
+        "away_tla": "UNB",
+        "ft_home": 4,
+        "ft_away": 0,
+        "ht_home": 2,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Benjamin Brand",
+            "nationality": "Germany"
+          },
+          {
+            "name": "Robin Braun",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 565792,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "Borussia Mönchengladbach",
+        "home_short": "M'gladbach",
+        "home_tla": "BMG",
+        "away_team": "SV 07 Elversberg",
+        "away_short": "Elversberg",
+        "away_tla": "ELV",
+        "ft_home": 3,
+        "ft_away": 4,
+        "ht_home": 2,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Martin Petersen",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 565793,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "13:30",
+        "status": "FINISHED",
+        "home_team": "SC Paderborn 07",
+        "home_short": "SC Paderborn",
+        "home_tla": "SCP",
+        "away_team": "SC Freiburg",
+        "away_short": "Freiburg",
+        "away_tla": "SCF",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Max Burda",
+            "nationality": "Germany"
+          }
+        ]
+      },
+      {
+        "id": 565789,
+        "matchday": 2,
+        "date": "2026-09-05",
+        "time": "16:30",
+        "status": "FINISHED",
+        "home_team": "FC Schalke 04",
+        "home_short": "Schalke",
+        "home_tla": "S04",
+        "away_team": "FC Bayern München",
+        "away_short": "Bayern",
+        "away_tla": "FCB",
+        "ft_home": 0,
+        "ft_away": 0,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Robert Schröder",
+            "nationality": "Germany"
+          }
+        ]
       }
     ]
   },
   "SA": {
     "competition": "Serie A",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 10,
+    "count": 13,
     "matches": [
       {
         "id": 558620,
@@ -920,13 +1284,85 @@
             "nationality": "Italy"
           }
         ]
+      },
+      {
+        "id": 558616,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "13:00",
+        "status": "FINISHED",
+        "home_team": "ACF Fiorentina",
+        "home_short": "Fiorentina",
+        "home_tla": "FIO",
+        "away_team": "Torino FC",
+        "away_short": "Torino",
+        "away_tla": "TOR",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Davide Massa",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 558614,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "16:00",
+        "status": "FINISHED",
+        "home_team": "FC Internazionale Milano",
+        "home_short": "Inter",
+        "home_tla": "INT",
+        "away_team": "SSC Napoli",
+        "away_short": "Napoli",
+        "away_tla": "NAP",
+        "ft_home": 3,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Simone Sozza",
+            "nationality": "Italy"
+          }
+        ]
+      },
+      {
+        "id": 558611,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "AS Roma",
+        "home_short": "Roma",
+        "home_tla": "ROM",
+        "away_team": "Atalanta BC",
+        "away_short": "Atalanta",
+        "away_tla": "ATA",
+        "ft_home": 2,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "HOME_TEAM",
+        "referees": [
+          {
+            "name": "Andrea Colombo",
+            "nationality": "Italy"
+          }
+        ]
       }
     ]
   },
   "FL1": {
     "competition": "Ligue 1",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 11,
+    "count": 14,
     "matches": [
       {
         "id": 559704,
@@ -1191,6 +1627,78 @@
             "nationality": "France"
           }
         ]
+      },
+      {
+        "id": 559695,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "15:15",
+        "status": "FINISHED",
+        "home_team": "Racing Club de Lens",
+        "home_short": "RC Lens",
+        "home_tla": "RCL",
+        "away_team": "FC Lorient",
+        "away_short": "Lorient",
+        "away_tla": "FCL",
+        "ft_home": 0,
+        "ft_away": 1,
+        "ht_home": 0,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Eric Wattellier",
+            "nationality": "France"
+          }
+        ]
+      },
+      {
+        "id": 559693,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "Le Havre AC",
+        "home_short": "Le Havre",
+        "home_tla": "HAC",
+        "away_team": "Stade Brestois 29",
+        "away_short": "Brest",
+        "away_tla": "BRE",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Marc Bollengier",
+            "nationality": "France"
+          }
+        ]
+      },
+      {
+        "id": 559701,
+        "matchday": 3,
+        "date": "2026-09-05",
+        "time": "18:45",
+        "status": "FINISHED",
+        "home_team": "OGC Nice",
+        "home_short": "Nice",
+        "home_tla": "NIC",
+        "away_team": "Le Mans FC",
+        "away_short": "Le Mans",
+        "away_tla": "LMF",
+        "ft_home": 1,
+        "ft_away": 1,
+        "ht_home": 1,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Jérémie Pignard",
+            "nationality": "France"
+          }
+        ]
       }
     ]
   },
@@ -1203,7 +1711,7 @@
   "PPL": {
     "competition": "Primeira Liga",
     "date_range": "2026-08-29 to 2026-09-05",
-    "count": 9,
+    "count": 12,
     "matches": [
       {
         "id": 567285,
@@ -1412,6 +1920,78 @@
         "referees": [
           {
             "name": "António Nobre",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567297,
+        "matchday": 5,
+        "date": "2026-09-05",
+        "time": "14:30",
+        "status": "FINISHED",
+        "home_team": "CF Estrela da Amadora",
+        "home_short": "Amadora",
+        "home_tla": "AMA",
+        "away_team": "FC Famalicão",
+        "away_short": "Famalicão",
+        "away_tla": "FAM",
+        "ft_home": 2,
+        "ft_away": 2,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "DRAW",
+        "referees": [
+          {
+            "name": "Vitor Ferreira",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567296,
+        "matchday": 5,
+        "date": "2026-09-05",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "FC Alverca",
+        "home_short": "Alverca",
+        "home_tla": "ALV",
+        "away_team": "Sporting Clube de Braga",
+        "away_short": "Braga",
+        "away_tla": "SCB",
+        "ft_home": 1,
+        "ft_away": 2,
+        "ht_home": 1,
+        "ht_away": 0,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Luís Godinho",
+            "nationality": "Portugal"
+          }
+        ]
+      },
+      {
+        "id": 567293,
+        "matchday": 5,
+        "date": "2026-09-05",
+        "time": "17:00",
+        "status": "FINISHED",
+        "home_team": "CS Marítimo",
+        "home_short": "Marítimo",
+        "home_tla": "CSM",
+        "away_team": "Sport Lisboa e Benfica",
+        "away_short": "SL Benfica",
+        "away_tla": "BEN",
+        "ft_home": 0,
+        "ft_away": 3,
+        "ht_home": 0,
+        "ht_away": 1,
+        "winner": "AWAY_TEAM",
+        "referees": [
+          {
+            "name": "Sérgio Guelho",
             "nationality": "Portugal"
           }
         ]

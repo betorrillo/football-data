@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-09-05T11:10:30Z",
+  "server_time_utc": "2026-09-05T20:57:17Z",
   "manifest_version": "4.2",
   "analysis_pack": "analysis_pack_2026-09-05.json",
   "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-09-05.json",
-  "total_data_files": 901,
+  "total_data_files": 902,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -38,7 +38,7 @@
   "fixtures_window": {
     "from": "2026-05-09",
     "to": "2026-09-19",
-    "total_matches": 86
+    "total_matches": 82
   },
   "matches_summary": [
     {
@@ -577,58 +577,6 @@
       "date": "2026-05-12",
       "time": "21:30 CET",
       "missing": [
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_amadora-vs-famalic-o",
-      "competition": "portugal",
-      "home": "Amadora",
-      "away": "Famalic\u00e3o",
-      "date": "2026-09-05",
-      "time": "14:30",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_alverca-vs-braga",
-      "competition": "portugal",
-      "home": "Alverca",
-      "away": "Braga",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_maritimo-vs-sl-benfica",
-      "competition": "portugal",
-      "home": "Mar\u00edtimo",
-      "away": "SL Benfica",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "missing": [
-        "xg",
-        "referee",
-        "injuries"
-      ]
-    },
-    {
-      "match_id": "portugal_2026-09-05_sporting-cp-vs-cd-nacional",
-      "competition": "portugal",
-      "home": "Sporting CP",
-      "away": "CD Nacional",
-      "date": "2026-09-05",
-      "time": "19:30",
-      "missing": [
-        "xg",
         "referee",
         "injuries"
       ]
