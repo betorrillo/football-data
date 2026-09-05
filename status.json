@@ -1,9 +1,9 @@
 {
-  "server_time_utc": "2026-09-04T21:16:33Z",
+  "server_time_utc": "2026-09-05T11:10:30Z",
   "manifest_version": "4.2",
-  "analysis_pack": "analysis_pack_2026-09-04.json",
-  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-09-04.json",
-  "total_data_files": 897,
+  "analysis_pack": "analysis_pack_2026-09-05.json",
+  "analysis_pack_url": "https://raw.githubusercontent.com/betorrillo/football-data/main/analysis_pack_2026-09-05.json",
+  "total_data_files": 901,
   "data_directories": {
     "matches": {
       "files": 32,
@@ -37,8 +37,8 @@
   "quick_start": "Read analysis_pack_{date}.json for ALL pre-computed data for upcoming fixtures. It contains season stats, form, H2H, xG, and more for every match in the next 72h. You only need this ONE file for analysis.",
   "fixtures_window": {
     "from": "2026-05-09",
-    "to": "2026-09-14",
-    "total_matches": 82
+    "to": "2026-09-19",
+    "total_matches": 86
   },
   "matches_summary": [
     {
@@ -1056,6 +1056,58 @@
       "away": "Estoril Praia",
       "date": "2026-09-14",
       "time": "19:45",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-19_cd-nacional-vs-famalic-o",
+      "competition": "portugal",
+      "home": "CD Nacional",
+      "away": "Famalic\u00e3o",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-19_gil-vicente-vs-maritimo",
+      "competition": "portugal",
+      "home": "Gil Vicente",
+      "away": "Mar\u00edtimo",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-19_alverca-vs-rio-ave",
+      "competition": "portugal",
+      "home": "Alverca",
+      "away": "Rio Ave",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "missing": [
+        "xg",
+        "referee",
+        "injuries"
+      ]
+    },
+    {
+      "match_id": "portugal_2026-09-19_sporting-cp-vs-arouca",
+      "competition": "portugal",
+      "home": "Sporting CP",
+      "away": "Arouca",
+      "date": "2026-09-19",
+      "time": "19:30",
       "missing": [
         "xg",
         "referee",
